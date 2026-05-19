@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-lours-barbu",
+  "nom": "Brasserie de l'Ours Barbu",
+  "cp": "38500",
+  "ville": "Voiron",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedfde09c17d1091bd253_86192772_125227975679402_4453043773487710208_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-frogbeer",
+  "nom": "Brasserie FrogBeer",
+  "cp": "93380",
+  "ville": "PIERREFITTE-SUR-SEINE",
+  "region": "ile-de-france",
+  "departement": "seine-saint-denis-93",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368a3e621856cdc76a38d_brewery-in-the-cellar.jpeg",
+  "website": "http://www.frogpubs.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

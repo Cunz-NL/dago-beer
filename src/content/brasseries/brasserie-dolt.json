@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dolt",
+  "nom": "Brasserie d'Olt",
+  "cp": "12130",
+  "ville": "SAINT GENIEZ      D'OLT",
+  "region": "midi-pyrenees",
+  "departement": "aveyron-12",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67bf4b5603f3475e4f75f_894827_499981200039876_1120035188_o.jpeg",
+  "website": "http://www.brasseriedolt.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

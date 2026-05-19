@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-demory",
+  "nom": "Brasserie Demory",
+  "cp": "93000",
+  "ville": "BOBIGNY",
+  "region": "ile-de-france",
+  "departement": "seine-saint-denis-93",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368453808c915d7623ee7_PBW-5-Inauguration-de-la-Brasserie-Demory-Paris.jpeg",
+  "website": "http://demoryparis.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

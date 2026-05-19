@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-two-dudes",
+  "nom": "Brasserie Two Dudes",
+  "cp": "71700",
+  "ville": "TOURNUS",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d072b9b02d2796817907_our-table-is-laid-among.jpeg",
+  "website": "http://www.twodudes-brasserie.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

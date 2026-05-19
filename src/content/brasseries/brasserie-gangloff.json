@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-gangloff",
+  "nom": "Brasserie Gangloff",
+  "cp": "25000",
+  "ville": "BESANÇON",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605caae582b84b84c2b9d8db_4332145482_73cc8cdea4.jpeg",
+  "website": "http://www.brasserie-gangloff.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

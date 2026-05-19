@@ -1,0 +1,12 @@
+{
+  "slug": "dunav",
+  "nom": "Dunav",
+  "description": "Originaire de l'ex-Yougoslavie, la Dunav a été élevée dans les années 1960 dans l'intention de remplacer la Backa à faible rendement. Cependant, elle n'a jamais vraiment été acceptée commercialement et reste en production limitée en Serbie. Il s'agit d'un croisement triploïde entre la Northern Brewer, la Styrian Golding et un mâle sauvage. Apparentée à Neoplanta et Vojvodina, Dunav a tendance à présenter un taux d'acide alpha variable mais jouit d'une bonne stabilité de stockage.",
+  "aaMin": 5,
+  "aaMax": 10,
+  "baMin": 2.8,
+  "baMax": 4.6,
+  "usage": "Aromatique",
+  "stabilite": "Très bonne : 75",
+  "aromes": []
+}

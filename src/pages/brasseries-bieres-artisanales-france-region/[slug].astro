@@ -1,0 +1,71 @@
+---
+// /brasseries-bieres-artisanales-france-region/[slug]
+// → pages par RÉGION (alsace, bretagne, champagne-ardenne…)
+import Base from '@/layouts/Base.astro';
+import BreweryCard from '@/components/BreweryCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const regions = await getCollection('regions');
+  const brasseries = await getCollection('brasseries');
+
+  return regions.map((region) => {
+    const brasseriesRegion = brasseries.filter(
+      (b) => b.data.region === region.data.slug && b.data.statut !== 'ferme'
+    );
+    return {
+      params: { slug: region.data.slug },
+      props: { region, brasseries: brasseriesRegion },
+    };
+  });
+}
+
+const { region, brasseries } = Astro.props;
+const { nom, description } = region.data;
+---
+
+<Base
+  title={`Brasseries artisanales en ${nom} — Dago Beer`}
+  description={description ?? `Découvrez toutes les brasseries artisanales de ${nom}. Annuaire complet des ${brasseries.length} microbrasseries et breweries craft de la région.`}
+  canonical={`https://www.dago.beer/brasseries-bieres-artisanales-france-region/${region.data.slug}`}
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brasseries', href: '/brasserie-biere-artisanale' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Brasseries artisanales en <span class="text-amber-brand">{nom}</span>
+      </h1>
+      {description && <p class="font-body text-lg text-muted/70 max-w-2xl">{description}</p>}
+      <p class="font-body text-sm text-muted/40 mt-2">
+        {brasseries.length} brasserie{brasseries.length !== 1 ? 's' : ''} référencée{brasseries.length !== 1 ? 's' : ''}
+      </p>
+    </header>
+
+    <CrossSellBanner regionNom={nom} region={region.data.slug} />
+
+    {brasseries.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8">
+        {brasseries.map((b) => (
+          <BreweryCard
+            slug={b.data.slug}
+            nom={b.data.nom}
+            cp={b.data.cp}
+            ville={b.data.ville}
+            region={b.data.region}
+            aBiereSansAlcool={b.data.aBiereSansAlcool}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="font-body text-muted/50 text-center py-16">Aucune brasserie référencée pour cette région.</p>
+    )}
+  </div>
+</Base>

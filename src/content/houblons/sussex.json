@@ -1,0 +1,16 @@
+{
+  "slug": "sussex",
+  "nom": "Sussex",
+  "description": "Le houblon Sussex est une variété naine primée, découverte par Peter Cyster à Northiam, dans l'East Sussex, en 2005. Son utilisation en brasserie permet de découvrir un arôme puissant ainsi que de délicates saveurs tropicales et une grande rétention de la saveur. Elle est considérée comme très fruitée et son arôme unique lui a valu la troisième place dans la catégorie des haies de la British Hop Competition de l'Institute of Brewing and Distilling en 2012. Une analyse menée par Wye Hops Ltd. a conclu que son profil d'huile ne ressemble à celui d'aucune autre variété de houblon. Des essais de brassage ont toutefois comparé sa saveur délicate à celle du Fuggle. Bien qu'il soit classé comme étant plus utile en tant que variété de saveur et d'arôme, lorsqu'il est utilisé comme ajout précoce, il confère une amertume classique et bien équilibrée. La brasserie Harvey's a lancé son brassage Sussex Wild Hop en juillet 2013 avec Sussex comme houblon principal.",
+  "aaMin": 4.3,
+  "aaMax": 5.8,
+  "baMin": 2.4,
+  "baMax": 3.2,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "menthole",
+    "terreux",
+    "vanille"
+  ]
+}

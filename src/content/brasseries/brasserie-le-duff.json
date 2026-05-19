@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-duff",
+  "nom": "Brasserie Le Duff",
+  "cp": "7400",
+  "ville": "LE TEIL",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b3eb321eac600979c961_72097594_2432119963552358_8888196444092104704_n.png",
+  "website": "http://brasserie-leduff.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

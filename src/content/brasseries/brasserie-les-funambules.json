@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-funambules",
+  "nom": "Brasserie Les Funambules",
+  "cp": "73110",
+  "ville": "LA CROIX-DE-LA-ROCHETTE",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b740e68c1aee6ec09df7_Gamme_bouteille_0.33.png",
+  "website": "http://www.microbrasserielesfunambules.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

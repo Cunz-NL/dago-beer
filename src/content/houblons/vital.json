@@ -1,0 +1,14 @@
+{
+  "slug": "vital",
+  "nom": "Vital",
+  "description": "Vital est une nouvelle variété de houblon issue du programme de sélection Zatec en République tchèque. Sa teneur élevée en acides alpha et bêta lui confère un arôme de houblon épicé. À ce jour, Vital a été utilisé avec succès dans des ales pâles à un seul houblon, bien qu'il ait été initialement sélectionné à des fins pharmaceutiques et biomédicales pour ses niveaux élevés de xanthohumol, un puissant antioxydant.",
+  "aaMin": 12,
+  "aaMax": 16,
+  "baMin": 6,
+  "baMax": 10,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "epice"
+  ]
+}

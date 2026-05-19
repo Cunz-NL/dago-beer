@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lx",
+  "nom": "Brasserie LX",
+  "cp": "25640",
+  "ville": "ROULANS",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605cacb024ff2af09868708d_lx-brasserie.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

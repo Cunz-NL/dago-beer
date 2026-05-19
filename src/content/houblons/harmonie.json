@@ -1,0 +1,15 @@
+{
+  "slug": "harmonie",
+  "nom": "Harmonie",
+  "aaMin": 5,
+  "aaMax": 8,
+  "baMin": 5,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "aromes": [
+    "epice",
+    "banane",
+    "amertume-b",
+    "oignon"
+  ]
+}

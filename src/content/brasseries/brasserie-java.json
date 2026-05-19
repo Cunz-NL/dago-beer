@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-java",
+  "nom": "Brasserie Java",
+  "cp": "7230",
+  "ville": "LABLACHÈRE",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b3f57e9e154cb1ebfc00_13717360_992060510914939_2058020944577859127_o.jpeg",
+  "website": "https://www.brasseriejava.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

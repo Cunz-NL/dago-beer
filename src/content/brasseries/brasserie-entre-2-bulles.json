@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-entre-2-bulles",
+  "nom": "Brasserie Entre 2 Bulles",
+  "cp": "60290",
+  "ville": "CAUFFRY",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf52cc2f63926153157ed_salle-du-restaurant-cote.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

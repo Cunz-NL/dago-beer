@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-larguenon",
+  "nom": "Brasserie de l'Arguenon",
+  "cp": "22980",
+  "ville": "SAINT-MICHEL-DE-PLÉLAN",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f3994d8242233739267a9_13394133_1724213044484658_8307860997154792703_n.png",
+  "website": "http://brasserie-artisanale-arguenon.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-roque",
+  "nom": "Brasserie La Roque",
+  "cp": "32350",
+  "ville": "ORDAN-LARROQUE",
+  "region": "midi-pyrenees",
+  "departement": "gers-32",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad354a808c50738989e5c6_31946703_175275829803497_9136615733290074112_n.jpeg",
+  "website": "https://www.brasserielaroque.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

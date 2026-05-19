@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-bdc",
+  "nom": "Brasserie BdC",
+  "cp": "63117",
+  "ville": "CHAURIAT",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d427ecc336f9775a3b56_27ec7b68-5bdc-4f89-a4fd-413478ed0c82-Swizzle_Rendering.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-alpaca",
+  "nom": "Brasserie Alpaca",
+  "cp": "49330",
+  "ville": "LES HAUTS-D'ANJOU",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ece203dbc0771560d5c16_14589841_1810328212579102_1490119858380027837_o.jpeg",
+  "website": "https://www.brasseriealpaca.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

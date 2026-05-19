@@ -1,0 +1,17 @@
+{
+  "slug": "bor",
+  "nom": "BOR",
+  "description": "Sélectionné par le Dr Bob Romanko, BOR 704 a été nommé ainsi en raison de sa position de plantation, rangée 7, plante 04, dans le \"Bone Yard\" de Prosser dans la vallée de Yakima. Elle présente un profil aromatique nettement européen. Bien que la BOR présente un rendement relativement faible, elle a été utilisée pour élever d'autres plants dans le but de transmettre son faible taux de cohumulone, qui n'est parfois que de 14 %. Cependant, sa faible teneur en alpha l'a empêché de prendre pied avec succès dans la production commerciale de houblon. Il semble y avoir une certaine confusion quant à sa filiation. Certaines sources affirment qu'il s'agit d'un plant de Hallertau Mittelfrueh, tandis que d'autres disent qu'il est issu de Saaz et de Northern Brewer. La première source est très probablement vraie.",
+  "aaMin": 6,
+  "aaMax": 9,
+  "baMin": 3,
+  "baMax": 5.5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "aromes": [
+    "herbeux",
+    "citron",
+    "floral",
+    "terreux"
+  ]
+}

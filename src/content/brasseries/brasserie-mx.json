@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-mx",
+  "nom": "Brasserie MX",
+  "cp": "82400",
+  "ville": "PERVILLE",
+  "region": "midi-pyrenees",
+  "departement": "tarn-et-garonne-82",
+  "description": "Creee en 2016 à PERVILLE(82)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608c0b12cf9ee9a73ee8fc38_uhuho.jpg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-uncle",
+  "nom": "Brasserie Uncle",
+  "cp": "22680",
+  "ville": "ÉTABLES-SUR-MER",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f3990219a5e7104738675_13502635_1691454197784596_5371036910959270225_o.png",
+  "website": "http://www.brasserie-uncle.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "taurus",
+  "nom": "Taurus",
+  "description": "Le Hallertau Taurus, d'origine allemande, présente un arôme puissant et terreux, avec des notes de chocolat et de banane, d'épices et de poivre, et se termine par une note piquante de curry. Elle a été commercialisée en 1995. Il est intéressant de noter qu'il a la plus forte teneur en xanthohumol de tous les houblons. Le xanthohumol est un puissant antioxydant, 200 fois plus puissant que les antioxydants présents dans le vin rouge. Utilisé dans la sélection de houblon de Paulaner pour leur bière Oktoberfest.",
+  "aaMin": 12,
+  "aaMax": 18,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "aromes": [
+    "epice",
+    "poivre",
+    "banane",
+    "chocolat"
+  ]
+}

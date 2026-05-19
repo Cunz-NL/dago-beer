@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-paimpol",
+  "nom": "Brasserie de Paimpol",
+  "cp": "22500",
+  "ville": "PAIMPOL",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f39868258e0d0d6d1fe65_belle-de-paimpol.jpeg",
+  "website": "http://www.brasseriedepaimpol.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

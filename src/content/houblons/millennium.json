@@ -1,0 +1,20 @@
+{
+  "slug": "millennium",
+  "nom": "Millennium",
+  "description": "Millennium a, sans surprise, été commercialisé en l'an 2000. Issu du programme de sélection John I. Haas, le houblon Millennium descend directement du Nugget et est considéré comme similaire à bien des égards au Columbus. Ils sont nés en grande partie du désir d'une plus grande résistance aux maladies et d'une meilleure stabilité de stockage. Ils fonctionnent bien comme agent amérisant dans les ales et les stouts de style américain et sont considérés comme ayant un caractère doux avec une capacité à transmettre des notes herbacées et des éléments de résine.",
+  "aaMin": 15.5,
+  "aaMax": 18.5,
+  "baMin": 5,
+  "baMax": 6.5,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 75",
+  "cohumulone": "30 - 30",
+  "aromes": [
+    "floral",
+    "herbeux",
+    "caramel",
+    "fruite",
+    "poire",
+    "caramel-au-beurre-toffee"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-biere-de-la-rade",
+  "nom": "Brasserie Bière de la Rade",
+  "cp": "83000",
+  "ville": "TOULON",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "var-83",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5de60d89d3170257a62_23551121_1999854656916598_814312315126482532_o.jpeg",
+  "website": "http://www.bieredelarade.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

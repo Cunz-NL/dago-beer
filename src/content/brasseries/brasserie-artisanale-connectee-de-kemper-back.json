@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-artisanale-connectee-de-kemper-back",
+  "nom": "Brasserie Artisanale Connectée de Kemper (BACK)",
+  "cp": "29000",
+  "ville": "QUIMPER",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60707573e033cd39f677929b_34796223_623895844641363_153699094064267264_n.png",
+  "website": "http://back.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

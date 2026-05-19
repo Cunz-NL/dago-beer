@@ -1,0 +1,14 @@
+{
+  "slug": "lotus",
+  "nom": "Lotus",
+  "description": "Un houblon aux arômes floraux tirant sur l'agrume et la vanille, comme son nom le laisse à penser il s'agit ici d'une invitation au voyage !",
+  "aaMin": 6.5,
+  "aaMax": 15.1,
+  "usage": "Double usage",
+  "aromes": [
+    "orange-6",
+    "fruits-tropicaux",
+    "vanille",
+    "raisin"
+  ]
+}

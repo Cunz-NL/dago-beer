@@ -1,0 +1,15 @@
+{
+  "slug": "star",
+  "nom": "Star",
+  "description": "À ne pas confondre avec la Southern Star, la Star est une ancienne variété belge de race terrestre, qui n'est plus cultivée commercialement. Elle a été largement abandonnée en raison de sa faible vigueur et de son faible rendement, mais on peut encore se la procurer en petites quantités pour le brassage domestique. Elle présente une excellente stabilité au stockage et dégage un arôme de type continental.",
+  "aaMin": 3,
+  "aaMax": 4,
+  "baMin": 1.7,
+  "baMax": 2.5,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "boise"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "hallertau",
+  "nom": "Hallertau",
+  "description": "Le New Zealand Hallertau est un houblon triploïde obtenu à partir du Hallertau Mittelfrüher et d'un cultivar mâle néo-zélandais. Introduit pour la première fois en 1988 par HortResearch (aujourd'hui l'Institut néo-zélandais de recherche sur les plantes et les aliments), ce houblon est censé conférer un \"zing\" de citron vert distinct sous un aspect délicatement floral. Bien qu'il soit issu de Hallertau Mittelfrüher, son parent néo-zélandais a suffisamment modifié son profil d'arôme et de saveur pour qu'il ne soit pas considéré comme un \"vrai\" Hallertau. Malgré cela, la Hallertau (NZ) a été populaire parmi les brasseurs et se targue d'une bonne vigueur, d'un bon rendement et d'une bonne stabilité au stockage, et elle n'a aucune sensibilité connue aux virus. Elle est caractérisée par un goût franc et une grande persistance.",
+  "aaMin": 3.5,
+  "aaMax": 6.5,
+  "baMin": 2.5,
+  "baMax": 6.5,
+  "usage": "Aromatique",
+  "stabilite": "Moyenne : 50",
+  "cohumulone": "17 - 24",
+  "myrcene": "10 - 20",
+  "caryophyllene": "7 - 10",
+  "humulene": "30 - 30",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "terreux"
+  ]
+}

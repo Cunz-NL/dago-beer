@@ -1,0 +1,9 @@
+{
+  "slug": "picardie",
+  "nom": "Picardie",
+  "departements": [
+    "aisne-02",
+    "oise-60",
+    "somme-80"
+  ]
+}

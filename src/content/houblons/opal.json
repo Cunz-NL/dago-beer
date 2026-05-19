@@ -1,0 +1,21 @@
+{
+  "slug": "opal",
+  "nom": "Opal",
+  "description": "Mis au point par l'Institut de recherche sur le houblon de Hull, en Allemagne, le houblon Opal se caractérise par un arôme net et un profil de saveur d'épices et d'agrumes avec un soupçon de douceur. Il a été lancé dans le monde de la brasserie en 2004 et est considéré comme utile à la fois pour l'arôme et l'amertume.",
+  "aaMin": 5,
+  "aaMax": 8,
+  "baMin": 3.5,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "myrcene": "30 - 45",
+  "caryophyllene": "9 - 10",
+  "humulene": "20 - 20",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "epice",
+    "poivre",
+    "anise"
+  ]
+}

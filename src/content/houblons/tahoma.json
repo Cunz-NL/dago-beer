@@ -1,0 +1,22 @@
+{
+  "slug": "tahoma",
+  "nom": "Tahoma",
+  "description": "Commercialisée en 2013 par l'USDA et l'Université d'État de Washington, Tahoma est la fille de Glacier. Avec une teneur en alpha plus élevée que sa parente, Tahoma se caractérise par une très faible teneur en cohumulone, ce qui lui confère un arôme et une saveur subtils, mais charmants, d'agrumes de citron avec des nuances d'orange, de bois et d'épices.",
+  "aaMin": 6,
+  "aaMax": 7.5,
+  "baMin": 7,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 75",
+  "cohumulone": "15 - 17",
+  "aromes": [
+    "agrumes",
+    "boise",
+    "epice",
+    "citron",
+    "pamplemousse",
+    "poivre",
+    "pin",
+    "cedre"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-plateau-la-capsule",
+  "nom": "Brasserie du Plateau (La Capsule)",
+  "cp": "23200",
+  "ville": "AUBUSSON",
+  "region": "limousin",
+  "departement": "creuse-23",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891acaa8e078bba4d872e0_gr1.gif",
+  "website": "http://www.brasserieduplateau.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

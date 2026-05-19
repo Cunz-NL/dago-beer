@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lepers",
+  "nom": "Brasserie Lepers",
+  "cp": "59930",
+  "ville": "LA CHAPELLE D'ARMENTIÈRES",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf50c72855bc400679b08_ci-brasserie-lepers-langelus-6409954bdd082933.jpeg",
+  "website": "http://www.langelus.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

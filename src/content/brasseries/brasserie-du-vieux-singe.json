@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-vieux-singe",
+  "nom": "Brasserie du vieux singe",
+  "cp": "35136",
+  "ville": "Saint-Jacques-de-la-Lande",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6083b2c40067e32c85a52a76_logo-brasserie-du-vieux-singe-200x200.jpg",
+  "website": "https://www.vieuxsinge.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

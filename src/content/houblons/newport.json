@@ -1,0 +1,20 @@
+{
+  "slug": "newport",
+  "nom": "Newport",
+  "description": "Newport est la descendance de Magnum et d'une variété mâle de l'USDA. L'Université d'État de l'Oregon et l'USDA ont réussi à la sélectionner en 2002 afin de répondre aux préoccupations concernant la résistance au mildiou. On dit qu'elle a contribué à sauver la production de houblon du nord-ouest des États-Unis à cette époque où les problèmes de mildiou menaçaient de nombreuses variétés de houblon. Le Newport présente des arômes allant du vin au balsamique, mais avec sa teneur exceptionnellement élevée en alpha, il est surtout utilisé au début de l'ébullition pour une amertume nette.",
+  "aaMin": 10,
+  "aaMax": 12.5,
+  "baMin": 5.5,
+  "baMax": 6.5,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 60",
+  "myrcene": "47 - 54",
+  "caryophyllene": "4.5 - 7",
+  "humulene": "9 - 9",
+  "aromes": [
+    "agrumes",
+    "balsamique",
+    "terreux",
+    "vin-blanc"
+  ]
+}

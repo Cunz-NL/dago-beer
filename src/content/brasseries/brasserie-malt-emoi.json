@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-malt-emoi",
+  "nom": "Brasserie Malt Emoi",
+  "cp": "1800",
+  "ville": "MEXIMIEUX",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a36963e62185495b76f3c1_29425294_498279513901097_8844609586963939328_n.png",
+  "website": "http://www.malt-emoi.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

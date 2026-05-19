@@ -1,0 +1,129 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const bieres = await getCollection('bieresSansAlcool');
+  return bieres.map((biere) => ({
+    params: { slug: biere.data.slug },
+    props: { biere },
+  }));
+}
+
+const { biere } = Astro.props;
+const { nom, marque, style, abv, description, profilAromatique, prixMoyen, note, urlSaveurBiere, urlUnePetiteMousse, urlBeerWulf, avisZythologue } = biere.data;
+
+const isZero = abv === 0;
+const abvLabel = isZero ? '0.0%' : `${abv.toFixed(1)}%`;
+const abvClass = isZero ? 'bg-green-600/20 text-green-400 border-green-600/30' : 'bg-orange-600/20 text-orange-400 border-orange-600/30';
+
+const affiliateLinks = [
+  { label: 'Commander sur Saveur Bière', url: urlSaveurBiere },
+  { label: 'Commander sur Une Petite Mousse', url: urlUnePetiteMousse },
+  { label: 'Commander sur Beer Wulf', url: urlBeerWulf },
+].filter((l): l is { label: string; url: string } => Boolean(l.url));
+---
+
+<Base
+  title={`${nom} — ${marque} — Bière sans alcool — Dago Beer`}
+  description={`${nom} par ${marque} : ${style} à ${abvLabel}. ${description.slice(0, 120)}...`}
+  canonical={`https://www.dago.beer/biere-sans-alcool/${biere.data.slug}`}
+  type="article"
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Bière sans alcool', href: '/biere-sans-alcool' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-8">
+      <div class="flex items-start gap-4 mb-4">
+        <div class="flex-1">
+          <h1 class="font-heading text-4xl font-bold text-white">{nom}</h1>
+          <p class="font-body text-xl text-muted/60 mt-1">{marque} · {style}</p>
+        </div>
+        <span class={`shrink-0 font-body font-bold text-sm px-3 py-1.5 rounded-full border ${abvClass}`}>
+          {abvLabel}
+        </span>
+      </div>
+
+      <!-- Note -->
+      <div class="flex items-center gap-2 mb-6" aria-label={`Note : ${note}/5`}>
+        {Array.from({ length: 5 }).map((_, i) => (
+          <svg class={`w-6 h-6 ${i < note ? 'text-amber-brand' : 'text-white/20'}`} fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+          </svg>
+        ))}
+        <span class="font-body font-semibold text-white ml-1">{note}<span class="text-muted/40">/5</span></span>
+      </div>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
+      <!-- Info principale -->
+      <div class="md:col-span-2 space-y-6">
+        <div class="bg-surface rounded-xl border border-white/10 p-6">
+          <h2 class="font-heading text-lg font-semibold text-white mb-3">Description</h2>
+          <p class="font-body text-muted/80 leading-relaxed">{description}</p>
+        </div>
+
+        <div class="bg-surface rounded-xl border border-white/10 p-6">
+          <h2 class="font-heading text-lg font-semibold text-white mb-3">Profil aromatique</h2>
+          <p class="font-body text-muted/80">{profilAromatique}</p>
+        </div>
+
+        <div class="bg-amber-brand/10 border border-amber-brand/30 rounded-xl p-6">
+          <h2 class="font-heading text-lg font-semibold text-amber-brand mb-3">Avis du zythologue</h2>
+          <blockquote class="font-body text-muted/80 leading-relaxed italic">
+            "{avisZythologue}"
+          </blockquote>
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="space-y-4">
+        <div class="bg-surface rounded-xl border border-white/10 p-5">
+          <h3 class="font-heading text-sm font-semibold text-muted/50 uppercase tracking-wider mb-3">Infos</h3>
+          <dl class="space-y-2 font-body text-sm">
+            <div class="flex justify-between">
+              <dt class="text-muted/50">Style</dt>
+              <dd class="text-white font-medium">{style}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-muted/50">ABV</dt>
+              <dd class={`font-semibold ${isZero ? 'text-green-400' : 'text-orange-400'}`}>{abvLabel}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-muted/50">Prix moyen</dt>
+              <dd class="text-white font-medium">{prixMoyen.toFixed(2)} €</dd>
+            </div>
+          </dl>
+        </div>
+
+        {affiliateLinks.length > 0 && (
+          <div class="bg-surface rounded-xl border border-white/10 p-5">
+            <h3 class="font-heading text-sm font-semibold text-muted/50 uppercase tracking-wider mb-3">Acheter</h3>
+            <div class="flex flex-col gap-2">
+              {affiliateLinks.map((link) => (
+                <a
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer sponsored"
+                  class="font-body text-sm font-medium px-4 py-2.5 rounded-lg bg-amber-brand text-bg hover:bg-amber-brand/90 transition-colors text-center"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+            <p class="font-body text-xs text-muted/30 mt-3 text-center">Liens affiliés — sans surcoût pour vous</p>
+          </div>
+        )}
+      </div>
+    </div>
+
+    <CrossSellBanner />
+  </div>
+</Base>

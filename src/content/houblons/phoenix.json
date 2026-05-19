@@ -1,0 +1,19 @@
+{
+  "slug": "phoenix",
+  "nom": "Phoenix",
+  "description": "Malgré son faible rendement, Phoenix a un arôme et une saveur agréables et semble destiné à devenir un favori parmi les brasseurs artisanaux. Il a été cultivé pour la première fois au Wye College en Angleterre dans le but de trouver un remplacement plus résistant aux maladies pour le houblon Challenger. Phoenix a été sélectionné comme un semis de Yeoman. Bien qu'il soit considéré comme un houblon à double usage pour la brasserie, le houblon Phoenix est généralement utilisé au début de l'ébullition. Certains brasseurs ont affirmé que son utilisation en tant qu'ajout tardif conduit souvent à des saveurs et des arômes qui sont parfois inconsistants et décevants. En général, les notes de dégustation du Phoenix ont tendance à être complexes, avec un arôme épicé discret et des notes florales de pin, de chocolat et de mélasse. Elle a été mise en vente au public en 1996.",
+  "aaMin": 8,
+  "aaMax": 12,
+  "baMin": 3.8,
+  "baMax": 4.5,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 80",
+  "myrcene": "24 - 32",
+  "caryophyllene": "8 - 11",
+  "humulene": "25 - 25",
+  "aromes": [
+    "epice",
+    "floral",
+    "chocolat"
+  ]
+}

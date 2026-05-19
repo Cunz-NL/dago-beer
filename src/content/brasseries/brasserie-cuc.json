@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cuc",
+  "nom": "Brasserie Cuc",
+  "cp": "25115",
+  "ville": "Pouilley-les-Vignes",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605caca13717b056e101a3d4_logo-typo.png",
+  "website": "http://www.brasserie-cuc.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-dilettante",
+  "nom": "Brasserie La Dilettante",
+  "cp": "56250",
+  "ville": "SAINT-NOLFF",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074ca33d032a85fb4907a_logo_dilettante_noir_HD-e1574262238664.png",
+  "website": "http://www.brasserieladilettante.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

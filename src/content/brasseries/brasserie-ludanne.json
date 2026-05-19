@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-ludanne",
+  "nom": "Brasserie Ludanne",
+  "cp": "8190",
+  "ville": "VILLERS-DEVANT-LE-THOURS",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8c70da7dad28e1e45ea_brasserie-bavaria-lausanne-switzerland-C827G8.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

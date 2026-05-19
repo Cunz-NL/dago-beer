@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-brasseur-toulousain-bbt",
+  "nom": "Brasserie Brasseur Toulousain (BBT)",
+  "cp": "31700",
+  "ville": "BLAGNAC",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad358a525a104eb627e0ff_BBT_LogoDescripteur_Ver_RGB.png",
+  "website": "http://brasseur-toulousain.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "recette-biere-witbier",
+  "nom": "Recette Bière Witbier",
+  "description": "Découvrez notre recette de Witbier, brassée avec du blé, d'avoine d'orge maltée & épicée de coriandre et d'écorces d'orange.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6012cf69a7a781d454d3a67e_Image%20from%20iOS%20(41).jpg",
+  "style": "witbier",
+  "ibu": 15,
+  "srm": 5,
+  "og": 1.05,
+  "fg": 1.008,
+  "abv": 5.1,
+  "batchSize": "20L",
+  "boilTime": "60 minutes",
+  "intro": "La Witbier est brassée avec du blé (malté et/ou non malté), parfois de l'avoine et de l'orge malté. Les witbiers sont épicées de coriandre et d'écorces d'orange. Un style qui remonte à des centaines d'années, il est tombé dans une relative obscurité jusqu'à ce qu'il soit relancé par le brasseur belge Pierre Celis dans les années 1960. «Wit» signifie «blanc».",
+  "introHtml": "<p>La Witbier est brassée avec du blé (malté et/ou non malté), parfois de l'avoine et de l'orge malté. Les witbiers sont épicées de coriandre et d'écorces d'orange. Un style qui remonte à des centaines d'années, il est tombé dans une relative obscurité jusqu'à ce qu'il soit relancé par le brasseur belge Pierre Celis dans les années 1960. «Wit» signifie «blanc».</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Malt Pilsner 2RP</td>\n<td>3</td>\n<td>2 kg</td>\n<td>45.5%</td>\n</tr>\n<tr>\n<td>Malt de blé clair</td>\n<td>4</td>\n<td>2.2kg</td>\n<td>40%</td>\n</tr>\n<tr>\n<td>Flocons d'avoine</td>\n<td>3</td>\n<td>200 g</td>\n<td>4.5%</td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>East Kent Goldings</td>\n<td>20g</td>\n<td>60 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>4-6%</td>\n</tr>\n<tr>\n<td>East Kent Goldings</td>\n<td>30g</td>\n<td>5 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>4-6%</td>\n</tr>\n</tbody>\n</table></div>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>COMMENTAIRE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>M21 Belgian Wit (Mangrove Jack's)</td>\n<td>1 paquet (11g)</td>\n<td>Levure Sèche</td>\n</tr>\n<tr>\n<td>Graines de coriandres moulues</td>\n<td>20 g</td>\n<td>Ébullition - 5 min</td>\n</tr>\n<tr>\n<td>Écorces d’orange douce</td>\n<td>20 g</td>\n<td>Ébullition - 5 min</td>\n</tr>\n</tbody>\n</table></div><p>‍</p>"
+}

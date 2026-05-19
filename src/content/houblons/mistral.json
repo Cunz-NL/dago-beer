@@ -1,0 +1,19 @@
+{
+  "slug": "mistral",
+  "nom": "Mistral",
+  "description": "Usage conseillé en whirlpool et DH",
+  "aaMin": 6.5,
+  "aaMax": 8.5,
+  "baMin": 3.1,
+  "baMax": 3.8,
+  "usage": "Aromatique",
+  "aromes": [
+    "floral",
+    "fruite",
+    "litchi",
+    "raisin",
+    "rose",
+    "jasmin",
+    "kumquat"
+  ]
+}

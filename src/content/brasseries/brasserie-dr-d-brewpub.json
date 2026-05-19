@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-dr-d-brewpub",
+  "nom": "Brasserie Dr D. Brewpub",
+  "cp": "38000",
+  "ville": "grenoble",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "website": "http://www.drd-brewpub.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

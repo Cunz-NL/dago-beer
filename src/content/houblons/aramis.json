@@ -1,0 +1,15 @@
+{
+  "slug": "aramis",
+  "nom": "Aramis",
+  "description": "Aramis est un houblon aromatique originaire de la région Alsace en France. Croisé en 2002, Aramis est un produit de Strisselspalt et de Whitbread Golding et fut en fait la toute première variété issue du programme de sélection du Comptoir Agricole. Elle a hérité des excellents arômes de la Strisselspalt tout en offrant une qualité d'amertume plus abondante et plus stable. Elle est douce et épicée, citronnée et herbacée. La mesure de son arôme et ses caractéristiques alpha la rendent appropriée pour toutes les étapes de la bouilloire. Commercialement, il a été utilisé dans la French Aramis de New Belgium Hop Kitchen, une India Pale Ale sèche et rafraîchissante.",
+  "aaMin": 7.8,
+  "aaMax": 8.5,
+  "baMin": 3.5,
+  "baMax": 4.5,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "epice"
+  ]
+}

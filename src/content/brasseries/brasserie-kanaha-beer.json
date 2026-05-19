@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-kanaha-beer",
+  "nom": "Brasserie Kanaha Beer",
+  "cp": "40600",
+  "ville": "BISCARROSSE",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca165da148e73f5b47d8f6_bieres-kanaha-beer.jpeg",
+  "website": "http://www.kanahabeer.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

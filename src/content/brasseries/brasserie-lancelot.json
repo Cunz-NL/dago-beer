@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lancelot",
+  "nom": "Brasserie Lancelot",
+  "cp": "56460",
+  "ville": "LE ROC ST   ANDRE",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074ece3e1b872ed8834db_Logo-lancelot.svg",
+  "website": "http://www.brasserie-lancelot.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

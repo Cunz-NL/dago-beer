@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-biere-de-la-lanterne",
+  "nom": "Brasserie Bière de la Lanterne",
+  "cp": "17180",
+  "ville": "PÉRIGNY",
+  "region": "poitou-charentes",
+  "departement": "charente-maritime-17",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76c6ecd2ea3b8177989e7_LANTERNEpetit_1024x1024.jpeg",
+  "website": "https://www.bieredelalanterne.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

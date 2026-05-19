@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-jnt",
+  "nom": "Brasserie JNT",
+  "cp": "3190",
+  "ville": "VALLON-EN-SULLY",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3c091bf23cf106bec84_48385581_350862272399072_840991378656722944_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-pirate",
+  "nom": "Brasserie Pirate",
+  "cp": "74960",
+  "ville": "ANNECY",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6075cf8311b0843787e45ded_11125233_358977780975167_7896277512498035_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

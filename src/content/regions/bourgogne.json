@@ -1,0 +1,10 @@
+{
+  "slug": "bourgogne",
+  "nom": "Bourgogne",
+  "departements": [
+    "cote-dor-21",
+    "nievre-58",
+    "saone-et-loire-71",
+    "yonne-89"
+  ]
+}

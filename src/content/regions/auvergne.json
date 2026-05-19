@@ -1,0 +1,10 @@
+{
+  "slug": "auvergne",
+  "nom": "Auvergne",
+  "departements": [
+    "allier-03",
+    "cantal-15",
+    "haute-loire-43",
+    "puy-de-dome-63"
+  ]
+}

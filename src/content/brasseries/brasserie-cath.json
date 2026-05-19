@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cath",
+  "nom": "Brasserie Cath'",
+  "cp": "40130",
+  "ville": "CAPBRETON",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca162c39e35378ecf51a9b_BRASSERIE-CATH-2d4cf55b749144eb87af14dd15da129d.jpeg",
+  "website": "http://www.brasserie-cath.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-toussaint",
+  "nom": "Brasserie Toussaint",
+  "cp": "78430",
+  "ville": "LOUVECIENNES",
+  "region": "ile-de-france",
+  "departement": "yvelines-78",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60939a091e4909a4c8eeeec9_9176677679134.png",
+  "website": "http://www.brasserietoussaint.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

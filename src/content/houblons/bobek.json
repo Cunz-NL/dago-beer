@@ -1,0 +1,15 @@
+{
+  "slug": "bobek",
+  "nom": "Bobek",
+  "description": "L'hybride diploïde Bobek présente un arôme floral agréable. Cultivé dans sa région d'origine, Zalec, en Slovénie, aux côtés de Blisk et Buket, Bobek est une tentative de créer à la fois un alpha élevé et un bon arôme dans un seul cultivar. Bobek n'est pas produit commercialement à l'heure actuelle. Ses parents sont Northern Brewer et un mâle slovène.",
+  "aaMin": 5,
+  "aaMax": 9,
+  "baMin": 4.5,
+  "baMax": 6.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "aromes": [
+    "epice",
+    "resineux"
+  ]
+}

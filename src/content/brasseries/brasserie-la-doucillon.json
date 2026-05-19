@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-doucillon",
+  "nom": "Brasserie La Doucillon",
+  "cp": "13260",
+  "ville": "CASSIS",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b9ba709a945a8134dc68_6005%402x.png",
+  "website": "https://brasserie-doucillon.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

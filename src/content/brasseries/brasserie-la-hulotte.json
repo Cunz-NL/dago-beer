@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-hulotte",
+  "nom": "Brasserie La Hulotte",
+  "cp": "44880",
+  "ville": "SAUTRON",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607d3d0d45962b672fa1e27f_LA-HULOTTE-NANTES.jpeg",
+  "website": "http://www.brasserie-lahulotte.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

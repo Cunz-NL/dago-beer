@@ -1,0 +1,17 @@
+{
+  "slug": "warriorC2AE",
+  "nom": "Warrior®",
+  "description": "Développé par Select Botanicals Group, le houblon américain Warrior® devient rapidement un favori, en particulier auprès des brasseries artisanales américaines. Parmi ses caractéristiques souhaitables, citons son amertume nette et douce et son arôme discret d'agrumes et d'épices. Son pedigree est inconnu du public. La brasserie Dogfish Head utilise la Warrior dans plusieurs de ses brassins, notamment dans sa 60 Minute IPA.",
+  "aaMin": 15.5,
+  "aaMax": 18,
+  "baMin": 4.4,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 75",
+  "myrcene": "40 - 50",
+  "caryophyllene": "8 - 11",
+  "humulene": "15 - 15",
+  "aromes": [
+    "resineux"
+  ]
+}

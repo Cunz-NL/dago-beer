@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-vallee-vernon",
+  "nom": "Brasserie de la Vallée",
+  "cp": "27200",
+  "ville": "VERNON",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60741026dff99a57b333c66b_50950880_312742299370258_8397552578631565312_n.png",
+  "website": "http://brasseriedelavallee.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

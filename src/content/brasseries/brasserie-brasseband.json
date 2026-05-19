@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-brasseband",
+  "nom": "Brasserie Brasseband",
+  "cp": "63000",
+  "ville": "CLERMONT-FERRAND",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d414b5d998528c2f0f5c_77134253_1041086062901645_8022494795731566592_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

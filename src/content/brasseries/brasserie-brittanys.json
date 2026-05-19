@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-brittanys",
+  "nom": "Brasserie Brittany's",
+  "cp": "35440",
+  "ville": "MONTREUIL-SUR-ILLE",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca1484bc84c2b98dfb70b0_66403203_685295365227142_2683921644476432384_n.png",
+  "website": "http://brasseriebrittanys.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

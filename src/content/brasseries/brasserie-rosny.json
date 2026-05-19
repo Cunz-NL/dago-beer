@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-rosny",
+  "nom": "Brasserie Rosny",
+  "cp": "40510",
+  "ville": "SEIGNOSSE",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca160c2b602b70db77cc8e_olivium.jpeg",
+  "website": "http://www.lasequere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

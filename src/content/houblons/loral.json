@@ -1,0 +1,18 @@
+{
+  "slug": "loral",
+  "nom": "Loral",
+  "description": "Horizon est un houblon polyvalent avec des qualités de star. Créé en Oregon en 1970, Horizon est un houblon diploïde et la demi-sœur de Nugget. Considéré comme un houblon à double usage, il possède une forte teneur en acides alpha, mais aussi une faible teneur en cohumulone - une caractéristique considérée comme très favorable pour l'amertume. Sa teneur élevée en myrcène et en farnésène lui confère également des notes aromatiques et gustatives très intéressantes, à la fois florales et citronnées. Elle a été reprise par plusieurs brasseurs artisanaux et est une star de la brasserie North by Northwest à Austin, au Texas, où elle est utilisée dans ses trois principaux brassins classiques, ainsi que dans ses bières spéciales de temps en temps.",
+  "aaMin": 11.3,
+  "aaMax": 12.2,
+  "baMin": 4.9,
+  "baMax": 5.3,
+  "usage": "Double usage",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "epice",
+    "citron",
+    "poivre",
+    "baies-noires"
+  ]
+}

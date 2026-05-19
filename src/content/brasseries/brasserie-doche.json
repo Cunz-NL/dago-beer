@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-doche",
+  "nom": "Brasserie d'Oche",
+  "cp": "74500",
+  "ville": "BERNEX",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c510474780dc6f800b2_84391820_993639357684507_600751682875293696_n.jpeg",
+  "website": "http://www.brasseriedoche.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

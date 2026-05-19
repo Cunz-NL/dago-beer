@@ -1,0 +1,24 @@
+{
+  "slug": "marynka",
+  "nom": "Marynka",
+  "description": "Le houblon Marynka est un autre houblon polonais largement produit dans la région de Lublin. Il est modéré dans la plupart des domaines : rendement, croissance, stabilité, mais son profil de saveur est bien supérieur à la moyenne. Bien qu'il soit utilisé principalement pour l'amertume, le Marynka présente des saveurs et des arômes de terre et d'herbes. Elle est la descendante de la Brewer's Gold et a été officiellement enregistrée en 1988.",
+  "aaMin": 9,
+  "aaMax": 12,
+  "baMin": 10,
+  "baMax": 13,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "cohumulone": "26 - 33",
+  "myrcene": "28 - 31",
+  "caryophyllene": "10 - 12.5",
+  "humulene": "36 - 36",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "epice",
+    "citron",
+    "pamplemousse",
+    "resineux",
+    "anise"
+  ]
+}

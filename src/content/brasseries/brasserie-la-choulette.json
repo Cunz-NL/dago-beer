@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-choulette",
+  "nom": "Brasserie La Choulette",
+  "cp": "59111",
+  "ville": "HORDAIN",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093b7fcfed9dd668524d413_Logochoulette1.jpg",
+  "website": "http://www.lachoulette.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

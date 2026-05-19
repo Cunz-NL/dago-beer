@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-au-brasseur-quibois",
+  "nom": "Brasserie Au Brasseur Quibois",
+  "cp": "50750",
+  "ville": "QUIBOU",
+  "region": "normandie",
+  "departement": "manche-50",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d4aecdd554e531dea05_46368222_296030147683694_1303303595428413440_n.png",
+  "website": "https://www.aubrasseurquibois.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

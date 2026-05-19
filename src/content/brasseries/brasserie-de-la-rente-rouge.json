@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-rente-rouge",
+  "nom": "Brasserie de la Rente Rouge",
+  "cp": "70100",
+  "ville": "CHARGEY-LÈS-GRAY",
+  "region": "franche-comte",
+  "departement": "haute-saone-70",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d03b9f075f66547094d2_logo.png",
+  "website": "http://www.larenterouge-brasserie.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

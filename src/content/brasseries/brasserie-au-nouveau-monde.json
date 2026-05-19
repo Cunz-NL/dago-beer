@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-au-nouveau-monde",
+  "nom": "Brasserie Au Nouveau Monde",
+  "cp": "33000",
+  "ville": "bordeaux-33000",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad3511b958fd3323ac6e99_82c6925730f6c34653bdfc886b76453f.jpeg",
+  "website": "http://www.aunouveaumonde.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

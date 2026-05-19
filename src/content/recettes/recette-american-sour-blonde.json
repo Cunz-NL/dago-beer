@@ -1,0 +1,17 @@
+{
+  "slug": "recette-american-sour-blonde",
+  "nom": "Recette American Sour Blonde",
+  "description": "Les \"Sour beers\" sont un excellent moyen d'élargir votre palais, car elles offrent une multitude de saveurs que vous ne trouverez dans aucune autre bière. Et voici une recete qui nous l'espérons devrait vous plaire !",
+  "ibu": 16,
+  "srm": 6,
+  "og": 1.053,
+  "fg": 1.012,
+  "abv": 5.4,
+  "batchSize": "19L",
+  "boilTime": "90'",
+  "intro": "Les bières acidulées (sour beers) seront-elles la prochaine grande tendance de la bière artisanale ? Comme beaucoup de styles, les sour beers étaient autrefois très populaires (puisque les seuls produites par des levures aériennes), mais leur popularité a diminué au fil des ans à mesure que les brasseurs ont réussi à isoler des variétés de levures. Dernièrement, elles ont connu un regain de popularité alors que de plus en plus de buveurs de bière découvrent la gamme de saveurs disponibles sur le marché d’aujourd’hui. Les \"Sour beers\" sont un excellent moyen d'élargir votre palais, car elles of",
+  "introHtml": "<p>Les bières acidulées (sour beers) seront-elles la prochaine grande tendance de la bière artisanale ? Comme beaucoup de styles, les sour beers étaient autrefois très populaires (puisque les seuls produites par des levures aériennes), mais leur popularité a diminué au fil des ans à mesure que les brasseurs ont réussi à isoler des variétés de levures. Dernièrement, elles ont connu un regain de popularité alors que de plus en plus de buveurs de bière découvrent la gamme de saveurs disponibles sur le marché d’aujourd’hui.<br><br>Les \"Sour beers\" sont un excellent moyen d'élargir votre palais, car elles offrent une multitude de saveurs que vous ne trouverez dans aucune autre bière. Du goût notable mais étrangement agréable des brettanomyces aux contributions plus appétissantes de lactobacilles et de pediococcus, le résultat final d'une sour beer bien brassée est rafraîchissant, complexe et ne ressemble à aucun autre style de bière.<br><br>Voici notre recette !</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Malt Pilsen</td>\n<td>3</td>\n<td>2.72 kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Malt Blé</td>\n<td>3</td>\n<td>2.27 kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Flocon Riz</td>\n<td>1</td>\n<td>235 g</td>\n<td></td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Hallertau Blanc</td>\n<td>12g</td>\n<td>90 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>8.9%</td>\n</tr>\n</tbody>\n</table></div>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>COMMENTAIRE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Fermentis US-05 Ale Yeast</td>\n<td>1 paquet (11g)</td>\n<td></td>\n</tr>\n<tr>\n<td>Wyeast 3278 Lambic Blend</td>\n<td>1 paquet (40mL)</td>\n<td>A pitcher pendant la fermentation secondaire (au bout de 15j).</td>\n</tr>\n</tbody>\n</table></div><p>‍</p>"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-letincelle",
+  "nom": "Brasserie L'Etincelle",
+  "cp": "1130",
+  "ville": "BELLEYDOUX",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3693197b4a867803c06ce_41416261_1954017741561964_5327091509672017920_n.png",
+  "website": "https://www.brasserie-letincelle.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

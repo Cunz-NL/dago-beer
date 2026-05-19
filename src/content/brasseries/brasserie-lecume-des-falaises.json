@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lecume-des-falaises",
+  "nom": "Brasserie L'Ecume des Falaises",
+  "cp": "50610",
+  "ville": "JULLOUVILLE",
+  "region": "normandie",
+  "departement": "manche-50",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cafb06a89ab8849db9bcf8_front_fr.9.full.jpeg",
+  "website": "http://www.lecume-des-falaises.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

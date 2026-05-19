@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lelmontaise",
+  "nom": "Brasserie L'Elmontaise",
+  "cp": "8090",
+  "ville": "AIGLEMONT",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8bea1134fb3d2081eb5_bi%25C3%25A8re-2.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

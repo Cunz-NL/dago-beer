@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-norde",
+  "nom": "Brasserie La Nordé",
+  "cp": "22580",
+  "ville": "Plouha",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "description": "Promotion de la micro-brasserie La Nordé - bière artisanale",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/5fa3d4272a9fd5b1cf231dbb_logo-brasserie-la-norde-200x200.jpg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

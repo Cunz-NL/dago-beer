@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-catharsis",
+  "nom": "Brasserie Catharsis",
+  "cp": "34500",
+  "ville": "BÉZIERS",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca13dbf833ba78d5090079_82289210c315803534e73121b6501acf.jpeg",
+  "website": "https://brasseriecatharsis.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bascule",
+  "nom": "Brasserie La Bascule",
+  "cp": "26410",
+  "ville": "CHÂTILLON-EN-DIOIS",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606464b9529d8798fd914b77_724455.jpeg",
+  "website": "http://www.labascule.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

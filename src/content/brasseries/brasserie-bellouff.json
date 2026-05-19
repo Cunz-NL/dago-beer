@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bellouff",
+  "nom": "Brasserie Bellouff",
+  "cp": "44120",
+  "ville": "VERTOU",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607bd83d4721442932a07d2d_15267931_863097983792749_5277335762631093592_n.jpeg",
+  "website": "http://www.brasserieartisanalebellouff.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

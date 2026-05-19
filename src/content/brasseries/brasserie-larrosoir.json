@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-larrosoir",
+  "nom": "Brasserie L'Arrosoir",
+  "cp": "40660",
+  "ville": "MESSANGES",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca1688462827874173a551_l-arrosoir-facade-viaduc.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

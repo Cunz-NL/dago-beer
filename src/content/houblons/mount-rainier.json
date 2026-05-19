@@ -1,0 +1,17 @@
+{
+  "slug": "mount-rainier",
+  "nom": "Mount Rainier",
+  "description": "Comme le Mount Hood, le Mount Rainier porte le nom de l'un des nombreux volcans actifs de l'État de Washington. Issue du programme de sélection du houblon de l'USDA-ARS en collaboration avec l'Université d'État de l'Oregon, Mount Rainier est la progéniture de Magnum et d'un mâle de l'USDA. Il présente des caractéristiques aromatiques nobles, semblables à celles de la Hallertau, ainsi que des notes d'agrumes et un soupçon de réglisse. Elle est excellente tant pour l'arôme que pour l'amertume.",
+  "aaMin": 5,
+  "aaMax": 9.4,
+  "baMin": 5,
+  "baMax": 7,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "floral",
+    "cedre",
+    "boise",
+    "the"
+  ]
+}

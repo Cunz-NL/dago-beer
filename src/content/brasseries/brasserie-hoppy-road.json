@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hoppy-road",
+  "nom": "Brasserie Hoppy Road",
+  "cp": "54320",
+  "ville": "MAXÉVILLE",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05dda99cf0af795a19908_50271427_2289532088039262_3970730546853576704_n.jpeg",
+  "website": "http://www.hoppyroad.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

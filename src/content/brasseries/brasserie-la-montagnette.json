@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-montagnette",
+  "nom": "Brasserie La Montagnette",
+  "cp": "39240",
+  "ville": "ARINTHOD",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca164701e4fca7112c55fc_0366_rsr002_00_p_1024x768.jpeg",
+  "website": "http://www.lamontagnette.net",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

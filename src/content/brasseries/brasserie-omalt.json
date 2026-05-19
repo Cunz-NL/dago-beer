@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-omalt",
+  "nom": "Brasserie O'Malt",
+  "cp": "44521",
+  "ville": "COUFFÉ",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607bd889eb33788a976b2010_43270229_671698589872277_8370688382828806144_n.png",
+  "website": "https://www.omalt.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-alliance-brasserie",
+  "nom": "Brasserie Alliance Brasserie",
+  "cp": "6000",
+  "ville": "NICE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b83b73ae7f6b8461e809_139916840_2820016548271365_688222820677989959_n.jpeg",
+  "website": "http://www.la-bonnebiere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

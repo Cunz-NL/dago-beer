@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-chamoise",
+  "nom": "Brasserie La Chamoise",
+  "cp": "79000",
+  "ville": "BESSINES",
+  "region": "poitou-charentes",
+  "departement": "deux-sevres-79",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f545e490961db952476e_11221332_644299215705194_4559411295099771606_o.png",
+  "website": "http://www.lachamoise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

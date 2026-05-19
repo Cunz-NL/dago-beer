@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-normandy-beer-factory",
+  "nom": "Brasserie Normandy Beer Factory",
+  "cp": "14840",
+  "ville": "DÉMOUVILLE",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67cb503fdab97c72063a0_15135908_1820342764854470_9195153725310356111_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

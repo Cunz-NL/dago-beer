@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-2-caps",
+  "nom": "Brasserie des 2 Caps",
+  "cp": "62179",
+  "ville": "TARDINGHEN",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04b40c220d12219db734_ch-noyon.png",
+  "website": "http://www.2caps.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

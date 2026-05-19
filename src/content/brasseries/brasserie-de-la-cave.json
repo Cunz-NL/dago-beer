@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-la-cave",
+  "nom": "Brasserie de la Cave",
+  "cp": "30000",
+  "ville": "NÎMES",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35a1990e4c600089f936_65703390b03d42e6fdc28b78f14371b6.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

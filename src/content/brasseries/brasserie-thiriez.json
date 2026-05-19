@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-thiriez",
+  "nom": "Brasserie Thiriez",
+  "cp": "59470",
+  "ville": "ESQUELBECQ",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608af9fdf9d100e24f94fa52_153100397_3956104747781137_3765991838379276398_n.jpeg",
+  "website": "http://www.brasseriethiriez.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

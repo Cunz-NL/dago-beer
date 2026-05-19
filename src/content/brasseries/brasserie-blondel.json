@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-blondel",
+  "nom": "Brasserie Blondel",
+  "cp": "3100",
+  "ville": "MONTLUÇON",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3b7153c13545005daf4_15590960_1237274793014076_4674542831080252278_o.jpeg",
+  "website": "http://www.brasserieblondel.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

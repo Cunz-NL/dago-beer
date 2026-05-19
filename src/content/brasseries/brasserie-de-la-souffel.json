@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-souffel",
+  "nom": "Brasserie de la Souffel",
+  "cp": "67370",
+  "ville": "GRIESHEIM-SUR-SOUFFEL",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a4c800aa47ed3dce10c1_london-street-brasserie.jpeg",
+  "website": "http://www.brasserie-souffel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

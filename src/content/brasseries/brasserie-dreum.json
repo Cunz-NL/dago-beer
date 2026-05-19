@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dreum",
+  "nom": "Brasserie Dreum",
+  "cp": "59218",
+  "ville": "NEUVILLE EN    AVESNOIS",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6a7d61b52da35cb236ff_beer-2351051.jpeg",
+  "website": "http://www.ladreum.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

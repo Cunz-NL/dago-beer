@@ -1,0 +1,22 @@
+{
+  "slug": "mount-hood",
+  "nom": "Mount Hood",
+  "description": "Commercialisé en 1989, Mount Hood est un cultivar de race américaine issu de Hallertau Mittelfrüher. Populaire parmi les brasseurs artisanaux américains, il constitue un bon houblon aromatique, avec des caractéristiques similaires à celles d'une Hallertau ou d'une Hersbrucker. Il est également la demi-sœur de Crystal, Ultra et Liberty. Il présente un agréable arôme de houblon noble et a été noté comme donnant un peu de \"punch\" à la saveur lorsqu'il est fraîchement brassé - du moins en comparaison avec les véritables houblons nobles.",
+  "aaMin": 4,
+  "aaMax": 8,
+  "baMin": 4,
+  "baMax": 7.5,
+  "usage": "Aromatique",
+  "stabilite": "Moyenne : 50",
+  "myrcene": "30 - 40",
+  "caryophyllene": "7 - 16",
+  "humulene": "12 - 12",
+  "aromes": [
+    "epice",
+    "herbeux",
+    "amertume-b",
+    "acre",
+    "estragon",
+    "miel"
+  ]
+}

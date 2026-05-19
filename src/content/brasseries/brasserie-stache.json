@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-stache",
+  "nom": "Brasserie S'tache",
+  "cp": "94130",
+  "ville": "Nogent-Sur-Marne",
+  "region": "ile-de-france",
+  "departement": "val-de-marne-94",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368b3ba4ade345e123848_75264948_102257931244598_1827924633634996224_n.jpeg",
+  "website": "https://brasseriestache.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

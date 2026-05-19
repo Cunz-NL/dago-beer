@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-sanglier",
+  "nom": "Brasserie du Sanglier",
+  "cp": "62123",
+  "ville": "MONCHIET",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d047bf9fa64e5165c9048_restaurant.jpeg",
+  "website": "http://www.brasseriedusanglier.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

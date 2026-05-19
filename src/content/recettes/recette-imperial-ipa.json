@@ -1,0 +1,17 @@
+{
+  "slug": "recette-imperial-ipa",
+  "nom": "Recette Imperial IPA",
+  "description": "Découvrez notre recette de Imperial IPA, inspirée de \"The Big Hopper\" de Matt Huber (multi médaillé)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6024198d3197c15edc24adb3_Image%20from%20iOS%20(56).jpg",
+  "style": "double-ipa",
+  "og": 1.086,
+  "fg": 1.017,
+  "abv": 8.5,
+  "batchSize": "17L",
+  "boilTime": "90 min",
+  "intro": "L'impérial IPA présente une amertume, une saveur et un arôme élevés de houblon. Le caractère du houblon est frais et évident grâce à l'utilisation de toute variété de houblon. La teneur en alcool est moyenne-élevée à élevée et particulièrement évidente avec un corps moyen-élevé à plein. Ce style entend montrer le caractère frais et évident du houblon.",
+  "introHtml": "<p>L'impérial IPA présente une amertume, une saveur et un arôme élevés de houblon. Le caractère du houblon est frais et évident grâce à l'utilisation de toute variété de houblon. La teneur en alcool est moyenne-élevée à élevée et particulièrement évidente avec un corps moyen-élevé à plein. Ce style entend montrer le caractère frais et évident du houblon.</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Malt Pilsen</td>\n<td>3</td>\n<td>6.7 kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Caramunich</td>\n<td>80</td>\n<td>715 g</td>\n<td></td>\n</tr>\n<tr>\n<td>Cara Gold</td>\n<td>120</td>\n<td>235 g</td>\n<td></td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Centenial & Simcoe</td>\n<td>2 * 45g</td>\n<td>90 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>10.6% & 12.8%</td>\n</tr>\n<tr>\n<td>Magnum</td>\n<td>15g</td>\n<td>60 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>10.8%</td>\n</tr>\n<tr>\n<td>Magnum</td>\n<td>15g</td>\n<td>30 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>10.8%</td>\n</tr>\n</tbody>\n</table></div><p>‍</p>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>COMMENTAIRE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Wyeast No. 1056 American ale yeast</td>\n<td>1 paquet (40mL)</td>\n<td>Levure Liquide - Starter 48h avant dans 3L pour tripler la quantité de levures</td>\n</tr>\n<tr>\n<td>Sulfate de Calcium</td>\n<td>6.5g</td>\n<td>Avant empâtage</td>\n</tr>\n<tr>\n<td>Irish Moss</td>\n<td>4 g</td>\n<td>Ébullition - 15 min</td>\n</tr>\n</tbody>\n</table></div><p>‍</p>"
+}

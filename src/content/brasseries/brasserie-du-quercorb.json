@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-quercorb",
+  "nom": "Brasserie du Quercorb",
+  "cp": "11230",
+  "ville": "CHALABRE",
+  "region": "languedoc-roussillon",
+  "departement": "aude-11",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b94e73ae7f666d630b8a_bdq_paul__jayne_wide1-1.jpeg",
+  "website": "https://www.bdq.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

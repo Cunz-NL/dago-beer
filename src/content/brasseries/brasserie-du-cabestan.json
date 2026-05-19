@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-cabestan",
+  "nom": "Brasserie du Cabestan",
+  "cp": "33410",
+  "ville": "SAINTE-CROIX-DU-MONT",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad3598b55d7b3e0665fd3f_lounge-cabestan.jpeg",
+  "website": "https://www.bdcabestan.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "cascade",
+  "nom": "Cascade",
+  "description": "La Cascade de Nouvelle-Zélande présente en grande partie les mêmes caractéristiques agréables et distinctives de la Cascade que sa jumelle américaine, mais elle est plus riche en acides alpha. Certains contestent toutefois cette comparaison, en faisant remarquer que si ses caractéristiques sont similaires, la Cascade cultivée en Nouvelle-Zélande est plus discrète en termes de saveur et d'arôme. La Cascade originale a été développée à partir de la variété anglaise Fuggle et de la variété russe Serebrianka.",
+  "aaMin": 4.5,
+  "aaMax": 7,
+  "baMin": 4.8,
+  "baMax": 7,
+  "usage": "Double usage",
+  "cohumulone": "33 - 40",
+  "myrcene": "45 - 60",
+  "caryophyllene": "3.5 - 5.5",
+  "humulene": "8 - 8",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "epice",
+    "litchi",
+    "poivre",
+    "mure",
+    "citronnelle"
+  ]
+}

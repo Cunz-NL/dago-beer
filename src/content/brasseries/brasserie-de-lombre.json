@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-lombre",
+  "nom": "Brasserie de l'Ombre",
+  "cp": "35380",
+  "ville": "MAXENT",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca146354795c66b9ac0e0a_1781823_944796608950131_7917738988350149501_o.jpeg",
+  "website": "http://www.brasseriedelombre.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

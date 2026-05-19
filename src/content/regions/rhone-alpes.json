@@ -1,0 +1,14 @@
+{
+  "slug": "rhone-alpes",
+  "nom": "Rhône-Alpes",
+  "departements": [
+    "ain-01",
+    "ardeche-07",
+    "drome-26",
+    "isere",
+    "loire-42",
+    "rhone-69",
+    "savoie-73",
+    "haute-savoie-74"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "blato",
+  "nom": "Blato",
+  "description": "Le Blato a été l'un des premiers houblons autorisés en République tchèque (anciennement Tchécoslovaquie) pour la production commerciale. Il n'est généralement pas distingué, mais fait partie du collectif connu sous le nom de houblon Saaz, ou Bohemian Early Red. Il n'a pas un très bon rendement aux États-Unis, mais on le soupçonne d'être beaucoup plus prolifique dans son pays d'origine. La société Zatec Hop Company, en Tchécoslovaquie, affirme que l'analyse des huiles et des résines a montré que Blato et ses frères et sœurs présentent le même profil aromatique fin que les autres houblons Saaz, un profil authentique et délicat.",
+  "aaMin": 4.2,
+  "aaMax": 4.9,
+  "baMin": 3.3,
+  "baMax": 3.5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "aromes": []
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-barbare",
+  "nom": "Brasserie du Barbare",
+  "cp": "6320",
+  "ville": "LA TURBIE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3d3816e57e37c1fd46b2e_9887e05fd7d053c9d87b64c5814d37d0.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

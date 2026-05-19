@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-tribu-zytha",
+  "nom": "Brasserie Tribu Zytha",
+  "cp": "33240",
+  "ville": "ASQUES",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad351d458499168c64f938_3504-tribu-zytha.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

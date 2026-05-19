@@ -1,0 +1,16 @@
+{
+  "slug": "denali",
+  "nom": "Denali",
+  "aaMin": 13,
+  "aaMax": 15,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "pin",
+    "citron",
+    "ananas",
+    "tarte-meringuee"
+  ]
+}

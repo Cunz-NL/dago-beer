@@ -1,0 +1,17 @@
+{
+  "slug": "gold",
+  "nom": "Gold",
+  "description": "Le houblon Brewer's Gold a été sélectionné par Ernest Stanley Salmon au Wye College en Angleterre en 1919 et résulte de la pollinisation ouverte d'un houblon sauvage provenant de Morden, au Manitoba. Malgré sa popularité initiale, l'arrivée des variétés de houblon super-alpha dans les années 1980 a rendu le Brewer's Gold largement superflu d'un point de vue commercial. Pour les brasseurs désireux d'expérimenter, le Brewer's Gold reste cependant un bon choix pour une amertume tardive avec des notes désirables d'épices et de cassis. Elle est également presque identique à la sélection sœur Bullion. Le principal titre de gloire du Brewer's Gold est sans doute sa relation directe avec la plupart des houblons super-alpha modernes. Il a été utilisé pour sélectionner des variétés notables comme Galena, ainsi que Nugget, Centennial et bien d'autres, et il est encore utilisé pour la sélection aujourd'hui.",
+  "aaMin": 3.5,
+  "aaMax": 6.5,
+  "baMin": 3.5,
+  "baMax": 5.9,
+  "usage": "Aromatique",
+  "aromes": [
+    "foin",
+    "origan",
+    "basilic",
+    "ortie",
+    "miel"
+  ]
+}

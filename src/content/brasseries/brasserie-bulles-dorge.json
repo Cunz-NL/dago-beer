@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bulles-dorge",
+  "nom": "Brasserie Bulles d'Orge",
+  "cp": "69600",
+  "ville": "OULLINS",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decd107196607731d5ab8_251_001.jpeg",
+  "website": "http://www.bullesdorge.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

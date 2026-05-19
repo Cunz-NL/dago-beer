@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-champ-commun",
+  "nom": "Brasserie du Champ Commun",
+  "cp": "56800",
+  "ville": "AUGAN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6070750bbd64960d3a13cb29_28423239_1199800363456539_2035380420033730207_o.jpeg",
+  "website": "http://www.lechampcommun.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

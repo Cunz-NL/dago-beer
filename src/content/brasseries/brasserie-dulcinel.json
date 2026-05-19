@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dulcinel",
+  "nom": "Brasserie Dulcinel",
+  "cp": "49500",
+  "ville": "SEGRÉ-EN-ANJOU BLEU",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ece34bea0c9f50cd500f4_bieres-153d367a77034405bcdcb7e59c3cfe77.jpeg",
+  "website": "http://www.dulcinel.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

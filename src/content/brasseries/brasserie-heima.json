@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-heima",
+  "nom": "Brasserie Heima",
+  "cp": "41110",
+  "ville": "POUILLÉ",
+  "region": "centre",
+  "departement": "loir-et-cher-41",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60814fd5ec2065abd9a20bad_123506351_3454512394669517_1742841375796540692_n.jpeg",
+  "website": "http://www.brasserieheima.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

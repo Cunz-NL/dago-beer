@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-azureenne",
+  "nom": "Brasserie Azuréenne",
+  "cp": "6130",
+  "ville": "GRASSE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3d37eb204701f7e0f623c_67655238_1053839488134931_1761252387420372992_n.jpeg",
+  "website": "http://www.brasserie-lazureenne.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

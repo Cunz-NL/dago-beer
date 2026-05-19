@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-porcupine",
+  "nom": "Brasserie Porcupine",
+  "cp": "36370",
+  "ville": "BÉLÂBRE",
+  "region": "centre",
+  "departement": "indre-36",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca149a525fa873a42bdc99_44551305_2184307445150322_1981194278214303744_n.png",
+  "website": "http://www.biereporcupine.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-rollus",
+  "nom": "Brasserie Rollus",
+  "cp": "80250",
+  "ville": "LOUVRECHY",
+  "region": "picardie",
+  "departement": "somme-80",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f58af9632f03cd6375e8_1362-brasserie-rollus.jpeg",
+  "website": "http://www.rollus.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

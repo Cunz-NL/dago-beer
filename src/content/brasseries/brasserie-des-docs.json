@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-des-docs",
+  "nom": "Brasserie des Docs",
+  "cp": "7210",
+  "ville": "ALISSAS",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8903e74651c4bc1c09e_13221503_981032602010549_3705795690638207174_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-cibulle",
+  "nom": "Brasserie La Cibulle",
+  "cp": "85420",
+  "ville": "MAILLÉ",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05f0c1eb4bf949215972_12043051_1736854469892875_3182739313300200739_n.jpeg",
+  "website": "http://www.lacibulle.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

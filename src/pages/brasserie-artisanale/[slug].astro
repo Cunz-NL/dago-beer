@@ -1,0 +1,83 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const brasseries = await getCollection('brasseries');
+  return brasseries.map((b) => ({
+    params: { slug: b.data.slug },
+    props: { brasserie: b },
+  }));
+}
+
+const { brasserie } = Astro.props;
+const { nom, cp, ville, region, departement, description, image, statut, aBiereSansAlcool, biereSansAlcoolNom } = brasserie.data;
+
+const regionNom = region.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+---
+
+<Base
+  title={`${nom} — Brasserie artisanale à ${ville} — Dago Beer`}
+  description={description ?? `Découvrez ${nom}, brasserie artisanale située à ${ville} (${cp}). Retrouvez toutes les informations sur cette brasserie dans notre annuaire.`}
+  canonical={`https://www.dago.beer/brasserie-artisanale/${brasserie.data.slug}`}
+  image={image}
+  type="website"
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brasseries artisanales', href: '/brasserie-biere-artisanale' },
+        { label: nom },
+      ]}
+    />
+
+    <div class="flex items-start gap-4 mb-6">
+      <div class="flex-1">
+        <h1 class="font-heading text-4xl font-bold text-white">{nom}</h1>
+        <p class="font-body text-lg text-muted/60 mt-1">{cp} {ville} · {regionNom}</p>
+      </div>
+      {statut === 'ferme' && (
+        <span class="shrink-0 text-xs font-body font-medium px-2.5 py-1 rounded-full bg-red-900/30 text-red-400 border border-red-800/30">
+          Fermée
+        </span>
+      )}
+      {aBiereSansAlcool && (
+        <span class="shrink-0 text-xs font-body font-medium px-2.5 py-1 rounded-full bg-amber-brand/20 text-amber-brand border border-amber-brand/30">
+          Bière sans alcool
+        </span>
+      )}
+    </div>
+
+    {image && (
+      <div class="rounded-xl overflow-hidden mb-8 aspect-video">
+        <img src={image} alt={`${nom} — brasserie artisanale à ${ville}`} class="w-full h-full object-cover" />
+      </div>
+    )}
+
+    {description && (
+      <div class="prose prose-invert prose-amber max-w-none mb-8 font-body">
+        <p class="text-muted/80 text-lg leading-relaxed">{description}</p>
+      </div>
+    )}
+
+    {aBiereSansAlcool && biereSansAlcoolNom && (
+      <div class="bg-amber-brand/10 border border-amber-brand/30 rounded-xl p-5 mb-8">
+        <h2 class="font-heading text-lg font-semibold text-amber-brand mb-1">Bière sans alcool</h2>
+        <p class="font-body text-muted/80">{biereSansAlcoolNom}</p>
+      </div>
+    )}
+
+    <CrossSellBanner regionNom={regionNom} />
+
+    <div class="mt-8">
+      <a
+        href="/brasserie-biere-artisanale"
+        class="font-body text-sm text-muted/50 hover:text-amber-brand transition-colors"
+      >
+        ← Retour à l'annuaire
+      </a>
+    </div>
+  </div>
+</Base>

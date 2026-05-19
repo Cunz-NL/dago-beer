@@ -1,0 +1,16 @@
+{
+  "slug": "triskel",
+  "nom": "Triskel",
+  "description": "Développé en France en 2006, Triskel est un cultivar du houblon français Strisselspalt et du cépage anglais Yeoman. Avec un nez plus prononcé que son parent français, le Triskel constitue une alternative unique au premier moût et ses qualités aromatiques notables le rendent bien adapté à un ajout tardif ou à un houblonnage sec. Très recherchée pour les ales de style belge ou plus légères, elle présente une combinaison élégante de notes florales et fruitées subtiles avec quelques agrumes. Triskel, Bouclier et Aramis sont les trois premières variétés officiellement enregistrées issues du programme de recherche variétale de la filière houblonnière alsacienne. Ces trois variétés ont été créées dans un effort continu pour augmenter le pourcentage alpha du Strisselspalt tout en conservant son profil aromatique prisé.",
+  "aaMin": 8,
+  "aaMax": 9,
+  "baMin": 4,
+  "baMax": 4.7,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "floral",
+    "fruite"
+  ]
+}

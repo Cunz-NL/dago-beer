@@ -1,0 +1,22 @@
+{
+  "slug": "hersbrucker",
+  "nom": "Hersbrucker",
+  "description": "Le houblon allemand Hersbrucker a été sélectionné à l'origine dans le but de produire une variété résistante au flétrissement verticillien qui pourrait remplacer la Hallertau Mittelfrüh.  Le houblon Hersbrucker a atteint le sommet de sa popularité dans les années 1970 et 1980, mais malgré cela, la production globale de ce houblon en Allemagne dépasse encore aujourd'hui les 1000 tonnes par an. On peut même le trouver cultivé biologiquement dans plusieurs houblonnières artisanales. Avec une faible teneur en acides alpha et en cohumulone, il présente un arôme agréable avec un caractère équilibré, fruité, épicé et floral. Il a été couramment utilisé dans les lagers allemandes, mais cette variété fait maintenant son chemin dans certaines ales anglaises en fût. Elle a été clonée plusieurs fois pour tenter d'améliorer sa teneur en acide alpha, mais sans succès.",
+  "aaMin": 1.5,
+  "aaMax": 5,
+  "baMin": 2.5,
+  "baMax": 6,
+  "usage": "Aromatique",
+  "stabilite": "Moyenne : 50",
+  "cohumulone": "19 - 25",
+  "myrcene": "10 - 25",
+  "caryophyllene": "7 - 15",
+  "humulene": "15 - 15",
+  "aromes": [
+    "epice",
+    "floral",
+    "fruite",
+    "foin",
+    "tabac"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bonne-fabrique",
+  "nom": "Brasserie La Bonne Fabrique",
+  "cp": "38700",
+  "ville": "LE SAPPEY-EN-CHARTREUSE",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606df040e2cbf316de83b96f_29028135740_720d4e71a1_b.jpeg",
+  "website": "http://www.labonnefabrique.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

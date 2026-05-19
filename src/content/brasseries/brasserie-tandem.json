@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-tandem",
+  "nom": "Brasserie Tandem",
+  "cp": "59118",
+  "ville": "Wambrechies",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "description": "Creee en 2019 à Wambrechies",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608970b0ec21af23eb601b0d_TANDEM_LOGO-CARRE.png",
+  "website": "http://www.brasserie-tandem.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

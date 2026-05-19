@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-blessing",
+  "nom": "Brasserie Blessing",
+  "cp": "67430",
+  "ville": "VOELLERDINGEN",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a49f9a1e4f06373c3f85_10544219_361201494029044_715384673429361238_o.jpeg",
+  "website": "http://www.brasserieblessing.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

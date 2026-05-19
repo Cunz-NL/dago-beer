@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-matheysine",
+  "nom": "Brasserie Matheysine",
+  "cp": "38350",
+  "ville": "COGNET",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dede10ee0496828b07e59_capture-d-ecran-2014-01-12-a-20.png",
+  "website": "http://www.brasseriematheysine.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

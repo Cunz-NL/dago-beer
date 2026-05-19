@@ -1,0 +1,14 @@
+{
+  "slug": "ahil",
+  "nom": "Ahil",
+  "description": "Le houblon Ahil est quelque peu difficile à trouver, sa culture en Slovénie ayant été sévèrement réduite. Il y a également eu une certaine confusion quant à sa véritable classification. Il a été introduit comme houblon superstyrien en 1972 par le Dr Tone Wagner, sélectionneur de houblon à l'Institut de recherche sur le houblon de Zalec. En réalité, il ne s'agit pas d'un houblon Superstyrian, mais d'un hybride, un croisement entre le Brewer's Gold et un mâle sauvage, qui n'était destiné qu'à avoir un style semblable à celui du Superstyrian. Utilisée à l'origine principalement comme houblon aromatique, la production d'Ahil a diminué en Slovénie en raison de la popularité de la Styrian Golding, plus ancienne, mieux établie et plus authentique. Il a été initialement produit dans le but de créer un houblon avec un alpha élevé et un profil aromatique intense.",
+  "aaMin": 8.5,
+  "aaMax": 11.5,
+  "baMin": 3.5,
+  "baMax": 5.2,
+  "usage": "Double usage",
+  "stabilite": "Moyenne : 50 @ 20°C à 6 mois",
+  "aromes": [
+    "floral"
+  ]
+}

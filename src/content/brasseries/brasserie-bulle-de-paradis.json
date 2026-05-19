@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bulle-de-paradis",
+  "nom": "Brasserie Bulle de Paradis",
+  "cp": "10200",
+  "ville": "ARSONVAL",
+  "region": "champagne-ardenne",
+  "departement": "aube-10",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b91a6fe62a3994f6fc4c_35151233_229422094318840_6772969928925380608_n.png",
+  "website": "https://www.bulle-de-paradis.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

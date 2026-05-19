@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-brasseuse",
+  "nom": "Brasserie La Brasseuse",
+  "cp": "69002",
+  "ville": "LYON",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec57c67c162764610a9d_46491523_1993026770762421_2842493391822913536_n.png",
+  "website": "https://labrasseuse.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

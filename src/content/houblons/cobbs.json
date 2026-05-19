@@ -1,0 +1,14 @@
+{
+  "slug": "cobbs",
+  "nom": "Cobbs",
+  "aaMin": 4.4,
+  "aaMax": 6.7,
+  "baMin": 1.9,
+  "baMax": 2.8,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

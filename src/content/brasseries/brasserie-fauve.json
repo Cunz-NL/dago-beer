@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-fauve",
+  "nom": "Brasserie Fauve",
+  "cp": "75011",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d0c5db52263aa708cd82_28619580_419277818524773_1796047531482428163_o.png",
+  "website": "https://fauvebiere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

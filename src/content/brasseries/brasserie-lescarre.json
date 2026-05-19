@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lescarre",
+  "nom": "Brasserie Lescarré",
+  "cp": "64410",
+  "ville": "POURSIUGUES-BOUCOUE",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc3730a297d2ad481bfc2_16991785_791248444385078_8389950746783108348_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

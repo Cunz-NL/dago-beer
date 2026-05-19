@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-damboise",
+  "nom": "Brasserie d'Amboise",
+  "cp": "37400",
+  "ville": "AMBOISE",
+  "region": "centre",
+  "departement": "indre-et-loire-37",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca14cd9be9b2379c7e00be_brasserie-d-amboise-bier.jpeg",
+  "website": "http://closeriedechanteloup.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

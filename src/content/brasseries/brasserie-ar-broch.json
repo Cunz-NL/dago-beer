@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-ar-broch",
+  "nom": "Brasserie ar Broc'h",
+  "cp": "29690",
+  "ville": "BERRIEN",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "description": "Créée en 2020 à Berrien (29)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6257bb5be3cd45b2ed87b15d_logobroch.JPG",
+  "website": "http://broch.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

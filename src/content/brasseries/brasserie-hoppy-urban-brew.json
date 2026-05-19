@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hoppy-urban-brew",
+  "nom": "Brasserie Hoppy Urban Brew",
+  "cp": "59100",
+  "ville": "ROUBAIX",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6906b00707892fe6297b_53468135_429900664219000_6206286691146137600_n.png",
+  "website": "http://www.hoppyurbanbrew.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

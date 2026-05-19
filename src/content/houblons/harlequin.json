@@ -1,0 +1,17 @@
+{
+  "slug": "harlequin",
+  "nom": "Harlequin",
+  "aaMin": 9.5,
+  "aaMax": 12,
+  "baMin": 7,
+  "baMax": 9,
+  "usage": "Double usage",
+  "cohumulone": "27 - 31",
+  "myrcene": "60",
+  "humulene": "5",
+  "aromes": [
+    "fruit-de-la-passion",
+    "peche",
+    "ananas"
+  ]
+}

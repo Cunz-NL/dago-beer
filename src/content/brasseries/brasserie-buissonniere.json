@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-buissonniere",
+  "nom": "Brasserie Buissonnière",
+  "cp": "51130",
+  "ville": "BLANCS-COTEAUX",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d4d133fd212ded72f07_48412739_276354406360185_7804632498037587968_n.png",
+  "website": "https://www.brasserie-buissonniere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

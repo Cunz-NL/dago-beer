@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-cloche",
+  "nom": "Brasserie La Cloche",
+  "cp": "16190",
+  "ville": "BORS DE     MONTMOREAU",
+  "region": "poitou-charentes",
+  "departement": "charente-16",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67cd67fd9a97b68c3f9bb_logo.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ragnar",
+  "nom": "Brasserie Ragnar",
+  "cp": "76770",
+  "ville": "LE HOULME",
+  "region": "normandie",
+  "departement": "seine-maritime-76",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759ba1d8d708302057d20e_equipe-ragnar-min.jpeg",
+  "website": "https://www.brasserieragnar.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

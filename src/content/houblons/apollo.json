@@ -1,0 +1,22 @@
+{
+  "slug": "apollo",
+  "nom": "Apollo",
+  "description": "Le houblon super-alpha Apollo a été sélectionné pour la première fois en 2000 par Hopsteiner et présenté au public en 2006. Il descend de Zeus et de deux autres variétés USDA non nommées. Il a tendance à être assez cher, bien que les quantités utilisées aient tendance à être plus faibles en raison de sa très forte concentration en acides alpha. À son crédit, l'abondance d'acides alpha d'Apollo s'accompagne également d'un profil d'amertume net et précis, avec d'autres facteurs hautement souhaitables comme une grande stabilité de stockage et une tolérance aux maladies. Il est généralement utilisé avec des houblons aromatiques afin d'obtenir un équilibre, mais lorsqu'il est utilisé comme ajout tardif ou comme houblon sec, certaines notes de pamplemousse deviennent évidentes. Vous trouverez l'Apollo dans la Brown Bison Ale, la Pirate Pale Ale, la Pin-Head Pilsner et la Belgo Pale Ale pour n'en citer que quelques-unes et souvent aux côtés des variétés Glacier et Palisade®. Elle est principalement cultivée aux États-Unis.",
+  "aaMin": 15,
+  "aaMax": 19,
+  "baMin": 5.5,
+  "baMax": 8,
+  "usage": "Amérisant",
+  "stabilite": "Excellente : 85",
+  "cohumulone": "24 - 28",
+  "myrcene": "33 - 55",
+  "caryophyllene": "14 - 20",
+  "humulene": "20 - 20",
+  "aromes": [
+    "agrumes",
+    "resineux",
+    "amertume-b",
+    "pamplemousse",
+    "citron-vert"
+  ]
+}

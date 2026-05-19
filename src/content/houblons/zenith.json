@@ -1,0 +1,15 @@
+{
+  "slug": "zenith",
+  "nom": "Zenith",
+  "description": "Zenith est un houblon dont le pedigree est inconnu mais qui a été cultivé comme un houblon à forte teneur en alpha avec une bonne résistance aux maladies. Il possède une forte teneur en alpha et en myrcène, une faible teneur en cohumulone et un rapport myrcène/humulène d'environ 2:1. Ses rhizomes sont généralement disponibles de novembre à février, ce qui est également la meilleure période pour les planter.",
+  "aaMin": 9,
+  "aaMax": 11,
+  "baMin": 2.5,
+  "baMax": 3.5,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 70",
+  "aromes": [
+    "agrumes",
+    "floral"
+  ]
+}

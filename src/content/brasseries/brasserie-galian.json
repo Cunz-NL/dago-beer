@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-galian",
+  "nom": "Brasserie Galian",
+  "cp": "56340",
+  "ville": "PLOUHARNEL",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074d76488260fe541e93e_36285902_255276048385213_4160211189554479104_n.jpeg",
+  "website": "http://www.brasseriegalian.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

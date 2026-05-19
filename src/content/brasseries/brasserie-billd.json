@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-billd",
+  "nom": "Brasserie Billd",
+  "cp": "63111",
+  "ville": "Mur-sur-Allier",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d424153c1327f2063ee1_148028528_1175133739588211_1022338187017820534_n.jpeg",
+  "website": "http://www.billd.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

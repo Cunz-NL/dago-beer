@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-guinche",
+  "nom": "Brasserie La Guinche",
+  "cp": "77500",
+  "ville": "CHELLES",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609399ebdfdd27d673dc1d46_20190531-204740-largejpg.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "orion",
+  "nom": "Orion",
+  "description": "L'Institut allemand de recherche sur le houblon de Hüll, en Allemagne, a développé le houblon Orion au cours des années 1980. Il est le résultat d'un croisement entre Perle et un mâle allemand. À ce jour, l'Orion n'est pas produit à grande échelle et est surtout relégué en Allemagne. Ses qualités amères et aromatiques européennes agréables l'ont rendu populaire pour les bières allemandes de type Helles, qui étaient à l'origine brassées pour concurrencer les Pils tchèques. Elle a une très faible teneur en cohumulone et une forte teneur en myrcène. Les autres huiles sont en juste équilibre. Cette variété n'est pas facile à trouver dans le commerce.",
+  "aaMin": 8,
+  "aaMax": 9,
+  "baMin": 4.94,
+  "baMax": 5.73,
+  "usage": "Double usage",
+  "stabilite": "Garde 60% à 70% de ses acides alpha après 6 mois à 20°C",
+  "myrcene": "41 - 56",
+  "caryophyllene": "6.5 - 12.7",
+  "humulene": "16.7 - 16.7",
+  "aromes": []
+}

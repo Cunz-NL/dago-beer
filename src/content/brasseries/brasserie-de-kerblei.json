@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-kerblei",
+  "nom": "Brasserie de Kerblei",
+  "cp": "56870",
+  "ville": "BADEN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60707514c6c6a816d5dd1e8c_baden-001.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

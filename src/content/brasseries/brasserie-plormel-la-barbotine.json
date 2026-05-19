@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-plormel-la-barbotine",
+  "nom": "Brasserie Plormel (La Barbotine)",
+  "cp": "87100",
+  "ville": "LIMOGES",
+  "region": "limousin",
+  "departement": "haute-vienne-87",
+  "description": "Creee en 2007 à Limoges",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bc7d89d625b6690c3307c_BLANC%20REDUIT.png",
+  "website": "https://www.brasserieplormel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

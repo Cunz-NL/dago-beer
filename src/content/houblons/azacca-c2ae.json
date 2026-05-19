@@ -1,0 +1,23 @@
+{
+  "slug": "azacca-C2AE",
+  "nom": "Azacca ®",
+  "description": "Nommé d'après le dieu haïtien de l'agriculture, Azacca fait partie d'une nouvelle couvée de houblons amers nains. Descendant directement de Toyomidori, sa plus grande parenté comprend également Summit™ et Northern Brewer. Cultivé par l'American Dwarf Hop Association, une entreprise conjointe de sélection de houblon entre Roy Farms, Wyckoff Farms et Green Acres Farms, Azacca est considéré par de nombreux brasseurs comme étant bien adapté aux IPA. Même avec ses acides alpha élevés, l'Azacca fonctionne bien comme un houblon à double usage, dégageant un agréable mélange de fruits tropicaux embrassés par des agrumes. En bouche, il est particulièrement épicé, avec de la mangue, de l'ananas et des qualités semblables à celles du pin et de la mandarine. Il a également été comparé à certaines variétés néo-zélandaises.",
+  "aaMin": 14,
+  "aaMax": 16,
+  "baMin": 4,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "cohumulone": "38 - 45",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "herbeux",
+    "ananas",
+    "citron",
+    "mangue",
+    "pamplemousse",
+    "fruits-tropicaux",
+    "papaye",
+    "orange-6"
+  ]
+}

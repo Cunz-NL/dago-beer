@@ -1,0 +1,18 @@
+{
+  "slug": "galaxy-C2AE",
+  "nom": "Galaxy ®",
+  "description": "Descendant de la variété allemande Perle, Galaxy® est une race australienne unique de houblon qui a la particularité de présenter le plus haut pourcentage d'huiles essentielles de l'industrie. Il possède un arôme étonnant d'agrumes, de pêche et de fruit de la passion, surtout lorsqu'il est utilisé comme ajout tardif. Sa saveur est souvent assez intense à la production mais s'adoucit au fur et à mesure de sa maturation. Galaxy® a bénéficié de sa première production commerciale en 2009 après neuf ans d'essais et est rapidement devenue populaire en Australie et à l'étranger.",
+  "aaMin": 11.6,
+  "aaMax": 16,
+  "baMin": 5,
+  "baMax": 6.9,
+  "usage": "Double usage",
+  "cohumulone": "35 - 35",
+  "aromes": [
+    "citron",
+    "myrtille",
+    "fruit-de-la-passion",
+    "peche",
+    "cassis"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-manufacture-de-bieres",
+  "nom": "Brasserie La Manufacture de Bières",
+  "cp": "86000",
+  "ville": "POITIERS",
+  "region": "poitou-charentes",
+  "departement": "vienne-86",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a1434e885b621f592463ea_12814174_1157437787622419_4394790215521095878_n.png",
+  "website": "http://www.lamanufacturedebieres.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-caquot",
+  "nom": "Brasserie Caquot",
+  "cp": "73410",
+  "ville": "ENTRELACS",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b760577d7fe40477510c_146711282_1348370232200974_5361600892750441330_n.jpeg",
+  "website": "http://brasseriecaquot.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

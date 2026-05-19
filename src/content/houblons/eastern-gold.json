@@ -1,0 +1,12 @@
+{
+  "slug": "eastern-gold",
+  "nom": "Eastern Gold",
+  "description": "Eastern Gold est une variété Super Alpha développée au Japon par Kirin Brewing Co. Ltd Hops Research à partir du Kirin No. 2 et du OB79, un houblon américain sauvage à pollinisation ouverte. Malgré son potentiel de rendement, son taux élevé d'acides alpha et sa stabilité au stockage, il semble qu'il ne soit pas actuellement cultivé dans une capacité commerciale significative. On sait très peu de choses sur l'histoire de son utilisation et son profil de saveur, mais il a été initialement cultivé dans une veine similaire à celle de Toyomidori et Kitamidori dans le but de remplacer Kirin No. 2 par une variété similaire, mais avec un taux d'alpha plus élevé.",
+  "aaMin": 11,
+  "aaMax": 14,
+  "baMin": 5,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "stabilite": "Très bonne : 80",
+  "aromes": []
+}

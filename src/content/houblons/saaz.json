@@ -1,0 +1,21 @@
+{
+  "slug": "saaz",
+  "nom": "Saaz",
+  "description": "Officiellement enregistrée en 1952, la Saaz originale, ou Saaz tchèque comme on l'appelle parfois, s'est imposée comme une variété de base pour les brasseurs et remonte à plus de 700 ans. Originaire de Zatec, en Bohême (qui fait maintenant partie de la République tchèque), c'est une variété de vigne rouge estimée qui est maintenant cultivée dans le monde entier. La Nouvelle-Zélande, en particulier, a adopté le Saaz et a créé plusieurs descendants, dont les populaires variétés Motueka et Riwaka (Saaz B et D, respectivement). Le Saaz est l'un des quatre houblons nobles originaux et possède un arôme distinctif et classique. Il est connu pour son utilisation importante dans la Stella Artois et d'innombrables lagers et pilsners de Bohème. Son caractère chaud et herbacé provient d'un niveau élevé de farnésène, tandis que ses autres huiles sont bien équilibrées. Avec un pourcentage d'acide alpha aussi bas, le Saaz est indiscutablement un houblon aromatique, mais lorsqu'il est utilisé en tant qu'ajout précoce, on pense qu'il ajoute une délicate amertume. En outre, sa teneur élevée en polyphénols contribue à réduire l'oxydation, ce qui donne à la bière brassée avec le Saaz une durée de conservation nettement plus longue. La culture de la Saaz n'est pas sans difficultés. Plus précisément, elle a un rendement maigre, une faible résistance au mildiou et des cônes légers. La variété originale de Saaz a été clonée avec succès 9 fois entre 1952 et 1993 dans le but d'améliorer ces facteurs. À l'origine, les cultivateurs hésitaient à l'hybrider, craignant de perdre son arôme caractéristique et délicat. Cette hybridation est cependant devenue nécessaire pour obtenir une résistance au flétrissement et au mildiou et en faire une culture plus viable. Malgré ces quelques défauts, les brasseries l'utilisent de manière prolifique dans le monde entier.",
+  "aaMin": 2.5,
+  "aaMax": 4.5,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Aromatique",
+  "stabilite": "Moyenne : 50",
+  "cohumulone": "23 - 26",
+  "myrcene": "20 - 42",
+  "caryophyllene": "6 - 12",
+  "humulene": "15 - 30",
+  "aromes": [
+    "herbeux",
+    "citron",
+    "floral",
+    "terreux"
+  ]
+}

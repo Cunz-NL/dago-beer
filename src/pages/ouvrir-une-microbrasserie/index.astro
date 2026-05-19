@@ -1,0 +1,61 @@
+---
+import Base from '@/layouts/Base.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles'))
+  .filter((a) => a.data.tags.includes('microbrasseries'))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Base
+  title="Ouvrir une microbrasserie en France — Guide complet — Dago Beer"
+  description="Tout ce qu'il faut savoir pour ouvrir votre microbrasserie : démarches administratives, matériel, réglementation, formation et financement. Le guide complet."
+  canonical="https://www.dago.beer/ouvrir-une-microbrasserie"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Ouvrir une microbrasserie' }]} />
+
+    <header class="mb-12 max-w-3xl">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-4">
+        Ouvrir une <span class="text-amber-brand">microbrasserie</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        De l'idée à l'ouverture : guides pratiques, réglementation, matériel et retours d'expérience pour lancer votre projet brassicole.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5 mb-16">
+      {[
+        { icon: '📋', titre: 'Démarches', desc: 'Licences, douanes, agrément sanitaire : toutes les formalités.' },
+        { icon: '⚙️', titre: 'Matériel', desc: 'Choisir son matériel de brassage selon votre volume de production.' },
+        { icon: '🎓', titre: 'Formation', desc: 'Quelle formation de brasseur choisir pour ouvrir sa microbrasserie ?' },
+      ].map((item) => (
+        <div class="bg-surface border border-white/10 rounded-xl p-6 text-center">
+          <div class="text-4xl mb-3">{item.icon}</div>
+          <h3 class="font-heading text-lg font-semibold text-white mb-2">{item.titre}</h3>
+          <p class="font-body text-sm text-muted/60">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+
+    {articles.length > 0 && (
+      <section>
+        <h2 class="font-heading text-2xl font-bold text-white mb-6">Guides pratiques</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {articles.map((article) => (
+            <ArticleCard
+              slug={article.id.replace(/\.mdx?$/, '')}
+              titre={article.data.titre}
+              date={article.data.date}
+              excerpt={article.data.excerpt}
+              image={article.data.image}
+              tags={article.data.tags}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

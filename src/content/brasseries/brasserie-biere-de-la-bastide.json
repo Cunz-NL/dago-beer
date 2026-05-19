@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-biere-de-la-bastide",
+  "nom": "Brasserie Bière de la Bastide",
+  "cp": "24540",
+  "ville": "MONPAZIER",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe449c32e4e3ffaa7fc42_21432900_1796851907075270_410475666169969239_n.jpeg",
+  "website": "https://bierebastide.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-utopies",
+  "nom": "Brasserie des Utopies",
+  "cp": "26600",
+  "ville": "CHANOS-CURSON",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606464c73e7c20b4fa84310b_43599449_412420819290878_8273489308665511936_n.jpeg",
+  "website": "http://brasseriedesutopies.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

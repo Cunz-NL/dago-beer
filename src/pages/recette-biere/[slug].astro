@@ -1,0 +1,103 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const recettes = await getCollection('recettes');
+  return recettes.map((r) => ({
+    params: { slug: r.data.slug },
+    props: { recette: r },
+  }));
+}
+
+const { recette } = Astro.props;
+const { nom, description, image, style, ibu, srm, og, fg, abv, batchSize, boilTime, intro, maltComposition, houblonComposition, levureComposition } = recette.data;
+---
+
+<Base
+  title={`Recette ${nom} — Brassage amateur — Dago Beer`}
+  description={description ?? `Fiche technique complète de la recette ${nom}. Composition malt, houblon, levure, IBU, ABV, SRM.`}
+  canonical={`https://www.dago.beer/recette-biere/${recette.data.slug}`}
+  image={image}
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brassage amateur', href: '/brassage-amateur' },
+        { label: 'Recettes', href: '/recette-biere' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-8">
+      <h1 class="font-heading text-4xl font-bold text-white mb-2">{nom}</h1>
+      {style && <p class="font-body text-lg text-amber-brand">{style}</p>}
+      {description && <p class="font-body text-muted/70 mt-3">{description}</p>}
+    </header>
+
+    {image && (
+      <div class="rounded-xl overflow-hidden aspect-video mb-8">
+        <img src={image} alt={nom} class="w-full h-full object-cover" />
+      </div>
+    )}
+
+    {intro && (
+      <div class="bg-surface border border-white/10 rounded-xl p-6 mb-8">
+        <p class="font-body text-muted/80 leading-relaxed">{intro}</p>
+      </div>
+    )}
+
+    <!-- Stats techniques -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 mb-8">
+      {[
+        { label: 'ABV', value: abv !== undefined ? `${abv.toFixed(1)}%` : null },
+        { label: 'IBU', value: ibu !== undefined ? String(ibu) : null },
+        { label: 'SRM', value: srm !== undefined ? String(srm) : null },
+        { label: 'OG', value: og !== undefined ? String(og) : null },
+        { label: 'FG', value: fg !== undefined ? String(fg) : null },
+        { label: 'Volume', value: batchSize || null },
+        { label: 'Ébullition', value: boilTime ? `${boilTime} min` : null },
+      ].filter((s) => s.value !== null).map((stat) => (
+        <div class="bg-surface border border-white/10 rounded-lg p-4 text-center">
+          <p class="font-body text-xs text-muted/50 uppercase tracking-wider mb-1">{stat.label}</p>
+          <p class="font-heading text-2xl font-bold text-amber-brand">{stat.value}</p>
+        </div>
+      ))}
+    </div>
+
+    <!-- Composition -->
+    <div class="space-y-4 mb-8">
+      {maltComposition && (
+        <details class="bg-surface border border-white/10 rounded-xl overflow-hidden">
+          <summary class="font-heading text-lg font-semibold text-white px-6 py-4 cursor-pointer hover:bg-white/5 transition-colors">
+            🌾 Composition malt
+          </summary>
+          <div class="px-6 pb-6 font-body text-muted/70 text-sm leading-relaxed overflow-x-auto" set:html={maltComposition} />
+        </details>
+      )}
+      {houblonComposition && (
+        <details class="bg-surface border border-white/10 rounded-xl overflow-hidden">
+          <summary class="font-heading text-lg font-semibold text-white px-6 py-4 cursor-pointer hover:bg-white/5 transition-colors">
+            🌿 Composition houblon
+          </summary>
+          <div class="px-6 pb-6 font-body text-muted/70 text-sm leading-relaxed overflow-x-auto" set:html={houblonComposition} />
+        </details>
+      )}
+      {levureComposition && (
+        <details class="bg-surface border border-white/10 rounded-xl overflow-hidden">
+          <summary class="font-heading text-lg font-semibold text-white px-6 py-4 cursor-pointer hover:bg-white/5 transition-colors">
+            🧫 Levure
+          </summary>
+          <div class="px-6 pb-6 font-body text-muted/70 text-sm" set:html={levureComposition} />
+        </details>
+      )}
+    </div>
+
+    <div class="mt-8">
+      <a href="/recette-biere" class="font-body text-sm text-muted/50 hover:text-amber-brand transition-colors">
+        ← Toutes les recettes
+      </a>
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-borgne",
+  "nom": "Brasserie Borgne",
+  "cp": "30270",
+  "ville": "SAINT-JEAN-DU-GARD",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab4af1c7d839b99279c4_38844029_498713710590383_8139807154497388544_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

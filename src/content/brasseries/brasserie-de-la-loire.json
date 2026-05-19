@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-loire",
+  "nom": "Brasserie de la Loire",
+  "cp": "42170",
+  "ville": "SAINT-JUST-SAINT-RAMBERT",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086969e1e7766e298943e77_21768012_1957163144496719_3007100527108323370_n.jpeg",
+  "website": "http://www.brasseriedelaloire.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

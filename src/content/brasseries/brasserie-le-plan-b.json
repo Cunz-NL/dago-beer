@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-plan-b",
+  "nom": "Brasserie Le Plan B",
+  "cp": "63000",
+  "ville": "CLERMONT-FERRAND",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d416e1590cebe6420bc6_plan-b-logo-white-large.jpeg",
+  "website": "http://www.bieres-leplanb.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

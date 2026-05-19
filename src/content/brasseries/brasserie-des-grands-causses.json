@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-grands-causses",
+  "nom": "Brasserie des Grands Causses",
+  "cp": "12100",
+  "ville": "MILLAU",
+  "region": "midi-pyrenees",
+  "departement": "aveyron-12",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b985b64f3a1c8edf0c2b_16177602_396006970791124_4875081503437196533_o.png",
+  "website": "http://www.bieres-millau-aveyron-grands-causses.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

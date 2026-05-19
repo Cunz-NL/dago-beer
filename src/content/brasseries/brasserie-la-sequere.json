@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-la-sequere",
+  "nom": "Brasserie La Séquère",
+  "cp": "40510",
+  "ville": "SEIGNOSSE",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "description": "Créée en 2010 à SEIGNOSSE",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bcd443e359d35cbe66323_Vue%20de%20dehors.jpg",
+  "website": "http://www.lasequere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

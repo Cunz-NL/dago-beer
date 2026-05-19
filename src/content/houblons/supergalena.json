@@ -1,0 +1,17 @@
+{
+  "slug": "supergalena",
+  "nom": "SuperGalena",
+  "aaMin": 13,
+  "aaMax": 16,
+  "baMin": 8,
+  "baMax": 10,
+  "usage": "Aromatique",
+  "aromes": [
+    "epice",
+    "herbeux",
+    "fruite",
+    "fraise",
+    "prune",
+    "baie-de-genevrier"
+  ]
+}

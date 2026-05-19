@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-km5",
+  "nom": "Brasserie KM5",
+  "cp": "33420",
+  "ville": "GÉNISSAC",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093b71332602486510bba9c_LOGO%20KM5.jpg",
+  "website": "http://km5biere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-laurore",
+  "nom": "Brasserie de l'Aurore",
+  "cp": "37310",
+  "ville": "Cormery",
+  "region": "centre",
+  "departement": "indre-et-loire-37",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca14a1ca6e6d13db80caa0_15578193_1147638165304630_2031947499935690926_o.png",
+  "website": "http://www.brasserie-aurore.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

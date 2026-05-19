@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-marsienne",
+  "nom": "Brasserie La Marsienne",
+  "cp": "23700",
+  "ville": "AUZANCES",
+  "region": "limousin",
+  "departement": "creuse-23",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891ad4a2c4cbd31456e2a5_51733887_804786439865611_1187481727753256960_n.png",
+  "website": "https://www.brasserie-lamarsienne.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

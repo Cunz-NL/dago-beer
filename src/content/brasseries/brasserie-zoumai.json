@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-zoumai",
+  "nom": "Brasserie Zoumaï",
+  "cp": "13006",
+  "ville": "MARSEILLE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d043b207fddbc9113c87ca_Zbiere.png",
+  "website": "http://brasseriezoumai.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-halles",
+  "nom": "Brasserie des Halles",
+  "cp": "68100",
+  "ville": "MULHOUSE",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cf6e69d6570ea31820b5_32703913_2046198335408474_3968923336284569600_n.png",
+  "website": "https://les-halles.fr/halles-nature-mulhouse",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

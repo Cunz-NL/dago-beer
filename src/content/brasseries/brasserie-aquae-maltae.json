@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-aquae-maltae",
+  "nom": "Brasserie Aquae Maltae",
+  "cp": "13090",
+  "ville": "AIX-EN-PROVENCE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b9aab64f3a4ea9df245f_les-soirees-du-samedi.jpeg",
+  "website": "http://www.aquaemaltae.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

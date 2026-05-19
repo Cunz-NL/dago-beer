@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-veilleur-de-bieres",
+  "nom": "Brasserie Le Veilleur de Bières",
+  "cp": "31600",
+  "ville": "MURET",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca12e5f7869e58a4e64a39_13620077_1133227816742251_8933912190750239535_n.png",
+  "website": "http://leveilleurdebieres.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

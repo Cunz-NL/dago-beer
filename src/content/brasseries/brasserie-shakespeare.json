@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-shakespeare",
+  "nom": "Brasserie Shakespeare",
+  "cp": "64190",
+  "ville": "NAVARRENX",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc1475b0d166dbb646a03_19601563_1134208090056640_2062757263078994347_n.jpeg",
+  "website": "http://www.shakespearebrasserie.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

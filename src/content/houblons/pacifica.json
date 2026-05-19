@@ -1,0 +1,16 @@
+{
+  "slug": "pacifica",
+  "nom": "Pacifica",
+  "description": "Cultivé en Nouvelle-Zélande, le houblon aromatique triploïde Pacifica, ou Pacific Hallertau comme on l'appelle parfois, est le résultat de la pollinisation ouverte du houblon allemand Hallertauer Mittelfrüher. Ce houblon a été mis en circulation par HortResearch, Nouvelle-Zélande, après des essais prometteurs en brasserie en 1994. Comme Hallertauer Mittelfrüher, Pacifica est surtout connu pour ses propriétés aromatiques. Il se caractérise par un taux de cohumulone modérément bas et un taux de carophyllène plus élevé, ce qui lui confère un arôme épicé et résolument floral. Des notes d'agrumes sont également évidentes et on dit qu'elle transmet des arômes d'orange lorsqu'elle est utilisée tard dans l'ébullition. La brasserie Sierra Nevada a lancé Pacifica dans sa Southern Hemisphere Harvest fresh hops ale en avril 2014, en l'utilisant comme ajout amérisant aux côtés de Southern Cross et Motueka comme houblon de finition.",
+  "aaMin": 5,
+  "aaMax": 6,
+  "baMin": 5.9,
+  "baMax": 6.1,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "aromes": [
+    "agrumes",
+    "orange-6",
+    "floral"
+  ]
+}

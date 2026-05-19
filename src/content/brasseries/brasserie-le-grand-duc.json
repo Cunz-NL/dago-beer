@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-grand-duc",
+  "nom": "Brasserie Le Grand Duc",
+  "cp": "89570",
+  "ville": "LASSON",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a367da3172d46039afc47b_64884256_709145009516646_6059320323390570496_n.png",
+  "website": "https://legrandduc-microbrasserie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

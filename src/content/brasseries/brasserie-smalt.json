@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-smalt",
+  "nom": "Brasserie Smalt",
+  "cp": "84240",
+  "ville": "ANSOUIS",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "vaucluse-84",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6094e2d3eeb461271259d930_91355469_229520398429664_2109862371596959744_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

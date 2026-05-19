@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-jean-brasse",
+  "nom": "Brasserie Jean Brasse",
+  "cp": "32200",
+  "ville": "GIMONT",
+  "region": "midi-pyrenees",
+  "departement": "gers-32",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab15f6347c97c4328998_46107061_876679349204562_4557720948354056192_n.jpeg",
+  "website": "http://www.jeanbrasse.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

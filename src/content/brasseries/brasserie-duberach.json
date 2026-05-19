@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-duberach",
+  "nom": "Brasserie d'Uberach",
+  "cp": "67350",
+  "ville": "UBERACH",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a4c64964f2cfb2d8b01d_Uberach.jpeg",
+  "website": "http://www.brasserie-uberach.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

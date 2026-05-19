@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-debauche",
+  "nom": "Brasserie La Débauche",
+  "cp": "16000",
+  "ville": "ANGOULÊME",
+  "region": "poitou-charentes",
+  "departement": "charente-16",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76be5f20253b2a20f67bd_149873592_1756023147911821_4842249233116182016_n.jpeg",
+  "website": "http://www.brasserie-ladebauche.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

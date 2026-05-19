@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-chaudron",
+  "nom": "Brasserie du Chaudron",
+  "cp": "54200",
+  "ville": "CHAUDENAY-SUR-MOSELLE",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e0c14b935fc8a92a55c_restaurant-le-chaudron.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

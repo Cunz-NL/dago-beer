@@ -1,0 +1,19 @@
+{
+  "slug": "comet",
+  "nom": "Comet",
+  "description": "Comet a une parenté intrigante entre l'English Sunshine et un houblon indigène américain, ce qui lui confère une saveur \"américaine sauvage\". Lancé en 1974 par l'USDA, le Comet a été initialement sélectionné pour répondre aux besoins en houblons à alpha élevé. Aujourd'hui, il n'est plus produit commercialement et est assez difficile à trouver. Le profil de saveur de la Comet repose sur un fort accent de pamplemousse. Il possède de solides capacités d'amertume et, traditionnellement, les brasseurs le considéraient comme l'agent amérisant le mieux adapté aux lagers de style américain. Récemment, cependant, on a constaté une augmentation de son utilisation comme houblon sec dans les ales et les IPA.",
+  "aaMin": 9.4,
+  "aaMax": 12.4,
+  "baMin": 3,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "stabilite": "Mauvaise : 50",
+  "cohumulone": "34 - 37",
+  "aromes": [
+    "resineux",
+    "mandarine",
+    "citronnelle",
+    "pamplemousse",
+    "geranium"
+  ]
+}

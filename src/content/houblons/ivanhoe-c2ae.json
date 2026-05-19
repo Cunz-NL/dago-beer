@@ -1,0 +1,12 @@
+{
+  "slug": "ivanhoe-C2AE",
+  "nom": "Ivanhoe ®",
+  "description": "Ivanhoe est l'un des premiers renouvellements du California Cluster depuis plus de 50 ans. Ressuscité par la ferme de houblon biologique Hops-Mesiter, LLC près de Clearlake, en Californie, il s'agit d'un type aromatique européen et a été comparé à un Cascade plus modéré. Il présente un arôme agréable et doux d'agrumes et de pin, mais avec des notes florales et herbacées capiteuses.",
+  "aaMin": 6.5,
+  "aaMax": 9,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "floral"
+  ]
+}

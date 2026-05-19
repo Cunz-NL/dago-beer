@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-kruger",
+  "nom": "Brasserie Krüger",
+  "cp": "69360",
+  "ville": "SOLAIZE",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec9dcb5a706f1ac73820_22339045_294042467670339_2580802311825095888_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

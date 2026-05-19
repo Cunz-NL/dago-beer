@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ks",
+  "nom": "Brasserie KS",
+  "cp": "68000",
+  "ville": "COLMAR",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cea3b9b02dc173803f9c_31081483_2064928490418739_3699470479841558528_n.png",
+  "website": "http://www.brasserieks.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

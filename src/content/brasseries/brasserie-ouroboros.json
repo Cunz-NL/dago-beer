@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ouroboros",
+  "nom": "Brasserie Ouroboros",
+  "cp": "43150",
+  "ville": "FREYCENET-LA-TOUR",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852dd64b77a44fe1105a2a_ouroboros_logo.png",
+  "website": "http://www.ouroboros.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

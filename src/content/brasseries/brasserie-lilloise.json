@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lilloise",
+  "nom": "Brasserie Lilloise",
+  "cp": "59223",
+  "ville": "lille-59000",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6a81257aaacc90c0d9b7_1519906622208.png",
+  "website": "http://www.brasserie-lilloise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

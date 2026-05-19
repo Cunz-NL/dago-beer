@@ -1,0 +1,16 @@
+{
+  "slug": "cicero",
+  "nom": "Cicero",
+  "description": "Sœur de Cekin, Cicero est un houblon à double usage avec un arôme de type styrien, sélectionné à partir d'Aurora, un mâle tétraploïde yougoslave et un mâle tétraploïde USDA. Développé en Slovénie dans les années 1980, Cicero possède une vigueur et un potentiel de rendement très élevés dans sa région d'origine, mais n'a pas été testé correctement aux États-Unis.",
+  "aaMin": 6,
+  "aaMax": 7,
+  "baMin": 2.5,
+  "baMax": 2.7,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 80",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

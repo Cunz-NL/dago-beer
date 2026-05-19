@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-distrikt",
+  "nom": "Brasserie Distrikt",
+  "cp": "78850",
+  "ville": "#N/A",
+  "region": "ile-de-france",
+  "departement": "yvelines-78",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f50ded9ef6bdf7bf73cf_District%2BLogo.png",
+  "website": "http://www.distriktbeer.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

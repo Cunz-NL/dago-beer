@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-brasseurs-de-beauvais",
+  "nom": "Brasserie Brasseurs de Beauvais",
+  "cp": "60000",
+  "ville": "BEAUVAIS",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf51402d3638e841185b1_100637832_1448990591974441_1478081633067204608_n.png",
+  "website": "http://www.brasseriecorreus.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

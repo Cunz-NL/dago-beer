@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-midi",
+  "nom": "Brasserie du Midi",
+  "cp": "31850",
+  "ville": "MONTRABÉ",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad350ac88f0e4344ae8e51_LOGO-Brasserie-du-Midi.png",
+  "website": "http://www.brasserie-du-midi.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

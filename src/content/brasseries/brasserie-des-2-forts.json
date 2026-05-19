@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-2-forts",
+  "nom": "Brasserie des 2 Forts",
+  "cp": "59153",
+  "ville": "Grand-Fort-Philippe",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf4f7606fa60d5d37384f_logo-brasserie-coul.png",
+  "website": "http://microbrasseriedes2forts.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

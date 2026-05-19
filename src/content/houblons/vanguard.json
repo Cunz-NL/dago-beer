@@ -1,0 +1,20 @@
+{
+  "slug": "vanguard",
+  "nom": "Vanguard",
+  "description": "Le houblon Vanguard possède un profil acide unique. Il présente un équilibre assez rare entre un faible taux d'acide alpha et un taux élevé d'acide bêta, ainsi qu'un profil huileux dominé par des niveaux élevés d'humulène et des niveaux très faibles de cohumulone. Bien qu'elle présente certaines similitudes avec la Hallertau Mittelfrüh, sûrement en raison de leur lignée proche, ce profil inhabituel confère à la Vanguard un caractère boisé et herbacé prononcé surmontant un piquant définitif. Il est suggéré que la qualité épicée est particulièrement évidente lorsque Vanguard est utilisé comme un ajout précoce. Vanguard est la dernière variété dérivée de Hallertau issue du programme de sélection de houblon de l'USDA et a été commercialisée dans le monde de la brasserie en 1997, après 15 longues années de développement et de tests. Ils sont cultivés principalement aux États-Unis et sont considérés comme excellents pour ajouter une composante aromatique de style européen aux bières de style allemand.",
+  "aaMin": 4,
+  "aaMax": 6.5,
+  "baMin": 5,
+  "baMax": 7.5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 75",
+  "myrcene": "20 - 25",
+  "caryophyllene": "12 - 14",
+  "humulene": "45 - 45",
+  "aromes": [
+    "agrumes",
+    "fruits-tropicaux",
+    "cedre",
+    "boise"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-quardin",
+  "nom": "Brasserie Quardin",
+  "cp": "73800",
+  "ville": "CHIGNIN",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b7534b744b820b3de234_89769133_3334371403259533_8692487377257496576_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

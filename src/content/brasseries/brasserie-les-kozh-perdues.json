@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-les-kozh-perdues",
+  "nom": "Brasserie Les Kozh Perdues",
+  "cp": "22420",
+  "ville": "#N/A",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f3984219a5e3db87381ad_la-brasserie-du-bout.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

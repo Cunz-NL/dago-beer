@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-moehau",
+  "nom": "Brasserie Moehau",
+  "cp": "31800",
+  "ville": "POINTIS-INARD",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab1196748f58f4edd1bc_front_fr.4.full.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

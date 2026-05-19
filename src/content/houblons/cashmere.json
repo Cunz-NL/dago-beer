@@ -1,0 +1,20 @@
+{
+  "slug": "cashmere",
+  "nom": "Cashmere",
+  "description": "Développée par l'université de l'État de Washington et commercialisée en 2013, la Cashmere est le résultat d'un mariage entre la Cascade et la Northern Brewer. Fortuitement, il présente des acides alpha plus élevés que ceux du Cascade. Bon houblon à double usage, Cashmere met en valeur des saveurs de citron, de lime et de melon, présente une amertume douce et est légèrement aromatique avec un subtil bouquet d'herbes.",
+  "aaMin": 7.7,
+  "aaMax": 9.1,
+  "baMin": 3.5,
+  "baMax": 4.5,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 75",
+  "cohumulone": "22 - 24",
+  "aromes": [
+    "noix-de-coco",
+    "herbeux",
+    "ananas",
+    "citron",
+    "amertume-b",
+    "melon"
+  ]
+}

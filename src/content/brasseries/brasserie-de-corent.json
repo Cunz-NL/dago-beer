@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-corent",
+  "nom": "Brasserie de Corent",
+  "cp": "63730",
+  "ville": "CORENT",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6083378302cf4969854215e4_1072618_219879228160602_390681924_o.jpeg",
+  "website": "http://www.bieredecorent.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

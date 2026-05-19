@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-coreff",
+  "nom": "Brasserie Coreff",
+  "cp": "29270",
+  "ville": "CARHAIX-PLOUGUER",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "description": "creee en 1985 à CARHAIX-PLOUGUER (29)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60899cc6076df923f1eea687_LOGO%20COREFF%20POSITIF%20axe%20de%2020%25.jpg",
+  "website": "http://www.coreff.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

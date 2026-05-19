@@ -1,0 +1,19 @@
+{
+  "slug": "celeia",
+  "nom": "Celeia",
+  "description": "Celeia est la descendance triploïde de Styrian Golding, Aurora et d'un houblon sauvage slovène. Il se caractérise par un profil très équilibré et une très bonne stabilité au stockage. C'est un houblon polyvalent, qui a été largement utilisé dans les Lagers, Pilsners, ales de style anglais et ESBs. Il aime les sols argileux profonds et nécessite une grande distance de plantation. Malheureusement, le Celeia n'a pas été bien accueilli par les brasseries à ce jour et n'est pas cultivé en grandes quantités commerciales. Elle est décrite comme légèrement citronnée et florale au nez, agréablement amère et en symétrie avec son arôme.",
+  "aaMin": 3,
+  "aaMax": 6.5,
+  "baMin": 2,
+  "baMax": 4,
+  "usage": "Aromatique",
+  "stabilite": "Moyenne : 55",
+  "aromes": [
+    "floral",
+    "citron",
+    "menthole",
+    "amertume-b",
+    "gingembre",
+    "thym"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-musteline",
+  "nom": "Brasserie La Musteline",
+  "cp": "2160",
+  "ville": "JUMIGNY",
+  "region": "picardie",
+  "departement": "aisne-02",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3695c2a346f3ddf217257_46519978_2112284358829922_3444162153295118336_n.jpeg",
+  "website": "https://la-musteline.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

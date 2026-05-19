@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-abers-ets-adam",
+  "nom": "Brasserie des Abers",
+  "cp": "29830",
+  "ville": "PLOUDALMEZEAU",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6085de55e1bd68fc3d423577_logo%20noir%20et%20blanc-2-page-001.jpg",
+  "website": "https://www.brasseriedesabers.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

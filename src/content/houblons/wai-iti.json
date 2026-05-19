@@ -1,0 +1,18 @@
+{
+  "slug": "wai-iti",
+  "nom": "Wai-iti",
+  "description": "Un houblon triploïde vraiment moderne, Wai-iti apporte une touche fraîche de citron vert et de fruits à noyau. Il a été mis à la disposition des brasseurs en 2011 aux côtés du Kohatu par le New Zealand Plant & Food Research et se caractérise par un taux d'acides bêta plus élevé que celui des acides alpha, une faible teneur en cohumulone et une teneur en huile robuste. Son héritage est constitué des variétés remarquables Hallertauer Mittelfrüh comme parent 1/3 et Liberty comme grand-parent. Malgré sa faible teneur en alpha, sa faible teneur en cohumulone et sa forte teneur en farnésène suggèrent une amertume douce et une aptitude potentielle pour les bières à un seul houblon. Lorsqu'elle est brassée en tant qu'addition intermédiaire ou tardive, les arômes d'agrumes de la Wai-iti passent au second plan et laissent place à une présence plus marquée de fruits à noyau. Certains pensent que la Wai-iti est similaire à la Riwaka, mais qu'elle est plus douce et plus ronde.",
+  "aaMin": 2.5,
+  "aaMax": 3.5,
+  "baMin": 4.5,
+  "baMax": 5.5,
+  "usage": "Aromatique",
+  "cohumulone": "22 - 24",
+  "aromes": [
+    "agrumes",
+    "fruit-a-noyau",
+    "peche",
+    "abricot",
+    "citron-vert"
+  ]
+}

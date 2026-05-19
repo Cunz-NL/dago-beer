@@ -1,0 +1,22 @@
+{
+  "slug": "barbe-rouge",
+  "nom": "Barbe Rouge",
+  "description": "Barbe Rouge est une variété issue du programme de recherche variétale en Alsace. Provient du Strisselspalt. Son arôme prononcé s'éloigne des classiques avec des notes de fruits rouges avec une teneur en acides Alpha relativement haute. Son amertume est élégante et peu persistante. Ses notes aromatiques sont douces, épicées, herbals et légèrement agrumes et une bonne proportion d'arome de fruits rouges.",
+  "aaMin": 8,
+  "aaMax": 10,
+  "baMin": 3.6,
+  "baMax": 4.6,
+  "usage": "Double usage",
+  "cohumulone": "26.2",
+  "myrcene": "35 - 52",
+  "humulene": "15 - 25",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "herbeux",
+    "fruits-rouges",
+    "citron",
+    "fraise",
+    "cerise"
+  ]
+}

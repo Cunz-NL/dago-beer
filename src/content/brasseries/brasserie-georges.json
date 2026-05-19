@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-georges",
+  "nom": "Brasserie Georges",
+  "cp": "69002",
+  "ville": "LYON",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "website": "http://www.brasseriegeorges.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

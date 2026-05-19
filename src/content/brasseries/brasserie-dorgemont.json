@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dorgemont",
+  "nom": "Brasserie d'Orgemont",
+  "cp": "51600",
+  "ville": "LA CHEPPE",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e2ff88c2b98652957f0_logo-white.png",
+  "website": "http://www.orgemont.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

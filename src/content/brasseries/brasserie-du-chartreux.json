@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-chartreux",
+  "nom": "Brasserie du Chartreux",
+  "cp": "69430",
+  "ville": "LANTIGNIÉ",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decae91fa19448a5115b6_brasserie-des-chartreux.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "kirin-ii",
+  "nom": "Kirin II",
+  "description": "Kirin II est l'un des rares houblons japonais à avoir vu le jour depuis la décision du gouvernement japonais de réduire l'importation de houblon pour la bière. La variété est cultivée dans le pays et uniquement sous contrat gouvernemental. La variété a été développée par Kirin Brewery Co. en tant que sélection clonale de Shinshuwase et en tant que telle, elle descend directement de Saaz et de White Vine à pollinisation ouverte.",
+  "aaMin": 7.5,
+  "aaMax": 8.2,
+  "baMin": 6.2,
+  "baMax": 6.4,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "aromes": []
+}

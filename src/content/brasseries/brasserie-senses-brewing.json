@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-senses-brewing",
+  "nom": "Brasserie Senses Brewing",
+  "cp": "51100",
+  "ville": "reims-51100",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cafb0b1d93856410120b1d_40248492_2150361901907712_7638011866014285824_n.jpeg",
+  "website": "http://sensesbrewing.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

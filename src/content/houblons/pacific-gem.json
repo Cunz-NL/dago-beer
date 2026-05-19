@@ -1,0 +1,24 @@
+{
+  "slug": "pacific-gem",
+  "nom": "Pacific Gem",
+  "description": "Pacific Gem est une variété de houblon néo-zélandaise au caractère intéressant. Obtenu au Centre de recherche horticole de Nouvelle-Zélande comme un croisement triploïde entre Smooth Cone, California Late Cluster et Fuggle, il est utilisé dans le monde entier dans divers styles, mais surtout dans les lagers européennes. Elle a été mise sur le marché en 1987. Malgré sa teneur élevée en acides alpha, sa teneur élevée en cohumulone rend son utilisation comme houblon amérisant problématique. Il peut être, et est, utilisé comme un ajout précoce mais est plus connu pour son arôme et sa saveur. Lorsqu'il est utilisé en tant qu'addition tardive, il peut apporter un arôme délicat à la bière résultante qui est lisse et semblable au chêne avec des notes de mûre.",
+  "aaMin": 13,
+  "aaMax": 15,
+  "baMin": 5,
+  "baMax": 9,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 75",
+  "myrcene": "33 - 55",
+  "caryophyllene": "7 - 11",
+  "humulene": "18 - 18",
+  "aromes": [
+    "floral",
+    "boise",
+    "epice",
+    "fruite",
+    "poivre",
+    "cassis",
+    "terreux",
+    "chene"
+  ]
+}

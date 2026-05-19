@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-la-petite-aixoise",
+  "nom": "Brasserie La Petite Aixoise",
+  "cp": "13760",
+  "ville": "Saint Cannat",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "description": "Créée en 2015 à Saint Cannat",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bb7910d853978606486df_logo.png",
+  "website": "http://www.lapetiteaixoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

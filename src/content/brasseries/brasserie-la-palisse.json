@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-palisse",
+  "nom": "Brasserie La Palisse",
+  "cp": "36800",
+  "ville": "NURET-LE-FERRON",
+  "region": "centre",
+  "departement": "indre-36",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca1542fd0f036c766f560a_lavalliere-as-dinesita-and-brasseur-as-baron-de-la-palisse-in-monsieur-ke53mx.jpeg",
+  "website": "http://www.brasserielapalisse.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

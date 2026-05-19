@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-9-mondes",
+  "nom": "Brasserie des 9 Mondes",
+  "cp": "14860",
+  "ville": "RANVILLE",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76be05d02032d340c75a6_Brasserie-9-mondes-Ranville.jpeg",
+  "website": "http://www.brasseriedes9mondes.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

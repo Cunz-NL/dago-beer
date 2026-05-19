@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-skumenn",
+  "nom": "Brasserie Skumenn",
+  "cp": "35690",
+  "ville": "ACIGNÉ",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca14c1d3ac0408b6141e15_119597033_2844073562492652_4665408540563377992_n.png",
+  "website": "http://www.skumenn.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

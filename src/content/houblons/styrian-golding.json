@@ -1,0 +1,20 @@
+{
+  "slug": "styrian-golding",
+  "nom": "Styrian Golding",
+  "description": "Le Styrian Golding ou Savinjski Golding, comme on l'appelle communément, est connu sous une multitude d'alias parfois déroutants. Le fait qu'elle ne provienne pas du tout d'une Golding est encore plus déroutant, car elle est plutôt le résultat de la sélection clonale de la Fuggle et, en tant que telle, elle présente de nombreuses caractéristiques semblables à la Fuggle. Elle était considérée comme une culture importante dans les années 1930, à la fois en Styrie, un État autrichien, et de l'autre côté de la rivière Savinja en Slovénie (ex-Yougoslavie). Sa longévité a été attribuée à sa résistance aux maladies, notamment au mildiou. C'est aujourd'hui un houblon de renommée mondiale et très demandé. Du point de vue du brasseur, le Styrian Golding est un houblon aromatique agréable et présente des saveurs résineuses et terreuses qui sont peut-être considérées comme légèrement plus raffinées que celles du Fuggle. Il a également été décrit comme conférant des arômes subtils de poivre blanc à un brassin.",
+  "aaMin": 2.8,
+  "aaMax": 6,
+  "baMin": 2,
+  "baMax": 3.5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 70",
+  "cohumulone": "28 - 35",
+  "myrcene": "27 - 33",
+  "caryophyllene": "9 - 11",
+  "humulene": "34 - 34",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

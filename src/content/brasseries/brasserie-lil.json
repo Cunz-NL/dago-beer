@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lil",
+  "nom": "Brasserie LIL",
+  "cp": "59000",
+  "ville": "lille-59000",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a690071a7ad0e311d4c65_173177994_3777632225619361_4198273082451496561_n.jpeg",
+  "website": "https://www.le-ici.com/brasserie-bjb",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

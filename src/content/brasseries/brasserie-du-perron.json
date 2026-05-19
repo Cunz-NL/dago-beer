@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-perron",
+  "nom": "Brasserie du Perron",
+  "cp": "37120",
+  "ville": "BRASLOU",
+  "region": "centre",
+  "departement": "indre-et-loire-37",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca146cea40a1cf98aff0c3_le-perron.jpeg",
+  "website": "http://www.francois-blanchard.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

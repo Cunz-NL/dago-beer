@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-islattes",
+  "nom": "Brasserie des Islattes",
+  "cp": "85520",
+  "ville": "JARD-SUR-MER",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05fc5402555454aee92a_logo.gif",
+  "website": "http://www.brasserie-des-islattes.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-muette",
+  "nom": "Brasserie La Muette",
+  "cp": "85390",
+  "ville": "BAZOGES-EN-PAREDS",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05ed07be797a196efc8d_ferme-brasserie-la-muette-logo.png",
+  "website": "http://www.brasserie-la-muette.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

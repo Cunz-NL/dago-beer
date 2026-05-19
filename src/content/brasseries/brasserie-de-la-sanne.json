@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-la-sanne",
+  "nom": "Brasserie de la Sanne",
+  "cp": "38150",
+  "ville": "SAINT-ROMAIN-DE-SURIEU",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedd18a99c3664492c7d8_119631285_821743001696912_5274236735859353999_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

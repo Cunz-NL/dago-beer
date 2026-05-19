@@ -1,0 +1,12 @@
+{
+  "slug": "nao",
+  "nom": "Nao",
+  "cp": "44360",
+  "ville": "Vigneux de Bretagne",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60899d28076df9046deea85e_NAO_noir.png",
+  "website": "https://bieres-nao.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-papilles",
+  "nom": "Brasserie des Papi'lles",
+  "cp": "54110",
+  "ville": "ANTHELUPT",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e1f140323d0cf4db262_Papilles_064.jpeg",
+  "website": "https://brasseurs2papilles.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-fabrique",
+  "nom": "Brasserie La FAB'rique",
+  "cp": "26200",
+  "ville": "MONTÉLIMAR",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6064630172bb3a2a51672f88_la-fabrique-une-brasserie.jpeg",
+  "website": "http://www.la-fab-rique.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

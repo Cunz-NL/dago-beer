@@ -1,0 +1,51 @@
+---
+export interface Props {
+  slug: string;
+  titre: string;
+  date: Date;
+  excerpt: string;
+  image?: string;
+  tags?: string[];
+}
+
+const { slug, titre, date, excerpt, image, tags = [] } = Astro.props;
+
+const dateFormatee = date.toLocaleDateString('fr-FR', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<article class="bg-surface rounded-lg border border-gray-200 hover:border-amber-brand/40 transition-colors group overflow-hidden">
+  {image && (
+    <div class="aspect-video overflow-hidden">
+      <img
+        src={image}
+        alt={titre}
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+        loading="lazy"
+      />
+    </div>
+  )}
+  <div class="p-5">
+    {tags.length > 0 && (
+      <div class="flex flex-wrap gap-1.5 mb-3">
+        {tags.slice(0, 3).map((tag) => (
+          <span class="text-xs font-body px-2 py-0.5 rounded-full bg-amber-brand/5 text-muted/60 border border-gray-200">
+            {tag}
+          </span>
+        ))}
+      </div>
+    )}
+    <a href={`/articles/${slug}`}>
+      <h3 class="font-heading text-xl font-semibold text-amber-brand group-hover:opacity-70 transition-opacity line-clamp-2 mb-2">
+        {titre}
+      </h3>
+    </a>
+    <p class="font-body text-sm text-muted/70 line-clamp-3 mb-4">{excerpt}</p>
+    <time class="font-body text-xs text-muted/40" datetime={date.toISOString()}>
+      {dateFormatee}
+    </time>
+  </div>
+</article>

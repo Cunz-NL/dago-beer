@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-voie-b",
+  "nom": "Brasserie Voie B",
+  "cp": "29250",
+  "ville": "SAINT-POL-DE-LÉON",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6070758be3e1b857428888c1_47574223_2261520894169136_7672544171873271808_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

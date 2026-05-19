@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-la-motte",
+  "nom": "Brasserie de la Motte",
+  "cp": "85670",
+  "ville": "#N/A",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05fe461563be1848af50_Brasserie_Malterie_Motte_Cordonnier.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

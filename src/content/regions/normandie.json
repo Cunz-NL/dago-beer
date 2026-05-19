@@ -1,0 +1,11 @@
+{
+  "slug": "normandie",
+  "nom": "Normandie",
+  "departements": [
+    "calvados",
+    "eure-27",
+    "manche-50",
+    "orne-61",
+    "seine-maritime-76"
+  ]
+}

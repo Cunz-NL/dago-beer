@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bipil",
+  "nom": "Brasserie Bipil",
+  "cp": "64250",
+  "ville": "Espelette",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "description": "Créée en 2018 à Espelette (64)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608c0cd3d85063c1c1e40858_LOGO%202%20BIPIL-01.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

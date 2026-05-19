@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-bicof",
+  "nom": "Brasserie Bicof",
+  "cp": "54800",
+  "ville": "JARNY",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4dc547aeca83f5921a61_logo-bicof-3-1378148549.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

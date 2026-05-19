@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-darthur",
+  "nom": "Brasserie d'Arthur",
+  "cp": "8000",
+  "ville": "CHARLEVILLE-MÉZIÈRES",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8a8b72bccb6a593f457_Cuv%25C3%25A9e_dArthur.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

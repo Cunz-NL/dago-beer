@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-skalf",
+  "nom": "Brasserie SKALF",
+  "cp": "35133",
+  "ville": "Parigné",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "description": "Créée en 2019",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6173a44bd501680937c473cc_Skalf-Ambr%C3%A9e-6-N20.jpg",
+  "website": "http://www.skalf.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

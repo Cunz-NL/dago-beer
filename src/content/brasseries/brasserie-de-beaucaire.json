@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-beaucaire",
+  "nom": "Brasserie de Beaucaire",
+  "cp": "30300",
+  "ville": "BEAUCAIRE",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad352d5c53f134322b2f08_view-to-right-from-the.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

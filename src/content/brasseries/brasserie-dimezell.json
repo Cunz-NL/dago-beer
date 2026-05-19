@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dimezell",
+  "nom": "Brasserie Dimezell",
+  "cp": "22120",
+  "ville": "HILLION",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f39579aacdfce3da80d92_41626340_337243880347239_1642501807315877888_n.png",
+  "website": "https://www.brasserie-dimezell.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

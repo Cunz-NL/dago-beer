@@ -1,0 +1,18 @@
+{
+  "slug": "rakau",
+  "nom": "Rakau",
+  "description": "Rakau, ou AlphAroma comme il était connu auparavant, a été développé en Nouvelle-Zélande. Vivant dans son habitat sans maladie, le Rakau présente une forte concentration de myrcène, ce qui lui permet de se marier à merveille avec les Pale Ales américaines houblonnées à sec. Elle a été initialement obtenue à la fin des années 1970 à partir de Smooth Cone par pollinisation ouverte, mais elle n'a été commercialisée qu'en 1983. Il a été réintroduit sur le marché sous un nouveau nom en 2007. Selon New Zealand Hops Limited, AlphAroma n'existe plus en tant que variété commerciale. Malgré cela, elle est actuellement cultivée et vendue sous son ancien nom par Dutchess Hops de New York qui l'a plantée aux États-Unis en 2013.",
+  "aaMin": 10,
+  "aaMax": 11,
+  "baMin": 5,
+  "baMax": 6,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "cohumulone": "25 - 25",
+  "aromes": [
+    "fruit-a-noyau",
+    "abricot",
+    "amertume-b",
+    "figue"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "pioneer",
+  "nom": "Pioneer",
+  "description": "Pioneer a un arôme anglais classique et une amertume douce malgré son taux très élevé de cohumulone. Elle est considérée comme plus qu'appropriée pour être utilisée à n'importe quel moment du processus de brassage. Elle a été élevée à Wye College à partir d'Omega et est une sœur de Herald. En bouche, elle présente une amertume nette et rafraîchissante et un profil aromatique d'agrumes de citron et de pamplemousse, d'essences herbacées et de notes traînantes de cèdre.",
+  "aaMin": 8.5,
+  "aaMax": 10.5,
+  "baMin": 3.5,
+  "baMax": 4.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "myrcene": "31 - 36",
+  "caryophyllene": "7 - 8",
+  "humulene": "22 - 22",
+  "aromes": []
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "amethyst",
+  "nom": "Amethyst",
+  "description": "L'Amethyst est un houblon aromatique originaire de la République tchèque et est un dérivé du Saaz. Il se caractérise par un pourcentage d'acide alpha particulièrement bas et des notes de terre, d'agrumes et d'épices. Le profil aromatique de l'Amethyst convient bien aux lagers corsées et aux ales pâles.",
+  "aaMin": 2,
+  "aaMax": 6,
+  "baMin": 7,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "terreux"
+  ]
+}

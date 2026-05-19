@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lucida",
+  "nom": "Brasserie Lucida",
+  "cp": "51500",
+  "ville": "LUDES",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e1ac8cb58885e16e710_35225416_218518515617469_8239193775763619840_n.jpeg",
+  "website": "http://brasserielucida.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

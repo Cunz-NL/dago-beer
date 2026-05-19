@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-parapluie",
+  "nom": "Brasserie Parapluie",
+  "cp": "59670",
+  "ville": "CASSEL",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf3e5d5572e4a6646ad41_C4X-o9KWQAAgqbO.jpeg",
+  "website": "http://brasserieparapluie.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

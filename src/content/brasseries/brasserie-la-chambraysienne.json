@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-chambraysienne",
+  "nom": "Brasserie La Chambraysienne",
+  "cp": "27120",
+  "ville": "CHAMBRAY",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6074101fa3f9283bbe96ac58_18209013_226299194520587_5833236717229742264_o.jpeg",
+  "website": "https://www.lachambraysienne.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

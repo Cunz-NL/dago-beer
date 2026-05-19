@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-distoufer",
+  "nom": "Brasserie Distoufer",
+  "cp": "22000",
+  "ville": "Guigamp",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "description": "Brasserie Artisanale Guingampaise",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/5fa2ed4abd09db9aaa4b58aa_73257650_1758119160988288_4236683812404199424_o.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

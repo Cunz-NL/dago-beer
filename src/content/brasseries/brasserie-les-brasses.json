@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-brasses",
+  "nom": "Brasserie Les Brassés",
+  "cp": "44000",
+  "ville": "NANTES",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607bd82cc511bc62b3245357_70121987_103786224352178_9071823763628097536_n.jpeg",
+  "website": "http://www.les3brasseurs.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

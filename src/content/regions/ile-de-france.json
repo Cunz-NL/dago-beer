@@ -1,0 +1,14 @@
+{
+  "slug": "ile-de-france",
+  "nom": "Ile-de-France",
+  "departements": [
+    "paris-75",
+    "seine-et-marne-77",
+    "yvelines-78",
+    "essonne-91",
+    "hauts-de-seine-92",
+    "seine-saint-denis-93",
+    "val-de-marne-94",
+    "val-doise-95"
+  ]
+}

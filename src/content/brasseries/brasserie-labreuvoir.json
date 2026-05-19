@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-labreuvoir",
+  "nom": "Brasserie L'Abreuvoir",
+  "cp": "67220",
+  "ville": "BREITENBACH",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eef4a1eaeac2910049f9_store.jpeg",
+  "website": "http://www.brasserie-abreuvoir.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

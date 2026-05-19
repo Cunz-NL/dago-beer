@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lane-brasseur",
+  "nom": "Brasserie L'Âne Brasseur",
+  "cp": "56480",
+  "ville": "SAINT-AIGNAN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074f033d032e1adb49bb4_858601_438602259553133_309393161_o.jpeg",
+  "website": "http://www.anebrasseur.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

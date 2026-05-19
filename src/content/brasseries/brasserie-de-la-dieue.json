@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-dieue",
+  "nom": "Brasserie de la Dieue",
+  "cp": "55320",
+  "ville": "DIEUE-SUR-MEUSE",
+  "region": "lorraine",
+  "departement": "meuse-55",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05dfa4416280b634befaa_15391412_210819506037248_3565780756261419111_o.jpeg",
+  "website": "http://www.brasserie-de-la-dieue.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bravo",
+  "nom": "Bravo",
+  "description": "La teneur élevée en alpha de la Bravo est largement attribuable à sa variété parente, la Zeus. Sa qualité d'amertume est considérée comme douce et, en outre, elle présente des arômes floraux légers et des saveurs subtiles d'orange et de fruits à noyau, ce qui la rend très souhaitable pour une utilisation dans de nombreux styles de bière différents. Développé dans le cadre du programme de sélection Hopsteiner, le houblon Bravo a été présenté au public en 2006 comme un houblon de fin de saison vigoureux et à haut rendement, avec un profil alpha élevé et des huiles équilibrées. Le houblon Bravo a également été adopté par les brasseries de la côte ouest des États-Unis, où les houblons similaires étaient peu disponibles.",
+  "aaMin": 15,
+  "aaMax": 18,
+  "baMin": 3.5,
+  "baMax": 5.5,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 70",
+  "cohumulone": "28 - 35",
+  "myrcene": "25 - 50",
+  "caryophyllene": "10 - 12",
+  "humulene": "18 - 18",
+  "aromes": [
+    "epice",
+    "floral",
+    "fruite",
+    "terreux",
+    "vanille"
+  ]
+}

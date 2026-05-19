@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-trencavel",
+  "nom": "Brasserie Trencavel",
+  "cp": "34500",
+  "ville": "BÉZIERS",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca13e0c7a5c1c21eabbc58_98de37179eda5e41b65117888e460330.jpeg",
+  "website": "http://www.brasserietrencavel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-wills",
+  "nom": "Brasserie Will's",
+  "cp": "49270",
+  "ville": "LA VARENNE",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ece1af3db0134065dbafd_78246779_1162933197236859_4983252886268936192_n.jpeg",
+  "website": "http://www.brasserie-wills.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

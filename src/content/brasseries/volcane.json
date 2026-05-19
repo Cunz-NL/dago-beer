@@ -1,0 +1,12 @@
+{
+  "slug": "volcane",
+  "nom": "Volcane",
+  "cp": "43100",
+  "ville": "COHADE",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852dd01e71b212a057ad1e_14947761_383705848627008_5275106752760721630_n.png",
+  "website": "http://www.biere-volcane.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

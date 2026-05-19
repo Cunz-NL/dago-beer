@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-suffbier",
+  "nom": "Brasserie Suff'Bier",
+  "cp": "68600",
+  "ville": "OBERSAASHEIM",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cfa9b777d285db8fe60c_37786615_433631580473180_3207562773009530880_n.jpeg",
+  "website": "https://www.brasserie-suffbier.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

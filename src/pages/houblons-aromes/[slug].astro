@@ -1,0 +1,79 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const aromes = await getCollection('houblonsAromes');
+  return aromes.map((a) => ({
+    params: { slug: a.data.slug },
+    props: { arome: a },
+  }));
+}
+
+const { arome } = Astro.props;
+const { nom, slug } = arome.data;
+
+// Trouver les houblons qui ont cet arôme
+const houblons = (await getCollection('houblons')).filter((h) =>
+  h.data.aromes.some((a) => a.toLowerCase().includes(slug.replace(/-/g, '')) || slug.includes(a.toLowerCase().replace(/[^a-z0-9]/g, '')))
+);
+---
+
+<Base
+  title={`Arôme ${nom} — Houblons brassage — Dago Beer`}
+  description={`Liste des houblons qui développent des arômes de ${nom}. Guide de sélection pour brasseurs amateurs et professionnels.`}
+  canonical={`https://www.dago.beer/houblons-aromes/${slug}`}
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brassage amateur', href: '/brassage-amateur' },
+        { label: 'Arômes houblons', href: '/liste-des-aromes-developpes-par-les-houblons' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-8">
+      <h1 class="font-heading text-4xl font-bold text-white mb-2">
+        Arôme <span class="text-amber-brand capitalize">{nom}</span>
+      </h1>
+      <p class="font-body text-muted/60">
+        Houblons développant des notes de <strong class="text-white">{nom}</strong> en brassage
+      </p>
+    </header>
+
+    {houblons.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+        {houblons.map((h) => (
+          <a
+            href={`/houblon/${h.data.slug}`}
+            class="bg-surface border border-white/10 rounded-lg p-4 hover:border-amber-brand/50 transition-colors group"
+          >
+            <h2 class="font-heading text-base font-semibold text-white group-hover:text-amber-brand transition-colors mb-1">
+              {h.data.nom}
+            </h2>
+            {h.data.aaMin !== undefined && h.data.aaMax !== undefined && (
+              <span class="text-xs font-body text-muted/50">AA {h.data.aaMin}–{h.data.aaMax}%</span>
+            )}
+            {h.data.usage && (
+              <p class="text-xs font-body text-muted/40 mt-1">{h.data.usage}</p>
+            )}
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="bg-surface border border-white/10 rounded-xl p-8 text-center">
+        <p class="font-body text-muted/50">
+          Consultez la <a href="/liste-des-houblons" class="text-amber-brand hover:underline">liste complète des houblons</a> pour explorer leurs profils aromatiques.
+        </p>
+      </div>
+    )}
+
+    <div class="mt-8">
+      <a href="/liste-des-aromes-developpes-par-les-houblons" class="font-body text-sm text-muted/50 hover:text-amber-brand transition-colors">
+        ← Tous les arômes
+      </a>
+    </div>
+  </div>
+</Base>

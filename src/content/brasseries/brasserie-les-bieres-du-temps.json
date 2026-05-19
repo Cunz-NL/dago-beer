@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-bieres-du-temps",
+  "nom": "Brasserie Les Bières du Temps",
+  "cp": "38260",
+  "ville": "CHAMPIER",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606deddaebbaf545d5856c68_15726894_1805340676371975_2009915537319083780_n.jpeg",
+  "website": "http://www.lesbieresdutemps.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

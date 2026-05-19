@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hirondelle",
+  "nom": "Brasserie L'Hirondelle",
+  "cp": "22540",
+  "ville": "Pedernec",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "description": "Brasserie artisanale à Pédernec dans les Côtes d’Armor.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/5fa2f1dc066f8a9d4fcf0a5b_81942396_616896815517651_9093915434721214464_n.jpg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

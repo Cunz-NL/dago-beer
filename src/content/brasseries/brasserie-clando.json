@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-clando",
+  "nom": "Brasserie Clando",
+  "cp": "86510",
+  "ville": "CHAUNAY",
+  "region": "poitou-charentes",
+  "departement": "vienne-86",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a1434a553fe38b30736d6a_16107399_1818971618327619_6282544293588925409_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

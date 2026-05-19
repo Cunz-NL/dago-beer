@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-duyck",
+  "nom": "Brasserie Duyck",
+  "cp": "59144",
+  "ville": "JENLAIN",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a68f3ecbf6516de62970a_brasserie-duyck-logo.jpeg",
+  "website": "http://www.jenlain.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

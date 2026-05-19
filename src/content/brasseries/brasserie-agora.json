@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-agora",
+  "nom": "Brasserie AGORA",
+  "cp": "84200",
+  "ville": "CARPENTRAS",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "vaucluse-84",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6094e2bd625bd796aeb2a6af_71120778_2740078482678707_8381165581885243392_n.jpeg",
+  "website": "http://www.agora-biere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

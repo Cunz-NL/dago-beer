@@ -1,0 +1,20 @@
+{
+  "slug": "northdown",
+  "nom": "Northdown",
+  "description": "Northdown a été développé au Wye College en Angleterre au début des années 1970 et a été initialement sélectionné principalement pour sa résistance au mildiou. C'est la progéniture de Northern Brewer et de Challenger et une tante de Target. C'est un houblon à double usage, mais il est particulièrement efficace au début et au milieu de l'ébullition. Il est considéré comme ayant un impact légèrement plus élevé en termes de saveur que son parent, Challenger. Cette saveur est considérée comme fraîche, fleurie et piquante avec des notes de baies et d'épices.",
+  "aaMin": 6,
+  "aaMax": 9.5,
+  "baMin": 4.5,
+  "baMax": 6,
+  "usage": "Double usage",
+  "myrcene": "23 - 29",
+  "caryophyllene": "13 - 17",
+  "humulene": "40 - 40",
+  "aromes": [
+    "pin",
+    "epice",
+    "floral",
+    "resineux",
+    "fruite"
+  ]
+}

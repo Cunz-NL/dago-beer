@@ -1,0 +1,14 @@
+{
+  "slug": "eastwell",
+  "nom": "Eastwell",
+  "description": "Créé par sélection clonale en 1889 dans le Kent, en Angleterre, Eastwell Golding est l'une des nombreuses variétés de houblon aromatique Golding. Présentant un arôme de houblon typiquement anglais, il est actuellement très demandé pour le houblonnage de cuivre et le houblonnage sec et est généralement utilisé dans les bières anglaises et belges.",
+  "aaMin": 6,
+  "aaMax": 7,
+  "baMin": 3,
+  "baMax": 4,
+  "usage": "Aromatique",
+  "aromes": [
+    "epice",
+    "floral"
+  ]
+}

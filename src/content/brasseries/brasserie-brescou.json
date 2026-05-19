@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-brescou",
+  "nom": "Brasserie Brescou",
+  "cp": "34300",
+  "ville": "AGDE",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca13a8d02e931813c21f8d_Logo_brescou.png",
+  "website": "http://www.brasserie-brescou.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

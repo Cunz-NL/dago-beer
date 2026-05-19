@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-daveze",
+  "nom": "Brasserie d'Avèze",
+  "cp": "30120",
+  "ville": "AVÈZE",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe4c82ca6fac74c2f5b72_47668.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

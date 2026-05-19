@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-saint-georges",
+  "nom": "Brasserie Saint-Georges",
+  "cp": "56310",
+  "ville": "GUERN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074d312897e9c1be71dae_brasserie-saint-georges.jpeg",
+  "website": "http://www.brasseriesaintgeorges.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

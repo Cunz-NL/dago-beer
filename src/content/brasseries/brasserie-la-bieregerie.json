@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bieregerie",
+  "nom": "Brasserie La Bieregerie",
+  "cp": "14000",
+  "ville": "caen-14000",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c5918fb6146f26b49d6_28238066_1969816156679968_5558044560833934480_o.jpeg",
+  "website": "https://www.labieregerie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

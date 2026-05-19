@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-luberon",
+  "nom": "Brasserie du Luberon",
+  "cp": "84120",
+  "ville": "PERTUIS",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "vaucluse-84",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6094e2e08dd6d70db6fb438e_10887315_1522986371312352_5557998356631968808_o.jpeg",
+  "website": "http://www.brasserie-luberon.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

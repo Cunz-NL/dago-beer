@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bambelle",
+  "nom": "Brasserie La Bambelle",
+  "cp": "56220",
+  "ville": "SAINT GRAVÉ",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074c51371f140aa68431c_10647128_656776081084854_726411017518527402_n.png",
+  "website": "http://www.labambelle.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

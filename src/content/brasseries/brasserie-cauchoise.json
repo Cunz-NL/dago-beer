@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-cauchoise",
+  "nom": "Brasserie Cauchoise",
+  "cp": "76560",
+  "ville": "AMFREVILLE-LES-CHAMPS",
+  "region": "normandie",
+  "departement": "seine-maritime-76",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6074112d17aa8323584502e8_137.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-biere-des-loups",
+  "nom": "Brasserie La Bière des Loups",
+  "cp": "69440",
+  "ville": "CHAUSSAN",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decb3322b177c1e7bff61_20933946_501715843496744_2947723891251847992_o.jpeg",
+  "website": "http://www.labieredesloups.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

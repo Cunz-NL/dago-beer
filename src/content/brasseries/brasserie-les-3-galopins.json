@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-les-3-galopins",
+  "nom": "Brasserie Les 3 Galopins",
+  "cp": "67270",
+  "ville": "ALTECKENDORF",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eef604c5013e41ef12e2_le-galopin.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

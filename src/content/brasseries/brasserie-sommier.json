@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-sommier",
+  "nom": "Brasserie Sommier",
+  "cp": "41800",
+  "ville": "MONTOIRE-SUR-LE-LOIR",
+  "region": "centre",
+  "departement": "loir-et-cher-41",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60814ff0c9aa49dba3b60241_21430491_423437604717978_6205862215345577968_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

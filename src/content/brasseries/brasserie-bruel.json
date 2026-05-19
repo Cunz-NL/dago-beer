@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-bruel",
+  "nom": "Brasserie Bruel",
+  "cp": "40220",
+  "ville": "TARNOS",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "description": "Créée en 2017 à Tarnos",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bcdf0bc22de385a979216_logo%20seul%20blc%20fd%20noir.jpg",
+  "website": "http://www.brasseriebruel.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

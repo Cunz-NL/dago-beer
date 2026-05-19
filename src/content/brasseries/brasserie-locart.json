@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-locart",
+  "nom": "Brasserie Locar't",
+  "cp": "91580",
+  "ville": "#N/A",
+  "region": "ile-de-france",
+  "departement": "essonne-91",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368383808c90272623a53_45297.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

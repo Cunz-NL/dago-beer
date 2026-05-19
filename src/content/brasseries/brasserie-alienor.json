@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-alienor",
+  "nom": "Brasserie Aliénor",
+  "cp": "33240",
+  "ville": "ASQUES",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35964584996420656403_47141.png",
+  "website": "https://www.brasseriealienor.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

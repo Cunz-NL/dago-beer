@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-marrel",
+  "nom": "Brasserie du Marrel",
+  "cp": "38000",
+  "ville": "grenoble",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606deda771c1eb7ab29ab3c2_38143526_1021817167996148_7708609639323009024_n.png",
+  "website": "https://www.edmondbieres.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

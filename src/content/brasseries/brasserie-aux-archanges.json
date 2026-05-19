@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-aux-archanges",
+  "nom": "Brasserie aux Archanges",
+  "cp": "11120",
+  "ville": "VENTENAC-EN-MINERVOIS",
+  "region": "languedoc-roussillon",
+  "departement": "aude-11",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b9547537697f815c53ef_la-villa-archange.jpeg",
+  "website": "http://www.auxarchanges.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

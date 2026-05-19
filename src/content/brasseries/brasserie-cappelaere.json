@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cappelaere",
+  "nom": "Brasserie Cappelaere",
+  "cp": "59140",
+  "ville": "DUNKERQUE",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6910a9e150040699e5a6_28514822_236052680272520_9069405487380595672_o.jpeg",
+  "website": "http://brasserie-cappelaere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

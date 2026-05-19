@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dulion",
+  "nom": "Brasserie Dulion",
+  "cp": "69140",
+  "ville": "RILLIEUX-LA-PAPE",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec6a9cc8e99fb07f350e_10689508_341264962733303_7693929298383958284_n.png",
+  "website": "http://www.brasseriedulion.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

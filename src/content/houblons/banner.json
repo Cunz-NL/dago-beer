@@ -1,0 +1,12 @@
+{
+  "slug": "banner",
+  "nom": "Banner",
+  "description": "Banner n'a pas eu de succès sur le marché commercial. Obtenue à partir d'un plant de Brewer's Gold au début des années 1970 par pollinisation ouverte, sa première parcelle d'essai a été abandonnée en raison de graves problèmes de mildiou. Elle a finalement été commercialisée avec sa demi-sœur Aquila en 1996, après avoir suscité l'intérêt du géant américain de la brasserie Anheuser Busch. Mais finalement, après plusieurs années d'évaluation, elle a été éliminée de tout autre test. La Banner est connue pour avoir des acides alpha modérément élevés, un arôme agréable et un bon rendement, mais elle présente une mauvaise aptitude au stockage, ce qui, avec sa sensibilité aux moisissures, la rend largement non viable.",
+  "aaMin": 8.5,
+  "aaMax": 12.5,
+  "baMin": 5,
+  "baMax": 8,
+  "usage": "Amérisant",
+  "stabilite": "Mauvaise : 45",
+  "aromes": []
+}

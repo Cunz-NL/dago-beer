@@ -1,0 +1,10 @@
+{
+  "slug": "franche-comte",
+  "nom": "Franche-Comté",
+  "departements": [
+    "doubs-25",
+    "jura-39",
+    "haute-saone-70",
+    "territoire-de-belfort-90"
+  ]
+}

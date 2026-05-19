@@ -1,0 +1,9 @@
+{
+  "slug": "limousin",
+  "nom": "Limousin",
+  "departements": [
+    "correze-19",
+    "creuse-23",
+    "haute-vienne-87"
+  ]
+}

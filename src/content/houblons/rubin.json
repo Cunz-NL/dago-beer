@@ -1,0 +1,10 @@
+{
+  "slug": "rubin",
+  "nom": "Rubin",
+  "aaMin": 9,
+  "aaMax": 12,
+  "baMin": 3.5,
+  "baMax": 5,
+  "usage": "Amérisant",
+  "aromes": []
+}

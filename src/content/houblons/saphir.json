@@ -1,0 +1,19 @@
+{
+  "slug": "saphir",
+  "nom": "Saphir",
+  "description": "Lancé en 2002, Saphir présente des éléments d'épices et de fruits parmi des notes raffinées d'agrumes de mandarine. Il est considéré comme bien adapté aux bières blanches belges ainsi qu'aux Pilsners et Lagers allemandes. Cultivé au Centre de recherche sur le houblon de Hüll, l'objectif initial de ses créateurs était de produire une alternative plus viable commercialement au Hallertau Mittelfrüh grâce à une résistance accrue aux maladies et à la conservation des caractéristiques nobles du Hallertau. À ce titre, le Saphir peut très certainement être considéré comme un succès.",
+  "aaMin": 2,
+  "aaMax": 4.5,
+  "baMin": 4,
+  "baMax": 7,
+  "usage": "Aromatique",
+  "myrcene": "24 - 40",
+  "caryophyllene": "9 - 14",
+  "humulene": "20 - 20",
+  "aromes": [
+    "epice",
+    "floral",
+    "fruite",
+    "mandarine"
+  ]
+}

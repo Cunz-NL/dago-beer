@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-lie",
+  "nom": "Brasserie La Lie",
+  "cp": "14570",
+  "ville": "SAINT-RÉMY-SUR-ORNE",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c747667b20fcfcc5056_11930845_908737765911634_6601270057381855732_o.jpeg",
+  "website": "http://www.biere-lalie.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

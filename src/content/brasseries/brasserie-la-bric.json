@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bric",
+  "nom": "Brasserie La B'ric",
+  "cp": "68360",
+  "ville": "SOULTZ-HAUT-RHIN",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cea041226480a9691f13_468352a4-1c4f-40e4-ab1f-f0d192c94263.jpeg",
+  "website": "http://bierelabric.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

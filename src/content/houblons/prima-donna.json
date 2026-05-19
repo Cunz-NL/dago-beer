@@ -1,0 +1,16 @@
+{
+  "slug": "prima-donna",
+  "nom": "Prima Donna",
+  "description": "Parent de Southern Promise, Southern Brewer a été développé au début des années 1970 après que la principale variété de houblon sud-africaine de l'époque, Golden Cluster, ait été dévastée par la pourriture noire des racines. Il est le résultat d'un croisement à pollinisation ouverte de Fuggle. Le Southern Brewer est utilisé principalement pour l'amertume et n'est pas considéré comme particulièrement distingué en termes d'arôme ou de saveur. La Southern Brewer n'a pas bien supporté les heures d'ensoleillement relativement limitées et a nécessité un éclairage supplémentaire pour sa culture. Cela a rendu la variété considérablement plus chère à produire. Le développement et l'introduction de Southern Promise et Outeniqua ont résolu une grande partie de ce problème.",
+  "aaMin": 5.6,
+  "aaMax": 8.7,
+  "baMin": 2.3,
+  "baMax": 3.6,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "citron",
+    "floral",
+    "fruite"
+  ]
+}

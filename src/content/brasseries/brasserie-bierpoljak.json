@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-bierpoljak",
+  "nom": "Brasserie Bierpoljak",
+  "cp": "53380",
+  "ville": "SAINT-HILAIRE-DU-MAINE",
+  "region": "pays-de-la-loire",
+  "departement": "mayenne-53",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ecd8b9893d10ae546ba5f_image.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

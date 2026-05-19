@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-loup",
+  "nom": "Brasserie du Loup",
+  "cp": "3320",
+  "ville": "LE VEURDRE",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3c92bf66f7ef58cdb16_20121404_1466296233439355_2304335981591365766_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

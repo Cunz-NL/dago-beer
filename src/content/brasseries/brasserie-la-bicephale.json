@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bicephale",
+  "nom": "Brasserie La Bicéphale",
+  "cp": "68510",
+  "ville": "SIERENTZ",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cfcab777d201858ffced_252004209-la-bicephale-fabrique-de-biere-4-1600x900.jpeg",
+  "website": "http://www.labicephale.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

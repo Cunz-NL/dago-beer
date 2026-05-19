@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-georgette",
+  "nom": "Brasserie La Georgette",
+  "cp": "48320",
+  "ville": "#N/A",
+  "region": "languedoc-roussillon",
+  "departement": "lozere-48",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cafb30b2b5b119105dc976_restaurant-georgette.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

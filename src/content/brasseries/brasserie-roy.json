@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-roy",
+  "nom": "Brasserie ROY",
+  "cp": "56200",
+  "ville": "La Gacilly",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "description": "Fabrication et ventes de bières.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/5fa2e9a1139d4517d2d7ed84_13511049_786004868168783_2687250898678211257_n.jpg",
+  "website": "https://fr.dago.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

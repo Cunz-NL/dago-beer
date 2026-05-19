@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bierataise",
+  "nom": "Brasserie La Biérataise",
+  "cp": "31370",
+  "ville": "BÉRAT",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe4e4dd675a5f683c41e7_la-bierataise.jpeg",
+  "website": "http://www.bierataise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

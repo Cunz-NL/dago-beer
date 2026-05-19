@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-boc",
+  "nom": "Brasserie La Boc",
+  "cp": "66000",
+  "ville": "PERPIGNAN",
+  "region": "languedoc-roussillon",
+  "departement": "pyrenees-orientales-66",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eeb5dd68b23b9a33662e_10628506_354609381360282_1265864695620421406_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

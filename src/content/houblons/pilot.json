@@ -1,0 +1,15 @@
+{
+  "slug": "pilot",
+  "nom": "Pilot",
+  "description": "Pilot est une variété de haie à haut rendement, bien résistante au flétrissement, mais pas au mildiou. Sélectionné au Wye College et commercialisé en 2001, son équilibre huileux le distingue de la plupart des autres houblons anglais. On dit de lui qu'il possède d'excellentes qualités d'amertume, nettes et rafraîchissantes, avec des arômes épicés de citron et de marmelade.",
+  "aaMin": 8,
+  "aaMax": 11,
+  "baMin": 3.3,
+  "baMax": 5,
+  "usage": "Amérisant",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "amertume-b"
+  ]
+}

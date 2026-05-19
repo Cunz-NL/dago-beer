@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-baril",
+  "nom": "Brasserie du Baril",
+  "cp": "29200",
+  "ville": "BREST",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6070757dba1a4d0a5f4df6ff_99133622_2862864137144568_5417673860298309632_n.jpeg",
+  "website": "http://www.brasseriedubaril.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

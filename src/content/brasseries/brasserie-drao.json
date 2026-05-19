@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-drao",
+  "nom": "Brasserie Drao",
+  "cp": "35520",
+  "ville": "MELESSE",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca148b444368c22dfda097_602023_432478843501267_1862926182_n.jpeg",
+  "website": "http://www.brasseriedrao.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

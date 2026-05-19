@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-into-the-malt",
+  "nom": "Brasserie Into The Malt",
+  "cp": "75017",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d0ce57230454ff86f41c_MVI_7836.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-sainte-cecile",
+  "nom": "Brasserie Sainte-Cécile",
+  "cp": "81000",
+  "ville": "ALBI",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f59e69d3665325b30d00_47371621_267058660823179_7575927894707273728_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

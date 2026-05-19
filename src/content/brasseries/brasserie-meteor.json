@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-meteor",
+  "nom": "Brasserie Météor",
+  "cp": "67270",
+  "ville": "ALTECKENDORF",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090ef0771ec7a9c86fe7c40_Logo_meteor_quadri_%252Bbaseline.jpeg",
+  "website": "http://www.brasserie-meteor.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}
