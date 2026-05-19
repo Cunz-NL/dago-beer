@@ -16,7 +16,7 @@ const regionsTriees = [...regions].sort((a, b) => a.data.nom.localeCompare(b.dat
     const count = brasseriesParRegion[region.data.slug] ?? 0;
     return (
       <a
-        href={`/brasseries-bieres-artisanales-france/${region.data.slug}`}
+        href={`/brasseries-bieres-artisanales-france-region/${region.data.slug}`}
         class="bg-surface border border-white/10 rounded-lg p-4 hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group text-center"
       >
         <p class="font-heading text-sm font-medium text-white group-hover:text-amber-brand transition-colors line-clamp-2">
