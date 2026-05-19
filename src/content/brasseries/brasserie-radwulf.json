@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-radwulf",
+  "nom": "Brasserie Radwulf",
+  "cp": "68480",
+  "ville": "VIEUX-FERRETTE",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cfb4b6a38d197d2d130d_242015678-brasserie-radwulf-1.jpeg",
+  "website": "https://www.radwulf.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

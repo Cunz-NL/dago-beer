@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-braxeenne",
+  "nom": "Brasserie La Braxéenne",
+  "cp": "32600",
+  "ville": "Pujaudran",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad3502ae3ee06dc087ea9c_15259587_675979552576056_3306284574150663533_o.jpeg",
+  "website": "https://labraxeenne.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

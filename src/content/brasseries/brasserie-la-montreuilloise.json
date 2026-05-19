@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-montreuilloise",
+  "nom": "Brasserie La Montreuilloise",
+  "cp": "93100",
+  "ville": "MONTREUIL",
+  "region": "ile-de-france",
+  "departement": "seine-saint-denis-93",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368707f2ffe17ef2023e8_15037235_1284958078230878_2857395520310482941_n.jpeg",
+  "website": "http://la-montreuilloise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tom-et-co",
+  "nom": "Brasserie Tom & Co.",
+  "cp": "69001",
+  "ville": "LYON",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec516891892f8711f6a3_95663158_136446097959846_3864299509207007232_n.jpeg",
+  "website": "https://www.labeerfabrique.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-petite-garonne",
+  "nom": "Brasserie La Petite Garonne",
+  "cp": "33240",
+  "ville": "ASQUES",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad3553808c50309e89eeae_e119358b7bcb11d9656a68de184d1c69.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

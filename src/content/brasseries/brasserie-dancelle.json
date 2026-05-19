@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dancelle",
+  "nom": "Brasserie d'Ancelle",
+  "cp": "5260",
+  "ville": "ANCELLE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "hautes-alpes-05",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b84b866f35f28398ce7d_379696_481786751883396_2022274129_n.jpeg",
+  "website": "http://www.brasserieancelle.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

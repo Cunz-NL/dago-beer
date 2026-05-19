@@ -1,0 +1,12 @@
+{
+  "slug": "le-brasseur-bavarois",
+  "nom": "Le Brasseur Bavarois",
+  "cp": "35720",
+  "ville": "Pleugueneuc",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6015270ba30490125d20cbe0_brasseur-bavarois-logo.jpg",
+  "website": "https://www.lebrasseurbavarois.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

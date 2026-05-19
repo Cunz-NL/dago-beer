@@ -1,0 +1,12 @@
+{
+  "slug": "beata",
+  "nom": "Beata",
+  "aaMin": 3.5,
+  "aaMax": 3.8,
+  "usage": "Aromatique",
+  "aromes": [
+    "abricot",
+    "pomme",
+    "amande"
+  ]
+}

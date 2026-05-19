@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lamuse",
+  "nom": "Brasserie L'Amuse",
+  "cp": "81300",
+  "ville": "GRAULHET",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f58153213a180951277f_e0103381-b72e-46cd-bbdc-b8ead682d8a7.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

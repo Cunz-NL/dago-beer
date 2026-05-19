@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ferme-du-tilloy",
+  "nom": "Brasserie Ferme du Tilloy",
+  "cp": "60480",
+  "ville": "THIEUX",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04149cf2d6f636438964_13411639_1742967832638774_4951697749677443120_o.png",
+  "website": "https://www.ferme-du-tilloy.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

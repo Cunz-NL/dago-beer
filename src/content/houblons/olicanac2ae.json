@@ -1,0 +1,17 @@
+{
+  "slug": "olicanaC2AE",
+  "nom": "Olicana®",
+  "aaMin": 6,
+  "aaMax": 9,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "fruit-de-la-passion",
+    "mangue",
+    "pamplemousse",
+    "fruits-tropicaux",
+    "amertume-b"
+  ]
+}

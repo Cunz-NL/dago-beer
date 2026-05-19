@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-kerpiton",
+  "nom": "Brasserie Kerpiton",
+  "cp": "56800",
+  "ville": "AUGAN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60707511f9c43044d96f19b2_27867568_1045725948899379_3083776044757898340_n.jpeg",
+  "website": "http://brasseriekerpiton.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

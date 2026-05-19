@@ -1,0 +1,15 @@
+{
+  "slug": "belma",
+  "nom": "Belma",
+  "description": "Le houblon Belma® est un ajout récent de Hops Direct et de Puterbaugh Farms dans la vallée de Yakima. Le Belma a été testé en tant que houblon à double usage et on lui a trouvé un mélange ambrosien d'orange, de melon, de fraise et d'ananas avec une légère touche de pamplemousse. À l'appui de ces résultats, l'OSU a créé un malt pâle avec du Belma qui présente les mêmes caractéristiques d'arôme et de saveur. À ce jour, le Belma a également connu une grande activité dans le domaine du brassage récréatif, de nombreux brasseurs amateurs documentant son utilisation en ligne dans des Pale Ales, IPAs, Blonde Ales et autres. Presque tous lui ont donné des notes favorables. Elle a été mise sur le marché en 2012.",
+  "aaMin": 10,
+  "aaMax": 11.5,
+  "usage": "Double usage",
+  "aromes": [
+    "orange-6",
+    "fraise",
+    "melon",
+    "pamplemousse",
+    "ananas"
+  ]
+}

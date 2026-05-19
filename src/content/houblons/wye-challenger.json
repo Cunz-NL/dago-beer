@@ -1,0 +1,15 @@
+{
+  "slug": "wye-challenger",
+  "nom": "Wye Challenger",
+  "description": "Présenté au public en 1972, le houblon Challenger a été développé au Wye College à partir des variétés Northern Brewer et German Zattler. Il représentait un pourcentage important du houblon cultivé au Royaume-Uni dans les années 1980 et 1990. La Challenger se caractérise par une amertume décente et un arôme floral et, en tant que telle, elle est considérée comme parfaite pour l'amertume ou le houblonnage à sec. Sa saveur est douce avec des caractéristiques florales équilibrées, quelques agrumes et un soupçon d'épices.",
+  "aaMin": 6.5,
+  "aaMax": 8.5,
+  "baMin": 2.5,
+  "baMax": 4.3,
+  "usage": "Double usage",
+  "aromes": [
+    "cognac",
+    "banane",
+    "pain-depice"
+  ]
+}

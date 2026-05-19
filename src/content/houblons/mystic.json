@@ -1,0 +1,17 @@
+{
+  "slug": "mystic",
+  "nom": "Mystic",
+  "aaMin": 4,
+  "aaMax": 6.5,
+  "baMin": 3,
+  "baMax": 4,
+  "usage": "Aromatique",
+  "cohumulone": "35 - 38",
+  "myrcene": "35",
+  "humulene": "35",
+  "aromes": [
+    "agrumes",
+    "fruit-de-la-passion",
+    "cassis"
+  ]
+}

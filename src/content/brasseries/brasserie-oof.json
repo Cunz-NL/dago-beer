@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-oof",
+  "nom": "Brasserie OOF",
+  "cp": "11200",
+  "ville": "BIZANET",
+  "region": "languedoc-roussillon",
+  "departement": "aude-11",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b961080fb294d2eafcf8_180319_r31686.jpeg",
+  "website": "http://oofales.wixsite.com/mysite",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

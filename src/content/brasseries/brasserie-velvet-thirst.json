@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-velvet-thirst",
+  "nom": "Brasserie Velvet Thirst",
+  "cp": "45480",
+  "ville": "LÉOUVILLE",
+  "region": "centre",
+  "departement": "loiret-45",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca16bb4d1953181b767c0f_129952541_682768949105252_7380082285912230257_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

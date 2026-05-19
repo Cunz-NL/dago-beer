@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-honigmann",
+  "nom": "Brasserie Hönigmann",
+  "cp": "41190",
+  "ville": "SAINT-LUBIN-EN-VERGONNOIS",
+  "region": "centre",
+  "departement": "loir-et-cher-41",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60814fe260613a12ee720e30_14107725_1185316461539317_2917971583423531701_o.jpeg",
+  "website": "http://www.honigmann.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

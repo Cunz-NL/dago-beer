@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-strol",
+  "nom": "Brasserie La Strol",
+  "cp": "43120",
+  "ville": "MONISTROL-SUR-LOIRE",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852dd3be380b4e26b75e9d_46855658_348327735983276_3106477290314268672_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

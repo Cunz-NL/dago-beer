@@ -1,0 +1,10 @@
+{
+  "slug": "champagne-ardenne",
+  "nom": "Champagne-Ardenne",
+  "departements": [
+    "ardennes-08",
+    "aube-10",
+    "marne-51",
+    "haute-marne-52"
+  ]
+}

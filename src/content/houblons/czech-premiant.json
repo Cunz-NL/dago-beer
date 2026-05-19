@@ -1,0 +1,17 @@
+{
+  "slug": "czech-premiant",
+  "nom": "Czech Premiant",
+  "description": "Premiant, qui signifie primé ou gagnant d'un prix, est modérément amer avec un faible ratio de cohumulone. Cela en fait un agent amérisant neutre idéal, notamment pour les Pilsners. Lancée en 1996, elle est une descendante de la Northern Brewer et est souvent utilisée par les brasseurs dans les Pilsners belges. Elle convient également bien aux Ales belges, françaises et allemandes. Cette polyvalence est peut-être l'une des raisons pour lesquelles les brasseries qui s'intéressent aux styles tchèques ou belges ont une préférence marquée pour Premiant.",
+  "aaMin": 8,
+  "aaMax": 12.5,
+  "baMin": 4.5,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "aromes": [
+    "citron",
+    "epice",
+    "fruite",
+    "lavande",
+    "amertume-b"
+  ]
+}

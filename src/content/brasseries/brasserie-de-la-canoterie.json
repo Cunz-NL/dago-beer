@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-canoterie",
+  "nom": "Brasserie de la Canoterie",
+  "cp": "58500",
+  "ville": "CLAMECY",
+  "region": "bourgogne",
+  "departement": "nievre-58",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e9c57eb52f62b19b308_99431056_2289756861319962_2154272264718123008_n.png",
+  "website": "http://brasseriedelacanoterie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

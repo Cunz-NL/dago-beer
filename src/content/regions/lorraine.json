@@ -1,0 +1,10 @@
+{
+  "slug": "lorraine",
+  "nom": "Lorraine",
+  "departements": [
+    "meurthe-et-moselle-54",
+    "meuse-55",
+    "moselle-57",
+    "vosges-88"
+  ]
+}

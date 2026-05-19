@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-rabourdin",
+  "nom": "Brasserie Rabourdin",
+  "cp": "77540",
+  "ville": "COURPALAY",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609399b41a96b8eeb37f19ce_22384139_946120125527551_2267400515703842124_o.jpeg",
+  "website": "http://www.biere-de-brie.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

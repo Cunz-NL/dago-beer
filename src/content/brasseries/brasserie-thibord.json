@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-thibord",
+  "nom": "Brasserie Thibord",
+  "cp": "10190",
+  "ville": "PÂLIS",
+  "region": "champagne-ardenne",
+  "departement": "aube-10",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b92539160505ecfb5f17_58462813_667843647008877_868658570135076864_n.jpeg",
+  "website": "https://www.brasseriethibord.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

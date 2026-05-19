@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cotentine",
+  "nom": "Brasserie Cotentine",
+  "cp": "50270",
+  "ville": "BARNEVILLE-CARTERET",
+  "region": "normandie",
+  "departement": "manche-50",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d553bf4cf7c99f88ae7_13087183_735917579880740_1548099231141363589_o.jpeg",
+  "website": "http://www.brasserie-cotentine.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

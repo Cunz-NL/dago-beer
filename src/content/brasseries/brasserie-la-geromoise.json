@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-geromoise",
+  "nom": "Brasserie La Gérômoise",
+  "cp": "88400",
+  "ville": "GERARDMER",
+  "region": "lorraine",
+  "departement": "vosges-88",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a5a648f01ae45f08eb83_17917240_1023490341117725_2064977702488628258_o.jpeg",
+  "website": "http://www.lageromoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

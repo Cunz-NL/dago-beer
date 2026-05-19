@@ -1,0 +1,81 @@
+---
+import Base from '@/layouts/Base.astro';
+import BreweryCard from '@/components/BreweryCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const VILLES = [
+    { slug: 'annecy-74000',   nom: 'Annecy',   cp: '7400' },
+    { slug: 'bordeaux-33000', nom: 'Bordeaux',  cp: '3300' },
+    { slug: 'caen-14000',     nom: 'Caen',      cp: '1400' },
+    { slug: 'grenoble',       nom: 'Grenoble',  cp: '3800' },
+    { slug: 'lille-59000',    nom: 'Lille',     cp: '5900' },
+    { slug: 'reims-51100',    nom: 'Reims',     cp: '5110' },
+    { slug: 'roubaix',        nom: 'Roubaix',   cp: '5910' },
+    { slug: 'toulouse-31000', nom: 'Toulouse',  cp: '3100' },
+  ];
+
+  const brasseries = await getCollection('brasseries');
+
+  return VILLES.map((ville) => {
+    const brasseriesVille = brasseries.filter((b) => {
+      const cpMatch = b.data.cp.startsWith(ville.cp);
+      const villeMatch = b.data.ville.toLowerCase().includes(ville.nom.toLowerCase());
+      return (cpMatch || villeMatch) && b.data.statut !== 'ferme';
+    });
+    return {
+      params: { slug: ville.slug },
+      props: { villeNom: ville.nom, villeSlug: ville.slug, brasseries: brasseriesVille },
+    };
+  });
+}
+
+const { villeNom, villeSlug, brasseries } = Astro.props;
+---
+
+<Base
+  title={`Brasseries artisanales à ${villeNom} — Dago Beer`}
+  description={`Découvrez les ${brasseries.length} brasseries artisanales et microbrasseries craft de ${villeNom}. Annuaire complet des bières artisanales locales.`}
+  canonical={`https://www.dago.beer/brasseries-bieres-artisanales-france-ville/${villeSlug}`}
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brasseries', href: '/brasserie-biere-artisanale' },
+        { label: villeNom },
+      ]}
+    />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Brasseries artisanales à <span class="text-amber-brand">{villeNom}</span>
+      </h1>
+      <p class="font-body text-sm text-muted/40 mt-2">
+        {brasseries.length} brasserie{brasseries.length !== 1 ? 's' : ''} référencée{brasseries.length !== 1 ? 's' : ''}
+      </p>
+    </header>
+
+    <CrossSellBanner />
+
+    {brasseries.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8">
+        {brasseries.map((b) => (
+          <BreweryCard
+            slug={b.data.slug}
+            nom={b.data.nom}
+            cp={b.data.cp}
+            ville={b.data.ville}
+            region={b.data.region}
+            aBiereSansAlcool={b.data.aBiereSansAlcool}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="font-body text-muted/50 text-center py-16">
+        Aucune brasserie référencée pour cette ville pour le moment.
+      </p>
+    )}
+  </div>
+</Base>

@@ -1,0 +1,24 @@
+{
+  "slug": "crystal",
+  "nom": "Crystal",
+  "description": "Malgré un rendement relativement faible, le Crystal's en a fait un houblon assez populaire. Il est boisé, vert, floral et fruité, avec des notes herbacées et épicées de cannelle, de noix de muscade et de poivre noir. Extrêmement polyvalent, il est même utilisé pour ses qualités aromatiques notables dans les IPA et les Bitters, malgré sa faible teneur en acide alpha. Sélectionnée pour la première fois en 1983, elle possède une lignée intéressante dont les racines remontent à Hallertau, Cascade, Brewer's Gold et Early Green. Commercialement, elle est utilisée dans une grande variété de bières, de la Rogue Brutal Bitters à la Belgian Dip Chocolate Stout de Mountain Sun.",
+  "aaMin": 3.5,
+  "aaMax": 6,
+  "baMin": 4.5,
+  "baMax": 6.7,
+  "usage": "Aromatique",
+  "stabilite": "Garde 50% de ses acides alpha après 6 mois à 20°C",
+  "cohumulone": "23 - 26",
+  "myrcene": "40 - 65",
+  "caryophyllene": "4 - 8",
+  "humulene": "18 - 18",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "herbeux",
+    "fruits-rouges",
+    "citron",
+    "fraise",
+    "cerise"
+  ]
+}

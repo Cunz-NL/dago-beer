@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-merveilles",
+  "nom": "Brasserie des Merveilles",
+  "cp": "45300",
+  "ville": "BOYNES",
+  "region": "centre",
+  "departement": "loiret-45",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca16b4f5f7f6d1bace9bcb_81564589_1027661414250606_8100447975412596736_n.jpeg",
+  "website": "https://www.brasseriedesmerveilles.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,27 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+---
+
+<Base
+  title="Liste d'attente — Offres exclusives bières artisanales — Dago Beer"
+  description="Inscrivez-vous à la liste d'attente de dago.beer pour accéder en avant-première aux ventes privées, sélections exclusives et nouveautés bières artisanales."
+  canonical="https://www.dago.beer/liste-d-attente"
+>
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+    <Breadcrumb items={[{ label: "Liste d'attente" }]} />
+
+    <h1 class="font-heading text-4xl font-bold text-white mb-4">
+      Liste <span class="text-amber-brand">d'attente</span>
+    </h1>
+    <p class="font-body text-lg text-muted/70 mb-10">
+      Soyez parmi les premiers à accéder à nos sélections exclusives, ventes privées et nouveautés bières artisanales.
+    </p>
+
+    <div class="bg-surface border border-amber-brand/30 rounded-xl p-8">
+      <p class="font-body text-muted/60 text-sm">
+        Formulaire d'inscription disponible prochainement.
+      </p>
+    </div>
+  </div>
+</Base>

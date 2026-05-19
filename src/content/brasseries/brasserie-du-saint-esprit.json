@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-saint-esprit",
+  "nom": "Brasserie du Saint Esprit",
+  "cp": "22270",
+  "ville": "PLÉDÉLIAC",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f3978a413e22738c7d56c_28336985_154375825374904_5195475199496381555_o.jpeg",
+  "website": "http://www.brasserie-saint-esprit.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

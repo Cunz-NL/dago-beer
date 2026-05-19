@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lapepie",
+  "nom": "Brasserie Lapépie",
+  "cp": "24560",
+  "ville": "PLAISANCE",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe47bf235125e548031c6_82881205_1194126737442950_2469916158694785024_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

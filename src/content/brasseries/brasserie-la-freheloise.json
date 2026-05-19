@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-la-freheloise",
+  "nom": "Brasserie La Fréheloise",
+  "cp": "22240",
+  "ville": "FRÉHEL",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "description": "Créée en 2018 a Fréhel",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6081e4ab1637e79488223cd8_logo-la-freheloise.jpg",
+  "website": "http://www.lafreheloise.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

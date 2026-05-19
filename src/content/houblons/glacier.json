@@ -1,0 +1,20 @@
+{
+  "slug": "glacier",
+  "nom": "Glacier",
+  "description": "Développé par l'Université d'État de Washington et commercialisé en 2000, Glacier est un houblon à haut rendement et à double usage, caractérisé par de faibles niveaux de cohumulone, ce qui lui confère une amertume modérée et agréable. Les notes aromatiques et gustatives de Glacier sont herbacées, boisées et citronnées. La popularité de Glacier dans le secteur de la brasserie est croissante. Elle convient parfaitement aux IPA, ESB et APA, mais a également été utilisée dans de nombreux autres styles. Elle est la descendante de l'Elsasser, de la Northern Brewer et de la Brewer's Gold.",
+  "aaMin": 3.3,
+  "aaMax": 9.7,
+  "baMin": 5.4,
+  "baMax": 9.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "myrcene": "33 - 62",
+  "caryophyllene": "6.5 - 10",
+  "humulene": "24 - 24",
+  "aromes": [
+    "mure",
+    "cedre",
+    "boise",
+    "prune"
+  ]
+}

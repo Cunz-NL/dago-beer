@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lurbaine",
+  "nom": "Brasserie L'Urbaine",
+  "cp": "29200",
+  "ville": "BREST",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607075824a0d804755ed0e58_17758410_1307485965998548_7544946314309905103_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

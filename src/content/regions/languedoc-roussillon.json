@@ -1,0 +1,12 @@
+{
+  "slug": "languedoc-roussillon",
+  "nom": "Languedoc-Roussillon",
+  "departements": [
+    "aude-11",
+    "gard-30",
+    "herault-34",
+    "lot-et-garonne-47",
+    "lozere-48",
+    "pyrenees-orientales-66"
+  ]
+}

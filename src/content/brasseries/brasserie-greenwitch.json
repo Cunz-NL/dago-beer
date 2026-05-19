@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-greenwitch",
+  "nom": "Brasserie Greenwitch",
+  "cp": "64140",
+  "ville": "Billère",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc17d6975beb32021344a_119208795_1015470892242059_726242870514825463_n.jpeg",
+  "website": "http://www.brasserie-greenwitch.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

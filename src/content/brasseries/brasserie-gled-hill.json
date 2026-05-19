@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-gled-hill",
+  "nom": "Brasserie Gled Hill",
+  "cp": "56130",
+  "ville": "MARZAN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6070745f0b7f716782e70de6_31239354_441523842964360_6194671815382532096_n.png",
+  "website": "http://brasserie-gledhill.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

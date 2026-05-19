@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-pintadier",
+  "nom": "Brasserie du Pintadier",
+  "cp": "25000",
+  "ville": "BESANÇON",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605ca4bbcb8290c7024051d5_Pintadier-Amb-77-1377886264.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

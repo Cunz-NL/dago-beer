@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hoodo",
+  "nom": "Brasserie Hoodo",
+  "cp": "69490",
+  "ville": "SAINT-FORGEUX",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decc3a65b38408732a8c2_51Q11qHn5WL._AC_SX522_.jpeg",
+  "website": "https://www.hoodo.eu",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

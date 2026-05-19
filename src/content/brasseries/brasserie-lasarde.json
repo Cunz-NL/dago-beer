@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lasarde",
+  "nom": "Brasserie Làsarde",
+  "cp": "34150",
+  "ville": "SAINT-GUILHEM-LE-DÉSERT",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca13a5c23c3ee88f0e8cc4_biere-brune.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

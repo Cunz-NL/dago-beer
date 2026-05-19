@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-les-bieres-du-crepuscule",
+  "nom": "Brasserie Les Bières du Crépuscule",
+  "cp": "1560",
+  "ville": "#N/A",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a369122cc584b824d08630_4d5c5063f03b3af44a600d5871c2bdba05c55503-logo.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

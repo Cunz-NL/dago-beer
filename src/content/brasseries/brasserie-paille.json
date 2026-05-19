@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-paille",
+  "nom": "Brasserie Paille",
+  "cp": "71250",
+  "ville": "CHÂTEAU",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d02db683bfb7361bdb20_periers-restaurant-paille-et-plage-600x495.jpeg",
+  "website": "https://www.brasserie-paille.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-der",
+  "nom": "Brasserie du Der",
+  "cp": "52220",
+  "ville": "MONTIER-EN-DER",
+  "region": "champagne-ardenne",
+  "departement": "haute-marne-52",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e066301a72c86c204d2_71396128_1451393858334430_7817422365184229376_n.jpeg",
+  "website": "http://www.brasserieartisanaleduder.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

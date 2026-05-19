@@ -1,0 +1,14 @@
+{
+  "slug": "backa",
+  "nom": "Bačka",
+  "description": "Datant de 1956, le Backa est une variété ancienne et rare de houblon aromatique dont le pedigree est inconnu. Il a un potentiel de rendement élevé dans sa région d'origine, la région de Backa en Serbie (ex-Yougoslavie), mais ne semble pas avoir de succès ailleurs. Il est très aromatique et on dit qu'il possède des qualités similaires à celles de nombreux \"houblons nobles\" européens. L'USDA répertorie deux souches de Backa (56002) et (21080), mais il semble qu'il y ait un désaccord quant à savoir si elles sont identiques ou non.",
+  "aaMin": 3,
+  "aaMax": 6.5,
+  "baMin": 4,
+  "baMax": 7,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "aromes": [
+    "houblon"
+  ]
+}

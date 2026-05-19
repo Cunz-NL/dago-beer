@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-vieille-mule",
+  "nom": "Brasserie La Vieille Mule",
+  "cp": "26160",
+  "ville": "LE POËT-LAVAL",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606462f9c613e2687ae19b86_32482817_1010250262474677_7572265198136852480_n.jpeg",
+  "website": "http://www.lavieillemule.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

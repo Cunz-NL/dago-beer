@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-louette",
+  "nom": "Brasserie La Louette",
+  "cp": "85500",
+  "ville": "CHANVERRIE",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05fabcc7a004f18264ff_64976710_383472278940380_7298193774381891584_n.jpeg",
+  "website": "http://brasserie-la-louette.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

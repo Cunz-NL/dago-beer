@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-merle",
+  "nom": "Brasserie du Merle",
+  "cp": "73190",
+  "ville": "PUYGROS",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b7663f5b528c12dba5f7_30167262_1580888035343506_1478987051835158257_o.jpeg",
+  "website": "http://brasseriedumerle.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

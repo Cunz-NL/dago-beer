@@ -1,0 +1,21 @@
+{
+  "slug": "pacific-jade",
+  "nom": "Pacific Jade",
+  "description": "Issue du programme de recherche sur le houblon néo-zélandais de HortResearch en 2004, Pacific Jade a commencé son existence commerciale en se limitant principalement au marché intérieur néo-zélandais. Aujourd'hui, cependant, elle se fraye un chemin dans les stocks du monde entier. Il présente un profil aromatique intéressant d'agrumes de citron et de poivre concassé. En tant qu'ajout précoce, elle confère une amertume douce et arrondie. Ancestralement, la Pacific Jade doit son existence à la Saaz et à une autre variété née en Nouvelle-Zélande, la First Choice.",
+  "aaMin": 12,
+  "aaMax": 14,
+  "baMin": 7,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "myrcene": "33.3",
+  "caryophyllene": "10.2",
+  "humulene": "32.9",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "herbeux",
+    "citron",
+    "poivre",
+    "amertume-b"
+  ]
+}

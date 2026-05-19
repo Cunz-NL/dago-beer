@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-b",
+  "nom": "Brasserie La B.",
+  "cp": "37400",
+  "ville": "AMBOISE",
+  "region": "centre",
+  "departement": "indre-et-loire-37",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca14a81c14e349b1f442c0_69388015_102620347789952_7821305883203207168_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

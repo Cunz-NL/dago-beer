@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bourganel",
+  "nom": "Brasserie Bourganel",
+  "cp": "7600",
+  "ville": "VALS LES    BAINS",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decbacb5a70f630c75a97_Brasserie-Bourganel-Biere-Aux-Marrons-bottle.jpeg",
+  "website": "http://www.bieres-bourganel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

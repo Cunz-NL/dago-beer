@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bieres-et-tentations",
+  "nom": "Brasserie Bières et Tentations",
+  "cp": "51150",
+  "ville": "JUVIGNY",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d633f206c0c6fe8119f_159482741_2874484576103976_2829859247011111594_n.jpeg",
+  "website": "http://www.bieresettentations.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

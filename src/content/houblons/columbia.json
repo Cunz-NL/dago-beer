@@ -1,0 +1,15 @@
+{
+  "slug": "columbia",
+  "nom": "Columbia",
+  "description": "La Columbia a bénéficié d'une production limitée dans les années 1980, mais a ensuite été abandonnée au profit de la Willamette. Cependant, comme les brasseurs artisanaux ont commencé à découvrir l'unique et piquant coup de houblon de Columbia et sa remarquable touche d'agrumes citronnés, elle semble être revenue à la mode. La Columbia a été remise en production en 2011. Elle est maintenant utilisée, entre autres, dans la Widmer Bros. Columbia Common Spring Ale.",
+  "aaMin": 8,
+  "aaMax": 8.5,
+  "baMin": 3.9,
+  "baMax": 4.1,
+  "usage": "Aromatique",
+  "stabilite": "Très bonne : 70",
+  "aromes": [
+    "houblon",
+    "zeste-de-citron"
+  ]
+}

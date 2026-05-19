@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-james",
+  "nom": "Brasserie J.A.M.E.S.",
+  "cp": "77230",
+  "ville": "DAMMARTIN-EN-GOËLE",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093999120d8ca060e61e209_Brasserie-St-James-Logo-FEATURE.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "vojvodina",
+  "nom": "Vojvodina",
+  "description": "Résultat d'un croisement entre Northern Brewer et une variété mâle dérivée de Golding, Vojvodina est un houblon aux propriétés amérisantes douces, à l'arôme boisé et aux notes de cèdre et de tabac. Il possède certaines des caractéristiques de l'arôme noble de Northern Brewer, mais il est plus intense et peut-être un peu plus rond. La Vojvodina a été initialement créée à la fin des années 1960 à l'Institut de recherche agricole de Bački Petrovac, en ex-Yougoslavie, dans le but de remplacer la Backa. Sans succès à cet égard, les superficies commerciales restent rares. C'est la sœur de Dunav et Neoplanta et, comme Dunav, elle présente une coloration rougeâtre sur sa tige principale.",
+  "aaMin": 6,
+  "aaMax": 10.5,
+  "baMin": 2.3,
+  "baMax": 4.7,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 75",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

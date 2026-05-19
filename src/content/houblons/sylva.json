@@ -1,0 +1,16 @@
+{
+  "slug": "sylva",
+  "nom": "Sylva",
+  "description": "Cultivé par Hop Products Australia en Tasmanie en 1997, Sylva est un houblon aromatique australien au profil gustatif subtil et complexe. Progéniture du Saaz, ce sont ces racines qui lui permettent de s'adapter aux lagers et pilsners légères, en leur conférant un houblon de style bohème qui rappelle son parent tchèque. Certains ont décrit la Sylva comme étant résolument terreuse, avec des saveurs rappelant le bois fraîchement coupé et la forêt. Il est donc peut-être approprié que son nom soit défini en anglais comme \"a descriptive flora of forest trees\".",
+  "aaMin": 5.6,
+  "aaMax": 7.3,
+  "baMin": 3,
+  "baMax": 4.6,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "citron",
+    "floral",
+    "terreux"
+  ]
+}

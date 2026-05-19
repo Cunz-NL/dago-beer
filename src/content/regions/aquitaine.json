@@ -1,0 +1,10 @@
+{
+  "slug": "aquitaine",
+  "nom": "Aquitaine",
+  "departements": [
+    "dordogne-24",
+    "gironde-33",
+    "landes-40",
+    "pyrenees-atlantiques-64"
+  ]
+}

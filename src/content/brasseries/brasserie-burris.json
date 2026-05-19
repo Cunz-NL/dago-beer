@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-burris",
+  "nom": "Brasserie Burris'",
+  "cp": "52110",
+  "ville": "BEURVILLE",
+  "region": "champagne-ardenne",
+  "departement": "haute-marne-52",
+  "description": "Brasserie créée en 2021 en Haute-Marne",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/615db0c40902201a7d4bc776_Version5ok-AFFICHE-RVB.jpg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

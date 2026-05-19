@@ -1,0 +1,16 @@
+{
+  "slug": "topazE284A2",
+  "nom": "Topaz™",
+  "description": "La variété polyvalente Topaz, née en Australie, présente des éléments d'épices semblables à du clou de girofle et un léger goût fruité semblable à celui du litchi. Samuel Adams l'utilise dans sa Tasman Red IPA. Lorsqu'elle est utilisée avec un houblon à forte teneur en agrumes (Samuel Adams a utilisé Galaxy®), elle donne une profondeur de saveur surprenante. Créé en 1985 par Hop Products Australia dans le jardin d'élevage de Rostrevor dans l'État de Victoria, le Topaz a toujours été destiné à être un houblon à alpha élevé. Résultat d'un mélange entre une variété australienne à haute teneur en alpha et un mâle britannique provenant du Wye College en Angleterre, Topaz est un mélange unique de saveurs et d'arômes australiens et européens. Topaz était initialement utilisé comme houblon amérisant, mais à la fin des années 2000, l'expérimentation accrue de la variété a permis de découvrir sa valeur intense en tant qu'ajout tardif. Il présente des notes résineuses et herbacées lorsqu'il est houblonné à sec, et son profil fruité brille vraiment lorsqu'il est utilisé dans des recettes à gravité élevée.",
+  "aaMin": 13.7,
+  "aaMax": 17.7,
+  "baMin": 6.4,
+  "baMax": 7.9,
+  "usage": "Aromatique",
+  "cohumulone": "47 - 50",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "resineux"
+  ]
+}

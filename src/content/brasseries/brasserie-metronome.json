@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-metronome",
+  "nom": "Brasserie Métronome",
+  "cp": "65190",
+  "ville": "LESPOUEY",
+  "region": "midi-pyrenees",
+  "departement": "hautes-pyrenees-65",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/632ec3a90ee1f15ed1a993fe_unnamed.png",
+  "website": "https://brasseriemetronome.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-jugement-dernier",
+  "nom": "Brasserie du Jugement Dernier",
+  "cp": "3800",
+  "ville": "MAZERIER",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3da153c133f6e05fbb3_55244504_827947047581388_7681316646870319104_n.jpeg",
+  "website": "http://jugementdernier.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

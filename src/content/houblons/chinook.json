@@ -1,0 +1,22 @@
+{
+  "slug": "chinook",
+  "nom": "Chinook",
+  "description": "Le houblon Chinook convient à toutes les étapes de l'ébullition. Ils ne sont pas seulement naturels pour les Pale Ales et les IPA de style américain, mais on les retrouve aussi dans les ales saisonnières, les vins d'orge et certains porters et stouts. La variété est un croisement entre la Petham Golding et un mâle de l'USDA et se caractérise par un bouquet épicé semblable à celui du pin, avec des saveurs robustes de pamplemousse. Commercialisée en 1985, la Chinook a récemment gagné en popularité, notamment auprès des brasseries artisanales. Actuellement, elle est commercialisée seule dans l'Arrogant Bastard de Stone et en plus de la Cascade et de la Centennial dans la Celebration Ale de Sierra Nevada - un brassin célèbre pour son caractère pignon et agrumes.",
+  "aaMin": 12,
+  "aaMax": 14,
+  "baMin": 3,
+  "baMax": 4,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "cohumulone": "29 - 34",
+  "myrcene": "35 - 40",
+  "caryophyllene": "9 - 11",
+  "humulene": "18 - 18",
+  "aromes": [
+    "epice",
+    "resineux",
+    "abricot",
+    "baie-de-sureau",
+    "baies-rouges"
+  ]
+}

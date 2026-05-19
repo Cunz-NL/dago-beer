@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-baz",
+  "nom": "Brasserie La Baz",
+  "cp": "28400",
+  "ville": "ARCISSES",
+  "region": "centre",
+  "departement": "eure-et-loir-28",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab3d187d0419b3e5f387_91310836_1300296980359642_1458302144732987392_n.png",
+  "website": "https://www.brasserielabaz.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

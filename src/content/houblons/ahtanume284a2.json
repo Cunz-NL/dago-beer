@@ -1,0 +1,22 @@
+{
+  "slug": "ahtanumE284A2",
+  "nom": "Ahtanum™",
+  "description": "Ahtanum™, élevé dans la vallée de Yakima, est doux et poivré avec un aspect pin-citron. Chaudement aromatique et modérément amère, Ahtanum™ est un houblon de distinction. Il est souvent comparé au Cascade, même si, sans aller aussi loin, il est plus logique de dire que le Cascade peut être un substitut acceptable. En comparaison, Ahtanum™ est moins amer, ses acides alpha sont plus faibles et son essence de pamplemousse est nettement plus prononcée. Elle s'apparente vraiment plus à la Willamette, avec ses notes de citron et de pamplemousse. Le caractère distinct d'agrume d'Ahtanum l'a conduit à être utilisé comme houblon singulier dans la Blood Orange Heffeweisen de Dogfish Head et la Pale Ale de Stone Brewing.",
+  "aaMin": 4,
+  "aaMax": 7,
+  "baMin": 5,
+  "baMax": 6.5,
+  "usage": "Aromatique",
+  "stabilite": "Moyenne : 55 @ 20°C à 6 mois",
+  "cohumulone": "30 - 35",
+  "myrcene": "50 - 55",
+  "caryophyllene": "9 - 12",
+  "humulene": "16 - 16",
+  "aromes": [
+    "floral",
+    "poivre",
+    "resineux",
+    "pamplemousse",
+    "terreux"
+  ]
+}

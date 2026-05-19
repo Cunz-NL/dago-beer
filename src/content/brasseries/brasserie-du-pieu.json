@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-pieu",
+  "nom": "Brasserie du Pieu",
+  "cp": "38760",
+  "ville": "SAINT-PAUL-DE-VARCES",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606df04767d6793101907eba_Logo-Microbrasserie-du-Pieu.png",
+  "website": "https://microbrasseriedupieu.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

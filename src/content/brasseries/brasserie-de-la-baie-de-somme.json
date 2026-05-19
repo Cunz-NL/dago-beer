@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-baie-de-somme",
+  "nom": "Brasserie de la Baie de Somme",
+  "cp": "80100",
+  "ville": "ABBEVILLE",
+  "region": "picardie",
+  "departement": "somme-80",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f515720ef72f8150e99d_18839643_901540360021993_2296222510408967588_o.jpeg",
+  "website": "http://brasseurdelabaie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

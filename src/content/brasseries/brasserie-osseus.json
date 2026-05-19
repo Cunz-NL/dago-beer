@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-osseus",
+  "nom": "Brasserie Osseus",
+  "cp": "59140",
+  "ville": "DUNKERQUE",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6a14c2885045ce851341_68489833_368201077436080_2323439782283182080_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

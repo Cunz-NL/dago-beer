@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-onirique",
+  "nom": "Brasserie Onirique",
+  "cp": "78390",
+  "ville": "BOIS-D'ARCY",
+  "region": "ile-de-france",
+  "departement": "yvelines-78",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609399d02c5040444cf1061e_13178051_558391904333565_8205672821860308643_n.png",
+  "website": "http://www.brasserie-onirique.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "mosaic-C2AE",
+  "nom": "Mosaic ®",
+  "description": "Commercialisé en 2012 par la Hop Breeding Company, LLC, le houblon Mosaic présente des caractéristiques gustatives complexes mais nettes et est connu pour son profil à triple usage englobant l'amertume, la saveur et l'arôme. Il a une teneur élevée en acides alpha mais une faible teneur en cohumulone, ce qui le rend agréablement houblonné, avec des saveurs de mangue, de pin, d'agrumes et d'herbes et des arômes de fruits tropicaux et de fruits à noyau. La Mosaic est la première fille de la Simcoe et de la Nugget et a été qualifiée avec humour par certains de \"Citra sur stéroïdes\".",
+  "aaMin": 11.5,
+  "aaMax": 13.5,
+  "baMin": 3.2,
+  "baMax": 3.9,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 75",
+  "cohumulone": "24 - 26",
+  "aromes": [
+    "floral",
+    "fruite",
+    "mandarine",
+    "papaye",
+    "terreux",
+    "myrtille",
+    "bubble-gum"
+  ]
+}

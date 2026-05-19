@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-23",
+  "nom": "Brasserie La 23",
+  "cp": "23120",
+  "ville": "VALLIÈRE",
+  "region": "limousin",
+  "departement": "creuse-23",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891ac78ec45239221b21fe_19224792_104435423544890_815786686530297949_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

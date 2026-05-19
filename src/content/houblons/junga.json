@@ -1,0 +1,10 @@
+{
+  "slug": "junga",
+  "nom": "Junga",
+  "aaMin": 10,
+  "aaMax": 13,
+  "baMin": 5,
+  "baMax": 8,
+  "usage": "Double usage",
+  "aromes": []
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bel-orge",
+  "nom": "Brasserie Bel Orge",
+  "cp": "14640",
+  "ville": "VILLERS-SUR-MER",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67cbc03fdab4d072064cb_bel-orge.jpeg",
+  "website": "http://belorge.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

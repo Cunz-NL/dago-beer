@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-clos-belle-rose",
+  "nom": "Brasserie Clos Belle Rose",
+  "cp": "8170",
+  "ville": "HAYBES",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8b36bd7225d8a4d0ac6_178997773.jpeg",
+  "website": "http://www.le-clos-belle-rose.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

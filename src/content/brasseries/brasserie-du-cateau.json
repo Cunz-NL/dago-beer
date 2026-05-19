@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-cateau",
+  "nom": "Brasserie du Cateau",
+  "cp": "59360",
+  "ville": "LE CATEAU  CAMBRESIS",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf4154dfeb6db13edac96_67540270_2584449774898723_7937850258866831360_n.jpeg",
+  "website": "http://www.brasserieducateau.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

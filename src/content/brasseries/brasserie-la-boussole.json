@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-boussole",
+  "nom": "Brasserie La Boussole",
+  "cp": "9190",
+  "ville": "TAURIGNAN-VIEUX",
+  "region": "midi-pyrenees",
+  "departement": "ariege-09",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8f535815c032a8c8b12_27982696_1890678977879923_7008202227693358795_o.jpeg",
+  "website": "http://www.brasserie-laboussole.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

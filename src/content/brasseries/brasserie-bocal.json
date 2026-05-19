@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-bocal",
+  "nom": "Brasserie Bocal",
+  "cp": "92100",
+  "ville": "Boulogne-billancourt",
+  "region": "ile-de-france",
+  "departement": "hauts-de-seine-92",
+  "description": "Année de création : 2021",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/615427d5a992e6d0cb52e2fa_Logo_Brasserie.png",
+  "website": "http://www.bocal.eco",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

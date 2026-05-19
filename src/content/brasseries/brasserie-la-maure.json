@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-maure",
+  "nom": "Brasserie La Maure",
+  "cp": "83230",
+  "ville": "BORMES-LES-MIMOSAS",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "var-83",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f608609dec10979e356a_15585363_654449641383480_6261959201029722742_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

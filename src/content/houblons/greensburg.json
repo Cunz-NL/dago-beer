@@ -1,0 +1,14 @@
+{
+  "slug": "greensburg",
+  "nom": "Greensburg",
+  "description": "Le Greensburg est un houblon aromatique américain cultivé principalement dans le sud de l'Idaho et est utilisé principalement par les microbrasseries. Il présente des notes à la fois fruitées et boisées. Ses acides bêta dépassent en fait sa teneur en acides alpha. Il est idéal lorsqu'il est ajouté à la fin d'une ébullition pour l'arôme.",
+  "aaMin": 5.2,
+  "aaMax": 5.2,
+  "baMin": 7.2,
+  "baMax": 7.2,
+  "usage": "Double usage",
+  "aromes": [
+    "fruite",
+    "boise"
+  ]
+}

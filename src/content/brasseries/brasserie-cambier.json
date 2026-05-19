@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cambier",
+  "nom": "Brasserie Cambier",
+  "cp": "59170",
+  "ville": "CROIX",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a68fa4089715292165128_154570_335300259975445_4610869344216243794_n.jpeg",
+  "website": "http://www.brasserie-cambier.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

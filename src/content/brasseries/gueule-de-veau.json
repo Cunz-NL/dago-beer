@@ -1,0 +1,13 @@
+{
+  "slug": "gueule-de-veau",
+  "nom": "Gueule de Veau",
+  "cp": "67210",
+  "ville": "Bernardswiller",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "description": "Microbrasserie créée en 2022 à Bernardswiller (67)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6347e4f775912133b958ee0e_271534800_126827833161108_2137989133960382400_n.jpg",
+  "website": "https://gueule-de-veau.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

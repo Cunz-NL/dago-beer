@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-holtzmann",
+  "nom": "Brasserie Holtzmann",
+  "cp": "67170",
+  "ville": "WINGERSHEIM",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eeffe43bf582389e398c_243002211_1.jpeg",
+  "website": "http://www.brasserie-holtzmann.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

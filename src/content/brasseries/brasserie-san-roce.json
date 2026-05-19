@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-san-roce",
+  "nom": "Brasserie San Roce",
+  "cp": "44170",
+  "ville": "JANS",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607bd84ce430471d401135b3_Accueil-Sanroce_800X800_72dpi_notranche.png",
+  "website": "http://brasseriesanroce.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

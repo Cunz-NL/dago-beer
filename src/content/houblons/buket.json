@@ -1,0 +1,12 @@
+{
+  "slug": "buket",
+  "nom": "Buket",
+  "description": "Buket est un Fuggle de 2ème génération et un descendant de Northern Brewer. Il a été sélectionné pour la première fois dans la région de Zalec en Slovénie au milieu des années 1970, aux côtés de Bobek et Blisk. L'inspiration pour ces trois houblons est due aux tentatives des chercheurs de créer à la fois un alpha élevé et un bon arôme dans un seul cultivar. Depuis sa création, il n'a pas été beaucoup utilisé commercialement.",
+  "aaMin": 8.5,
+  "aaMax": 13.5,
+  "baMin": 4.2,
+  "baMax": 6.3,
+  "usage": "Double usage",
+  "stabilite": "Moyenne : 50",
+  "aromes": []
+}

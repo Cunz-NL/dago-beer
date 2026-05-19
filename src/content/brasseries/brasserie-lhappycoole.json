@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lhappycoole",
+  "nom": "Brasserie L'Happycoole",
+  "cp": "51240",
+  "ville": "ECURY-SUR-COOLE",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d51550c9242ac99ddda_80296927_454700331860893_4764913830025232384_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

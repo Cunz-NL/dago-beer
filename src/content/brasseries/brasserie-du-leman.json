@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-leman",
+  "nom": "Brasserie du Léman",
+  "cp": "74200",
+  "ville": "ALLINGES",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c1786e9eb6d08605f21_0-7096975.jpeg",
+  "website": "http://www.biere-leman.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

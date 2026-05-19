@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-val-aisne",
+  "nom": "Brasserie Val' Aisne",
+  "cp": "2880",
+  "ville": "NANTEUIL LA   FOSSE",
+  "region": "picardie",
+  "departement": "aisne-02",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a36969ea13ace02290101e_DqCAsLBg.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

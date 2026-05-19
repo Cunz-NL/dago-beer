@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-solstice",
+  "nom": "Brasserie Solstice",
+  "cp": "38000",
+  "ville": "grenoble",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedb30719664b9c1d911c_menu.jpeg",
+  "website": "http://brasserie-solstice.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

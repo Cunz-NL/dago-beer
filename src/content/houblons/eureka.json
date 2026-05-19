@@ -1,0 +1,20 @@
+{
+  "slug": "eureka",
+  "nom": "Eureka",
+  "description": "Avec des similitudes avec les houblons Simcoe® et Summit™, Eureka est une variété assez nouvelle avec des qualités d'amertume très fortes et un profil de saveur et d'arôme complexe et robuste. On dit qu'elle transmet des saveurs d'agrumes, de résine, de fruits tropicaux et de fruits noirs, ainsi que des arômes d'écorce de pamplemousse, d'agrumes et de mandarine. Elle est la progéniture des variétés Apollo et Merkur.",
+  "aaMin": 17,
+  "aaMax": 19.9,
+  "baMin": 4.6,
+  "baMax": 6,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "citron",
+    "mandarine",
+    "cassis",
+    "pin",
+    "fruit-a-noyau",
+    "fruits-noirs"
+  ]
+}

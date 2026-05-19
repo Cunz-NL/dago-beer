@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-sylki",
+  "nom": "Brasserie Sylki",
+  "cp": "75013",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093997b6f7b3c03c21ac69f_jPNku2aR_400x400.jpeg",
+  "website": "http://www.mabiere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

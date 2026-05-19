@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-bs-bar",
+  "nom": "Brasserie B's Bar",
+  "cp": "33540",
+  "ville": "#N/A",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad359a4584998cd86567f6_c178b78e0499377db12903f7e894cab0.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

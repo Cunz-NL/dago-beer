@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-saint-nicolas-da-biere",
+  "nom": "Brasserie Saint Nicolas da Bière",
+  "cp": "3250",
+  "ville": "SAINT-NICOLAS-DES-BIEFS",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3c46604893c48d5fabe_2a051c367ed6e4929cf09fa181060b36.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

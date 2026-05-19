@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bon-poison",
+  "nom": "Brasserie Bon Poison",
+  "cp": "57000",
+  "ville": "METZ",
+  "region": "lorraine",
+  "departement": "moselle-57",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e224bf39da60640c826_aHR0cHM6Ly93d3cudG91cmlzbS1sb3JyYWluZS5jb20vc2l0bG9yaW1nLzE5MjAvMC9hSFIwY0hNNkx5OTNkM2N1YzJsMGJHOXlMbVp5TDNCb2IzUnZjeTg0TXpndk9ETTRNVFkxTWpneFh6RXlMbEJPUnc9PS5qcGc%3D.jpeg",
+  "website": "http://www.bonpoison.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

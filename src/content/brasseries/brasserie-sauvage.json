@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-sauvage",
+  "nom": "Brasserie Sauvage",
+  "cp": "74160",
+  "ville": "NEYDENS",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c0c92f7cd7dc147caf6_paris-cafe-bar-late-afternoon-at-maison-sauvage-on-rue-de-buci-in-saint-germain-des-pres-area-of-paris-france-europe-W4FHH2.jpeg",
+  "website": "http://labrasseriedumontsaleve.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

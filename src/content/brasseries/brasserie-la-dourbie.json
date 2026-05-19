@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-dourbie",
+  "nom": "Brasserie La Dourbie",
+  "cp": "38600",
+  "ville": "FONTAINE",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dee1ba2bc840091a1715b_125325614_115319383718951_6374241880196427353_n.png",
+  "website": "http://brasserieflore.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

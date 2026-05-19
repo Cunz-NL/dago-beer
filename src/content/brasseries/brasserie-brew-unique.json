@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-brew-unique",
+  "nom": "Brasserie Brew Unique",
+  "cp": "75002",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d0e22764193e9e9080e1_brew-unique-fi-720x380.jpeg",
+  "website": "http://www.brewunique.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

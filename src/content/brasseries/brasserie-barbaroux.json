@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-barbaroux",
+  "nom": "Brasserie Barbaroux",
+  "cp": "43230",
+  "ville": "CHASSAGNES",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852ddb38e13e7e45a5811b_logo_barbaroux_final.jpeg",
+  "website": "http://www.brasseriebarbaroux.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

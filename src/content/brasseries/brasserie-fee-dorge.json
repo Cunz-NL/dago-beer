@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-fee-dorge",
+  "nom": "Brasserie Fée d'Orge",
+  "cp": "50290",
+  "ville": "BRÉHAL",
+  "region": "normandie",
+  "departement": "manche-50",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d76bac882843b400e42_brehal-brasserie-fee-d-orge-5.png",
+  "website": "http://www.feedorge.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

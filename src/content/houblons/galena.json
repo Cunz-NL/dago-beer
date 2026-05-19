@@ -1,0 +1,24 @@
+{
+  "slug": "galena",
+  "nom": "Galena",
+  "description": "La galène super alpha est l'une des variétés de houblon amérisant les plus utilisées aux États-Unis et constitue également un excellent houblon à double usage. Le profil de saveur fruité de la Galena est très prononcé avec des notes nettes et agréables d'agrumes. Certains brasseurs ont remarqué qu'elle est meilleure lorsqu'elle est bouillie en petites quantités et que les ajouts ultérieurs font ressortir des arômes plus forts de cassis. Descendant directement de la Brewer's Gold, la Galena a été obtenue par pollinisation ouverte et a été officiellement sélectionnée en 1968 par le scientifique agricole Richard R. Romanko dans l'État de l'Idaho. Commercialement, la Galena est surtout connue pour son utilisation présumée comme seul houblon dans la bière blonde Corona Extra.",
+  "aaMin": 11.5,
+  "aaMax": 13.5,
+  "baMin": 7.2,
+  "baMax": 8.7,
+  "usage": "Amérisant",
+  "stabilite": "Bonne : 75",
+  "myrcene": "55 - 60",
+  "caryophyllene": "3 - 5.5",
+  "humulene": "10 - 10",
+  "aromes": [
+    "agrumes",
+    "ananas",
+    "pamplemousse",
+    "poire",
+    "resineux",
+    "cassis",
+    "citron-vert",
+    "groseille"
+  ]
+}

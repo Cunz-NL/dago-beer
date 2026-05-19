@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-hylalegans",
+  "nom": "Brasserie Hylalegans",
+  "cp": "64300",
+  "ville": "BIRON",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc37fd1f0ee99ee30c4d1_48357364_2158809744370589_8164525112192663552_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-white-star",
+  "nom": "Brasserie White Star",
+  "cp": "62140",
+  "ville": "MARCONNE",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04a6daac8bc0223cdfa5_921314_296616437130356_715551820_o.jpeg",
+  "website": "https://www.brasserie-artisanale-white-star.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

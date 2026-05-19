@@ -1,0 +1,18 @@
+{
+  "slug": "pekko",
+  "nom": "Pekko",
+  "aaMin": 13,
+  "aaMax": 16,
+  "baMin": 3.5,
+  "baMax": 4.3,
+  "usage": "Amérisant",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "herbeux",
+    "citron",
+    "menthole",
+    "sauge",
+    "thym"
+  ]
+}

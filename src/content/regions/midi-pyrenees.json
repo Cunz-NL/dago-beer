@@ -1,0 +1,14 @@
+{
+  "slug": "midi-pyrenees",
+  "nom": "Midi-Pyrénées",
+  "departements": [
+    "ariege-09",
+    "aveyron-12",
+    "haute-garonne-31",
+    "gers-32",
+    "lot-46",
+    "hautes-pyrenees-65",
+    "tarn-81",
+    "tarn-et-garonne-82"
+  ]
+}

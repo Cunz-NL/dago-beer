@@ -1,0 +1,12 @@
+{
+  "slug": "aquila",
+  "nom": "Aquila",
+  "description": "Aquila a été développé aux États-Unis et a été établi dans des essais commerciaux de trois acres dans tout le Nord-Ouest en 1988. Elle a été officiellement commercialisée en 1994, mais en raison de sa teneur trop élevée en cohumulone, son utilisation a été considérée comme limitée et elle n'est plus disponible commercialement. Le géant nord-américain de la brasserie, Anheuser Busch, s'est désintéressé de la variété en 1996, ce qui a sonné le glas du bilan commercial d'Aquila.",
+  "aaMin": 6.5,
+  "aaMax": 9,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "stabilite": "Mauvaise : 40",
+  "aromes": []
+}

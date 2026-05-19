@@ -1,0 +1,19 @@
+{
+  "slug": "bramling-cross",
+  "nom": "Bramling Cross",
+  "description": "Le Bramling Cross est une race plutôt rare et est surtout disponible au Royaume-Uni. Récoltée pour la première fois en 1927 au Wye College, elle est issue d'un croisement entre le Golding et un houblon sauvage manitobain (canadien). Il est considéré comme bien adapté aux recettes conditionnées en fût ainsi qu'aux bières de Noël et aux bières fruitées. La brasserie Brew Dog est peut-être la plus éloquente lorsqu'elle parle de la Bramling Cross comme étant \"élégante, raffinée, assurée, (ennuyeuse) et discrète\". Ils suggèrent que les gens n'utilisent souvent pas assez de Bramling Cross pour laisser briller ses véritables saveurs et ses excentricités. Lorsqu'il est utilisé en grande quantité, l'élément fruité de Bramling Cross prend vie. Cette utilisation présente des notes fruitées complexes de citron, de cassis et de poire, en particulier lorsqu'elle est utilisée comme un ajout tardif. Certains brasseurs ont également enregistré des notes de mûres et de prunes.",
+  "aaMin": 5,
+  "aaMax": 7,
+  "baMin": 2.3,
+  "baMax": 3.2,
+  "usage": "Double usage",
+  "myrcene": "35 - 40",
+  "caryophyllene": "14 - 18",
+  "humulene": "28 - 28",
+  "aromes": [
+    "citron",
+    "mure",
+    "cassis",
+    "prune"
+  ]
+}

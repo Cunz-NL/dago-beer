@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tanis",
+  "nom": "Brasserie Tanis",
+  "cp": "81500",
+  "ville": "GARRIGUES",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5874fd5b02713693948_50802635_294269704622041_3965587276271976448_n.jpeg",
+  "website": "http://www.tanis-paysanbrasseur.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

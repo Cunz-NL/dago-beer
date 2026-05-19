@@ -1,0 +1,17 @@
+{
+  "slug": "chelan",
+  "nom": "Chelan",
+  "description": "Chelan est un houblon amérisant breveté privé et fille de Galena. Développé par John I. Haas, Inc. et cultivé exclusivement dans l'État de Washington, il a été mis sur le marché en 1994 et a trouvé une utilisation populaire dans les styles d'ales masculins - en particulier les ales de style américain. Bien que son style soit comparable, la Chelan a un rendement plus élevé et un pourcentage d'acides alpha plus important que son parent, la Galena. Avec des acides bêta très élevés également, la Chelan confère une amertume forte, presque brutale.",
+  "aaMin": 12,
+  "aaMax": 14.5,
+  "baMin": 8.5,
+  "baMax": 9.8,
+  "usage": "Amérisant",
+  "stabilite": "Très bonne : 80",
+  "aromes": [
+    "fraise",
+    "pomme",
+    "amertume-b",
+    "chocolat"
+  ]
+}

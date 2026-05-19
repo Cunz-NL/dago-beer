@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-durfort",
+  "nom": "Brasserie de Durfort",
+  "cp": "84390",
+  "ville": "BRANTES",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "vaucluse-84",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6094e32d35b100d8381f6e6f_4967187_1.jpeg",
+  "website": "http://www.brasserie-durfort.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

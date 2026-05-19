@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-canaille",
+  "nom": "Brasserie La Canaille",
+  "cp": "42890",
+  "ville": "SAIL-SOUS-COUZAN",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696df7be4390006af693b_23559676_1476251872422946_2660053642803721024_n.jpeg",
+  "website": "http://www.brasserielacanaille.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

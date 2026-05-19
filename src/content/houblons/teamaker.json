@@ -1,0 +1,15 @@
+{
+  "slug": "teamaker",
+  "nom": "Teamaker",
+  "description": "Développé pendant plusieurs décennies par l'USDA, le houblon Teamaker a été officiellement mis en circulation par l'ARS Forage, Seed and Cereal Research Unit à Corvallis, Oregon, à la fin des années 2000. Il s'agit d'une race unique à haute teneur en béta et faible teneur en alpha qui a laissé sa marque, non seulement dans l'industrie brassicole, mais aussi dans le monde de la médecine et de l'alimentation. Grâce à leurs fortes propriétés antibiotiques, elles sont utilisées dans les tisanes, comme antibiotique alternatif dans l'alimentation du bétail et comme inhibiteur bactérien dans le traitement du sucre. Comme leur nom l'indique, elles font également un délicieux thé glacé. Dans le brassage de la bière, le profil de saveur de la Teamaker est quelque peu similaire à celui de la Crystal, sauf qu'elle ne semble pas conférer d'amertume du tout. Attendez-vous à des arômes floraux et utilisez-les principalement comme ajout tardif.",
+  "aaMin": 0.6,
+  "aaMax": 1.8,
+  "baMin": 5.4,
+  "baMax": 13.2,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "aromes": [
+    "floral",
+    "the"
+  ]
+}

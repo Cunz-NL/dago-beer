@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-potelloise",
+  "nom": "Brasserie La Potelloise",
+  "cp": "59530",
+  "ville": "LE QUESNOY",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608af9c837d08413d023e957_41765513_1931307520293032_44825791984304128_n.jpeg",
+  "website": "http://www.lapotelloise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-artesienne",
+  "nom": "Brasserie Artésienne",
+  "cp": "62138",
+  "ville": "BILLY-BERCLAU",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04a3daac8b03de3cdf56_logo.png",
+  "website": "http://www.brasserie-artesienne.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

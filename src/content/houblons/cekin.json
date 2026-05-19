@@ -1,0 +1,16 @@
+{
+  "slug": "cekin",
+  "nom": "Cekin",
+  "description": "Comme son frère Cicero, le Dr Dragica Kralj de l'Institut de recherche sur le houblon de Zalec, en Slovénie, a sélectionné le Cekin dans les années 1980. Il s'agit d'un croisement entre Aurora et un mâle yougoslave. Elle n'est actuellement pas cultivée en grandes quantités à des fins commerciales en raison du manque d'intérêt des brasseries. Sa vigueur et son rendement sont excellents en Slovénie, mais à ce jour, elle n'a pas fait ses preuves dans les parcelles d'essai de Corvallis aux États-Unis. On dit qu'elle a un arôme agréable, distinctif et continental comparable à celui de la Styrian Golding.",
+  "aaMin": 6,
+  "aaMax": 8,
+  "baMin": 2,
+  "baMax": 3,
+  "usage": "Aromatique",
+  "stabilite": "Très bonne : 75",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

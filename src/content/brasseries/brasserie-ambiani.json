@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ambiani",
+  "nom": "Brasserie Ambiani",
+  "cp": "80000",
+  "ville": "AMIENS",
+  "region": "picardie",
+  "departement": "somme-80",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f53c48ce933bfb72523f_88218140_2659559410955666_6459759318605496320_n.jpeg",
+  "website": "https://www.brasserie-ambiani.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

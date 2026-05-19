@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-saint-louis",
+  "nom": "Brasserie de Saint Louis",
+  "cp": "68300",
+  "ville": "SAINT-LOUIS",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cf7779241e3e535eebdb_entree-principale.jpeg",
+  "website": "http://www.saint-louis.biz",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

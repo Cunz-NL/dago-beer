@@ -1,0 +1,19 @@
+{
+  "slug": "el-dorado-C2AE",
+  "nom": "El Dorado ®",
+  "description": "El Dorado est un enfant relativement nouveau dans le quartier. Créée en 2008 par CLS Farms, LLC, basée dans la vallée de Moxee, elle a été mise sur le marché en 2010. Produit du climat plus frais de la vallée de Yakima, il présente un profil de saveur fruité unique en plus de propriétés amères et aromatiques souhaitables. Une grande vigueur, des acides alpha élevés, beaucoup d'huiles et de résines, une bonne stabilité au stockage et un rendement exceptionnel en font également, du moins sur le papier, une variété commerciale exceptionnelle. Elle présente des saveurs de fruits tropicaux, qui rappellent l'ananas et la mangue, ainsi qu'un arrière-goût de résine. Au nez, elle dégage des arômes de poire, de pastèque, de fruits à noyau et même de bonbon. À ce jour, elle a été utilisée dans des bières de blé, des Pale Ales et des IPA.",
+  "aaMin": 13,
+  "aaMax": 17,
+  "baMin": 7,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "cohumulone": "28 - 33",
+  "aromes": [
+    "fruit-a-noyau",
+    "fruits-tropicaux",
+    "mangue",
+    "poire",
+    "ananas"
+  ]
+}

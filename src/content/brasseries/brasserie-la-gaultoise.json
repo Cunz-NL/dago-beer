@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-gaultoise",
+  "nom": "Brasserie La Gaultoise",
+  "cp": "51210",
+  "ville": "LE GAULT-SOIGNY",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cafb101d93854db4120edf_123848879_2681928612137962_3623989908297086104_n.jpeg",
+  "website": "https://www.biere-la-gaultoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

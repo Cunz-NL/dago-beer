@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-byb",
+  "nom": "Brasserie BYB",
+  "cp": "31490",
+  "ville": "#N/A",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca12de4fe7d4837779290c_biere_byb_blanche_transp250x672pc-WE776888ac9a.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

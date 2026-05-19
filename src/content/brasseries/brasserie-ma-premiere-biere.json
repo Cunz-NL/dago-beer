@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ma-premiere-biere",
+  "nom": "Brasserie Ma Première Bière",
+  "cp": "76240",
+  "ville": "BELBEUF",
+  "region": "normandie",
+  "departement": "seine-maritime-76",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60741113e976603fde9e5bc6_97973843_3790841704291459_7168684107927388160_n.png",
+  "website": "http://www.ma-premiere-biere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

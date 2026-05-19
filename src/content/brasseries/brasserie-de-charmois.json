@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-charmois",
+  "nom": "Brasserie de Charmois",
+  "cp": "55700",
+  "ville": "MOUZAY",
+  "region": "lorraine",
+  "departement": "meuse-55",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e0b2224b95a77707332_aHR0cHM6Ly93d3cuc2l0bG9yLmZyL3Bob3Rvcy83NDAvNzQwMDAwMDIwXzQuanBn.jpeg",
+  "website": "http://www.bierecharmoy.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

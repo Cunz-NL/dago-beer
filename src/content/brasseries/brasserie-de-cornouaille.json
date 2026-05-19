@@ -1,0 +1,10 @@
+{
+  "slug": "brasserie-de-cornouaille",
+  "nom": "Brasserie de Cornouaille",
+  "cp": "29900",
+  "ville": "CONCARNEAU",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

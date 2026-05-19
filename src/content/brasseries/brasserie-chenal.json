@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-chenal",
+  "nom": "Brasserie Chenal",
+  "cp": "10380",
+  "ville": "Plancy",
+  "region": "champagne-ardenne",
+  "departement": "aube-10",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f52618f7622aaa895b31_30738483_374479429736160_2689816134902874112_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

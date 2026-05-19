@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-quatre-elements",
+  "nom": "Brasserie Quatre Elements",
+  "cp": "92310",
+  "ville": "SÈVRES",
+  "region": "ile-de-france",
+  "departement": "hauts-de-seine-92",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a36861ac7437437e4888a3_27624740_1864025003670813_3245516574792089767_o.jpeg",
+  "website": "https://www.quatreelements.net",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

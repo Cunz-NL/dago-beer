@@ -1,0 +1,19 @@
+{
+  "slug": "falconers-flightC2AE",
+  "nom": "Falconer's Flight®",
+  "description": "Falconer's Flight® est un mélange exclusif de houblons du nord-ouest du Pacifique. Il s'agit de 7 houblons \"C\", Cascade, Centennial, Chinook, Citra®, Cluster, Columbus et Crystal, en plus de variétés expérimentales développées par Hopunion LLC. Lancé en 2010, il est considéré comme un mélange à double usage particulièrement adapté aux IPA, mais aussi aux Pale Ales et aux Lagers. Falconer's Flight® possède des arômes tropicaux, floraux, citronnés et de pamplemousse. Ce mélange a été nommé en l'honneur de Glen Hay Falconer, un brasseur professionnel américain populaire et prometteur, décédé en 2002.",
+  "aaMin": 9,
+  "aaMax": 12,
+  "baMin": 4,
+  "baMax": 5.2,
+  "usage": "Double usage",
+  "cohumulone": "20 - 25",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "epice",
+    "fruite",
+    "pamplemousse",
+    "terreux"
+  ]
+}

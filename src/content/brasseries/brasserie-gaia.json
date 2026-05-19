@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-gaia",
+  "nom": "Brasserie Gaïa",
+  "cp": "63113",
+  "ville": "PICHERANDE",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d4202e9bc4f2ea5c5b48_le-gaia.jpeg",
+  "website": "http://www.gaia-biere-du-sancy.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

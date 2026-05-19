@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-mandale",
+  "nom": "Brasserie La Mandale",
+  "cp": "55210",
+  "ville": "CHAILLON",
+  "region": "lorraine",
+  "departement": "meuse-55",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e2f7a6ea23fdf3c3089_10603487_1728400890737513_529247413843959370_n.jpeg",
+  "website": "http://www.labrouettecoop.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

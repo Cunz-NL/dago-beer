@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-chartreuse",
+  "nom": "Brasserie de Chartreuse",
+  "cp": "38380",
+  "ville": "MIRIBEL-LES-ÉCHELLES",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dede92932077ad77d844a_Brasserie%2BChartreuse.png",
+  "website": "http://www.brasserie-de-chartreuse.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

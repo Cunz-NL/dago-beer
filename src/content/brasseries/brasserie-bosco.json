@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bosco",
+  "nom": "Brasserie Bosco",
+  "cp": "35350",
+  "ville": "SAINT-MÉLOIR-DES-ONDES",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca147c5102388bf567cc80_18557245_1929260410654215_1330404026692049562_n.png",
+  "website": "http://www.brasserie-bosco.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

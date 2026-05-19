@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-b06",
+  "nom": "Brasserie B06",
+  "cp": "6600",
+  "ville": "ANTIBES",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b87b0da7da805d1e1092_476c263687e8771c2e3b447b76e754b3.jpeg",
+  "website": "http://www.biereb06.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

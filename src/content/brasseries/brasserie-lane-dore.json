@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lane-dore",
+  "nom": "Brasserie L'Âne Doré",
+  "cp": "56440",
+  "ville": "Languidic",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074e336c1edb5c6b7c12e_31944521_443151356128475_4744505897781297152_n.jpeg",
+  "website": "http://lanedore.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

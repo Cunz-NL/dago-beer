@@ -1,0 +1,17 @@
+{
+  "slug": "waimea",
+  "nom": "Waimea",
+  "description": "Waimea est une nouvelle variété néo-zélandaise à double usage, sélectionnée à l'origine pour ses qualités d'alpha et d'amertume. Commercialisée en 2012, elle tire son origine des variétés californiennes Late Cluster, Fuggle et Saaz. Malgré son alpha incroyablement élevé, les caractéristiques de brassage de la Waimea comprennent une saveur et des arômes résolument favorables d'agrumes et de pin fraîchement écrasés.",
+  "aaMin": 16,
+  "aaMax": 19,
+  "baMin": 7,
+  "baMax": 9,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "pin",
+    "resineux",
+    "mandarine",
+    "pamplemousse"
+  ]
+}

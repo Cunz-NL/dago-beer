@@ -1,0 +1,17 @@
+{
+  "slug": "lemondrop",
+  "nom": "Lemondrop",
+  "aaMin": 5,
+  "aaMax": 7,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "citron",
+    "menthole",
+    "melon",
+    "the-vert"
+  ]
+}

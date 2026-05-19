@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-debeurdineuse",
+  "nom": "Brasserie La Débeurdineuse",
+  "cp": "71710",
+  "ville": "CHARMOY",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d06fd10a2601dddb89eb_biere-debeurdineuse.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

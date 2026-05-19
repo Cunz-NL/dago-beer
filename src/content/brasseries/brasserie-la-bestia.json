@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-bestia",
+  "nom": "Brasserie La Bèstia",
+  "cp": "48230",
+  "ville": "CHANAC",
+  "region": "languedoc-roussillon",
+  "departement": "lozere-48",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca16d793aa8d534faa534c_bestia_giftcard.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

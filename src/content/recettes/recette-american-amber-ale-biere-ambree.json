@@ -1,0 +1,18 @@
+{
+  "slug": "recette-american-amber-ale-biere-ambree",
+  "nom": "Recette American Amber Ale (Bière Ambrée)",
+  "description": "Une belle recette de bière ambrée (avec houblons américains) pour ravir vos papilles et vos yeux (cette couleur...)",
+  "style": "american-amber-ale",
+  "ibu": 33,
+  "srm": 13,
+  "og": 1.044,
+  "fg": 1.01,
+  "abv": 5.1,
+  "batchSize": "20L",
+  "boilTime": "90'",
+  "intro": "Une bière artisanale américaine ambrée, houblonnée et de force moyenne avec une saveur maltée de caramel. L'équilibre de ce style peut varier dans une large gamme, certaines versions sont assez maltées, tandis que d'autres extrêmement houblonnées (elles sont souvent appelées Red IPA). Le but est d'avoir une belle couleur ambrée et une harmonie de profil malt-houblon.",
+  "introHtml": "<p>Une bière artisanale américaine ambrée, houblonnée et de force moyenne avec une saveur maltée de caramel. L'équilibre de ce style peut varier dans une large gamme, certaines versions sont assez maltées, tandis que d'autres extrêmement houblonnées (elles sont souvent appelées Red IPA). Le but est d'avoir une belle couleur ambrée et une harmonie de profil malt-houblon.</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Pale Ale</td>\n<td>7</td>\n<td>3 kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Caramunich</td>\n<td>150</td>\n<td>600g</td>\n<td></td>\n</tr>\n<tr>\n<td>Cara Ruby</td>\n<td>50</td>\n<td>300g</td>\n<td></td>\n</tr>\n<tr>\n<td>Cara Terra</td>\n<td>200</td>\n<td>300g</td>\n<td></td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cascade</td>\n<td>40g</td>\n<td>90 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>4.7%</td>\n</tr>\n</tbody>\n</table></div>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>COMMENTAIRE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Fermentis US-05</td>\n<td>1 paquet (11g)</td>\n<td></td>\n</tr>\n</tbody>\n</table></div>"
+}

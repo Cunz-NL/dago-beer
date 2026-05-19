@@ -1,0 +1,23 @@
+{
+  "slug": "hallertau-blanc",
+  "nom": "Hallertau Blanc",
+  "description": "Le Hallertau Blanc, fille du Cascade, a été présenté au monde en 2012. Établie sur la ferme Hüll dans la région allemande de Hallertau, elle a été cultivée principalement pour être utilisée dans les Ales de style américain. Le profil de saveur du Hallertau Blanc est dit fruité, avec des qualités vineuses de groseille et d'herbe, similaires à celles du Sauvignon Blanc. Il présente également un profil aromatique complexe avec des notes de cassis et de fleur de sureau, ainsi que de raisin, de pamplemousse et de citronnelle. Les autres notes détectées lors des essais sont le fruit de la passion, l'ananas et la groseille à maquereau.",
+  "aaMin": 9,
+  "aaMax": 12,
+  "baMin": 4.5,
+  "baMax": 5.5,
+  "usage": "Aromatique",
+  "cohumulone": "22 - 26",
+  "myrcene": "50 - 75",
+  "caryophyllene": "0 - 2",
+  "humulene": "0 - 3",
+  "aromes": [
+    "floral",
+    "fruite",
+    "cassis",
+    "raisin",
+    "fleur-de-sureau",
+    "myrtille",
+    "cafe"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bieres-taal",
+  "nom": "Brasserie Bières Taal",
+  "cp": "68230",
+  "ville": "WIHR-AU-VAL",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090ef550eb9cf34fbae353b_beer_838945.jpeg",
+  "website": "http://www.biere-taal.alsace",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

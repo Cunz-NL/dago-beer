@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-chanoine",
+  "nom": "Brasserie du Chanoine",
+  "cp": "24390",
+  "ville": "HAUTEFORT",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe4522338f279b50c7edf_12291053_404642016410271_8208173960594465127_o.png",
+  "website": "http://www.brasserieduchanoine.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

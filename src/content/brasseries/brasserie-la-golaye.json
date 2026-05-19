@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-golaye",
+  "nom": "Brasserie La Golaye",
+  "cp": "88220",
+  "ville": "XERTIGNY",
+  "region": "lorraine",
+  "departement": "vosges-88",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a366e015ec9ecfe1429e45_12963666_548531781973392_2917860541640123168_n.jpeg",
+  "website": "http://www.lagolaye.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

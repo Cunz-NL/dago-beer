@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-fp-la-dunoise",
+  "nom": "Brasserie FP (La Dunoise)",
+  "cp": "55110",
+  "ville": "DUN-SUR-MEUSE",
+  "region": "lorraine",
+  "departement": "meuse-55",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e0899cf0a6bf5a1cad2_brasseriefp-la-dunoise-5902-1603439839.png",
+  "website": "http://www.ladunoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-galemys",
+  "nom": "Brasserie Galemys",
+  "cp": "9100",
+  "ville": "SAINT-JEAN-DU-FALGA",
+  "region": "midi-pyrenees",
+  "departement": "ariege-09",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b9153b19fb9b20d0a8f3_5fe1e5d41212b-brasserie-galemys.png",
+  "website": "http://www.galemys.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

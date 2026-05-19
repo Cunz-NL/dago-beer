@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-des-sortileges",
+  "nom": "Brasserie des Sortilèges",
+  "cp": "83470",
+  "ville": "#N/A",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "var-83",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5e23383c72cc1962ece_les-sortileges.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

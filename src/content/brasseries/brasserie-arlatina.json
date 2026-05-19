@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-arlatina",
+  "nom": "Brasserie Arlatina",
+  "cp": "13200",
+  "ville": "ARLES",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67be0d2c444e477269f24_21273732_130916657529730_959671401342033317_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

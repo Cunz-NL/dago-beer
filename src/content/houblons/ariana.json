@@ -1,0 +1,19 @@
+{
+  "slug": "ariana",
+  "nom": "Ariana",
+  "aaMin": 8.5,
+  "aaMax": 13,
+  "baMin": 4.5,
+  "baMax": 6,
+  "usage": "Double usage",
+  "cohumulone": "40 - 42",
+  "aromes": [
+    "agrumes",
+    "peche",
+    "pamplemousse",
+    "fruits-tropicaux",
+    "cassis",
+    "vanille",
+    "groseille"
+  ]
+}

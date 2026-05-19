@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-kite",
+  "nom": "Brasserie Kite",
+  "cp": "25310",
+  "ville": "BLAMONT",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605cac9691f1af9308852c68_s122318440623736040_p233_i1_w1109.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

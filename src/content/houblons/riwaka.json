@@ -1,0 +1,19 @@
+{
+  "slug": "riwaka",
+  "nom": "Riwaka",
+  "description": "Considéré comme l'un des houblons chouchous de la scène de la bière artisanale néo-zélandaise, le Riwaka a une teneur en huile abondante qui est presque le double de celle de sa variété parente, le Saaz. Cet équilibre unique entre les huiles et un rapport presque égal entre les acides alpha et bêta lui confère une note d'agrumes douce et forte qui, selon un brasseur, en fait le \"nec plus ultra\" pour les bières houblonnées. Riwaka, anciennement connu sous le nom de D Saaz, est un produit du programme HortResearch's New Zealand Hops \"houblon avec une différence\" et a été officiellement lancé dans le monde de la brasserie en 1997.",
+  "aaMin": 4.5,
+  "aaMax": 6.5,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "myrcene": "68",
+  "caryophyllene": "4 - 4",
+  "humulene": "9",
+  "aromes": [
+    "agrumes",
+    "citron",
+    "fruits-tropicaux",
+    "pamplemousse"
+  ]
+}

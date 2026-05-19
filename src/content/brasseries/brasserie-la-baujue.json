@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-baujue",
+  "nom": "Brasserie La Baujue",
+  "cp": "73340",
+  "ville": "LESCHERAINES",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b77c471b873109a77886_rectangle.jpeg",
+  "website": "http://biere-labaujue.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

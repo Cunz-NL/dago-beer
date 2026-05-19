@@ -1,0 +1,19 @@
+{
+  "slug": "equinox",
+  "nom": "Equinox",
+  "description": "Développé par The Hop Breeding Company, une coentreprise entre John I Haas et le groupe Select Botanicals, Equinox est un houblon aromatique distinctif. Planté à l'origine à Toppenish, dans l'État de Washington, et officiellement dévoilé en 2014, son utilisation est réputée apporter des notes d'agrumes de citron et de lime, de fruits comme la papaye et la pomme, ainsi que de poivrons verts et d'herbes.",
+  "aaMin": 13,
+  "aaMax": 15.5,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "cohumulone": "32 - 38",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "fruite",
+    "fruits-tropicaux",
+    "papaye",
+    "melon"
+  ]
+}

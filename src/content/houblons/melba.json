@@ -1,0 +1,17 @@
+{
+  "slug": "melba",
+  "nom": "Melba",
+  "description": "Cultivée par Ellerslie Hop Estate, Melba ou \"La Dame du houblon\" comme on l'appelle affectueusement, est une variété à double usage avec une forte teneur en huile et des similitudes avec Galaxy. Lorsqu'elle est utilisée en tant que première addition, on dit qu'elle donne une amertume propre et quelque peu épicée. Lorsqu'il est utilisé en tant que saveur ou arôme, les propriétés du fruit de la passion, du pamplemousse et des agrumes sont mises en avant.",
+  "aaMin": 7,
+  "aaMax": 10,
+  "baMin": 2.5,
+  "baMax": 5,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "fruit-de-la-passion",
+    "amertume-b",
+    "pamplemousse"
+  ]
+}

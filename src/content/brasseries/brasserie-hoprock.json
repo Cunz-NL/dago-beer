@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hoprock",
+  "nom": "Brasserie HopRock",
+  "cp": "45430",
+  "ville": "CHÉCY",
+  "region": "centre",
+  "departement": "loiret-45",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cafb171d9385582e121d9f_120421744_657743401807987_7285154295092477912_n.jpeg",
+  "website": "http://hoprock.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

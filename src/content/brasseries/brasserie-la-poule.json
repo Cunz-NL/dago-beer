@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-poule",
+  "nom": "Brasserie La Poule",
+  "cp": "1400",
+  "ville": "NEUVILLE-LES-DAMES",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a36928da8d64699c11bb92_56847969_2539327039482540_2240046326442098688_n.jpeg",
+  "website": "https://bierelapoule.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

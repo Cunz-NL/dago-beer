@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-2b",
+  "nom": "Brasserie 2B",
+  "cp": "29630",
+  "ville": "Plougasnou",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6085df449c2157f0935c4f15_logo_2B_blanc_bd.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

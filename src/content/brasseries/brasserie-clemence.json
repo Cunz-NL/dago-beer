@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-clemence",
+  "nom": "Brasserie Clémence",
+  "cp": "51250",
+  "ville": "CHEMINON",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d677e1414d5fa022c5a_52598234_305362053506006_3146177889234321408_n.jpeg",
+  "website": "http://brasserieclemence.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

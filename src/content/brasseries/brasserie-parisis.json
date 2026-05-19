@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-parisis",
+  "nom": "Brasserie Parisis",
+  "cp": "91860",
+  "ville": "EPINAY-SOUS-SÉNART",
+  "region": "ile-de-france",
+  "departement": "essonne-91",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a36836e6a56b40c2c2465d_60229169_2508767679155000_3462502634311647232_n.png",
+  "website": "http://www.brasserie-parisis.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

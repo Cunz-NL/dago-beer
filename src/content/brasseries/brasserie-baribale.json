@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-baribale",
+  "nom": "Brasserie Baribale",
+  "cp": "44100",
+  "ville": "NANTES",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607bd834472144fc21a073d0_21994367_133473673962077_5898629619116977715_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

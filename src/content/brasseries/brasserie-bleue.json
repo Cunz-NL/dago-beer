@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bleue",
+  "nom": "Brasserie Bleue",
+  "cp": "6000",
+  "ville": "NICE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b7f3013428ce35aa5c4d_19420400_483073895400435_1792302123921973569_n.jpeg",
+  "website": "https://brasseriebleue.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

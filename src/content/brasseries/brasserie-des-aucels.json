@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-aucels",
+  "nom": "Brasserie des Aucels",
+  "cp": "34600",
+  "ville": "BÉDARIEUX",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca153f9f87f5a57361cab5_brasserie-des-aucels-logo-1565789152.jpeg",
+  "website": "https://www.brasseriedesaucels.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

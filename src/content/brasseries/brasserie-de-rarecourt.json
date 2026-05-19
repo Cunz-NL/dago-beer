@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-rarecourt",
+  "nom": "Brasserie de Rarécourt",
+  "cp": "55120",
+  "ville": "RARÉCOURT",
+  "region": "lorraine",
+  "departement": "meuse-55",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e1c6fc26a10529c75ab_la-neuve-tuilerie.jpeg",
+  "website": "http://www.rarecourtoise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

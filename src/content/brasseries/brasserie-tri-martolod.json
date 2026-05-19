@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tri-martolod",
+  "nom": "Brasserie Tri Martolod",
+  "cp": "29900",
+  "ville": "CONCARNEAU",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607075d15e85c6340cb2e660_280px-Logo_Brasserie_Tri_Martolod.png",
+  "website": "http://www.trimartolod.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-tetes-plates",
+  "nom": "Brasserie Les Têtes Plates",
+  "cp": "11100",
+  "ville": "NARBONNE",
+  "region": "languedoc-roussillon",
+  "departement": "aude-11",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b975395f7445506951de_88339889_2732496330131514_4374337531420868608_n.jpeg",
+  "website": "http://www.lestetesplates.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

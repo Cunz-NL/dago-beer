@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-saint-clair",
+  "nom": "Brasserie Saint Clair",
+  "cp": "1250",
+  "ville": "MONTAGNAT",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a36934465261e4ee6855c9_Calque-1.png",
+  "website": "http://www.brasserie-saint-clair.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

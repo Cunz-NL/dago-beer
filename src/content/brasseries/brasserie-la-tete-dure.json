@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-tete-dure",
+  "nom": "Brasserie la Tête Dure",
+  "cp": "56380",
+  "ville": "GUER",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/601529ac0cb00cb10bce080e_tete-dure-logo.jpg",
+  "website": "https://www.brasserielatetedure.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

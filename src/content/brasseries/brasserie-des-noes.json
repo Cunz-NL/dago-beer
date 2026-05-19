@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-des-noes",
+  "nom": "Brasserie des Noes",
+  "cp": "44680",
+  "ville": "SAINT-MARS-DE-COUTAIS",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607d3ce286696f34bf7c451f_90242667_2788622951232995_1342596799520571392_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

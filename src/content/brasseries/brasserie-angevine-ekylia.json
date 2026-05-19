@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-angevine-ekylia",
+  "nom": "Brasserie Angevine (Ekylia)",
+  "cp": "49000",
+  "ville": "ANGERS",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ecdf54f271b96146f53b4_12496066_1604303539790274_3373306970903015441_o.png",
+  "website": "http://www.brasserieangevine.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

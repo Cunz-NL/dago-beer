@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-comedienne",
+  "nom": "Brasserie La Comédienne",
+  "cp": "84000",
+  "ville": "AVIGNON",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "vaucluse-84",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6094e2abfea8e2adeef8c606_46520755_960271394168508_3912975657767796736_n.jpeg",
+  "website": "https://www.lacomedienne.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

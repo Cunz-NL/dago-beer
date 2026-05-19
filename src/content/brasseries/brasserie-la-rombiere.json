@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-la-rombiere",
+  "nom": "Brasserie La Rombière",
+  "cp": "49600",
+  "ville": "BEAUPRÉAU",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "description": "Créée en 2010 à BEAUPRÉAU",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093bd03514f4715848ca628_A9_01530.jpg",
+  "website": "http://www.larombiere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

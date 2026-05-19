@@ -1,0 +1,31 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  regions: CollectionEntry<'regions'>[];
+  brasseriesParRegion: Record<string, number>;
+}
+
+const { regions, brasseriesParRegion } = Astro.props;
+
+const regionsTriees = [...regions].sort((a, b) => a.data.nom.localeCompare(b.data.nom, 'fr'));
+---
+
+<div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+  {regionsTriees.map((region) => {
+    const count = brasseriesParRegion[region.data.slug] ?? 0;
+    return (
+      <a
+        href={`/brasseries-bieres-artisanales-france/${region.data.slug}`}
+        class="bg-surface border border-white/10 rounded-lg p-4 hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group text-center"
+      >
+        <p class="font-heading text-sm font-medium text-white group-hover:text-amber-brand transition-colors line-clamp-2">
+          {region.data.nom}
+        </p>
+        <p class="font-body text-xs text-muted/50 mt-1">
+          {count} brasserie{count !== 1 ? 's' : ''}
+        </p>
+      </a>
+    );
+  })}
+</div>

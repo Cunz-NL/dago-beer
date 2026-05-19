@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-loupoulo",
+  "nom": "Brasserie Loupoulo",
+  "cp": "7120",
+  "ville": "RUOMS",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b3f1e7ec9727c7909e3d_28701039_965488316941561_6921229930134401121_o.jpeg",
+  "website": "http://www.loupoulo.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

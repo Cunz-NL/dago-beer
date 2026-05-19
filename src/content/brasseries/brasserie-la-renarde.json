@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-renarde",
+  "nom": "Brasserie La Renarde",
+  "cp": "7700",
+  "ville": "SAINT-REMÈZE",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8d4228635a07e8da523_14045727_494713767391397_5227910739307426748_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

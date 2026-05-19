@@ -1,0 +1,39 @@
+---
+// URL Webflow : /brasseries-bieres-artisanales/france — page hub annuaire
+import Base from '@/layouts/Base.astro';
+import RegionGrid from '@/components/RegionGrid.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const regions = await getCollection('regions');
+const brasseries = await getCollection('brasseries');
+
+const brasseriesParRegion = brasseries.reduce<Record<string, number>>((acc, b) => {
+  const r = b.data.region;
+  acc[r] = (acc[r] ?? 0) + 1;
+  return acc;
+}, {});
+
+const total = brasseries.filter((b) => b.data.statut !== 'ferme').length;
+---
+
+<Base
+  title="Brasseries artisanales en France — Toutes les régions — Dago Beer"
+  description={`Annuaire complet des ${total}+ brasseries artisanales françaises classées par région. Trouvez les microbrasseries craft près de chez vous.`}
+  canonical="https://www.dago.beer/brasseries-bieres-artisanales/france"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Brasseries artisanales en France' }]} />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Brasseries artisanales en <span class="text-amber-brand">France</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        {total}+ microbrasseries et brasseries craft référencées dans toutes les régions françaises.
+      </p>
+    </header>
+
+    <RegionGrid regions={regions} brasseriesParRegion={brasseriesParRegion} />
+  </div>
+</Base>

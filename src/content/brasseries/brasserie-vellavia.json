@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-vellavia",
+  "nom": "Brasserie Vellavia",
+  "cp": "43000",
+  "ville": "POLIGNAC",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852dcc1e71b2305e57ab0a_28691-0w470h470_Biere_Blonde_Vellavia.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

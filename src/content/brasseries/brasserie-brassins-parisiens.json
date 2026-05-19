@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-brassins-parisiens",
+  "nom": "Brasserie Brassins Parisiens",
+  "cp": "93170",
+  "ville": "BAGNOLET",
+  "region": "ile-de-france",
+  "departement": "seine-saint-denis-93",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368577fd5151cf4e945ad_28168029_128741374509145_6499984395042320778_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

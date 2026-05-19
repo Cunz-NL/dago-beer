@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-biere-du-docteur",
+  "nom": "Brasserie La Bière du Docteur",
+  "cp": "34150",
+  "ville": "SAINT-GUILHEM-LE-DÉSERT",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca138e63caddac19b7820f_13177631_1005150436236619_3664208322892437215_n.jpeg",
+  "website": "http://docteur.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

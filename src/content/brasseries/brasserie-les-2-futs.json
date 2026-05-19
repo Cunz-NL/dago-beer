@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-2-futs",
+  "nom": "Brasserie Les 2 Fûts",
+  "cp": "25000",
+  "ville": "BESANÇON",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605cabcb24ff2ad0ba67e7ef_brasserie-entre-2-mondes.jpeg",
+  "website": "http://www.les2futs.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

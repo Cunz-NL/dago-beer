@@ -1,0 +1,15 @@
+{
+  "slug": "dana",
+  "nom": "Dana",
+  "description": "Dana, ou Extra Styrian Dana comme on l'appelle souvent, est un houblon slovène obtenu à partir de Hallertau Magnum et d'un mâle sauvage slovène. Produit par l'Institut de recherche sur le houblon de Zalec, en Slovénie, il est réputé pour la qualité et l'harmonie de ses propriétés amérisantes, ainsi que pour son profil de saveur légèrement floral et citronné.",
+  "aaMin": 11,
+  "aaMax": 16,
+  "baMin": 4.7,
+  "baMax": 6.1,
+  "usage": "Aromatique",
+  "cohumulone": "28 - 31",
+  "aromes": [
+    "houblon",
+    "amertume-b"
+  ]
+}

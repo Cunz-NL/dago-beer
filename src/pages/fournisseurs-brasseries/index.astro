@@ -1,0 +1,78 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const types = (await getCollection('fournisseursTypes')).sort((a, b) =>
+  a.data.nom.localeCompare(b.data.nom, 'fr')
+);
+const fournisseurs = await getCollection('fournisseurs');
+---
+
+<Base
+  title="Fournisseurs pour brasseries artisanales — Dago Beer"
+  description="Annuaire des fournisseurs pour brasseries artisanales : malts, houblons, levures, bouteilles, étiquettes, fûts, matériel de brassage. Trouvez vos partenaires."
+  canonical="https://www.dago.beer/fournisseurs-brasseries"
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Fournisseurs brasseries' }]} />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl font-bold text-white mb-3">
+        Fournisseurs pour <span class="text-amber-brand">brasseries artisanales</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        Trouvez vos partenaires : matières premières, emballage, matériel de brassage.
+      </p>
+    </header>
+
+    <!-- Catégories de fournisseurs -->
+    <section class="mb-12">
+      <h2 class="font-heading text-xl font-semibold text-white mb-4">Catégories</h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+        {types.map((type) => (
+          <a
+            href={`/type-fournisseurs/${type.data.slug}`}
+            class="bg-surface border border-white/10 rounded-lg p-4 text-center hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group"
+          >
+            <p class="font-heading text-sm font-semibold text-white group-hover:text-amber-brand transition-colors">
+              {type.data.nom}
+            </p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Liste fournisseurs -->
+    {fournisseurs.length > 0 && (
+      <section>
+        <h2 class="font-heading text-xl font-semibold text-white mb-4">Tous les fournisseurs</h2>
+        <div class="grid gap-4">
+          {fournisseurs.map((f) => (
+            <div class="bg-surface border border-white/10 rounded-xl p-5">
+              <div class="flex items-start justify-between gap-4">
+                <div class="flex-1">
+                  <h3 class="font-heading text-lg font-semibold text-white">{f.data.nom}</h3>
+                  {f.data.description && <p class="font-body text-sm text-muted/70 mt-1">{f.data.description}</p>}
+                  {f.data.types.length > 0 && (
+                    <div class="flex flex-wrap gap-1.5 mt-2">
+                      {f.data.types.map((t) => (
+                        <span class="text-xs font-body px-2 py-0.5 rounded-full bg-white/5 text-muted/50 border border-white/10">{t}</span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+                <div class="flex flex-col gap-2 shrink-0">
+                  {f.data.siteWeb && (
+                    <a href={f.data.siteWeb} target="_blank" rel="noopener noreferrer"
+                       class="font-body text-xs text-amber-brand hover:underline">Site web →</a>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-soyeuse",
+  "nom": "Brasserie La Soyeuse",
+  "cp": "69510",
+  "ville": "RONTALON",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decc6b603d785e0553157_92703964_1573355052817749_1346861062095372288_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

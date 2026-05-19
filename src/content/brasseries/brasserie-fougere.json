@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-fougere",
+  "nom": "Brasserie Fougère",
+  "cp": "38710",
+  "ville": "MENS",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606df043e93e3f1c141baf28_etoile-de-fougeres.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

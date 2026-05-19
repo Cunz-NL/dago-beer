@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-gredam",
+  "nom": "Brasserie GreDam",
+  "cp": "69380",
+  "ville": "CIVRIEUX-D'AZERGUES",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606deca4e09c1747881b4d70_45762719_2064925247171164_5317340877348143104_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

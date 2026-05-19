@@ -1,0 +1,16 @@
+{
+  "slug": "medusaE284A2",
+  "nom": "Medusa™",
+  "description": "aucune parenté avec les houblons européens issu d'humulus lupulus lupulus",
+  "aaMin": 3.5,
+  "aaMax": 5,
+  "baMin": 5,
+  "baMax": 5.6,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "abricot",
+    "melon",
+    "goyave"
+  ]
+}

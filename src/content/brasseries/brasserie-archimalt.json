@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-archimalt",
+  "nom": "Brasserie Archimalt",
+  "cp": "73230",
+  "ville": "SAINT-ALBAN-LEYSSE",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b743396c8bd793fd4aa1_14191933_1140303486043886_5769213318750857715_n.jpeg",
+  "website": "http://www.archimalt.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

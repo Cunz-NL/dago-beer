@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-montmorillon",
+  "nom": "Brasserie Montmorillon",
+  "cp": "86500",
+  "ville": "MONTMORILLON",
+  "region": "poitou-charentes",
+  "departement": "vienne-86",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608b2acda61a9a58e60ba40c_LOGO-BIERESDEMONTMORILLON.jpg",
+  "website": "http://www.bieresdemontmorillon.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

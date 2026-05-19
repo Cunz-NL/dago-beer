@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-copo",
+  "nom": "Brasserie La Copo",
+  "cp": "53210",
+  "ville": "ARGENTRÉ",
+  "region": "pays-de-la-loire",
+  "departement": "mayenne-53",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ecd79bea0c95644d4b753_30072831_448871832208554_373915213605086259_o.jpeg",
+  "website": "http://lacopo.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

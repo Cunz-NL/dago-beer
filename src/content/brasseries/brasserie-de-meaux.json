@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-meaux",
+  "nom": "Brasserie de Meaux",
+  "cp": "77100",
+  "ville": "MEAUX",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d124c16dda8a649aff5a_brasserie-de-meaux.jpeg",
+  "website": "http://www.brasseriedemeaux.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-houblonneurs",
+  "nom": "Brasserie Les Houblonneurs",
+  "cp": "75017",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60939982b44ef66b1a60599e_47deb871d2f0ff354d9b155c07a7ef7e_image_e28c6a29-57ef-447a-9b12-58c9619fca96.jpeg",
+  "website": "http://www.leshoublonneurs.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

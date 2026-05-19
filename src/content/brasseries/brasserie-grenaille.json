@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-grenaille",
+  "nom": "Brasserie Grenaille",
+  "cp": "54110",
+  "ville": "Rosières-aux-Salines",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4dde918d881262533b85_11407166_877099959012639_8316291371846945343_n.jpeg",
+  "website": "http://www.grenaille.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

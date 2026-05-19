@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-akerbeltz",
+  "nom": "Brasserie Akerbeltz",
+  "cp": "64310",
+  "ville": "ASCAIN",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc38c38d1337f08fa7c7e_akerbeltz-12.jpeg",
+  "website": "http://www.akerbeltz.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

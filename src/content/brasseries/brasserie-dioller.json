@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-dioller",
+  "nom": "Brasserie Dioller",
+  "cp": "68290",
+  "ville": "Oberbruck",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "description": "Créée en 2014",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608960784792a9a8a108c845_Logo_DIOLLER_2018-min.png",
+  "website": "https://brasseriedioller.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

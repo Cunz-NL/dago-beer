@@ -1,0 +1,19 @@
+{
+  "slug": "calicross",
+  "nom": "Calicross",
+  "description": "La Calicross de Nouvelle-Zélande est apparue dans les années 1960 et a largement disparu dans les années 1980. Né d'un besoin urgent de variétés résistantes aux maladies, Calicross a été créé à partir d'un croisement entre Fuggle et Late Cluster - cette dernière étant la culture décimée à la fin des années 1940 par le pourridié noir. Développée par le ministère néo-zélandais de la recherche scientifique et industrielle de l'époque, Calicross a changé le visage de l'industrie du houblon néo-zélandais à l'époque et son utilisation commerciale est restée forte pendant près de 20 ans. En 1980 cependant, son faible taux de croissance l'a fait remplacer par des variétés plus vigoureuses. Utile à la fois pour l'arôme et l'amertume, il présente à la fois des saveurs terreuses et fruitées et des arômes floraux proches de ceux du Cluster.",
+  "aaMin": 5.8,
+  "aaMax": 7.9,
+  "baMin": 4,
+  "baMax": 7.5,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 75",
+  "myrcene": "54 - 67.6",
+  "caryophyllene": "2.1 - 6.13",
+  "humulene": "12.1 - 12.1",
+  "aromes": [
+    "floral",
+    "fruite",
+    "terreux"
+  ]
+}

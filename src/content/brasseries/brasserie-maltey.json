@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-maltey",
+  "nom": "Brasserie Maltey",
+  "cp": "38970",
+  "ville": "QUET-EN-BEAUMONT",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606e2051f70c410dbadebbef_18489537_470407076635189_2443941662469940707_o.jpeg",
+  "website": "https://www.maltey.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

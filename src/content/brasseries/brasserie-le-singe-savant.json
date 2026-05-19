@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-singe-savant",
+  "nom": "Brasserie Le Singe Savant",
+  "cp": "59000",
+  "ville": "lille-59000",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a68e4e591d56d9d0bbd37_14203122_1110775782305609_8965176174593847751_n.jpeg",
+  "website": "http://www.singe-savant.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

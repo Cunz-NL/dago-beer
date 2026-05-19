@@ -1,0 +1,16 @@
+{
+  "slug": "relax",
+  "nom": "Relax",
+  "aaMin": 0.25,
+  "aaMax": 0.5,
+  "baMin": 13,
+  "baMax": 13,
+  "usage": "Aromatique",
+  "aromes": [
+    "the-vert",
+    "bleuet",
+    "hibiscus",
+    "citronnelle",
+    "melon-blanc-honeydew"
+  ]
+}

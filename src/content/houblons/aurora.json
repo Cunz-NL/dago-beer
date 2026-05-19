@@ -1,0 +1,19 @@
+{
+  "slug": "aurora",
+  "nom": "Aurora",
+  "description": "L'hybride diploïde Aurora est le seul Super Styrian qui bénéficie encore d'une disponibilité commerciale mondiale. En fait, c'est un houblon très célèbre et l'une des deux variétés distinctes produites en Slovénie. Développé en tant que semis de Northern Brewer, l'arôme d'Aurora provient de son bel équilibre d'huiles essentielles. Avec près de deux fois plus d'acide alpha que le Styrian Golding, un autre houblon slovène primaire, Aurora est épicé, herbacé et modérément amer. Les descriptions et les critiques de la plupart des bières utilisant le houblon Aurora les décrivent comme agréablement houblonnées et veloutées. Vous trouverez l'Aurora dans l'Aurora de Hopvine Brewing Company, dans l'Aurora de Funwerk et dans l'une des ales à houblon unique de Mayflower, Styrian Aurora, entre autres.",
+  "aaMin": 6.5,
+  "aaMax": 10,
+  "baMin": 2.5,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "cohumulone": "22 - 26",
+  "myrcene": "35 - 45",
+  "caryophyllene": "4 - 8",
+  "humulene": "20 - 27",
+  "aromes": [
+    "epice",
+    "houblon"
+  ]
+}

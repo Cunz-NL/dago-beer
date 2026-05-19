@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-azimut",
+  "nom": "Brasserie Azimut",
+  "cp": "33000",
+  "ville": "bordeaux-33000",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad354d7ac28b9a89b29036_2904-azimut-brasserie.png",
+  "website": "http://www.aunouveaumonde.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

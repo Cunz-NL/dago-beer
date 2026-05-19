@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-courtoise",
+  "nom": "Brasserie La Courtoise",
+  "cp": "60320",
+  "ville": "NÉRY",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d040dd54573d2036b966a_21272466_1146568202142873_374972632547415619_n.png",
+  "website": "http://www.lacourtoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

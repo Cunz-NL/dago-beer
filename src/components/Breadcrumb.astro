@@ -1,0 +1,43 @@
+---
+export interface BreadcrumbItem {
+  label: string;
+  href?: string;
+}
+
+export interface Props {
+  items: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+---
+
+<nav aria-label="Fil d'ariane" class="mb-6">
+  <ol
+    class="flex flex-wrap items-center gap-1.5 text-sm font-body text-muted/50"
+    itemscope
+    itemtype="https://schema.org/BreadcrumbList"
+  >
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="/" itemprop="item" class="hover:text-amber-brand transition-colors">
+        <span itemprop="name">Accueil</span>
+      </a>
+      <meta itemprop="position" content="1" />
+    </li>
+
+    {items.map((item, index) => (
+      <li class="flex items-center gap-1.5" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <svg class="w-3 h-3 text-muted/30 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+        {item.href ? (
+          <a href={item.href} itemprop="item" class="hover:text-amber-brand transition-colors">
+            <span itemprop="name">{item.label}</span>
+          </a>
+        ) : (
+          <span itemprop="name" class="text-white">{item.label}</span>
+        )}
+        <meta itemprop="position" content={String(index + 2)} />
+      </li>
+    ))}
+  </ol>
+</nav>

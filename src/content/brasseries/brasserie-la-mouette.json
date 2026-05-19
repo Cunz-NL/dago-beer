@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-mouette",
+  "nom": "Brasserie La Mouette",
+  "cp": "14000",
+  "ville": "caen-14000",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c2f0d7b85f1ccf46f02_57788183_440076976726975_4227244496489807872_n.png",
+  "website": "http://brasserielamouette.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

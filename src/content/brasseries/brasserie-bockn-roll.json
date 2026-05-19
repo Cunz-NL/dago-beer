@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-bockn-roll",
+  "nom": "Brasserie Bock'n Roll",
+  "cp": "52190",
+  "ville": "ISÔMES",
+  "region": "champagne-ardenne",
+  "departement": "haute-marne-52",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4dd4c8cb58827216c085_11074635_1636005386631289_8391581414196029841_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

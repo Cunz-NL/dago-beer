@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-demarrante",
+  "nom": "Brasserie La Démarrante",
+  "cp": "74000",
+  "ville": "annecy-74000",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759bed9b06226a74707d3a_24174464_1019927801483643_4864013181692015116_n.png",
+  "website": "http://lademarrante.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

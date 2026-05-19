@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-felicite",
+  "nom": "Brasserie Félicité",
+  "cp": "60950",
+  "ville": "MONTAGNY-SAINTE-FÉLICITÉ",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d044ef9fa6462e65c6077_1798730_468665276633097_6790250957486059014_n.jpeg",
+  "website": "http://brasserie-felicite.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-saint-medard",
+  "nom": "Brasserie Saint Médard",
+  "cp": "60200",
+  "ville": "COMPIÈGNE",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf51f918292ea942527c9_13411963_1609803532663153_3227917402908632672_o.jpeg",
+  "website": "http://www.brasserie-saint-medard.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

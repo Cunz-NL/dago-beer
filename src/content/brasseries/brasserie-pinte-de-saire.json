@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-pinte-de-saire",
+  "nom": "Brasserie Pinte de Saire",
+  "cp": "50550",
+  "ville": "Saint-Vaast-La-Hougue",
+  "region": "normandie",
+  "departement": "manche-50",
+  "description": "Créée en 2017 à Saint-Vaast-La-Hougue",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60895f3a78a789c21356168e_Brasserie%20Pinte%20de%20Saire%20-%20Logo%20rond%20avec%20bordure%20blanche%20copie.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-barque",
+  "nom": "Brasserie Barque!",
+  "cp": "56140",
+  "ville": "MALESTROIT",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074b9057b9d86df4f177c_37993256_208243209852398_972459253845458944_n.png",
+  "website": "https://microbrasseriebarque.bzh",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

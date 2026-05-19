@@ -1,0 +1,16 @@
+{
+  "slug": "bitter-gold",
+  "nom": "Bitter Gold",
+  "description": "L'héritage de la variété super-alpha Bitter Gold provient des variétés Bullion, Brewer's Gold, Comet et Fuggle. Elle présente un pourcentage d'acide alpha supérieur à celui de tous ses parents et même supérieur à celui de Galena ou Nugget, auxquelles elle est souvent comparée. Lancée en production en 1999, la Bitter Gold est assez polyvalente et peut être utilisée comme amertume ou comme ajout d'arôme, conférant des saveurs fortes rappelant les fruits à noyau, la pastèque et la poire.",
+  "aaMin": 14,
+  "aaMax": 19,
+  "baMin": 6,
+  "baMax": 7.5,
+  "usage": "Amérisant",
+  "stabilite": "Moyenne : 55",
+  "aromes": [
+    "fruit-a-noyau",
+    "poire",
+    "pasteque"
+  ]
+}

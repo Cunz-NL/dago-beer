@@ -1,0 +1,20 @@
+{
+  "slug": "cluster-us",
+  "nom": "Cluster (US)",
+  "description": "Le Cluster (US) est considéré comme l'une des cultures de houblon les plus anciennes et les plus robustes des États-Unis. Avec son arôme équilibré, son profil d'amertume et sa remarquable stabilité au stockage, il a longtemps été le houblon de prédilection des grandes brasseries commerciales aux États-Unis. L'utilisation du Cluster était si prolifique qu'au début du 20ème siècle, le Cluster représentait 96% de la superficie totale de houblon cultivée aux États-Unis. Le Cluster est resté en tête jusque dans les années 1970. La lignée exacte du Cluster est inconnue et on considère qu'il a une saveur propre, neutre et légèrement florale.",
+  "aaMin": 5.5,
+  "aaMax": 9,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 80",
+  "cohumulone": "36 - 41",
+  "myrcene": "45 - 55",
+  "caryophyllene": "6 - 7",
+  "humulene": "15 - 15",
+  "aromes": [
+    "floral",
+    "resineux",
+    "cassis"
+  ]
+}

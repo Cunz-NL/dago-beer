@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-grange-noire",
+  "nom": "Brasserie Grange Noire",
+  "cp": "1450",
+  "ville": "SAINT-ALBAN",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "website": "http://grangenoire.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

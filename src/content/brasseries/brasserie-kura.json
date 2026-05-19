@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-kura",
+  "nom": "Brasserie Kura",
+  "cp": "71120",
+  "ville": "VENDENESSE-LÈS-CHAROLLES",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d016ce7edd06c62cd010_28047_kura-de.png",
+  "website": "http://kuradebourgogne.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "eroica",
+  "nom": "Eroica",
+  "description": "Bien que le houblon Eroica présente un pourcentage élevé d'acide alpha, il est, sur le papier du moins, éclipsé par sa sœur Galena. Il semble que cette comparaison les conduise également vers le dénouement de la production commerciale, de même que leurs cônes sont considérés comme difficiles à récolter et qu'ils sont sensibles aux virus de la tache annulaire et de la mosaïque. Développé par les stations d'expérimentation agricole de l'Idaho et de l'Oregon en collaboration avec l'USDA, Eroica est un descendant direct de Brewer's Gold. Bien que le semis ait été sélectionné en 1968, la variété n'a été officiellement enregistrée qu'en 1982. En termes de saveur, elle se caractérise par une essence fruitée prononcée et, heureusement, elle peut encore être obtenue pour des expériences de brassage à domicile.",
+  "aaMin": 11,
+  "aaMax": 14,
+  "baMin": 4,
+  "baMax": 5.5,
+  "usage": "Amérisant",
+  "myrcene": "55 - 65",
+  "caryophyllene": "7 - 13",
+  "humulene": "0 - 0",
+  "aromes": []
+}

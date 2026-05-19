@@ -1,0 +1,15 @@
+{
+  "slug": "agnus",
+  "nom": "Agnus",
+  "description": "Agnus est le premier houblon amérisant à haute teneur en alpha à provenir de la République tchèque. Son nom provient du sélectionneur de houblon tchèque Frantisek Beranek, dont le nom de famille traduit en latin est Agnum - ou Agneau en anglais. Enregistré en 2000 et commercialisé l'année suivante, Agnus est un houblon amérisant aux fortes notes épicées et herbacées, que certains ont comparé à Nugget et Magnum. Sa lignée comprend un ensemble complexe de variétés convoitées, dont Bor, Fuggle, Saaz, Sladek et Northern Brewer. Bien qu'il s'agisse principalement d'un houblon amérisant, il est utile en tant qu'ajout de saveur et sa teneur abondante en huile peut même le rendre approprié pour le houblonnage à sec.",
+  "aaMin": 9,
+  "aaMax": 14,
+  "baMin": 4,
+  "baMax": 6.6,
+  "usage": "Double usage",
+  "stabilite": "Moyenne à mauvaise",
+  "aromes": [
+    "herbeux",
+    "epice"
+  ]
+}

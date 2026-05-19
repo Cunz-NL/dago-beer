@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tete-de-chou",
+  "nom": "Brasserie Tête de Chou",
+  "cp": "51530",
+  "ville": "MANCY",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4dec550c9275409a48d5_biere-blanche-1.jpeg",
+  "website": "http://www.tetedechou.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

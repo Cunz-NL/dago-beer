@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-germenoise",
+  "nom": "Brasserie La Germenoise",
+  "cp": "77184",
+  "ville": "EMERAINVILLE",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d0dd47ca43627eadceed_la-germenoise-brune.jpeg",
+  "website": "https://brasserie-la-germenoise.business.site",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

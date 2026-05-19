@@ -1,0 +1,18 @@
+{
+  "slug": "zythosC2AE",
+  "nom": "Zythos®",
+  "description": "Créé par Hopunion LLC, Zythos® est un mélange de houblon exclusif créé spécialement pour les IPA. Il présente des notes et des arômes de mandarine, de pamplemousse, de pin et même d'ananas. Sa teneur élevée en acide alpha signifie qu'il peut être utile pour l'amertume, mais il est surtout destiné à briller en tant que houblon aromatique.",
+  "aaMin": 10,
+  "aaMax": 12.5,
+  "baMin": 4.7,
+  "baMax": 6.2,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 70",
+  "aromes": [
+    "agrumes",
+    "pin",
+    "resineux",
+    "fruits-tropicaux",
+    "ananas"
+  ]
+}

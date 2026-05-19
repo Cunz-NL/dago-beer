@@ -1,0 +1,19 @@
+{
+  "slug": "hallertauer-magnum",
+  "nom": "Hallertauer Magnum",
+  "description": "Magnum est en train de devenir un favori de la brasserie en Europe et vers l'une des variétés à alpha élevé les plus cultivées aux États-Unis. Utilisé principalement comme houblon amérisant de base, il se caractérise par un taux de croissance et un rendement exceptionnels, ainsi que par une stabilité de stockage superlative. On dit de lui qu'il produit une amertume très nette et des saveurs subtiles d'agrumes. Créé à l'origine à l'Institut allemand du houblon à Hull, Magnum a été lancé dans le monde de la brasserie en 1980 et a depuis été reconnu comme étant le plus adapté aux ales pâles et aux lagers où une amertume nette est souhaitée. Elle est le résultat d'un croisement entre la Galena et une variété mâle allemande non nommée.",
+  "aaMin": 11,
+  "aaMax": 16,
+  "baMin": 5,
+  "baMax": 7,
+  "usage": "Amérisant",
+  "stabilite": "Excellente : 85",
+  "myrcene": "30 - 35",
+  "caryophyllene": "8 - 12",
+  "humulene": "34 - 34",
+  "aromes": [
+    "poivre",
+    "pomme",
+    "fruite"
+  ]
+}

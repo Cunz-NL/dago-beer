@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-kronenbourg",
+  "nom": "Brasserie Kronenbourg",
+  "cp": "67210",
+  "ville": "BERNARDSWILLER",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eee71c715dbfacc0122e_Kronenbourg-Group-logo-2015.png",
+  "website": "http://www.brasseries-kronenbourg.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

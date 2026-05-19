@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-lalagnon",
+  "nom": "Brasserie de l'Alagnon",
+  "cp": "43450",
+  "ville": "BLESLE",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852de0aa9a721e8ba2bf55_123741061_3419172854786355_8563340812905492027_n.jpeg",
+  "website": "http://www.brasserie-alagnon.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-franche",
+  "nom": "Brasserie La Franche",
+  "cp": "39600",
+  "ville": "LA FERTÉ",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca16723fb2c9bf92245460_La-Franche-biere-bio-brasserie-artisanale-La-ferte-2-fs-22-1377845285.jpeg",
+  "website": "http://www.lafranche.net",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-doloise",
+  "nom": "Brasserie La Doloise",
+  "cp": "39100",
+  "ville": "DOLE",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca15b475523272b24ce225_24799186_188914448340242_883087534056751676_o.jpeg",
+  "website": "http://labrasseriedoloise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-vignes",
+  "nom": "Brasserie des Vignes",
+  "cp": "81300",
+  "ville": "GRAULHET",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5a14e823675393f7dfa_brasserie-des-vignes.jpeg",
+  "website": "http://brasseriedesvignes.blogspot.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

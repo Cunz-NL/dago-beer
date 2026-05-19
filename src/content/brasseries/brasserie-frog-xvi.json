@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-frog-xvi",
+  "nom": "Brasserie Frog XVI",
+  "cp": "75016",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d11c1e5eb3ce620e1998_photo0jpg.jpeg",
+  "website": "http://www.frogpubs.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

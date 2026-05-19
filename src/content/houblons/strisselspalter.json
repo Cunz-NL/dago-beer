@@ -1,0 +1,20 @@
+{
+  "slug": "strisselspalter",
+  "nom": "Strisselspalter",
+  "description": "Malgré un rendement relativement faible, le Crystal's en a fait un houblon assez populaire. Il est boisé, vert, floral et fruité, avec des notes herbacées et épicées de cannelle, de noix de muscade et de poivre noir. Extrêmement polyvalent, il est même utilisé pour ses qualités aromatiques notables dans les IPA et les Bitters, malgré sa faible teneur en acide alpha. Sélectionnée pour la première fois en 1983, elle possède une lignée intéressante dont les racines remontent à Hallertau, Cascade, Brewer's Gold et Early Green. Commercialement, elle est utilisée dans une grande variété de bières, de la Rogue Brutal Bitters à la Belgian Dip Chocolate Stout de Mountain Sun.",
+  "aaMin": 2,
+  "aaMax": 5,
+  "baMin": 3,
+  "baMax": 5.7,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "caryophyllene": "8 - 10",
+  "humulene": "15 - 15",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "epice",
+    "floral",
+    "fruite"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ifbm-qualtech",
+  "nom": "Brasserie I.F.B.M. (Qualtech)",
+  "cp": "54500",
+  "ville": "VANDOEUVRE-LÈS-NANCY",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4dfe32af8a1cb76c18de_1551434170327.png",
+  "website": "http://www.ifbm.fr",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

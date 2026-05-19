@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-maltobar",
+  "nom": "Brasserie Maltobar",
+  "cp": "38000",
+  "ville": "grenoble",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedb1e93e3f47c919964f_23622131_1990747911138367_716784561486045099_n.jpeg",
+  "website": "http://maltobar.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

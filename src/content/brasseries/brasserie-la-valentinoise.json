@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-valentinoise",
+  "nom": "Brasserie La Valentinoise",
+  "cp": "26000",
+  "ville": "VALENCE",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606461747e9c016339e3395d_120139448_1452015131658459_6791411319674743739_n.jpeg",
+  "website": "http://brasserielavalentinoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

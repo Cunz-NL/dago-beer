@@ -1,0 +1,18 @@
+{
+  "slug": "tradition",
+  "nom": "Tradition",
+  "description": "Hallertau Tradition est un houblon aromatique fin élevé par Hüll, issu de Hallertau Mittelfrüher, Hallertauer Gold et Saaz. Sélectionné spécifiquement pour sa résistance aux champignons et aux maladies, il a réussi dans cet effort et se caractérise également par des acides alpha plus élevés que ses variétés parentes, une faible cohumulone et un myrcène plus élevé. Elle a été mise en circulation pour la production commerciale en 1989. Son profil d'huile contribue à un caractère merveilleusement terreux et herbeux au-dessus d'un nez de fruits de nectar. Il est utilisé de préférence en fin d'ébullition, ou pour un houblonnage sec. Cette utilisation est préférentielle car on a constaté que sa teneur en humulène se dissipe rapidement lorsqu'elle est chauffée.",
+  "aaMin": 4,
+  "aaMax": 7,
+  "baMin": 3,
+  "baMax": 6,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral",
+    "lavande",
+    "amertume-b"
+  ]
+}

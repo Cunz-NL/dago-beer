@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-nautica",
+  "nom": "Brasserie Nautica",
+  "cp": "35190",
+  "ville": "La Baussaine",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "description": "Notre philosophie, créer des bières de caractère, gourmandes, légères et faibles en alcool. Ainsi vous pourrez en profiter l’esprit léger. Six bières, six bateaux; choisissez votre gréement ! De l’Hop’timiste – parfaite pour s’initier à la bière – au majestueux Trois Mâts, embarquez sur un de nos navires.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/602102e60f7f10550d0ece49_logo-brasserie-nautica.jpg",
+  "website": "https://brasserienautica.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

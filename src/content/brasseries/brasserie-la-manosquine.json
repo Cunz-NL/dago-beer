@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-manosquine",
+  "nom": "Brasserie La Manosquine",
+  "cp": "4100",
+  "ville": "MANOSQUE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-de-haute-provence-04",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3d333ce0dc412b5d2384a_42292611_2152409315017465_5013365365837660160_n.jpeg",
+  "website": "http://www.brasserielamanosquine.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-funky-lama-amigo-brasserie",
+  "nom": "Brasserie Funky Lama (Amigo Brasserie)",
+  "cp": "14600",
+  "ville": "ABLON",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67cc636839c41b1db7b2b_92810613_514903852506842_3473201513810100224_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-sutter",
+  "nom": "Brasserie De Sutter",
+  "cp": "27140",
+  "ville": "GISORS",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60741022dff99a5c4733c414_brasserie_de_sutter_logo.png",
+  "website": "http://www.brasseriedesutter.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

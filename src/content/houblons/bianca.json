@@ -1,0 +1,11 @@
+{
+  "slug": "bianca",
+  "nom": "Bianca",
+  "description": "Bianca (alias Bianco et Bianca Gold), avec sa couleur jaune citron et sa tige contrastée rouge-brun à rose, est cultivé strictement comme un houblon ornemental. Il doit être cultivé dans des zones semi-ombragées car ses feuilles claires sont sujettes à des brûlures au soleil. Bien qu'il n'ait pas été sélectionné pour un usage commercial, il est dit que les cônes peuvent être utilisés pour l'aromatisation si un arôme et un goût de type Saazer sont souhaités. Sunbeam, la demi-sœur de Bianca, présente des caractéristiques similaires.",
+  "aaMin": 7,
+  "aaMax": 7.8,
+  "baMin": 3.2,
+  "baMax": 3.4,
+  "usage": "Aromatique",
+  "aromes": []
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "elixir",
+  "nom": "Elixir",
+  "description": "Le houblon Elixir est une variété issue du programme de recherche variétale en Alsace pour le brassage de bière de type lager.  Houblon Amérisant et Aromatique, l'Elixir développe un bouquet de fruits tropicaux aux notes d'oranges et de mandarine, donnant des notes de fruits blancs.",
+  "aaMin": 4.6,
+  "aaMax": 6.5,
+  "baMin": 5.8,
+  "baMax": 6.6,
+  "usage": "Double usage",
+  "cohumulone": "26 - 27.4",
+  "myrcene": "65.5",
+  "caryophyllene": "0.65",
+  "humulene": "1.4",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "boise",
+    "epice",
+    "fruits-blancs",
+    "fruits-tropicaux"
+  ]
+}

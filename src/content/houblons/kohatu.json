@@ -1,0 +1,15 @@
+{
+  "slug": "kohatu",
+  "nom": "Kohatu",
+  "description": "Kohatu®, qui signifie pierre ou rocher en maori, a été lancé en même temps que Wai-iti en 2011. Il a été nommé d'après Kohatu, une petite ville nichée au bord de la rivière Motueka, au sud-ouest de Nelson, en Nouvelle-Zélande. Kohatu n'est pas aussi fruitée que Wai-iti, mais avec son arôme intense de fruits tropicaux et d'aiguilles de pin fraîchement écrasées, elle ajoute un caractère merveilleusement frais à la bière. Même avec un alpha faible, lorsqu'il est utilisé comme un ajout précoce, il présente une amertume agréable et arrondie.",
+  "aaMin": 6,
+  "aaMax": 7,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "cohumulone": "21 - 21",
+  "aromes": [
+    "pin",
+    "fruits-tropicaux"
+  ]
+}

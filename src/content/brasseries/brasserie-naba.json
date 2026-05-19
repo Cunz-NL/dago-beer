@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-naba",
+  "nom": "Brasserie Naba",
+  "cp": "64400",
+  "ville": "OLORON-SAINTE-MARIE",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609025056e26261dadc5b09f_image.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

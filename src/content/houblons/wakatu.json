@@ -1,0 +1,15 @@
+{
+  "slug": "wakatu",
+  "nom": "Wakatu",
+  "description": "Wakatu, ou Hallertau Aroma comme on l'appelle parfois, est un houblon triploïde néo-zélandais qui a beaucoup d'atouts. Composé de deux tiers de Hallertauer Mittelfrüher et d'un tiers de mâle néo-zélandais, il est sorti en 1988 du programme de sélection du houblon du New Zealand Institute for Plant and Food Research. Son profil pétrolier bien équilibré lui confère un arôme floral discret surmontant un citron vert frais et piquant. Considéré comme largement à double usage, il peut être ajouté à n'importe quel stade de l'ébullition et houblonné à sec avec succès. Il a également été noté pour son impressionnante stabilité de saveur.",
+  "aaMin": 6.5,
+  "aaMax": 8.5,
+  "baMin": 8.4,
+  "baMax": 8.6,
+  "usage": "Double usage",
+  "cohumulone": "28 - 35",
+  "aromes": [
+    "agrumes",
+    "floral"
+  ]
+}

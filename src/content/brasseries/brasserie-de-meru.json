@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-meru",
+  "nom": "Brasserie de Méru",
+  "cp": "60110",
+  "ville": "MÉRU",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d041f235a4cf8c2d78a47_65055452_318702015746368_3511495897487769600_n.jpeg",
+  "website": "http://brasseriemeru.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

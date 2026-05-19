@@ -1,0 +1,18 @@
+{
+  "slug": "herkules",
+  "nom": "Herkules",
+  "description": "Fort et robuste en saveur et en arôme, le Herkules allemand fait honneur à son nom. Issue de la race Hüll de Hallertauer Taurus, Herkules est un houblon amérisant à forte teneur en acide alpha, connu pour être épicé et floral, acidulé et houblonné, avec des notes de melon, de poivre noir et des soupçons de pin. Il a été mis sur le marché en 2005.",
+  "aaMin": 13,
+  "aaMax": 17,
+  "baMin": 4,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "aromes": [
+    "epice",
+    "citron",
+    "poivre",
+    "resineux",
+    "orange-6",
+    "melon"
+  ]
+}

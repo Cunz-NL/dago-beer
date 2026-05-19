@@ -1,0 +1,18 @@
+{
+  "slug": "callista",
+  "nom": "Callista",
+  "description": " Faible taux de cohumulone, le profil organoleptique est beaucoup influencé par le type de bière brassée",
+  "aaMin": 2.5,
+  "aaMax": 4,
+  "baMin": 5,
+  "baMax": 10,
+  "usage": "Aromatique",
+  "cohumulone": "15 - 22",
+  "aromes": [
+    "peche",
+    "fruits-tropicaux",
+    "abricot",
+    "framboise",
+    "cassis"
+  ]
+}

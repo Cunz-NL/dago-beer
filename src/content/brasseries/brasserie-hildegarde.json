@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-hildegarde",
+  "nom": "Brasserie Hildegarde",
+  "cp": "26600",
+  "ville": "CHANOS-CURSON",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606464cd08bd0d370bea754a_52973952_372815796648607_23389833548267520_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-linstant",
+  "nom": "Brasserie L'Instant",
+  "cp": "77340",
+  "ville": "Pontault-Combault",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609399c72c5040dbadf0ff6f_l-instant-brasserie.jpeg",
+  "website": "http://www.bieres-linstant.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

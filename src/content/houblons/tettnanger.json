@@ -1,0 +1,22 @@
+{
+  "slug": "tettnanger",
+  "nom": "Tettnanger",
+  "description": "Cette variété a créé une grande confusion dans l'industrie. En fait, vous pouvez encore trouver des sites en ligne qui décrivent l'American Tettnanger comme une véritable Tettnanger. En réalité, il s'agit d'un clone de rhizomes importés en tant que Swiss Tettnanger. Des tests récents ont montré qu'il est génétiquement distinct de la race terrestre originale, le Tettnang Tettnanger. Le cépage américain est plus probablement un Fuggle à pollinisation ouverte avec du Tettnang Tettnanger. L'importation originale provenait d'une région de la Suisse située juste en face du lac de Constance, en face de Tettnang, en Allemagne. La Tettnanger américaine a connu très tôt une grande popularité, étant cultivée en Idaho, Washington et Oregon. Elle possède des qualités aromatiques de houblon noble avec un bouquet d'épices florales. Cependant, ces dernières années, Anheuser Busch a abandonné cette variété. On dit que le Tettnanger américain est un bon houblon pour l'ébullition ainsi que pour le houblonnage à sec, alors que la variété allemande originale est mieux utilisée comme ajout tardif.",
+  "aaMin": 2.5,
+  "aaMax": 6,
+  "baMin": 3,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "cohumulone": "24 - 24",
+  "myrcene": "15 - 25",
+  "caryophyllene": "6 - 13",
+  "humulene": "18 - 18",
+  "aromes": [
+    "herbeux",
+    "the-noir",
+    "epice",
+    "floral",
+    "poivre"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-kanette",
+  "nom": "Brasserie Kanette",
+  "cp": "32600",
+  "ville": "AURADÉ",
+  "region": "midi-pyrenees",
+  "departement": "gers-32",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab18ec87102009cd9819_b1f0425f-65fa-4c74-8f8b-b5f6a24029ec.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

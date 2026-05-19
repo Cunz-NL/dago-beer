@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-norde-b",
+  "nom": "Brasserie La Nordé",
+  "cp": "22580",
+  "ville": "PLOUHA",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f398297c742d73c445733_13716120_257093448007121_4741115759676236184_n.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-pastel",
+  "nom": "Brasserie La Pastel",
+  "cp": "67270",
+  "ville": "ALTECKENDORF",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eeeb2b90d121120c0f4b_74183654_1873988772745207_9101961252791386112_n.jpeg",
+  "website": "http://www.bierelapastel.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

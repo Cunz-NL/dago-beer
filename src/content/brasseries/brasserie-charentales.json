@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-charentales",
+  "nom": "Brasserie CharentAles",
+  "cp": "16240",
+  "ville": "PAIZAY-NAUDOUIN-EMBOURIE",
+  "region": "poitou-charentes",
+  "departement": "charente-16",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76bea69615407fcbc1dd8_18953255_1546878698711221_5535241720290582476_o.jpeg",
+  "website": "http://www.charentales.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

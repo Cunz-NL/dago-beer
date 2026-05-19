@@ -1,0 +1,10 @@
+{
+  "slug": "bohemie",
+  "nom": "Bohemie",
+  "aaMin": 5,
+  "aaMax": 8,
+  "baMin": 6,
+  "baMax": 9,
+  "usage": "Aromatique",
+  "aromes": []
+}

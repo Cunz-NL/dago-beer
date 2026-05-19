@@ -1,0 +1,79 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const types = await getCollection('fournisseursTypes');
+  const fournisseurs = await getCollection('fournisseurs');
+
+  return types.map((type) => {
+    const fournisseursType = fournisseurs.filter((f) =>
+      f.data.types.some((t) => t.toLowerCase() === type.data.nom.toLowerCase())
+    );
+    return {
+      params: { slug: type.data.slug },
+      props: { type, fournisseurs: fournisseursType },
+    };
+  });
+}
+
+const { type, fournisseurs } = Astro.props;
+const { nom } = type.data;
+---
+
+<Base
+  title={`Fournisseurs ${nom} pour brasseries — Dago Beer`}
+  description={`Annuaire des fournisseurs de ${nom} pour brasseries artisanales. Trouvez vos partenaires pour ${nom.toLowerCase()} et développez votre activité brassicole.`}
+  canonical={`https://www.dago.beer/type-fournisseurs/${type.data.slug}`}
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Fournisseurs brasseries', href: '/fournisseurs-brasseries' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-8">
+      <h1 class="font-heading text-4xl font-bold text-white mb-3">
+        Fournisseurs <span class="text-amber-brand">{nom}</span>
+      </h1>
+      <p class="font-body text-muted/60">
+        Partenaires et fournisseurs de {nom.toLowerCase()} pour brasseries artisanales
+      </p>
+    </header>
+
+    {fournisseurs.length > 0 ? (
+      <div class="grid gap-4">
+        {fournisseurs.map((f) => (
+          <div class="bg-surface border border-white/10 rounded-xl p-5">
+            <h2 class="font-heading text-lg font-semibold text-white mb-2">{f.data.nom}</h2>
+            {f.data.description && <p class="font-body text-sm text-muted/70 mb-3">{f.data.description}</p>}
+            <div class="flex gap-3 flex-wrap">
+              {f.data.siteWeb && (
+                <a href={f.data.siteWeb} target="_blank" rel="noopener noreferrer"
+                   class="font-body text-sm text-amber-brand hover:underline">
+                  Site web →
+                </a>
+              )}
+              {f.data.email && (
+                <a href={`mailto:${f.data.email}`} class="font-body text-sm text-muted/60 hover:text-white transition-colors">
+                  {f.data.email}
+                </a>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    ) : (
+      <p class="font-body text-muted/50 text-center py-16">Aucun fournisseur référencé pour cette catégorie.</p>
+    )}
+
+    <div class="mt-8">
+      <a href="/fournisseurs-brasseries" class="font-body text-sm text-muted/50 hover:text-amber-brand transition-colors">
+        ← Tous les fournisseurs
+      </a>
+    </div>
+  </div>
+</Base>

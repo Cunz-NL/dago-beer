@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-troliotte",
+  "nom": "Brasserie La Troliotte",
+  "cp": "54150",
+  "ville": "LES BAROCHES",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e232ce3790417eacff0_30739400_174103616583069_8583725722852392960_n.png",
+  "website": "https://www.latroliotte.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

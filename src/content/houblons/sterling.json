@@ -1,0 +1,19 @@
+{
+  "slug": "sterling",
+  "nom": "Sterling",
+  "description": "La Sterling a été sélectionnée avec succès pour surmonter la susceptibilité de la Saaz au mildiou. Développée pendant 8 ans à Corvallis, Oregon, elle a été commercialisée en 1998. La teneur en huile de la Sterling est plutôt inhabituelle, avec à la fois un taux très élevé de farnésène et un taux très faible de carophyllène. Cela crée un arôme délicatement épicé, citronné, avec un punch floral et herbacé. L'héritage de la Sterling est également complexe et résulte d'un mélange de Saaz, Cascade, Early Green, Brewer's Gold et d'une autre variété inconnue.",
+  "aaMin": 4,
+  "aaMax": 8,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "myrcene": "44 - 48",
+  "caryophyllene": "5 - 8",
+  "humulene": "19 - 19",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

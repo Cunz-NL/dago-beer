@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-duchmann",
+  "nom": "Brasserie Duchmann",
+  "cp": "60240",
+  "ville": "CHAUMONT EN    VEXIN",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf52a76989c7b1ba2c0b6_1582270949387.jpeg",
+  "website": "https://www.brasserie-duchmann.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "brewers-gold-us",
+  "nom": "Brewer's Gold (US)",
+  "description": "Sœur de Bullion, la Brewer's Gold cultivée aux États-Unis est un cultivar de la variété anglaise originale, la Brewer's Gold. Bien qu'elle ait été développée en Angleterre, son origine est sans aucun doute nord-américaine, puisqu'elle a été initialement dérivée d'un houblon sauvage provenant de la vallée de Pembina au Canada, dans le Manitoba. La version américaine est naturellement similaire à l'original mais contient en moyenne plus d'acides alpha. L'USDA a utilisé la thermothérapie et d'autres techniques pour adapter la variété aux conditions locales et pour améliorer la résistance aux maladies. Elle a été cultivée principalement en Oregon et sur une superficie importante jusqu'à l'arrivée des variétés super-alpha dans les années 1980. La production commerciale de cette variété a été abandonnée en 1985, mais elle est encore disponible aujourd'hui, bien qu'essentiellement pour le marché de la bière artisanale.",
+  "aaMin": 8,
+  "aaMax": 11,
+  "baMin": 4,
+  "baMax": 6.5,
+  "usage": "Amérisant",
+  "stabilite": "Mauvaise",
+  "cohumulone": "40 - 48",
+  "aromes": [
+    "epice",
+    "fruite",
+    "cassis"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tumulte",
+  "nom": "Brasserie Tumulte",
+  "cp": "54129",
+  "ville": "MAGNIÈRES",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4e0932af8aebda6c26e9_5_21.jpeg",
+  "website": "http://www.brasserietumulte.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

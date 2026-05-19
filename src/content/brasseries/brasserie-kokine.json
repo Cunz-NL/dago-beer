@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-kokine",
+  "nom": "Brasserie Kokine",
+  "cp": "7570",
+  "ville": "DÉSAIGNES",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8bbce956b802635b684_77196586_101672617976326_7358688801062912000_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

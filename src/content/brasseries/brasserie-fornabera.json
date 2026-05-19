@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-fornabera",
+  "nom": "Brasserie Fornabera",
+  "cp": "63890",
+  "ville": "SAINT-AMANT-ROCHE-SAVINE",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6083378cf488a2de780ab983_66325883_1293430404159377_3241151083711561728_n.jpeg",
+  "website": "https://www.fornabera.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

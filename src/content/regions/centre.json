@@ -1,0 +1,12 @@
+{
+  "slug": "centre",
+  "nom": "Centre",
+  "departements": [
+    "cher-18",
+    "eure-et-loir-28",
+    "indre-36",
+    "indre-et-loire-37",
+    "loir-et-cher-41",
+    "loiret-45"
+  ]
+}

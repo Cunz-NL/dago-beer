@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-raccoon-brewery",
+  "nom": "Brasserie Raccoon Brewery",
+  "cp": "59800",
+  "ville": "LILLE",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf405f4d21b1a212d6146_11134132_754368244677973_6131255638878058434_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

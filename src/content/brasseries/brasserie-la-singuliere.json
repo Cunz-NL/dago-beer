@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-singuliere",
+  "nom": "Brasserie La Singulière",
+  "cp": "34200",
+  "ville": "SÈTE",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca13c115c68eadc047a811_photo0jpg.jpeg",
+  "website": "http://lasinguliere7.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

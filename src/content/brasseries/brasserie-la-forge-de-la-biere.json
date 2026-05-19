@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-forge-de-la-biere",
+  "nom": "Brasserie La Forge de la Bière",
+  "cp": "32310",
+  "ville": "BEZOLLES",
+  "region": "midi-pyrenees",
+  "departement": "gers-32",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca12f0bc84c208f6faaa80_a1frc3Y7_400x400.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-day",
+  "nom": "Brasserie d'Ay",
+  "cp": "57300",
+  "ville": "AY-SUR-MOSELLE",
+  "region": "lorraine",
+  "departement": "moselle-57",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e14d53c767cfa6f58cd_11406679_479919998821650_3855779312242336327_n.jpeg",
+  "website": "http://www.brasserieay.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

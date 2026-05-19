@@ -1,0 +1,22 @@
+{
+  "slug": "super-pride",
+  "nom": "Super Pride",
+  "description": "Super Pride est la descendante de Pride of Ringwood et une descendante de Yeoman. Sélectionné pour la première fois au Rostrevor Breeding Garden dans l'État de Victoria en 1987 par Hop Products Australia, il a été mis sur le marché en 1995 et, depuis 2002, il est devenu une variété amère incontournable dans la production de bière commerciale en Australie. Bien qu'il soit principalement utilisé comme houblon amérisant, Super Pride possède un bouquet discret avec des éléments de résine, d'épices et d'agrumes. Il est le plus souvent utilisé dans les Lagers et les Imperial Pale Ales et est considéré comme plus doux que le Pride of Ringwood.",
+  "aaMin": 12.5,
+  "aaMax": 16.3,
+  "baMin": 6,
+  "baMax": 8,
+  "usage": "Amérisant",
+  "cohumulone": "32 - 32",
+  "myrcene": "19 - 34",
+  "caryophyllene": "5 - 8.4",
+  "humulene": "1 - 1",
+  "aromes": [
+    "floral",
+    "epice",
+    "resineux",
+    "chocolat",
+    "pain-depice",
+    "marjolaine"
+  ]
+}

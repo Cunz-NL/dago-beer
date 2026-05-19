@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-chez-le-brasseur",
+  "nom": "Brasserie Chez le Brasseur",
+  "cp": "63170",
+  "ville": "AUBIÈRE",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d4306d318dcef4e79ae0_52550215_385319972258943_6321583602148573184_n.jpeg",
+  "website": "http://chezlebrasseur.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

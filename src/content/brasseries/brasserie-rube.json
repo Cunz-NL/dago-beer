@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-rube",
+  "nom": "Brasserie Rubé",
+  "cp": "13004",
+  "ville": "MARSEILLE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67bcf18fb616fc66aa25f_100681179_3249930361899619_714308432043180032_n.jpeg",
+  "website": "https://brasserie.rubé.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

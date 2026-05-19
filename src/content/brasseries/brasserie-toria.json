@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-toria",
+  "nom": "Brasserie Toria",
+  "cp": "34500",
+  "ville": "BÉZIERS",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "description": "Créée en 2019",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bbff49e3bf368ef395a01_toria-sq.jpg",
+  "website": "http://www.toria.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

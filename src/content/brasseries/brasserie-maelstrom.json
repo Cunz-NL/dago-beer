@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-maelstrom",
+  "nom": "Brasserie Maelström",
+  "cp": "74330",
+  "ville": "SILLINGY",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c38654378c03ab6e5dc_45288663_168395027441979_2087858146037989376_n.jpeg",
+  "website": "http://brasserie-maelstrom.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

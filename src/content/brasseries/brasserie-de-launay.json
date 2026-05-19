@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-launay",
+  "nom": "Brasserie de Launay",
+  "cp": "22120",
+  "ville": "HILLION",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f395f5ea68c2a21fcf4b2_20170502105859.jpeg",
+  "website": "http://www.brasserie-delaunay.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

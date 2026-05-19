@@ -1,0 +1,11 @@
+{
+  "slug": "elsaesser",
+  "nom": "Elsaesser",
+  "description": "La production commerciale de l'Elsaesser est confinée à une superficie très limitée dans la région d'Alsace, en France. Il est très probablement issu d'une ancienne race terrienne de la même région. L'Elsaesser a un arôme proche de celui des variétés nobles européennes. Le père de Charlemagne, Peppin le Jeune, aurait eu un jardin de houblon au 7ème siècle. Même si l'utilisation du houblon dans la bière n'est mentionnée qu'au 9e siècle, le houblon de l'Elsaesser d'aujourd'hui est peut-être un descendant de la même variété qui ornait ce jardin.",
+  "aaMin": 4,
+  "aaMax": 4.7,
+  "baMin": 3,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "aromes": []
+}

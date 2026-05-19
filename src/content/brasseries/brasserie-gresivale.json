@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-gresivale",
+  "nom": "Brasserie Grésiv'ale",
+  "cp": "38530",
+  "ville": "BARRAUX",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dee0e1bea167f1e44d53c_18882156_487772471569849_67623280540880806_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

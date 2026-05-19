@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-serpentine",
+  "nom": "Brasserie La Serpentine",
+  "cp": "4110",
+  "ville": "MONTJUSTIN",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-de-haute-provence-04",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3d3270b961e718687e062_26467207.jpeg",
+  "website": "http://laserpentine.co",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

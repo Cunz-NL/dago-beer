@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-burval",
+  "nom": "Brasserie Burval",
+  "cp": "88340",
+  "ville": "LE VAL D'AJOL",
+  "region": "lorraine",
+  "departement": "vosges-88",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a14399380beb70180dee44_aHR0cHM6Ly93d3cuc2l0bG9yLmZyL3Bob3Rvcy84ODUvODg1MDAzMDgxXzQuanBn.jpeg",
+  "website": "http://www.val-heureuse.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

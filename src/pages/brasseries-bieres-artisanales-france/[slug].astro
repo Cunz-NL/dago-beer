@@ -1,0 +1,73 @@
+---
+// /brasseries-bieres-artisanales-france/[slug]
+// → pages par DÉPARTEMENT (ain-01, aisne-02…)
+import Base from '@/layouts/Base.astro';
+import BreweryCard from '@/components/BreweryCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const departements = await getCollection('departements');
+  const brasseries = await getCollection('brasseries');
+
+  return departements.map((dept) => {
+    const brasseriesDept = brasseries.filter(
+      (b) => b.data.departement === dept.data.slug && b.data.statut !== 'ferme'
+    );
+    return {
+      params: { slug: dept.data.slug },
+      props: { dept, brasseries: brasseriesDept },
+    };
+  });
+}
+
+const { dept, brasseries } = Astro.props;
+const { nom } = dept.data;
+const deptNum = nom.match(/\d+$/)?.[0] ?? '';
+const deptNomCourt = nom.replace(/\s*-?\s*\d+$/, '');
+---
+
+<Base
+  title={`Brasseries artisanales ${deptNomCourt} (${deptNum}) — Dago Beer`}
+  description={`Annuaire des ${brasseries.length} brasseries artisanales du département ${nom}. Trouvez les microbrasseries craft près de chez vous.`}
+  canonical={`https://www.dago.beer/brasseries-bieres-artisanales-france/${dept.data.slug}`}
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brasseries', href: '/brasserie-biere-artisanale' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Brasseries artisanales <span class="text-amber-brand">{deptNomCourt}</span>
+        {deptNum && <span class="text-muted/40 text-3xl ml-2">({deptNum})</span>}
+      </h1>
+      <p class="font-body text-sm text-muted/40 mt-2">
+        {brasseries.length} brasserie{brasseries.length !== 1 ? 's' : ''} référencée{brasseries.length !== 1 ? 's' : ''}
+      </p>
+    </header>
+
+    <CrossSellBanner />
+
+    {brasseries.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8">
+        {brasseries.map((b) => (
+          <BreweryCard
+            slug={b.data.slug}
+            nom={b.data.nom}
+            cp={b.data.cp}
+            ville={b.data.ville}
+            region={b.data.region}
+            aBiereSansAlcool={b.data.aBiereSansAlcool}
+          />
+        ))}
+      </div>
+    ) : (
+      <p class="font-body text-muted/50 text-center py-16">Aucune brasserie référencée pour ce département.</p>
+    )}
+  </div>
+</Base>

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-monteliote",
+  "nom": "Brasserie Montéliote",
+  "cp": "81260",
+  "ville": "LAMONTÉLARIÉ",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5aff9632f0c6d639c62_bouteilles2.jpeg",
+  "website": "http://www.brasserie-monteliote.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

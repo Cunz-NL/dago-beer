@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-deux-font-la-biere",
+  "nom": "Brasserie Les Deux Font La Bière",
+  "cp": "13400",
+  "ville": "AUBAGNE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c526497d00e2e67af36_22859991_1917592788557543_3875589358752642942_o.jpeg",
+  "website": "http://www.lesdeuxfontlabiere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

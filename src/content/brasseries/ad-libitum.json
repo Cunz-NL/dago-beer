@@ -1,0 +1,13 @@
+{
+  "slug": "ad-libitum",
+  "nom": "AD LIBITUM",
+  "cp": "70150",
+  "ville": "ETUZ",
+  "region": "france",
+  "departement": "haute-saone-70",
+  "description": "Ad LIBITUM* , micro brasserie.Bières artisanales et craft.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/66cc8d42d2a97ceec3405836_logo-Ad-LIBITUM-brasserie-franche-comt%C3%A9--moyen.png",
+  "website": "https://www.brasserie-ad-libitum.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

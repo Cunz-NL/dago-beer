@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-bertranges",
+  "nom": "Brasserie des Bertranges",
+  "cp": "58130",
+  "ville": "SAINT AUBIN    LES FORGES",
+  "region": "bourgogne",
+  "departement": "nievre-58",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e7370b55e48d1bd77e5_bieres-artisanales-des-bertranges.jpeg",
+  "website": "http://www.brasserie-bertranges.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

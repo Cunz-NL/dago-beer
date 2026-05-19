@@ -1,0 +1,21 @@
+{
+  "slug": "zeus",
+  "nom": "Zeus",
+  "description": "Nommée à juste titre d'après le dieu de la foudre et du tonnerre, la variété hybride américaine Zeus est un houblon à haut rendement et à l'arôme agréable, connu pour son \"kick\" houblonné piquant et sa saveur et son arôme épicés et herbacés. Bien qu'il soit parfois considéré comme identique à Columbus et Tomahawk®, ou CTZ comme elles sont parfois vendues, il a été identifié comme étant génétiquement distinct de ces deux variétés. Elle présente cependant des similitudes remarquables avec les deux. Bien que la filiation exacte de la Zeus n'ait pas été identifiée, on soupçonne qu'elle est dérivée de la Brewers Gold.",
+  "aaMin": 14.5,
+  "aaMax": 17.5,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "cohumulone": "30 - 35",
+  "myrcene": "0.00",
+  "caryophyllene": "0.00",
+  "humulene": "0.00",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "epice",
+    "poivre",
+    "oignon"
+  ]
+}

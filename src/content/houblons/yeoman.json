@@ -1,0 +1,19 @@
+{
+  "slug": "yeoman",
+  "nom": "Yeoman",
+  "description": "Cultivé au Wye College dans les années 1970, le Yeoman n'est plus disponible sur le marché commercial de la brasserie, mais il a fait sa marque dans la sélection d'autres variétés remarquables. Il est à l'origine de Pioneer et aussi du houblon australien Super Pride, qui a depuis remplacé Pride of Ringwood. Ses alphas sont très élevés pour un houblon anglais. Il semble bien équipé pour résister aux maladies et présente une amertume agréable et un arôme d'agrumes.",
+  "aaMin": 12,
+  "aaMax": 16,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 75",
+  "myrcene": "38.2 - 60.5",
+  "caryophyllene": "5.3 - 9.4",
+  "humulene": "12.2 - 12.2",
+  "aromes": [
+    "agrumes",
+    "houblon",
+    "amertume-b"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lonce-troy",
+  "nom": "Brasserie L'Once Troy",
+  "cp": "10120",
+  "ville": "SAINT-GERMAIN",
+  "region": "champagne-ardenne",
+  "departement": "aube-10",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8f9cd88d7c83424e717_12593486_736244346475356_1454700544809317705_o.png",
+  "website": "http://lonce-troy.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

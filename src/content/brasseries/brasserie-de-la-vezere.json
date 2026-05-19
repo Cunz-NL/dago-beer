@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-vezere",
+  "nom": "Brasserie de la Vézère",
+  "cp": "19140",
+  "ville": "UZERCHE",
+  "region": "limousin",
+  "departement": "correze-19",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891b06af953e8afc76a604_yX9jS5zNAlqCfAYVxDBcwLx85ayUMcjY9HabuDpY4Cjvp2QIK4rFxb8gEAwN08Wb0hUgIuqa%3Dw1080-h608-p-no-v0.jpeg",
+  "website": "http://brasserie-vezere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

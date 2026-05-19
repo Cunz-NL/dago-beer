@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bram",
+  "nom": "Brasserie Brâm",
+  "cp": "87240",
+  "ville": "SAINT-LAURENT-LES-ÉGLISES",
+  "region": "limousin",
+  "departement": "haute-vienne-87",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891a54f337f6619310d235_dsc_4613.jpeg",
+  "website": "http://www.brasseriebram.org",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

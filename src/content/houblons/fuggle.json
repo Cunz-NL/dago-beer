@@ -1,0 +1,19 @@
+{
+  "slug": "fuggle",
+  "nom": "Fuggle",
+  "description": "Le houblon Fuggle est originaire d'Angleterre et a été découvert en 1861 dans une houblonnière appartenant à George Stace dans le Kent. Quelque 14 ans plus tard, il a été officiellement nommé et introduit par Richard Fuggle de Benchley en 1875. Semblable à un Styrian Golding, il est réputé pour son arôme européen distinct et a connu une longue période d'utilisation polyvalente. À son apogée, il y a près de 100 ans, le Fuggle était connu comme un houblon à double usage. Aujourd'hui, cependant, alors que d'autres variétés à forte teneur en acide alpha sont devenues plus répandues, il est davantage utilisé pour son arôme.",
+  "aaMin": 3,
+  "aaMax": 6,
+  "baMin": 2,
+  "baMax": 3,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 75",
+  "myrcene": "24 - 28",
+  "caryophyllene": "11 - 13.38",
+  "humulene": "35 - 35",
+  "aromes": [
+    "herbeux",
+    "menthole",
+    "terreux"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ibex",
+  "nom": "Brasserie IBEX",
+  "cp": "74110",
+  "ville": "MORZINE",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759bf9d9da096f823b5a01_59022772_2192485194175050_4355297408821755904_n.png",
+  "website": "http://www.ibexbeer.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

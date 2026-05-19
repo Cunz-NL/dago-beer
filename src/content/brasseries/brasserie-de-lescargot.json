@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-lescargot",
+  "nom": "Brasserie de l'Escargot",
+  "cp": "74300",
+  "ville": "THYEZ",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c33b9fd1cd7dc212e1f_13240486_789613724471913_4385309284685957119_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

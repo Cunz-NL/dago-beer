@@ -1,0 +1,18 @@
+{
+  "slug": "ella",
+  "nom": "Ella",
+  "description": "Le houblon Ella™, formellement connu sous le nom de Stella, est une variété aromatique australienne. Elle est la demi-sœur de Galaxy® et la progéniture de Spalt et d'une femelle tétraploïde et a été développée dans l'État de Victoria au début des années 2000. En 2007, Ella™ était prête à être lancée dans des essais de brassage. Un succès immédiat, la variété a été rapidement mise en production commerciale. En raison de sa teneur élevée en huiles, Ella™ peut changer de caractère de manière significative selon la manière dont elle est utilisée. Lorsqu'elle est utilisée en faible quantité, elle affiche un caractère épicé et floral comme l'anis étoilé. Lorsqu'elle est utilisée en plus grande quantité ou en houblonnage sec, elle tient son rang avec n'importe quel malt robuste et transmet une saveur tropicale et de pamplemousse décidée.",
+  "aaMin": 13.3,
+  "aaMax": 16.3,
+  "baMin": 4,
+  "baMax": 7.8,
+  "usage": "Aromatique",
+  "aromes": [
+    "floral",
+    "agrumes",
+    "epice",
+    "pamplemousse",
+    "fruits-tropicaux",
+    "bergamote"
+  ]
+}

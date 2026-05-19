@@ -1,0 +1,41 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const aromes = (await getCollection('houblonsAromes')).sort((a, b) =>
+  a.data.nom.localeCompare(b.data.nom, 'fr')
+);
+---
+
+<Base
+  title="Arômes développés par les houblons — Guide brassage — Dago Beer"
+  description={`Liste des ${aromes.length} arômes développés par les houblons en brassage. Choisissez vos houblons selon le profil aromatique que vous souhaitez pour votre bière.`}
+  canonical="https://www.dago.beer/liste-des-aromes-developpes-par-les-houblons"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Arômes des houblons' }]} />
+
+    <header class="mb-8">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Arômes des <span class="text-amber-brand">houblons</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        {aromes.length} familles aromatiques — cliquez sur un arôme pour voir les houblons correspondants.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+      {aromes.map((a) => (
+        <a
+          href={`/houblons-aromes/${a.data.slug}`}
+          class="bg-surface border border-white/10 rounded-lg p-4 text-center hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group"
+        >
+          <p class="font-heading text-sm font-semibold text-white group-hover:text-amber-brand transition-colors capitalize">
+            {a.data.nom}
+          </p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

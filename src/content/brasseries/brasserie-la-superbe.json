@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-superbe",
+  "nom": "Brasserie La Superbe",
+  "cp": "64200",
+  "ville": "BIARRITZ",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc1883b96d95d9c6209cf_178127786_1165976620508509_3977395371468808626_n.jpeg",
+  "website": "https://lasuperbe.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

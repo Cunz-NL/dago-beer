@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-sapeur-brasseur",
+  "nom": "Brasserie Le Sapeur Brasseur",
+  "cp": "95110",
+  "ville": "SANNOIS",
+  "region": "ile-de-france",
+  "departement": "val-doise-95",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a5b53378740b5d89d9b8_1_Brasserie-Le-Sapeur-Brasseur.png",
+  "website": "https://www.lesapeurbrasseur.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

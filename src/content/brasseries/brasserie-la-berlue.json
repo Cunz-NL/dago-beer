@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-berlue",
+  "nom": "Brasserie La Berlue",
+  "cp": "81600",
+  "ville": "GAILLAC",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f6125535856e635b75e8_17799330_742655099228220_45605330583742176_n.png",
+  "website": "https://www.brasserie-laberlue.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

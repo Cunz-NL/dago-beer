@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-artisanale-des-vosges",
+  "nom": "Brasserie Artisanale des Vosges",
+  "cp": "88200",
+  "ville": "REMIREMONT",
+  "region": "lorraine",
+  "departement": "vosges-88",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a14389b146b1269928e79d_90968530_4158296784184205_5852314191192391680_n.jpeg",
+  "website": "http://www.brasserie-lamadelon.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-granka",
+  "nom": "Brasserie GranKa",
+  "cp": "78930",
+  "ville": "VERT",
+  "region": "ile-de-france",
+  "departement": "yvelines-78",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f53635dc4b58e6a43cf9_170346643_2752766444985392_8541119990986720385_n.jpeg",
+  "website": "https://bieregranka.wixsite.com/granka",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

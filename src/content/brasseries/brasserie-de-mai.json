@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-mai",
+  "nom": "Brasserie de Mai",
+  "cp": "62220",
+  "ville": "CARVIN",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04df48256e12c163ff0c_97107193_2034978276646670_6884876723456835584_n.jpeg",
+  "website": "http://brasseriedemai.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,36 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+---
+
+<Base
+  title="Annuaire des zythologues français — Experts bière — Dago Beer"
+  description="Trouvez un zythologue professionnel en France : experts en bière artisanale, sommeliers bière, consultants brassicoles, formateurs et animateurs de dégustations."
+  canonical="https://www.dago.beer/annuaire-zythologues"
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Annuaire zythologues' }]} />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl font-bold text-white mb-3">
+        Annuaire des <span class="text-amber-brand">zythologues</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        Un zythologue est un expert de la bière — l'équivalent du sommelier pour le vin. Retrouvez les professionnels qui vous accompagnent dans vos dégustations, formations et événements bière.
+      </p>
+    </header>
+
+    <div class="bg-surface border border-amber-brand/30 rounded-xl p-8 text-center">
+      <p class="font-heading text-2xl font-semibold text-white mb-3">Annuaire en cours de construction</p>
+      <p class="font-body text-muted/70 mb-6">
+        Vous êtes zythologue ou expert en bière artisanale ? Faites-vous référencer dans notre annuaire.
+      </p>
+      <a
+        href="mailto:contact@dago.beer"
+        class="inline-block font-body font-semibold px-6 py-3 rounded-lg bg-amber-brand text-bg hover:bg-amber-brand/90 transition-colors"
+      >
+        Nous contacter
+      </a>
+    </div>
+  </div>
+</Base>

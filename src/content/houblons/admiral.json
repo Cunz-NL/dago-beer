@@ -1,0 +1,22 @@
+{
+  "slug": "admiral",
+  "nom": "Admiral",
+  "description": "Admiral est une excellente variété de houblon de mi-saison dérivée du grand-parent Challenger et du parent probable Northdown. Sa lignée exacte n'est pas claire. Originaire de Wye College, en Angleterre, il a été présenté au monde de la brasserie en 1998 comme un remplacement potentiel à haute teneur en alpha ou un ajout complémentaire au houblon Target. Il se caractérise par une teneur en acide plus élevée que celle de ses aînés, possède des qualités d'amertume agressives mais douces et se targue d'une résonance d'orange-citron et d'herbes qui le rend parfait pour les Pale Ales et les ESB plus amères. Chapel Down utilise l'Admiral presque exclusivement dans sa Curious Porter en raison de ses capacités amérisantes exceptionnelles.",
+  "aaMin": 13,
+  "aaMax": 16,
+  "baMin": 4.5,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "stabilite": "Excellente : 85%@20°C après 6 mois",
+  "cohumulone": "37 - 45",
+  "myrcene": "39 - 48",
+  "caryophyllene": "6.8 - 7.2",
+  "humulene": "23 - 23",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "orange-6",
+    "citron",
+    "amertume-b"
+  ]
+}

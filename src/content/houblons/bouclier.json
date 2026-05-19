@@ -1,0 +1,19 @@
+{
+  "slug": "bouclier",
+  "nom": "Bouclier",
+  "description": "Apparu en 2005, le Bouclier est un croisement entre le Strisselspalt cultivé en Alsace et un mâle sauvage de Wye, dans le Kent. On ne sait cependant pas si cette variété a été développée au Royaume-Uni ou de l'autre côté de la Manche, en France. L'arôme des cônes est herbacé et herbeux avec une pointe d'épice. Dans une infusion, le Bouclier extrait un caractère citronné et floral - idéal pour ajouter un baiser français aux styles anglais traditionnels.",
+  "aaMin": 7.9,
+  "aaMax": 8.5,
+  "baMin": 2.4,
+  "baMax": 3.3,
+  "usage": "Double usage",
+  "cohumulone": "42 - 47",
+  "myrcene": "38",
+  "humulene": "34",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "epice",
+    "fruite"
+  ]
+}

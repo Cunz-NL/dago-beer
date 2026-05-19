@@ -1,0 +1,17 @@
+{
+  "slug": "hull-melon",
+  "nom": "Hüll Melon",
+  "description": "Relativement nouveau sur le marché, Hüll Melon a fait ses débuts en 2012. Fille de la Cascade (US), elle présente des caractéristiques gustatives intéressantes qui ne sont pas communément associées aux houblons. Elle est notée comme étant intensément fruitée avec des saveurs et des arômes de melon miel et de fraise.",
+  "aaMin": 6.9,
+  "aaMax": 7.5,
+  "baMin": 6,
+  "baMax": 9,
+  "usage": "Aromatique",
+  "aromes": [
+    "orange-6",
+    "fruits-tropicaux",
+    "fraise",
+    "melon",
+    "vanille"
+  ]
+}

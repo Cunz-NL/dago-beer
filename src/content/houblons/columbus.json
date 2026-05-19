@@ -1,0 +1,22 @@
+{
+  "slug": "columbus",
+  "nom": "Columbus",
+  "description": "L'origine exacte du houblon Columbus est inconnue. Son homonyme a été créé en partie à la suite d'un conflit juridique entre Hopunion et Yakima Chief, lorsque les deux parties ont tenté de breveter le même houblon. La variété de Yakima Chief s'appelait Tomahawk®. Après qu'un accord ait été trouvé, les deux noms ont été enregistrés. Cependant, il s'agit techniquement du même houblon. Sélectionné à l'origine par Charles (Chuck) Zimmerman dans le cadre d'un programme de sélection de l'USDA dans les années 1970, le Columbus est parfois appelé CTZ (Columbus, Tomahawk® et Zues) bien qu'il soit génétiquement distinct du houblon Zues. Il se caractérise par un houblon percutant et un arôme profond et pensif avec des notes discrètes d'agrumes - parfait comme houblon à double usage. Couramment utilisé en fin d'ébullition et, lorsqu'il est frais, le Columbus a une saveur d'herbes avec un arrière-goût de citron et d'agrumes. Utilisable dans un certain nombre de styles, notamment les ales de style américain.",
+  "aaMin": 15,
+  "aaMax": 17,
+  "baMin": 4.5,
+  "baMax": 5,
+  "usage": "Double usage",
+  "stabilite": "Moyenne : 55",
+  "cohumulone": "30 - 35",
+  "myrcene": "25 - 45",
+  "caryophyllene": "8 - 12",
+  "humulene": "15 - 15",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "citron",
+    "poivre",
+    "reglisse"
+  ]
+}

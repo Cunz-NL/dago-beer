@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-fabule",
+  "nom": "Brasserie La Fabule",
+  "cp": "51000",
+  "ville": "CHÂLONS-EN-CHAMPAGNE",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d5e133fd23faad732c4_59253044_1153397968164337_6485609167686991872_n.jpeg",
+  "website": "http://lafabule.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-misso",
+  "nom": "Brasserie Misso",
+  "cp": "69380",
+  "ville": "CIVRIEUX-D'AZERGUES",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606deca77137b57511d10312_16299339_1631323610509183_8105025086206390799_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

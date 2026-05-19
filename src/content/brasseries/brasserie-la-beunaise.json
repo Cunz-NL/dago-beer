@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-beunaise",
+  "nom": "Brasserie La Beun'aise",
+  "cp": "17440",
+  "ville": "AYTRÉ",
+  "region": "poitou-charentes",
+  "departement": "charente-maritime-17",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76c5e96e64aa0e0f753f4_hqdefault.jpeg",
+  "website": "http://www.labeunaise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

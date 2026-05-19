@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-popihn",
+  "nom": "Brasserie Popihn",
+  "cp": "89320",
+  "ville": "VAUMORT",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a367d75255e0f8223ba15c_brasserie-popihn-logo.png",
+  "website": "http://www.brasserie-popihn.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-360",
+  "nom": "Brasserie 360",
+  "cp": "15140",
+  "ville": "FONTANGES",
+  "region": "auvergne",
+  "departement": "cantal-15",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852d9de8405ede3a21c603_38872920_432031213972665_8424803531944361984_n.jpeg",
+  "website": "https://www.brasserie360.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

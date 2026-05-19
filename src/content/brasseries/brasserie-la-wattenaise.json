@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-wattenaise",
+  "nom": "Brasserie La Wattenaise",
+  "cp": "59143",
+  "ville": "WATTEN",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6a2b6058183d636f4b77_18278577_1692053114422356_8125397874205978523_o.jpeg",
+  "website": "http://www.la-wattenaise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

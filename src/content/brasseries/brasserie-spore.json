@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-spore",
+  "nom": "Brasserie Spore",
+  "cp": "27930",
+  "ville": "NORMANVILLE",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607410d4854470fe765e33d8_44351705_576408812791627_6293371160277024768_n.png",
+  "website": "http://brasserie-spore.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}
