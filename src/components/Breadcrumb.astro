@@ -34,7 +34,7 @@ const { items } = Astro.props;
             <span itemprop="name">{item.label}</span>
           </a>
         ) : (
-          <span itemprop="name" class="text-white">{item.label}</span>
+          <span itemprop="name" class="text-amber-brand font-medium">{item.label}</span>
         )}
         <meta itemprop="position" content={String(index + 2)} />
       </li>

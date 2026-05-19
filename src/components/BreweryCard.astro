@@ -11,16 +11,16 @@ export interface Props {
 const { slug, nom, cp, ville, region, aBiereSansAlcool = false } = Astro.props;
 ---
 
-<article class="bg-surface rounded-lg border border-white/10 hover:border-amber-brand/50 transition-colors group">
+<article class="bg-surface rounded-lg border border-gray-200 hover:border-amber-brand/50 transition-colors group">
   <a href={`/brasserie-artisanale/${slug}`} class="block p-4">
-    <h3 class="font-heading text-lg font-medium text-white group-hover:text-amber-brand transition-colors line-clamp-1">
+    <h3 class="font-heading text-lg font-medium text-amber-brand group-hover:opacity-70 transition-opacity line-clamp-1">
       {nom}
     </h3>
     <p class="font-body text-sm text-muted/60 mt-1">
       {cp} {ville}
     </p>
     {aBiereSansAlcool && (
-      <span class="mt-2 inline-block text-xs font-body font-medium px-2 py-0.5 rounded-full bg-amber-brand/20 text-amber-brand border border-amber-brand/30">
+      <span class="mt-2 inline-block text-xs font-body font-medium px-2 py-0.5 rounded-full bg-amber-brand/10 text-amber-brand border border-amber-brand/20">
         🍺 Sans alcool dispo
       </span>
     )}
