@@ -82,8 +82,8 @@ const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
     <!-- Navbar -->
     <header class="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-50">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
-        <a href="/" class="font-heading text-2xl font-bold text-amber-brand tracking-wide hover:opacity-90 transition-opacity">
-          dago.<span class="text-muted/50 inline-block" style="transform:rotate(180deg);vertical-align:-0.17em;">beer</span>
+        <a href="/" class="hover:opacity-80 transition-opacity" aria-label="dago.beer — accueil">
+          <img src="/logo.svg" alt="dago.beer" class="h-8 w-auto" width="128" height="32" />
         </a>
         <ul class="hidden md:flex items-center gap-6 text-sm font-body">
           <li>

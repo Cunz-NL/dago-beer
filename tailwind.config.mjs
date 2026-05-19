@@ -6,7 +6,7 @@ export default {
       colors: {
         bg: '#FFFFFF',
         amber: {
-          brand: '#0F2044',
+          brand: '#344f8e',
         },
         surface: '#EEF2F8',
         muted: '#1E293B',
