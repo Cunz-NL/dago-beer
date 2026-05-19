@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-biere-du-doubs",
+  "nom": "Brasserie Bière du Doubs",
+  "cp": "25360",
+  "ville": "NANCRAY",
+  "region": "franche-comte",
+  "departement": "doubs-25",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/605cac9c96682d158f71956d_578cf78bad7c0_thumb900.jpeg",
+  "website": "http://bierequicoule.canalblog.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

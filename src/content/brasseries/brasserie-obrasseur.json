@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-obrasseur",
+  "nom": "Brasserie ÔBrasseur",
+  "cp": "1630",
+  "ville": "SAINT-GENIS-POUILLY",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3690691738130596229bf_10714043_818320041563450_3500714399530083826_o.jpeg",
+  "website": "http://www.obrasseur.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

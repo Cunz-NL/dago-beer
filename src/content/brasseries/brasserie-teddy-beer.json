@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-teddy-beer",
+  "nom": "Brasserie Teddy Beer",
+  "cp": "71220",
+  "ville": "PRESSY-SOUS-DONDIN",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d03edb5226f06f086431_logo.png",
+  "website": "http://www.brasserieteddybeer.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

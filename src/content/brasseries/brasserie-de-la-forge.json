@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-la-forge",
+  "nom": "Brasserie de la Forge",
+  "cp": "23350",
+  "ville": "LA CELLETTE",
+  "region": "limousin",
+  "departement": "creuse-23",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891acf50215b67ccbf3e4e_48360058_1985906571501763_9103214545723195392_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

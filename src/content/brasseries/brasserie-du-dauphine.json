@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-dauphine",
+  "nom": "Brasserie du Dauphiné",
+  "cp": "38400",
+  "ville": "SAINT-MARTIN-D'HÈRES",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedef135df710fc0462ef_BrasserieDuDauphine_logo.png",
+  "website": "http://mandrin.eu",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

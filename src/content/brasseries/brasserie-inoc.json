@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-inoc",
+  "nom": "Brasserie IN'OC",
+  "cp": "65220",
+  "ville": "LALANNE-TRIE",
+  "region": "midi-pyrenees",
+  "departement": "hautes-pyrenees-65",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eeb107a5e70a8b05b524_97416443_2619591328328316_6339185030962610176_n.png",
+  "website": "http://www.brasserie-inoc.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

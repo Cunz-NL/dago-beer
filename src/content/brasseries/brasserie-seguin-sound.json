@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-seguin-sound",
+  "nom": "Brasserie Seguin Sound",
+  "cp": "92100",
+  "ville": "BOULOGNE-BILLANCOURT",
+  "region": "ile-de-france",
+  "departement": "hauts-de-seine-92",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3684f7f2ffe11ee200279_53203696_2236018746663999_6625210121796452352_n.png",
+  "website": "https://seguinsound.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "enigma",
+  "nom": "Enigma",
+  "aaMin": 13.5,
+  "aaMax": 16.5,
+  "baMin": 4.8,
+  "baMax": 6.4,
+  "usage": "Double usage",
+  "aromes": [
+    "groseille",
+    "fruits-tropicaux",
+    "framboise",
+    "pinot-gris"
+  ]
+}

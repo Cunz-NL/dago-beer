@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-merciere",
+  "nom": "Brasserie La Mercière",
+  "cp": "67310",
+  "ville": "COSSWILLER",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a4a53d32674014cbc7f1_60573537_1750049211807364_5671717091342811136_n.jpeg",
+  "website": "http://www.la-merciere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

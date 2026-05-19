@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-heor",
+  "nom": "Brasserie Heor",
+  "cp": "56760",
+  "ville": "Pénestin",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "description": "Fabrique de bières artisanales à Pénestin, Morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/5fac35a43a046e3cb9e84e62_13510785_517807048405351_2319854168894711690_n.png",
+  "website": "https://www.facebook.com/Brasserie-HEOR-517739225078800",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hapchot",
+  "nom": "Brasserie Hapchot",
+  "cp": "40150",
+  "ville": "SOORTS HOSSEGOR",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca1609ccfac7b9799ea420_hapchot2.jpeg",
+  "website": "https://www.hapchot.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

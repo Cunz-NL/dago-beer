@@ -1,0 +1,21 @@
+{
+  "slug": "merkur",
+  "nom": "Merkur",
+  "description": "Le Merkur, ou Hallertau Merkur comme on l'appelle parfois, est un houblon amérisant à alpha élevé mis au point à l'Institut de recherche sur le houblon de Hull, en Allemagne. Il a été commercialisé en 2000. Il ne s'agit pas seulement d'un potentiel d'amertume ; le Merkur possède une teneur élevée en huile de myrcène et d'humulène, ce qui lui confère une base terreuse et un zeste d'agrumes. Elle est particulièrement efficace aux stades précoces et intermédiaires du brassage. La Merkur est une descendante de la Magnum.",
+  "aaMin": 12,
+  "aaMax": 14,
+  "baMin": 4.5,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "myrcene": "48 - 48.9",
+  "caryophyllene": "8 - 9",
+  "humulene": "29 - 29",
+  "aromes": [
+    "agrumes",
+    "menthole",
+    "sucre",
+    "terreux",
+    "ananas"
+  ]
+}

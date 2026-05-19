@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-3-mats",
+  "nom": "Brasserie 3 Mâts",
+  "cp": "67100",
+  "ville": "STRASBOURG",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090ef124d48a602a21e500c_82951169_1376741862498607_3679293505168998400_n.jpeg",
+  "website": "https://www.brasserie3mats.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

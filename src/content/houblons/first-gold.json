@@ -1,0 +1,23 @@
+{
+  "slug": "first-gold",
+  "nom": "First Gold",
+  "description": "First Gold est une variété Golding, obtenue à partir de Whitbread Golding et d'une variété naine au Wye College en Angleterre. Elle a été commercialisée en 1996 et a la particularité d'être le premier houblon de haie d'Angleterre. Pour les brasseurs, il est utile dans à peu près tous les styles. Exceptionnellement polyvalent, le First Gold peut être ajouté à tout moment de l'ébullition en plus du houblonnage à sec. Il présente un arôme doux de mandarine et d'orange avec une trace de cannelle. Sa saveur est considérée comme florale et fruitée, comme la marmelade et le magnolia.",
+  "aaMin": 5.6,
+  "aaMax": 10,
+  "baMin": 2.3,
+  "baMax": 4.1,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 80",
+  "myrcene": "27 - 28",
+  "caryophyllene": "6 - 7",
+  "humulene": "20 - 20",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "herbeux",
+    "abricot",
+    "fruite",
+    "marmelade",
+    "baies-rouges"
+  ]
+}

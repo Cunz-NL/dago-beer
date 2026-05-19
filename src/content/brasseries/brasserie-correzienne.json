@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-correzienne",
+  "nom": "Brasserie Corrézienne",
+  "cp": "19500",
+  "ville": "MARCILLAC-LA-CROZE",
+  "region": "limousin",
+  "departement": "correze-19",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891b134ac7386e0241395f_16807753_1449147425130418_7462618072869459561_n.png",
+  "website": "http://www.brasserie-correzienne.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

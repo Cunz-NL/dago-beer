@@ -1,0 +1,17 @@
+{
+  "slug": "ultra",
+  "nom": "Ultra",
+  "description": "Traditionnellement, le houblon Ultra n'a été cultivé qu'aux États-Unis et encore, dans des qualités quelque peu limitées. Ils ont été développés dans l'Oregon en 1983, mis sur le marché en 1995 et sont une variété triploïde riche en humulène, ce qui leur confère un arôme et une saveur légèrement épicés. Combinaison de quatre parts de Hallertau, d'une part de Saaz et d'une part d'une variété non nommée, Ultra est bien adaptée aux lagers, pilsners, wheats et bocks, tant pour la finition que pour l'arôme. Ultra présente également un profil d'huile presque identique à celui de la Hallertau Mittelfrüh.",
+  "aaMin": 9.2,
+  "aaMax": 9.7,
+  "baMin": 3.8,
+  "baMax": 4,
+  "usage": "Aromatique",
+  "myrcene": "25 - 35",
+  "caryophyllene": "10 - 15",
+  "humulene": "30 - 30",
+  "aromes": [
+    "epice",
+    "floral"
+  ]
+}

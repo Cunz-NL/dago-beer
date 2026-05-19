@@ -1,0 +1,14 @@
+{
+  "slug": "redsells",
+  "nom": "Redsells",
+  "aaMin": 6,
+  "aaMax": 6,
+  "baMin": 3,
+  "baMax": 3,
+  "usage": "Aromatique",
+  "aromes": [
+    "epice",
+    "fruite",
+    "amertume-b"
+  ]
+}

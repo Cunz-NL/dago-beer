@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dyvois",
+  "nom": "Brasserie d'Yvois",
+  "cp": "8110",
+  "ville": "CARIGNAN",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8d8b64f3a589fde7dc6_38882923_1984138398312711_2782524155038269440_n.png",
+  "website": "https://www.brasseriedyvois.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

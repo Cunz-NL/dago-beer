@@ -1,0 +1,18 @@
+{
+  "slug": "mandarina-bavaria",
+  "nom": "Mandarina Bavaria",
+  "description": "Fille de Cascade (US), Hallertau Blanc et Hüll Melon, Mandarina Bavaria est originaire de Hüll, en Allemagne, et a été mis à la disposition des masses brassicoles en 2012. Elle est utile à la fois pour la saveur et l'arôme et confère des notes légèrement sucrées de mandarine et d'agrumes, en particulier lorsqu'elle est utilisée pour le houblonnage sec.",
+  "aaMin": 7,
+  "aaMax": 10,
+  "baMin": 4,
+  "baMax": 7,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "fruite",
+    "pamplemousse",
+    "mandarine",
+    "citron-vert",
+    "bubble-gum"
+  ]
+}

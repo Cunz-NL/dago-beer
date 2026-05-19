@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bearstavern",
+  "nom": "Brasserie Bears'Tavern",
+  "cp": "80080",
+  "ville": "AMIENS",
+  "region": "picardie",
+  "departement": "somme-80",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5326b6c107765bde073_14040169_1736314753284302_8937341041482322273_n.jpeg",
+  "website": "http://www.bears-tavern.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-morgat",
+  "nom": "Brasserie La Morgat",
+  "cp": "56360",
+  "ville": "BELLE ILE EN       MER",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074d947a4114385ccfcb7_yec-hed-mat.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

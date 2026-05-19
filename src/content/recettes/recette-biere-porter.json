@@ -1,0 +1,19 @@
+{
+  "slug": "recette-biere-porter",
+  "nom": "Recette Bière Porter",
+  "description": "Une Porter bien faite, fait partie des bières les plus savoureuses. L'astuce consiste à trouver ce juste équilibre. Voici donc notre recette ! Profitez !",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/600eeb5618ec9944f7207a4e_cover-porter.jpg",
+  "style": "english-porter",
+  "ibu": 33,
+  "srm": 26.5,
+  "og": 1.047,
+  "fg": 1.008,
+  "abv": 5.08,
+  "batchSize": "20L",
+  "boilTime": "60 min",
+  "intro": "Traditionnellement, une Porter est très sombre - presque noire - et très amère. C'est une bière qui a d'abord été brassée au début des années 1700 et est devenue populaire auprès des \"porters\" qui travaillaient à Londres, d'où son nom. La Porter doit avoir une saveur maltée corsée qui provient de malts torréfiés et de caramel combinés. Une Porter doit également avoir une teneur en alcool raisonnable (densité 1,052 à 1,060). Elle doit avoir une légère saveur d'ester (fruitée), un goût de malt torréfié doux et semblable au café et la saveur chocolatée du Chocolate malt . L'amertume doit être ass",
+  "introHtml": "<p>Traditionnellement, une Porter est très sombre - presque noire - et très amère. C'est une bière qui a d'abord été brassée au début des années 1700 et est devenue populaire auprès des \"porters\" qui travaillaient à Londres, d'où son nom. </p><p>La Porter doit avoir une saveur maltée corsée qui provient de malts torréfiés et de caramel combinés. Une Porter doit également avoir une teneur en alcool raisonnable (densité 1,052 à 1,060). Elle doit avoir une légère saveur d'ester (fruitée), un goût de malt torréfié doux et semblable au café et la saveur chocolatée du <em>Chocolate malt</em>.<br><br>L'amertume doit être assez élevée pour équilibrer (30 à 50 IBU). Notre avis : une Porter bien faite, fait partie des bières les plus savoureuses. L'astuce consiste à trouver ce juste équilibre. Toutes les saveurs doivent contribuer à la bière, aucune saveur ne dominant les autres. N'hésitez pas à mâcher vos malts pour bien comprendre l'âme de cette bière et ses saveurs.</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Malt Pilsner 2RP</td>\n<td>3</td>\n<td>3,86 kg</td>\n<td>83,51%</td>\n</tr>\n<tr>\n<td>Crystal Malt</td>\n<td>120</td>\n<td>500 g</td>\n<td>10,85%</td>\n</tr>\n<tr>\n<td>Chocolate Malt</td>\n<td>800</td>\n<td>260 g</td>\n<td>5,64%</td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Fuggles</td>\n<td>55g</td>\n<td>60 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>3-7%</td>\n</tr>\n<tr>\n<td>Fuggles</td>\n<td>15g</td>\n<td>15 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>3-7%</td>\n</tr>\n</tbody>\n</table></div>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Dry English Ale (White Labs #WLP007)</td>\n<td>1 paquet (40mL)</td>\n</tr>\n</tbody>\n</table></div>"
+}

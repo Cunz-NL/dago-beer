@@ -1,0 +1,19 @@
+{
+  "slug": "southern-promise",
+  "nom": "Southern Promise",
+  "description": "Southern Promise a été sélectionnée spécifiquement pour la région d'Afrique du Sud. Créée à partir de la Southern Brewer et d'un mâle sauvage slovène, elle a été mise au point dans le but de produire une variété qui se développerait bien dans les régions où l'ensoleillement est limité. Elle a une teneur assez élevée en acides alpha et une faible teneur en cohumulone, ce qui lui confère des qualités d'amertume brillantes et douces. Il est largement considéré comme un bon houblon à double usage avec une qualité boisée et terreuse agréable et discrète.",
+  "aaMin": 9.5,
+  "aaMax": 11.5,
+  "baMin": 3.6,
+  "baMax": 5.4,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "myrcene": "22",
+  "caryophyllene": "9",
+  "humulene": "25.5",
+  "aromes": [
+    "floral",
+    "fruite",
+    "terreux"
+  ]
+}

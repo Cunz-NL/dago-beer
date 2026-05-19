@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-minot",
+  "nom": "Brasserie Minot",
+  "cp": "13010",
+  "ville": "MARSEILLE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67be93adb76f48ed86f70_91925137_2907957909281367_3582106259345637376_n.png",
+  "website": "http://www.minot-brasserie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

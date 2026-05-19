@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-blaoblank",
+  "nom": "Brasserie Blaoblank",
+  "cp": "66480",
+  "ville": "LE PERTHUS",
+  "region": "languedoc-roussillon",
+  "departement": "pyrenees-orientales-66",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eebcba0372d46c92b2a9_13416938_1734022293519412_5064022445081146443_o.jpeg",
+  "website": "http://blaoblank.eu",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

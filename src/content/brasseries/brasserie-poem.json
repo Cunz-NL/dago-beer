@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-poem",
+  "nom": "Brasserie Poèm",
+  "cp": "29200",
+  "ville": "BREST",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60707587686d0c195e0d0cd8_98332183_687656755333671_5583533037569703936_n.jpeg",
+  "website": "https://poem-bier.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

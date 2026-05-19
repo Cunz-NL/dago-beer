@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-2-ours-2",
+  "nom": "Brasserie des 2 Ours",
+  "cp": "24300",
+  "ville": "NONTRON",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe471dadcd38b7b06d350_1597636700YbULm.jpeg",
+  "website": "https://www.brasserie-les2ours.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

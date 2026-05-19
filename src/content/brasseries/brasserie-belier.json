@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-belier",
+  "nom": "Brasserie Bélier",
+  "cp": "82330",
+  "ville": "#N/A",
+  "region": "midi-pyrenees",
+  "departement": "tarn-et-garonne-82",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5f7b9612484f89a9def_134678865_2477558432549380_8112481688857306857_n.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

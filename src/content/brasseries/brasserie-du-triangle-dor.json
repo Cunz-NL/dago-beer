@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-triangle-dor",
+  "nom": "Brasserie du Triangle d'Or",
+  "cp": "39800",
+  "ville": "BRAINANS",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca165571e1a27598f02af3_Logo%2Bbrasseriecarre-1920w.jpeg",
+  "website": "http://www.brasserie-du-triangle-dor.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

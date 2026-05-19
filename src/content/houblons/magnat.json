@@ -1,0 +1,14 @@
+{
+  "slug": "magnat",
+  "nom": "Magnat",
+  "aaMin": 13.3,
+  "aaMax": 13.3,
+  "baMin": 3.2,
+  "baMax": 3.2,
+  "usage": "Amérisant",
+  "aromes": [
+    "pin",
+    "boise",
+    "acre"
+  ]
+}

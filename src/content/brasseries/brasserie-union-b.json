@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-union-b",
+  "nom": "Brasserie Union-B",
+  "cp": "76770",
+  "ville": "LE HOULME",
+  "region": "normandie",
+  "departement": "seine-maritime-76",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759ba8176e1d3fe5247093_48182757_2265662133717734_6864788457038807040_n.jpeg",
+  "website": "https://www.union-b.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

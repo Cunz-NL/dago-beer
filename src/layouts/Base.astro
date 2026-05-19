@@ -1,0 +1,165 @@
+---
+import '@/styles/global.css';
+
+export interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  image?: string;
+  type?: 'article' | 'website';
+}
+
+const {
+  title,
+  description,
+  canonical,
+  image = '/og-default.jpg',
+  type = 'website',
+} = Astro.props;
+
+const siteUrl = 'https://www.dago.beer';
+const canonicalUrl = canonical ? canonical : new URL(Astro.url.pathname, siteUrl).href;
+const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
+---
+
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- SEO -->
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Google Site Verification -->
+    <meta name="google-site-verification" content="qG_ao4ETOGlQ3l02tpRy_H9SFrBltr9LXifpkmix6nk" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content="Dago Beer" />
+    <meta property="og:locale" content="fr_FR" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Exo:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7YE8JGR1BX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-7YE8JGR1BX');
+    </script>
+
+    <!-- Google AdSense -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9075412178223250"
+      crossorigin="anonymous"
+    ></script>
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+
+  <body class="bg-bg text-white font-body min-h-screen flex flex-col">
+    <!-- Bandeau légal alcool -->
+    <div class="bg-amber-brand text-bg text-center text-xs py-1.5 px-4 font-body font-medium">
+      L'abus d'alcool est dangereux pour la santé. À consommer avec modération.
+    </div>
+
+    <!-- Navbar -->
+    <header class="bg-surface border-b border-white/10 sticky top-0 z-50">
+      <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
+        <a href="/" class="font-heading text-2xl font-bold text-amber-brand tracking-wide hover:opacity-90 transition-opacity">
+          dago<span class="text-white">.beer</span>
+        </a>
+        <ul class="hidden md:flex items-center gap-6 text-sm font-body">
+          <li>
+            <a href="/biere-sans-alcool" class="text-amber-brand font-semibold hover:opacity-80 transition-opacity">
+              Bière Sans Alcool
+            </a>
+          </li>
+          <li>
+            <a href="/brasserie-biere-artisanale" class="text-muted hover:text-white transition-colors">
+              Brasseries Artisanales
+            </a>
+          </li>
+          <li>
+            <a href="/brassage-amateur" class="text-muted hover:text-white transition-colors">
+              Brassage Amateur
+            </a>
+          </li>
+        </ul>
+        <!-- Mobile menu button placeholder -->
+        <button class="md:hidden text-muted hover:text-white" aria-label="Menu">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </nav>
+    </header>
+
+    <!-- Main content -->
+    <main class="flex-1">
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-surface border-t border-white/10 mt-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+          <div class="md:col-span-1">
+            <a href="/" class="font-heading text-xl font-bold text-amber-brand">dago.beer</a>
+            <p class="mt-2 text-sm text-muted/70 font-body">
+              Le média de référence sur la bière sans alcool et la bière artisanale française.
+            </p>
+          </div>
+          <div>
+            <h3 class="font-heading text-sm font-semibold text-white uppercase tracking-wider mb-4">Bière sans alcool</h3>
+            <ul class="space-y-2 text-sm font-body text-muted/70">
+              <li><a href="/biere-sans-alcool" class="hover:text-amber-brand transition-colors">Guide complet</a></li>
+              <li><a href="/biere-sans-alcool" class="hover:text-amber-brand transition-colors">Meilleures bières 0.0</a></li>
+              <li><a href="/biere-sans-alcool" class="hover:text-amber-brand transition-colors">Bières low-ABV</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-heading text-sm font-semibold text-white uppercase tracking-wider mb-4">Brasseries</h3>
+            <ul class="space-y-2 text-sm font-body text-muted/70">
+              <li><a href="/brasserie-biere-artisanale" class="hover:text-amber-brand transition-colors">Annuaire brasseries</a></li>
+              <li><a href="/brasseries-bieres-artisanales-france/alsace" class="hover:text-amber-brand transition-colors">Brasseries par région</a></li>
+              <li><a href="/brassage-amateur" class="hover:text-amber-brand transition-colors">Brassage amateur</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3 class="font-heading text-sm font-semibold text-white uppercase tracking-wider mb-4">Ressources</h3>
+            <ul class="space-y-2 text-sm font-body text-muted/70">
+              <li><a href="/articles" class="hover:text-amber-brand transition-colors">Articles</a></li>
+              <li><a href="/brassage-amateur" class="hover:text-amber-brand transition-colors">Recettes bière maison</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="mt-8 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
+          <p class="text-xs text-muted/50 font-body">© {new Date().getFullYear()} dago.beer — Tous droits réservés</p>
+          <p class="text-xs text-muted/50 font-body">L'abus d'alcool est dangereux pour la santé. À consommer avec modération.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

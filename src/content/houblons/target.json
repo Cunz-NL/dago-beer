@@ -1,0 +1,21 @@
+{
+  "slug": "target",
+  "nom": "Target",
+  "description": "La variété anglaise à double usage Target est sortie en 1992 et présente une lignée comprenant la Northern Brewer et la Eastwell Golding. Bien qu'elle soit assez proche, la cousine de Target, Challenger, est considérablement différente. La popularité de Target a connu des hauts et des bas au fil des ans, mais elle semble aujourd'hui être populaire auprès des brasseurs artisanaux, étant utilisée dans l'IPA de Green Man Ale à Asheville, en Caroline du Nord, et dans de nombreux brassins artisanaux anglais. Elle donne de bons résultats en Angleterre, mais souffre d'une mauvaise stabilité au stockage.",
+  "aaMin": 8,
+  "aaMax": 13,
+  "baMin": 4.5,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Moyenne : 50",
+  "myrcene": "45 - 55",
+  "caryophyllene": "8 - 10",
+  "humulene": "17 - 17",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "poivre",
+    "amertume-b",
+    "sauge"
+  ]
+}

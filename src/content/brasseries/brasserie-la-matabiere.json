@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-matabiere",
+  "nom": "Brasserie La Matabière",
+  "cp": "31000",
+  "ville": "toulouse-31000",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad353a7c286550912cb82a_13729085_1003350326439381_4041481386286062453_n.jpeg",
+  "website": "http://www.barallel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

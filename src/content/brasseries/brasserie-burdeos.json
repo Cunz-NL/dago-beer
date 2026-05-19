@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-burdeos",
+  "nom": "Brasserie Burdeos",
+  "cp": "33140",
+  "ville": "CADAUJAC",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35197da2af63ea5c1c16_42538011_538440693281926_2434413439335006208_n.jpeg",
+  "website": "http://burdeos.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-potassine",
+  "nom": "Brasserie La Potassine",
+  "cp": "68190",
+  "ville": "UNGERSHEIM",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cf82e3737458491a4717_89532413_103615861267646_5256152535571365888_n.jpeg",
+  "website": "https://www.la-potassine.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

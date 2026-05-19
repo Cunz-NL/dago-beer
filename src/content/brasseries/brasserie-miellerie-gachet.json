@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-miellerie-gachet",
+  "nom": "Brasserie Miellerie Gachet",
+  "cp": "42560",
+  "ville": "CHAZELLES-SUR-LAVIEU",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696af28c3963edf9363c9_2.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

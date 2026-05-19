@@ -1,0 +1,15 @@
+{
+  "slug": "early-bird",
+  "nom": "Early Bird",
+  "description": "Early Bird, ou Amos's Early Bird comme on l'appelait autrefois, est une variété Goldings considérée comme l'un des meilleurs houblons aromatiques d'Angleterre. Bien qu'elle ne soit pas terriblement tolérante aux maladies et au flétrissement, elle est sélectionnée pour son arôme immensément agréable et son houblonnage doux. Découvert en 1887 par Alfred Amos, le propriétaire de la ferme Spring Grove à Wye, Early Bird a été sélectionné à la main dans un champ de Bramlings. Early Bird peut certainement être un houblon de choix lorsqu'un arôme délicat est requis. Commercialement, il a été utilisé par le plus ancien brasseur britannique, Shepherd Neame, dans sa bière Early Bird Spring Hop Ale, légèrement amère et légèrement maltée.",
+  "aaMin": 4.4,
+  "aaMax": 6.7,
+  "baMin": 1.9,
+  "baMax": 2.8,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral"
+  ]
+}

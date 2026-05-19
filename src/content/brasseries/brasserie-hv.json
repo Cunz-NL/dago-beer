@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-hv",
+  "nom": "Brasserie HV",
+  "cp": "19330",
+  "ville": "SAINT-GERMAIN-LES-VERGNES",
+  "region": "limousin",
+  "departement": "correze-19",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bb88c5fd8d0097e357183_logo-HV%2Binfos.jpg",
+  "website": "http://brasserie-hv.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

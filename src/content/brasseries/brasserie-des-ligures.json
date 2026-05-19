@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-ligures",
+  "nom": "Brasserie des Ligures",
+  "cp": "6440",
+  "ville": "LA GRAVE DE PEILLE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608b28635444ff05d8ee7dac_Ligures-light.png",
+  "website": "http://www.brasseriedesligures.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

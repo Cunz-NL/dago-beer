@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bos",
+  "nom": "Brasserie Bos",
+  "cp": "18000",
+  "ville": "BOURGES",
+  "region": "centre",
+  "departement": "cher-18",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60814e1168dffb07b7d08cbc_0.jpeg",
+  "website": "http://www.brasserie-bos.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

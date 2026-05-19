@@ -1,0 +1,43 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+---
+
+<Base
+  title="Politique de confidentialité — Dago Beer"
+  description="Politique de confidentialité de dago.beer : collecte et traitement des données personnelles, cookies, droits des utilisateurs."
+  canonical="https://www.dago.beer/privacy"
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Politique de confidentialité' }]} />
+
+    <h1 class="font-heading text-4xl font-bold text-white mb-8">Politique de confidentialité</h1>
+
+    <div class="prose prose-invert prose-amber max-w-none font-body">
+      <h2>Collecte des données</h2>
+      <p>
+        dago.beer collecte des données de navigation anonymisées via Google Analytics (GA4) dans le but d'améliorer le contenu et l'expérience utilisateur. Ces données incluent les pages visitées, la durée de visite et le pays d'origine.
+      </p>
+
+      <h2>Cookies</h2>
+      <p>
+        Ce site utilise des cookies de mesure d'audience (Google Analytics) et des cookies publicitaires (Google AdSense). Vous pouvez refuser ces cookies en utilisant les paramètres de votre navigateur.
+      </p>
+
+      <h2>Liens affiliés</h2>
+      <p>
+        Certains liens vers des boutiques en ligne (Saveur Bière, Une Petite Mousse, Beer Wulf) sont des liens d'affiliation. Si vous effectuez un achat via ces liens, dago.beer perçoit une commission sans surcoût pour vous.
+      </p>
+
+      <h2>Vos droits</h2>
+      <p>
+        Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Pour exercer ces droits, contactez-nous à : <a href="mailto:contact@dago.beer">contact@dago.beer</a>
+      </p>
+
+      <h2>Hébergement</h2>
+      <p>
+        Ce site est hébergé par Netlify (San Francisco, USA). Les données de navigation transitent par leurs serveurs conformément à leur politique de confidentialité.
+      </p>
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-tuilerie",
+  "nom": "Brasserie La Tuilerie",
+  "cp": "57000",
+  "ville": "METZ",
+  "region": "lorraine",
+  "departement": "moselle-57",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e3499b2792995c7e593_23674985_1612989795427330_7150533591464760443_o.jpeg",
+  "website": "http://www.brasserielatuilerie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

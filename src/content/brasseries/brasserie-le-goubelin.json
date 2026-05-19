@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-goubelin",
+  "nom": "Brasserie Le Goubelin",
+  "cp": "27640",
+  "ville": "BREUILPONT",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607410c756135476ba3de0c8_1843-brasserie-le-goubelin.jpeg",
+  "website": "http://www.bierelegoubelin.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

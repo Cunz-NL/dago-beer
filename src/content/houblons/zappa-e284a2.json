@@ -1,0 +1,18 @@
+{
+  "slug": "zappa-E284A2",
+  "nom": "Zappa ™",
+  "description": "Zappa ™ est une variété indigène, d'Amérique du Nord, Humulus lupulus, neomexicanus, récupérée dans la nature au Nouveau-Mexique. Nommé d'après Frank Zappa, en collaboration avec la famille Zappa, ce houblon est aussi contre-culture que le musicien lui-même.",
+  "aaMin": 6,
+  "aaMax": 8,
+  "baMin": 8,
+  "baMax": 9,
+  "usage": "Aromatique",
+  "cohumulone": "40 - 45",
+  "myrcene": "60 - 70",
+  "caryophyllene": "8 - 9",
+  "humulene": "4 - 5",
+  "aromes": [
+    "fruit-de-la-passion",
+    "mangue"
+  ]
+}

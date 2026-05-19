@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-alchimia-brewing",
+  "nom": "Brasserie Alchimia Brewing",
+  "cp": "7150",
+  "ville": "VAGNAS",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b40d04ea1934c875e4c5_47026163555118_7400265966777016895_n.png",
+  "website": "http://www.bieres-alchimia.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

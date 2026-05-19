@@ -1,0 +1,22 @@
+{
+  "slug": "pilgrim",
+  "nom": "Pilgrim",
+  "description": "Les frères et sœurs de Pilgrim, First Gold et Herald, sont tous deux des variétés de houblon naines, mais pas Pilgrim. Cultivar de Wye College, en Angleterre, Pilgrim présente des qualités d'amertume de premier ordre en plus de caractéristiques d'arôme et de saveur favorables. Il a été mis sur le marché en l'an 2000. Considérée comme ronde et corsée, avec une amertume classique de style anglais, sa saveur et son arôme complexes ont été comparés à des herbes, des agrumes de pamplemousse, des baies et des poires, jusqu'à des épices, du cèdre et du miel. Elle présente une bonne stabilité au stockage, un excellent potentiel de rendement et une résistance au flétrissement et au mildiou. Pilgrim est un véritable houblon polyvalent, idéal dans l'ébullition du début à la fin.",
+  "aaMin": 9,
+  "aaMax": 13,
+  "baMin": 4.3,
+  "baMax": 5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 60",
+  "myrcene": "36",
+  "caryophyllene": "7.3",
+  "humulene": "16.9",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "citron",
+    "fruite",
+    "pamplemousse",
+    "poire"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "nelson-sauvin",
+  "nom": "Nelson Sauvin",
+  "description": "Le nom de Nelson Sauvin est dérivé du raisin de cuve Sauvignon Blanc, dont beaucoup s'accordent à dire qu'il possède des caractéristiques de saveur et d'arôme similaires. Développée en Nouvelle-Zélande et commercialisée en 2000, elle est considérée comme trop sauvage pour de nombreux grands brasseurs. Malgré cela, Nelson Sauvin a trouvé une utilisation importante parmi les brasseries artisanales et les brasseurs amateurs pour ses caractéristiques excentriques. Cette variété a gagné en popularité dans les Pale Ales de style américain mais c'est définitivement un houblon qui nécessite une application prudente et discernée dans le brassage. Le profil d'huile de Nelson Sauvin est complexe et fonctionne heureusement bien comme un houblon d'arôme, un houblon de saveur et aussi pour l'amertume. La faible teneur en cohumulone est responsable de ses qualités d'amertume douce. Elle descend de la Smoothcone.",
+  "aaMin": 12,
+  "aaMax": 14,
+  "baMin": 6,
+  "baMax": 8,
+  "usage": "Double usage",
+  "cohumulone": "22 - 26",
+  "aromes": [
+    "fruite",
+    "amertume-b",
+    "vin-blanc"
+  ]
+}

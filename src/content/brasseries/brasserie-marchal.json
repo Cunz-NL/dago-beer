@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-marchal",
+  "nom": "Brasserie Marchal",
+  "cp": "54370",
+  "ville": "EINVILLE-AU-JARD",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4dfda92ee0fb7dcbae36_img-20191102-135908-largejpg.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

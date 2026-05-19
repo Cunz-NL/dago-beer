@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-caporal",
+  "nom": "Brasserie Caporal",
+  "cp": "31000",
+  "ville": "toulouse-31000",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35355c53f13bbd2b3852_22780530_219265255276976_3881227730832173770_n.png",
+  "website": "http://brasseriecaporal.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

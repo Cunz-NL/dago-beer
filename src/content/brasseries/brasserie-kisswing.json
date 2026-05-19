@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-kisswing",
+  "nom": "Brasserie Kiss'Wing",
+  "cp": "34290",
+  "ville": "MONTBLANC",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca13912b0baa13c9b9df1b_maxresdefault.jpeg",
+  "website": "http://www.kisswing.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

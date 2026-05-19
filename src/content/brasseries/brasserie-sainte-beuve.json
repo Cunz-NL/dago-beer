@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-sainte-beuve",
+  "nom": "Brasserie Sainte Beuve",
+  "cp": "76390",
+  "ville": "LE CAULE-SAINTE-BEUVE",
+  "region": "normandie",
+  "departement": "seine-maritime-76",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60741121612df9c50d9a6b32_90534484_2839544922801940_8998722531191947264_n.jpeg",
+  "website": "http://www.brasseriesaintebeuve.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

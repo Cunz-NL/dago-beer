@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-suds",
+  "nom": "Brasserie Des Suds",
+  "cp": "13011",
+  "ville": "MARSEILLE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "bouches-du-rhone-13",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67bd256c2eb1eda19e58f_le-sud.jpeg",
+  "website": "http://www.brasseriedelaplaine.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

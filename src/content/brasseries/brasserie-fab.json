@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-fab",
+  "nom": "Brasserie FAB",
+  "cp": "24600",
+  "ville": "SIORAC-DE-RIBÉRAC",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe464cbf9db60d78393c7_39001846_309431759826409_591489624556175360_n.png",
+  "website": "http://www.fab-perigord.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

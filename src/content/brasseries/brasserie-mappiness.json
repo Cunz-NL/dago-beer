@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-mappiness",
+  "nom": "Brasserie Mappiness",
+  "cp": "94100",
+  "ville": "SAINT-MAUR-DES-FOSSÉS",
+  "region": "ile-de-france",
+  "departement": "val-de-marne-94",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368a7a577a5e8ea0b6add_62247133_1141029892735125_5906423052475826176_n.png",
+  "website": "http://www.mappinessbeer.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-mira",
+  "nom": "Brasserie Mira",
+  "cp": "33260",
+  "ville": "LA TESTE-DE-BUCH",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad3521990e4ce1f289714e_80072955_2147017755593583_6076893551449341952_n.jpeg",
+  "website": "http://brasseriemira.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "southern-star",
+  "nom": "Southern Star",
+  "description": "Commercialisée en 2001, la Southern Star a été développée en Afrique du Sud environ 10 ans après l'Outeniqua et la Southern Promise. Comme ses deux prédécesseurs, elle est également considérée comme une variété à jour neutre, ce qui signifie qu'elle peut être cultivée dans des endroits où la lumière du jour est réduite. Elle est principalement utilisée pour l'amertume, mais présente également une saveur épicée et piquante et un certain arôme.",
+  "aaMin": 12,
+  "aaMax": 15.5,
+  "baMin": 4.8,
+  "baMax": 5.2,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 60",
+  "myrcene": "38.9",
+  "caryophyllene": "14.6",
+  "humulene": "21.9",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "herbeux",
+    "abricot",
+    "fruite",
+    "pamplemousse",
+    "gingembre",
+    "persil"
+  ]
+}

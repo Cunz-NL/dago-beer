@@ -1,0 +1,18 @@
+{
+  "slug": "belgian-saaz",
+  "nom": "Belgian Saaz",
+  "description": "Anciennement connu sous le nom de Saaz belge ou Saaz B, Motueka est un houblon néo-zélandais de premier ordre. Développé par HortResearch, ce triploïde a été sélectionné à partir de Saaz et d'une souche néo-zélandaise non nommée et se prête bien aux Lagers, Pilsners et Belgian Ales. C'est un excellent houblon à double usage, qui dégage un arôme fruité excitant avec des notes rafraîchissantes de fruits tropicaux et d'agrumes. Il peut être utilisé à n'importe quel moment du processus de brassage et fonctionne bien dans les bières sucrées, maltées et fruitées. Le brasseur Jack de la brasserie Massachusetts utilise Motueka dans une Maibock et la brasserie Sierra Nevada a également lancé sa bière au houblon frais Southern Hemisphere Harvest en avril 2014 en utilisant Motueka, ainsi que Southern Cross, comme houblon de finition.",
+  "aaMin": 6.5,
+  "aaMax": 7.5,
+  "baMin": 5,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "myrcene": "0.00",
+  "humulene": "0.00",
+  "aromes": [
+    "agrumes",
+    "citron",
+    "fruits-tropicaux",
+    "citron-vert"
+  ]
+}

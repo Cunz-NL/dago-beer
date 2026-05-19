@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-melusine",
+  "nom": "Brasserie Mélusine",
+  "cp": "85500",
+  "ville": "CHANVERRIE",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05f3cc1e801fd62bbf4c_51984883_2476183052409997_8939134966676062208_n.jpeg",
+  "website": "http://www.brasserie-melusine.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

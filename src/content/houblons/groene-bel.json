@@ -1,0 +1,11 @@
+{
+  "slug": "groene-bel",
+  "nom": "Groene Bel",
+  "description": "Le Groene Bel, ou Green Belle comme on l'appelle, est un houblon belge disparu depuis longtemps, probablement issu d'une sélection clonale du houblon indigène d'Alost à la fin du XIXe siècle ou au début du XXe siècle. Après la Seconde Guerre mondiale, le Groene Bel a pratiquement disparu de la production de houblon en Belgique après avoir été remplacé par les favoris tchèques et allemands, le Saaz et le Hallertau. Bien que le Groene Bel ne soit plus produit commercialement, il a été utilisé pour la sélection de houblons aromatiques à Zalec, en Slovénie, dans les années 1970. Sa forte teneur en humulène lui confère un arôme agréable et continental.",
+  "aaMin": 3.8,
+  "aaMax": 4,
+  "usage": "Aromatique",
+  "aromes": [
+    "sueur-sui-generis"
+  ]
+}

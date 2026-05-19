@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-anges",
+  "nom": "Brasserie des Anges",
+  "cp": "19450",
+  "ville": "CHAMBOULIVE",
+  "region": "limousin",
+  "departement": "correze-19",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891b0e2be72348f5643f8c_24993455_920956211389576_5274285961499264797_n.jpeg",
+  "website": "http://brasseriedesanges.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

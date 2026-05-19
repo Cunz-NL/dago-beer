@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-leffrontee",
+  "nom": "Brasserie L'Effrontée",
+  "cp": "24440",
+  "ville": "Beaumont-du-Périgord",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "description": "Créée en 2020 à Beaumont-du-Périgord",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608c0e169fbf273d2bcbb716_Plan%20de%20travail%2020%20bis.jpg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

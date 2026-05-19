@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-bec",
+  "nom": "Brasserie du Bec",
+  "cp": "31000",
+  "ville": "toulouse-31000",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad357f1996650aa5077ba5_21751678_1459896760752866_3539405524220419229_n.png",
+  "website": "https://www.barlautruche.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

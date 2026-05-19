@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-babouins-jurassiens",
+  "nom": "Brasserie des Babouins Jurassiens",
+  "cp": "39800",
+  "ville": "BRAINANS",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca16013b12607f4d9a5ebd_brew_28100.jpeg",
+  "website": "http://www.thebaboon.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

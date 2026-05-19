@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-damblise",
+  "nom": "Brasserie d'Amblise",
+  "cp": "59154",
+  "ville": "CRESPIN",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6a058c2eca1821efa6f3_19554223_1786695564976803_5799848683137289394_n.jpeg",
+  "website": "http://www.brasseriedamblise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

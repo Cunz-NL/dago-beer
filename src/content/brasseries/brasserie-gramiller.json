@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-gramiller",
+  "nom": "Brasserie Gramiller",
+  "cp": "84110",
+  "ville": "RASTEAU",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "vaucluse-84",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6094e2dccfa57dcf4c5d796f_gasthof-gramiller.jpeg",
+  "website": "http://www.domainegramiller.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "delta",
+  "nom": "Delta",
+  "description": "Apparue en 2009, la variété d'arôme Delta est relativement nouvelle dans le quartier. Il s'agit d'un houblon de type Fuggle, semblable à un Willamette, mais avec un coup de fouet. Il présente un arôme doux et agréablement épicé, avec des notes de melon et d'agrumes. Delta est considéré comme idéal pour la finition des ale. Hopsteiner a d'abord proposé la Delta à la brasserie Harpoon de Boston comme croisement entre une Fuggle de style anglais et un mâle dérivé de la Cascade. Harpoon l'a brassée pour en faire une ESB anglaise à un seul houblon. La Delta a une saveur beaucoup plus prononcée que sa parente Fuggle - un véritable punch américain.",
+  "aaMin": 5.5,
+  "aaMax": 7,
+  "baMin": 6.5,
+  "baMax": 7,
+  "usage": "Double usage",
+  "stabilite": "Excellente : 85",
+  "cohumulone": "22 - 24",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "terreux",
+    "gingembre"
+  ]
+}

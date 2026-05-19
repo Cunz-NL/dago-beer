@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cheval",
+  "nom": "Brasserie Cheval",
+  "cp": "54200",
+  "ville": "CHAUDENAY-SUR-MOSELLE",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4de4dca3bd5b179612eb_tumblr_nlrwkdlYiH1uq7gmwo1_1280.jpeg",
+  "website": "http://www.brasseriecheval.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

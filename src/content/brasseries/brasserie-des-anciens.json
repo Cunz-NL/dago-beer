@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-des-anciens",
+  "nom": "Brasserie des Anciens",
+  "cp": "39570",
+  "ville": "PUBLY",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca164e298c0788443382fb_l-ancien-trocadero-restaurant-at-place-du-trocadero-paris-france-ABNT3D.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

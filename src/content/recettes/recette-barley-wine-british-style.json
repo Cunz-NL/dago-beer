@@ -1,0 +1,17 @@
+{
+  "slug": "recette-barley-wine-british-style",
+  "nom": "Recette Barley Wine (British Style)",
+  "description": "La Barleywine est une bière qui pousse chaque étape du brassage à son extrême. Voici une recette qui devrait vous plaire !",
+  "ibu": 58,
+  "srm": 30,
+  "og": 1.082,
+  "fg": 1.03,
+  "abv": 10.8,
+  "batchSize": "10L",
+  "boilTime": "120'",
+  "intro": "Une Barley Wine (vin d'orge littérallement) atteint généralement un titre alcoométrique de 6 à 12% en volume et est brassé à des densités aussi élevées que 1,120; égal à 320g / L de sucres. L'utilisation du mot vin est due à son titre alcoométrique similaire à celui d'un vin; mais comme elle est faite de céréales plutôt que de fruits, c'est une bière. La Barleywine est une bière qui pousse chaque étape du brassage à son extrême. Voici une recette qui devrait vous plaire !",
+  "introHtml": "<p>Une Barley Wine (vin d'orge littérallement) atteint généralement un titre alcoométrique de 6 à 12% en volume et est brassé à des densités aussi élevées que 1,120; égal à 320g / L de sucres. L'utilisation du mot vin est due à son titre alcoométrique similaire à celui d'un vin; mais comme elle est faite de céréales plutôt que de fruits, c'est une bière.</p><p>La Barleywine est une bière qui pousse chaque étape du brassage à son extrême. Voici une recette qui devrait vous plaire !</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Pale Ale</td>\n<td>7</td>\n<td>5 kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Caramunich</td>\n<td>150</td>\n<td>200g</td>\n<td></td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Hallertau Blanc</td>\n<td>20g</td>\n<td>60 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>8.9%</td>\n</tr>\n<tr>\n<td>Crystal</td>\n<td>15g</td>\n<td>10 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>4.9%</td>\n</tr>\n</tbody>\n</table></div>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>COMMENTAIRE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Wyeast 1728 Scottish Ale</td>\n<td>1 paquet (40mL)</td>\n<td></td>\n</tr>\n</tbody>\n</table></div><p>‍</p>"
+}

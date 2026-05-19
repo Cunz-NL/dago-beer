@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ab-biere-la-margoulette",
+  "nom": "Brasserie AB Bière (La Margoulette)",
+  "cp": "8300",
+  "ville": "BERGNICOURT",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b900866f3529e29931c2_11872251_1611052552515412_8862948737459278013_o.jpeg",
+  "website": "http://www.bieres-la-margoulette.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

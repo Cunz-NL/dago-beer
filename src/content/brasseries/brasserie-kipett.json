@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-kipett",
+  "nom": "Brasserie Kipett",
+  "cp": "64240",
+  "ville": "BRISCOUS",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc37c8890526d9c84cfd5_26220312_1417059545071755_1746441153506538662_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

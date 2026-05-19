@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-boumr",
+  "nom": "Brasserie Boum'R",
+  "cp": "68920",
+  "ville": "WETTOLSHEIM",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cfe679241e947a5f5fd9_14409834_1143090772452133_1645010114837056197_o.jpeg",
+  "website": "https://www.boum-r.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

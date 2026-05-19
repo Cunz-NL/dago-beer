@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-pilat",
+  "nom": "Brasserie du Pilat",
+  "cp": "42220",
+  "ville": "SAINT-JULIEN-MOLIN-MOLETTE",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696c6eb131ec2f49289bf_42059300_1246781435476206_5308363382087221248_n.jpeg",
+  "website": "http://www.brasseriedupilat.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

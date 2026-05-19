@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-flamine",
+  "nom": "Brasserie Flamine",
+  "cp": "59151",
+  "ville": "ARLEUX",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608a6914308e7cc18516d09e_325887_357402774284397_331355606_o.jpeg",
+  "website": "https://brasserielaflamine.business.site",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

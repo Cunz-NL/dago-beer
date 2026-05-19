@@ -1,0 +1,15 @@
+{
+  "slug": "olympic",
+  "nom": "Olympic",
+  "description": "L'Olympic a une lignée complexe. Bien qu'il soit principalement dérivé génétiquement du Brewer's Gold (3/4), il doit également son existence au Fuggle, au East Kent Golding, à un plant dit \"bavarois\" et à une cinquième variété inconnue. En conséquence, l'Olympic est un houblon épicé et chargé d'agrumes. Il est cultivé principalement dans l'État de Washington et a été commercialisé au milieu des années 1980. Il a connu une croissance solide dès son lancement, atteignant environ un pour cent de la production totale de houblon aux États-Unis en 1986. Cependant, en 1997, ce chiffre avait diminué de moitié.",
+  "aaMin": 10.6,
+  "aaMax": 13.8,
+  "baMin": 3.8,
+  "baMax": 6.1,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "aromes": [
+    "agrumes",
+    "epice"
+  ]
+}

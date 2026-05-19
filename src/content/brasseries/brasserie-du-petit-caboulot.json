@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-petit-caboulot",
+  "nom": "Brasserie du Petit Caboulot",
+  "cp": "34400",
+  "ville": "SAINT-CHRISTOL",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bb5d57ec61088e12662b9_LOGO%20Noir_sans%20fond.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

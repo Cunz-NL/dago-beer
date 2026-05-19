@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lintemporelle",
+  "nom": "Brasserie L'Intemporelle",
+  "cp": "62217",
+  "ville": "WAILLY",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04da46319e686b87341c_26992703_916123858562976_2568451194292801650_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

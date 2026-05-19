@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bohemienne",
+  "nom": "Brasserie La Bohémienne",
+  "cp": "49370",
+  "ville": "VAL D'ERDRE-AUXENCE",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607ece2e7399266e9a2da3ed_42186127_326883537876571_3660681315931389952_n.jpeg",
+  "website": "http://brasserielabohemienne.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-moustous",
+  "nom": "Brasserie Moustous",
+  "cp": "33690",
+  "ville": "COURS-LES-BAINS",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35596164557fb14b001b_179279723_3536019136526963_158376610762905358_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

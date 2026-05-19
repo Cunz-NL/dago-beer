@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-mousse-du-guiers",
+  "nom": "Brasserie La Mousse du Guiers",
+  "cp": "73240",
+  "ville": "SAINT-GENIX-LES-VILLAGES",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b769a878320405cfe8a7_mockup.jpeg",
+  "website": "http://www.la-mousse-du-guiers.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

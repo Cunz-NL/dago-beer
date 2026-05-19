@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-galibier",
+  "nom": "Brasserie Galibier",
+  "cp": "73450",
+  "ville": "VALLOIRE",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b738a878321efccfa720_sMj8JL36_400x400.jpeg",
+  "website": "http://www.biere-galibier.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

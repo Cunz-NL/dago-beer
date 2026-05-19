@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-calade",
+  "nom": "Brasserie La Calade",
+  "cp": "30700",
+  "ville": "SANILHAC-SAGRIÈS",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35313365c71d62463893_calade-rooftop-restaurant.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-motueka",
+  "nom": "Brasserie Motueka",
+  "cp": "43700",
+  "ville": "Brives Charensac",
+  "region": "auvergne",
+  "departement": "haute-loire-43",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60852de97608fb9ff695f523_44199730_281504379138779_7558746908831776768_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

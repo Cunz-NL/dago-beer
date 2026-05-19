@@ -1,0 +1,14 @@
+{
+  "slug": "archer-C2AE",
+  "nom": "Archer ®",
+  "aaMin": 4,
+  "aaMax": 6,
+  "baMin": 2,
+  "baMax": 3,
+  "usage": "Double usage",
+  "aromes": [
+    "floral",
+    "peche",
+    "citron-vert"
+  ]
+}

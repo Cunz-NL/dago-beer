@@ -1,0 +1,12 @@
+{
+  "slug": "apolon",
+  "nom": "Apolon",
+  "description": "Le houblon Apolon est difficile à trouver et sa culture a diminué depuis que son statut de Super Styrian a été remis en question. Introduit à l'origine comme Super Styrian dans les années 1970, il a depuis été reclassé comme hybride slovène et est un croisement entre le Brewer's Gold et un mâle sauvage yougoslave. L'Apolon peut être utilisé à la fois comme un houblon aromatique et amer et est considéré comme excellent pour les deux, bien que traditionnellement il était destiné uniquement à l'amertume. Il n'est pas limité et est commercialement viable, mais malgré cela, il n'est pas encore souvent employé par les brasseurs commerciaux. Ahil et Atlas sont tous deux frères et sœurs d'Apolon.",
+  "aaMin": 10,
+  "aaMax": 12,
+  "baMin": 3.5,
+  "baMax": 4,
+  "usage": "Double usage",
+  "stabilite": "Moyenne : 55",
+  "aromes": []
+}

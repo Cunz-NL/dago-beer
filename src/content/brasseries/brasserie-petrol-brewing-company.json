@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-petrol-brewing-company",
+  "nom": "Brasserie Petrol Brewing Company",
+  "cp": "75011",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d103d3f24f86bc9ff90b_Petrol-Brewing-Company-Fine-tuned-Parisian-beer-bottles.jpeg",
+  "website": "https://fauvebiere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

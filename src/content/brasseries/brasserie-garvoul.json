@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-garvoul",
+  "nom": "Brasserie Garvoul",
+  "cp": "17130",
+  "ville": "ROUFFIGNAC",
+  "region": "poitou-charentes",
+  "departement": "charente-maritime-17",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76c45f8d9d6e68f736f87_19399270_1379324722115301_678342096523051121_n.png",
+  "website": "https://www.garvoul.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

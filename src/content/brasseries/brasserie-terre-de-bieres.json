@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-terre-de-bieres",
+  "nom": "Brasserie Terre de Bières",
+  "cp": "69400",
+  "ville": "VILLEFRANCHE-SUR-SAÔNE",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6298ca2ce693ab30da356b21_Logo%20TdB%20couleur%20.png",
+  "website": "http://www.terredebieres.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

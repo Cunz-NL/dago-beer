@@ -1,0 +1,19 @@
+{
+  "slug": "liberty",
+  "nom": "Liberty",
+  "description": "Née en 1983, Liberty est une demi-sœur de Crystal, Ultra et Mt. Hood. Elle est issue de Hallertau Mittelfrüher et d'un mâle aromatique allemand résistant aux maladies. Le rendement de Liberty est faible mais elle jouit toujours d'une grande popularité, surtout aux États-Unis. C'est une variété génétiquement stérile qui ne convient pas à la sélection. La brasserie Harvest Moon utilise généreusement la Liberty dans sa Full Moon Pale Ale avec la Cascade. Compte tenu de son héritage, il n'est pas étonnant que le Liberty soit assimilé de manière caractéristique au houblon noble. Les brasseurs doivent être informés qu'en raison de la très mauvaise stabilité de stockage du Liberty, il doit être obtenu et utilisé frais dans la mesure du possible.",
+  "aaMin": 3.5,
+  "aaMax": 6.5,
+  "baMin": 3,
+  "baMax": 4,
+  "usage": "Aromatique",
+  "myrcene": "24 - 32",
+  "caryophyllene": "9 - 12",
+  "humulene": "30 - 30",
+  "aromes": [
+    "citron",
+    "epice",
+    "floral",
+    "delicat"
+  ]
+}

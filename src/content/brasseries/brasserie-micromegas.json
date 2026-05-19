@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-micromegas",
+  "nom": "Brasserie Micromégas",
+  "cp": "40500",
+  "ville": "SAINT-SEVER",
+  "region": "aquitaine",
+  "departement": "landes-40",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca1682bce8e93142aa46f4_micromega-map-1.jpeg",
+  "website": "https://bieremicromegas.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

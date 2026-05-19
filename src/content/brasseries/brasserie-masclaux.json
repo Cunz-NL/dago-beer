@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-masclaux",
+  "nom": "Brasserie Masclaux",
+  "cp": "51220",
+  "ville": "BERMÉRICOURT",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608b2546e7bc4ced5a98c18b_affiche%20bermush2.jpg",
+  "website": "http://www.1625.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

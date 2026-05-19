@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-arrobio",
+  "nom": "Brasserie Arrobio",
+  "cp": "64250",
+  "ville": "ESPELETTE",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc3865b92271eccb86a8b_38afed3a4636691ae38ead963ec9c928_brasserie-artisanale-arrobio_espelette-arrobio.jpeg",
+  "website": "http://arrobio.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

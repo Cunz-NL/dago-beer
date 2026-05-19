@@ -1,0 +1,18 @@
+{
+  "slug": "polaris",
+  "nom": "Polaris",
+  "description": "Nouveau venu sur la scène, le Hop Research Institute de Hüll, en Allemagne, a lancé Polaris en 2012. Avec un taux d'acide alpha incroyablement élevé, Polaris présente des éléments d'épices, de pin et de menthe intense, ainsi qu'un arôme fruité et floral fort mais agréable.",
+  "aaMin": 18,
+  "aaMax": 23,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "ananas",
+    "fruits-tropicaux",
+    "menthole",
+    "bergamote",
+    "eucalyptus"
+  ]
+}

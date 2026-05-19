@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-canaux",
+  "nom": "Brasserie des Canaux",
+  "cp": "30540",
+  "ville": "MILHAUD",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca12c385f334854424735d_46144296_284947865481485_3781651380515635200_n.png",
+  "website": "https://brasseriedescanaux.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

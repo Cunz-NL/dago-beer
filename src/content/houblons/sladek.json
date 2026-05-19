@@ -1,0 +1,15 @@
+{
+  "slug": "sladek",
+  "nom": "Sladek",
+  "description": "Sladek, qui signifie \"brasseur\", est une variété aromatique à haut rendement et un croisement entre Saaz et Northern Brewer. Enregistrée à l'origine sous le nom de VUCH 71 en 1987, elle a été renommée Sladek en 1994. La Sladek présente un arôme classique de houblon surmontant un profil de saveur fruité avec des essences de pêche, de fruit de la passion et de pamplemousse.",
+  "aaMin": 4.5,
+  "aaMax": 8.5,
+  "baMin": 5,
+  "baMax": 9,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "fruit-de-la-passion",
+    "fruite"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dc-beer-factory",
+  "nom": "Brasserie DC Beer Factory",
+  "cp": "64260",
+  "ville": "ARUDY",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090250284293b368b64e9ff_37520391_2096856217223054_4520776198019612672_n.png",
+  "website": "http://www.dcbeerfactory.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-lhermine",
+  "nom": "Brasserie de l'Hermine",
+  "cp": "56680",
+  "ville": "PLOUHINEC",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607075012035627ddbd0f12f_21056038_1281476241981865_5645877819986178950_o.jpeg",
+  "website": "http://www.brasseriedelhermine.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

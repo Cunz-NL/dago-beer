@@ -1,0 +1,13 @@
+{
+  "slug": "compoz",
+  "nom": "COMPoZ",
+  "cp": "35520",
+  "ville": "La Meziere",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "description": "Bières artisanales extra-ordinaires qui se dégustent en mangeant",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/64732622821a39916e520d90_Artboard%207.png",
+  "website": "https://compoz.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

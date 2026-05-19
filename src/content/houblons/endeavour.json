@@ -1,0 +1,16 @@
+{
+  "slug": "endeavour",
+  "nom": "Endeavour",
+  "description": "Plus doux que le cascade, l'amertume laissée est plus « ronde et fruitée »",
+  "aaMin": 8,
+  "aaMax": 10.5,
+  "baMin": 3.8,
+  "baMax": 5.3,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "framboise",
+    "cassis"
+  ]
+}

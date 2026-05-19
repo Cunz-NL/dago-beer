@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-alchimie",
+  "nom": "Brasserie Alchimie",
+  "cp": "74210",
+  "ville": "Faverges",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "description": "Alchimie, ce n’est pas seulement une bière artisanale, c’est aussi un lieu, une amitié, des valeurs communes de partage et de convivialité, d’attachement au produit et à sa qualité mais surtout une volonté de privilégier le circuit court.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6078770bda19475b3dafeb4c_logo_micro.svg",
+  "website": "https://www.bierealchimie.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

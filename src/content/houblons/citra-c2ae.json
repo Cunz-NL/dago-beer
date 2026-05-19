@@ -1,0 +1,19 @@
+{
+  "slug": "citra-C2AE",
+  "nom": "Citra ®",
+  "description": "Le houblon aromatique américain Citra a été créé par John I. Haas, Inc. et la coentreprise Select Botanicals Group, la Hop Breeding Company. Il a été lancé dans le monde de la brasserie en 2008. C'est aujourd'hui l'un des houblons aromatiques à fort impact les plus convoités aux États-Unis, notamment par les brasseurs artisanaux, et il peut se targuer d'une lignée complexe comprenant des variétés comme Hallertau Mittelfrüh (père), Tettnanger (États-Unis), Brewer's Gold et East Kent Golding. C'est à Gene Probasco que l'on doit la première sélection de Citra en 1990. Après avoir testé la nouvelle variété avec les brasseries artisanales emblématiques Deschutes, Sierra Nevada et d'autres, les surfaces commerciales ont été considérablement étendues jusqu'à son lancement officiel. La Citra, comme son nom l'indique, a un fort profil d'agrume. Cela est dû en grande partie à sa teneur très élevée en myrcène. Elle possède un profil aromatique extraordinaire de pamplemousse, de citron vert et de fruits tropicaux, mais malgré ses alphas élevés, les brasseurs mettent souvent en garde contre son utilisation pour l'amertume, qui est considérée par certains comme dure et indésirable.",
+  "aaMin": 11,
+  "aaMax": 13,
+  "baMin": 3.5,
+  "baMax": 4.5,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 75",
+  "aromes": [
+    "agrumes",
+    "litchi",
+    "resineux",
+    "amertume-b",
+    "citron-vert",
+    "groseille"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-terrabiere",
+  "nom": "Brasserie Terrabière",
+  "cp": "95170",
+  "ville": "DEUIL-LA-BARRE",
+  "region": "ile-de-france",
+  "departement": "val-doise-95",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368b7b9015fec6a07dd13_18056959_1384787644911208_6800346102298367623_n.jpeg",
+  "website": "http://www.brasserie-terrabiere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "nugget",
+  "nom": "Nugget",
+  "description": "La super teneur en acide alpha de la Nugget, son faible pourcentage de bêta et de cohumulone lui confèrent une excellente amertume, très appréciée dans les IPA, les Impériales et autres brassins super houblonnés. Sa forte teneur en myrcène lui confère également un arôme vert et herbacé. Fille de la Brewer's Gold et mère de la Millennium, la popularité de la Nugget s'est rapidement accrue. Commercialisée en 1983, elle produisait en 1987 14% du houblon du Nord-Ouest Pacifique.",
+  "aaMin": 11,
+  "aaMax": 16,
+  "baMin": 4,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 75",
+  "myrcene": "48 - 59",
+  "caryophyllene": "7 - 10",
+  "humulene": "12 - 12",
+  "aromes": [
+    "floral",
+    "epice",
+    "herbeux",
+    "resineux",
+    "pin",
+    "terreux",
+    "gingembre"
+  ]
+}

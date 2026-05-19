@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-lescaut",
+  "nom": "Brasserie de l'Escaut",
+  "cp": "2420",
+  "ville": "VENDHUILE",
+  "region": "picardie",
+  "departement": "aisne-02",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a369675856c766866cc6c5_3672-la-vandale-siegfried-mont-st-martin.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

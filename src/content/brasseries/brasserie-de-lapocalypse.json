@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-lapocalypse",
+  "nom": "Brasserie de l'Apocalypse",
+  "cp": "27620",
+  "ville": "BOIS-JÉRÔME-SAINT-OUEN",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607410c1cf02fb1800111a2a_62025685_2383464615026815_3818027923856687104_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

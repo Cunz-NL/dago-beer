@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-heor-4",
+  "nom": "Brasserie Heor",
+  "cp": "56760",
+  "ville": "PÉNESTIN",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6070750808bd2f6d7cd57c81_13510785_517807048405351_2319854168894711690_n.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

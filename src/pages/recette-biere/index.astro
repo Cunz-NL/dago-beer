@@ -1,0 +1,71 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const recettes = (await getCollection('recettes')).sort((a, b) =>
+  a.data.nom.localeCompare(b.data.nom, 'fr')
+);
+---
+
+<Base
+  title="Recettes de bière maison — Brassage amateur — Dago Beer"
+  description={`${recettes.length} recettes de bière artisanale pour brasseurs amateurs. IPA, Stout, Blonde, Ambrée... Toutes les fiches techniques avec composition malt, houblon et levure.`}
+  canonical="https://www.dago.beer/recette-biere"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brassage amateur', href: '/brassage-amateur' },
+        { label: 'Recettes' },
+      ]}
+    />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Recettes de bière <span class="text-amber-brand">maison</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        {recettes.length} recettes pour brasseurs amateurs — fiches techniques complètes avec IBU, SRM, ABV, composition malt/houblon/levure.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      {recettes.map((r) => (
+        <a
+          href={`/recette-biere/${r.data.slug}`}
+          class="bg-surface border border-white/10 rounded-lg p-5 hover:border-amber-brand/50 transition-colors group"
+        >
+          {r.data.image && (
+            <div class="aspect-video rounded-md overflow-hidden mb-4">
+              <img src={r.data.image} alt={r.data.nom} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" loading="lazy" />
+            </div>
+          )}
+          <h2 class="font-heading text-lg font-semibold text-white group-hover:text-amber-brand transition-colors line-clamp-2 mb-2">
+            {r.data.nom}
+          </h2>
+          {r.data.description && (
+            <p class="font-body text-sm text-muted/60 line-clamp-2 mb-3">{r.data.description}</p>
+          )}
+          <div class="flex flex-wrap gap-2 text-xs font-body">
+            {r.data.abv !== undefined && (
+              <span class="px-2 py-0.5 rounded-full bg-amber-brand/20 text-amber-brand border border-amber-brand/30">
+                {r.data.abv.toFixed(1)}% ABV
+              </span>
+            )}
+            {r.data.ibu !== undefined && (
+              <span class="px-2 py-0.5 rounded-full bg-white/5 text-muted/60 border border-white/10">
+                {r.data.ibu} IBU
+              </span>
+            )}
+            {r.data.style && (
+              <span class="px-2 py-0.5 rounded-full bg-white/5 text-muted/60 border border-white/10">
+                {r.data.style}
+              </span>
+            )}
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

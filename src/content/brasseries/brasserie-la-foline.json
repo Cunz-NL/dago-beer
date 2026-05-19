@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-foline",
+  "nom": "Brasserie La Foline",
+  "cp": "71550",
+  "ville": "#N/A",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d057a32adaeeab369e9d_23017476296_f4be58a6ac_b.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

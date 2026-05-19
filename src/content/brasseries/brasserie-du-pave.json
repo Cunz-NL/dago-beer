@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-pave",
+  "nom": "Brasserie du Pavé",
+  "cp": "59710",
+  "ville": "AVELIN",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf400ea82215043460912_logo_small.png",
+  "website": "http://www.brasserie-du-pave.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

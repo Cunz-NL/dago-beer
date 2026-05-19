@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-quatre-fees",
+  "nom": "Brasserie des Quatre Fées",
+  "cp": "28170",
+  "ville": "ARDELLES",
+  "region": "centre",
+  "departement": "eure-et-loir-28",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad359ee62fbd69ed547225_26113971_330120647472987_6930117132287338475_n.png",
+  "website": "https://www.quatrefees.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

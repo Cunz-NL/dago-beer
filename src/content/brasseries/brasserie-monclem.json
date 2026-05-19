@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-monclem",
+  "nom": "Brasserie Monclem",
+  "cp": "89100",
+  "ville": "MALAY-LE-GRAND",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a59648f01a234608e678_117420194_1197792643931630_5919887504886123639_n.jpeg",
+  "website": "http://brasseriemonclem.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

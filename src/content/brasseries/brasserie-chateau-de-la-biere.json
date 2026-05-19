@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-chateau-de-la-biere",
+  "nom": "Brasserie Château de la Bière",
+  "cp": "61700",
+  "ville": "LONLAY-L'ABBAYE",
+  "region": "normandie",
+  "departement": "orne-61",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6074098d7922460ab3f0d583_11794143_836414366465653_6270962928829252909_o.jpeg",
+  "website": "http://chateau-de-la-biere.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

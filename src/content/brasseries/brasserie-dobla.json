@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-dobla",
+  "nom": "Brasserie Dobla",
+  "cp": "24410",
+  "ville": "SERVANCHES",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe442f23512b7fc7ffedd_35481875_216591795620251_8593405458151112704_n.png",
+  "website": "https://dobla.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

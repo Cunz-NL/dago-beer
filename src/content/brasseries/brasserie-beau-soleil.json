@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-beau-soleil",
+  "nom": "Brasserie Beau Soleil",
+  "cp": "12130",
+  "ville": "SAINT GENIEZ      D'OLT",
+  "region": "midi-pyrenees",
+  "departement": "aveyron-12",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67bee588e1c058276264c_14883471_1915105772050479_9041259468575705723_o.jpeg",
+  "website": "https://labeausoleil.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

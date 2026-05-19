@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-mousserie",
+  "nom": "Brasserie La Mousserie",
+  "cp": "59710",
+  "ville": "AVELIN",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf42215efd1067dc522bc_93806174_517537838938836_1854431745856765952_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

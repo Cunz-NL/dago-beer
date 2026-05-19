@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-biarrote",
+  "nom": "Brasserie La Biarrote",
+  "cp": "64200",
+  "ville": "BIARRITZ",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc158b35e4d1202a782ee_12366083_10153876636366018_6739086442975354718_o.jpeg",
+  "website": "http://www.labiarrote.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

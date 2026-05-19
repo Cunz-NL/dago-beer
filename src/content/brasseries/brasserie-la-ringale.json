@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-ringale",
+  "nom": "Brasserie La Ringale",
+  "cp": "74550",
+  "ville": "CERVENS",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c6286e9eb0eaa60740f_48369096_340357919881870_4640828672905838592_n.png",
+  "website": "https://www.brasserie-la-ringale.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

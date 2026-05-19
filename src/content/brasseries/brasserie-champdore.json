@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-champdore",
+  "nom": "Brasserie Champdoré",
+  "cp": "24800",
+  "ville": "SARRAZAC",
+  "region": "aquitaine",
+  "departement": "dordogne-24",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe47f8f200a74677999a0_brew_33706.jpeg",
+  "website": "https://brasserie-champdore.webnode.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

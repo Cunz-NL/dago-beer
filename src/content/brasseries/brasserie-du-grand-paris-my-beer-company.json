@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-grand-paris-my-beer-company",
+  "nom": "Brasserie du Grand Paris (My Beer Company)",
+  "cp": "93200",
+  "ville": "SAINT-DENIS",
+  "region": "ile-de-france",
+  "departement": "seine-saint-denis-93",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3687e34977f3051510f47_148369195_4098023920248375_2237079858995557226_n.png",
+  "website": "http://www.bgp.paris",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

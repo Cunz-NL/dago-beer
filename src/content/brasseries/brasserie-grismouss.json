@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-grismouss",
+  "nom": "Brasserie Gris'Mouss",
+  "cp": "14370",
+  "ville": "MOULT",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c4dd6ca9a902d3e06de_33778948_951729534990168_4516556830737956864_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-fort-boyard",
+  "nom": "Brasserie Fort Boyard",
+  "cp": "17550",
+  "ville": "DOLUS-D'OLÉRON",
+  "region": "poitou-charentes",
+  "departement": "charente-maritime-17",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76c6c729c85e70e30f440_biere-blonde-65o-33cl.jpeg",
+  "website": "http://www.brasseriefortboyard.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

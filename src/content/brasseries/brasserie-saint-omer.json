@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-saint-omer",
+  "nom": "Brasserie Saint-Omer",
+  "cp": "62500",
+  "ville": "CLAIRMARAIS",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04f1b045615d118cb8c3_untitled-2_12.jpeg",
+  "website": "http://www.brasserie-saint-omer.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "dr-rudi",
+  "nom": "Dr Rudi",
+  "description": "Initialement connue sous le nom de SuperAlpha, la variété a été rebaptisée Dr Rudi en 2012. Elle a été obtenue à partir de New Zealand Smooth Cone et est largement cultivée en Nouvelle-Zélande. Elle a été commercialisée à l'origine en 1976. Considéré comme un houblon amérisant, Dr Rudi est maintenant largement considéré comme un houblon à double usage et présente un caractère herbeux, piquant et citronné. Il est également connu pour son amertume nette et vive malgré sa forte teneur en cohumulone. Fonctionne bien dans les bières à un seul houblon.",
+  "aaMin": 10,
+  "aaMax": 12,
+  "baMin": 7,
+  "baMax": 8.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "pin"
+  ]
+}

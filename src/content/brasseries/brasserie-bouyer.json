@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bouyer",
+  "nom": "Brasserie Bouyer",
+  "cp": "44600",
+  "ville": "Saint-Nazaire",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607d3cfdf40677aaec7119bb_52315672_1064516947083623_476147461778309120_n.jpeg",
+  "website": "https://www.brasseriebouyer.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

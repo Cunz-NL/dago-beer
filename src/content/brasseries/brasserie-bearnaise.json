@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bearnaise",
+  "nom": "Brasserie Béarnaise",
+  "cp": "64000",
+  "ville": "PAU",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc176bd53253234c2a6b2_la-brasserie-bearnaise.jpeg",
+  "website": "http://www.brasserie-bearnaise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

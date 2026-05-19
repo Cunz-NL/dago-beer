@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-alpine",
+  "nom": "Brasserie Alpine",
+  "cp": "73600",
+  "ville": "MOÛTIERS",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b73c396c8b2115fd4564_30741638_1008774082604537_8286634300888055808_n.jpeg",
+  "website": "http://www.brasseriealpine.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

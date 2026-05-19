@@ -1,0 +1,19 @@
+{
+  "slug": "cerera",
+  "nom": "Cerera",
+  "description": "La Cerera, sœur de la Celeia, possède un arôme continental agréable semblable à celui de la Saaz. Développée en Slovénie dans les années 1980, elle est issue de Styrian Golding et d'un mâle yougoslave et est classée comme une variété triploïde Super Styrian sans pépins. Sa faible stabilité au stockage a fait de la Cerera un candidat peu adapté à une production commerciale à grande échelle. Elle n'est pas considérée comme utile pour l'amertume d'un seul houblon, car elle est riche en tannoïdes. Pour éviter l'astringence qui accompagne l'excès de tanins, essayez de combiner la Cerera avec d'autres variétés à alpha élevé.",
+  "aaMin": 3,
+  "aaMax": 6.5,
+  "baMin": 2,
+  "baMax": 4,
+  "usage": "Double usage",
+  "stabilite": "Moyenne : 55",
+  "aromes": [
+    "floral",
+    "citron",
+    "menthole",
+    "amertume-b",
+    "gingembre",
+    "thym"
+  ]
+}

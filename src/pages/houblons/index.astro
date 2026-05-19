@@ -1,0 +1,63 @@
+---
+import Base from '@/layouts/Base.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const houblons = (await getCollection('houblons')).sort((a, b) =>
+  a.data.nom.localeCompare(b.data.nom, 'fr')
+);
+---
+
+<Base
+  title="Guide des houblons — Encyclopédie du brassage — Dago Beer"
+  description={`Encyclopédie de ${houblons.length} variétés de houblons : alpha-acides, arômes, usage (amérisant/aromatique). La référence pour brasseurs amateurs et professionnels.`}
+  canonical="https://www.dago.beer/houblons"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Brassage amateur', href: '/brassage-amateur' },
+        { label: 'Houblons' },
+      ]}
+    />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Guide des <span class="text-amber-brand">houblons</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        {houblons.length} variétés référencées — alpha-acides, profils aromatiques, usage et stabilité.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      {houblons.map((h) => (
+        <a
+          href={`/houblons/${h.data.slug}`}
+          class="bg-surface border border-white/10 rounded-lg p-4 hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group"
+        >
+          <h2 class="font-heading text-base font-semibold text-white group-hover:text-amber-brand transition-colors mb-1">
+            {h.data.nom}
+          </h2>
+          <div class="flex flex-wrap gap-1.5 mt-2">
+            {h.data.aaMin !== undefined && h.data.aaMax !== undefined && (
+              <span class="text-xs font-body px-2 py-0.5 rounded-full bg-green-600/20 text-green-400 border border-green-600/30">
+                AA {h.data.aaMin}–{h.data.aaMax}%
+              </span>
+            )}
+            {h.data.usage && (
+              <span class="text-xs font-body px-2 py-0.5 rounded-full bg-white/5 text-muted/60 border border-white/10">
+                {h.data.usage}
+              </span>
+            )}
+          </div>
+          {h.data.aromes.length > 0 && (
+            <p class="font-body text-xs text-muted/40 mt-2 line-clamp-1">
+              {h.data.aromes.slice(0, 3).join(', ')}
+            </p>
+          )}
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

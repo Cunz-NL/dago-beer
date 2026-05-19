@@ -1,0 +1,19 @@
+{
+  "slug": "santiam",
+  "nom": "Santiam",
+  "description": "Développée par le Service de recherche agricole de Corvallis, dans l'Oregon, la Santiam est issue des variétés parentes Swiss Tettnanger, German Hallertauer Mittelfrüher et d'un cultivar légèrement plus éloigné dérivé de Cascade (US). Elle a été mise à la disposition du public brasseur en 1997 et présente un profil pétrolier bien équilibré. Les notes de dégustation qui en résultent sont une agréable douceur, une essence d'herbes, ainsi que des arômes floraux et fruités avec des notes de poivre et d'épices. La Santiam est souvent utilisée par les brasseurs pour embellir l'arôme des India et American Pale Ales.",
+  "aaMin": 5.5,
+  "aaMax": 8.5,
+  "baMin": 7,
+  "baMax": 8.5,
+  "usage": "Aromatique",
+  "stabilite": "Mauvaise",
+  "myrcene": "25 - 48",
+  "caryophyllene": "4.8 - 8.8",
+  "humulene": "13 - 13",
+  "aromes": [
+    "epice",
+    "floral",
+    "poivre"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-loup-blanc",
+  "nom": "Brasserie Le Loup Blanc",
+  "cp": "26240",
+  "ville": "SAINT-BARTHÉLEMY-DE-VALS",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6064634c6d9580169e3caebd_13323578_285651721778306_9203750716355361120_o.jpeg",
+  "website": "http://www.brasserieduloupblanc.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

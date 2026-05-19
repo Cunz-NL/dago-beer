@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ope",
+  "nom": "Brasserie Opé",
+  "cp": "85340",
+  "ville": "LES SABLES-D'OLONNE",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05e3c1eb4b423b2146f2_71798870_691712464659192_4129146481376493568_n.jpeg",
+  "website": "http://ope.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

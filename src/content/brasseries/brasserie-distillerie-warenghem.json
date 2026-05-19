@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-distillerie-warenghem",
+  "nom": "Brasserie Distillerie Warenghem",
+  "cp": "22300",
+  "ville": "LANNION",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f397db301d76749109a76_1547194844719.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

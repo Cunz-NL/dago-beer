@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-bout-du-monde",
+  "nom": "Brasserie du Bout du Monde",
+  "cp": "29590",
+  "ville": "LE FAOU",
+  "region": "bretagne",
+  "departement": "finistere-29",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607075a64a0d80d050ed1af3_la-brasserie-du-bout.jpeg",
+  "website": "http://labrasserieduboutdumonde.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

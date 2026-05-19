@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-etienne-e",
+  "nom": "Brasserie Etienne",
+  "cp": "30200",
+  "ville": "SAINT-GERVAIS",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad356eea8e6d95b4aa4287_16252064_1237898682971110_1597484781141276249_o.jpeg",
+  "website": "http://brasserie-etienne.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

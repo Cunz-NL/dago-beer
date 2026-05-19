@@ -1,0 +1,13 @@
+{
+  "slug": "heineken-00",
+  "nom": "Heineken 0.0",
+  "marque": "Heineken",
+  "style": "Lager",
+  "abv": 0.0,
+  "description": "La Heineken 0.0 est une lager sans alcool rafraîchissante avec une amertume douce et un corps léger. Elle vise à reproduire fidèlement le profil de la Heineken classique.",
+  "profilAromatique": "Malt doux, léger houblon floral, céréales",
+  "prixMoyen": 1.80,
+  "note": 3,
+  "urlBeerWulf": "https://www.beerwulf.com/fr-fr/p/bieres/heineken-0.0",
+  "avisZythologue": "Une valeur sûre pour découvrir la bière sans alcool, sans grande surprise. La carbonatation est bien dosée, l'amertume présente mais discrète. Idéale pour ceux qui veulent une alternative familière."
+}

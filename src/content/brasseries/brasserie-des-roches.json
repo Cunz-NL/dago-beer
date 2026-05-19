@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-roches",
+  "nom": "Brasserie des Roches",
+  "cp": "38200",
+  "ville": "Seyssuel",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606df04aa2869f5b7381e0d3_2018-10-01_11-47-58_brasserie_TR-face.jpeg",
+  "website": "http://www.brasseriedesroches.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

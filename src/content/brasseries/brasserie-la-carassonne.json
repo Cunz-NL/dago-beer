@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-carassonne",
+  "nom": "Brasserie La Carassonne",
+  "cp": "33180",
+  "ville": "SAINT-SEURIN-DE-CADOURNE",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab1df2fa8f9f1fc8e080_69289626_2697049966995756_3359950897026170880_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-biere-dracenoise",
+  "nom": "Brasserie La Bière Dracénoise",
+  "cp": "83300",
+  "ville": "DRAGUIGNAN",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "var-83",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5f14593c0468426e4fb_60346699_450881938994538_6426841396463796224_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

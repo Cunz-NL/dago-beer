@@ -1,0 +1,28 @@
+---
+export interface Props {
+  region?: string;
+  regionNom?: string;
+}
+
+const { region, regionNom } = Astro.props;
+
+const href = region ? `/biere-sans-alcool?region=${region}` : '/biere-sans-alcool';
+const titre = regionNom
+  ? `Découvrez les bières sans alcool brassées en ${regionNom}`
+  : 'Découvrez les meilleures bières sans alcool';
+---
+
+<aside class="my-10 rounded-xl bg-gradient-to-r from-amber-brand/20 to-amber-brand/5 border border-amber-brand/30 p-6 flex flex-col sm:flex-row items-center gap-4">
+  <div class="flex-1 text-center sm:text-left">
+    <p class="font-heading text-lg font-semibold text-white">{titre}</p>
+    <p class="font-body text-sm text-muted/70 mt-1">
+      Bières 0.0% et low-ABV sélectionnées par notre zythologue. Qualité artisanale sans compromis.
+    </p>
+  </div>
+  <a
+    href={href}
+    class="shrink-0 font-body font-semibold text-sm px-5 py-2.5 rounded-lg bg-amber-brand text-bg hover:bg-amber-brand/90 transition-colors"
+  >
+    Voir la sélection →
+  </a>
+</aside>

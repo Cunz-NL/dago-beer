@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-le-temps-qui-brasse",
+  "nom": "Brasserie Le Temps Qui Brasse",
+  "cp": "14680",
+  "ville": "FRESNEY-LE-PUCEUX",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67cd9aff940acf38aa86c_brasse-temps.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

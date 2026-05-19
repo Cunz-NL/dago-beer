@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-grilly",
+  "nom": "Brasserie de Grilly",
+  "cp": "1220",
+  "ville": "GRILLY",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a369194de4bb2b3acc519e_Logo-300x193.png",
+  "website": "http://www.brasserie-artisanale-de-grilly.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

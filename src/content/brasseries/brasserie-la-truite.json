@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-truite",
+  "nom": "Brasserie La Truite",
+  "cp": "89360",
+  "ville": "BUTTEAUX",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a59cd62761679ed3324a_19274775_825888254227826_2617352809301590357_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

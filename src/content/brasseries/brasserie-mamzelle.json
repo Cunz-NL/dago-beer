@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-mamzelle",
+  "nom": "Brasserie Mam'zelle",
+  "cp": "3390",
+  "ville": "MURAT",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3cd3e8ede1da0f61191_54729914_182048199345180_1814128829313056768_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

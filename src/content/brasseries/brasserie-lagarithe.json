@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lagarithe",
+  "nom": "Brasserie L'Agarithe",
+  "cp": "42360",
+  "ville": "PANISSIÈRES",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696a256e97c2e47e84ac5_47244340_1960318377377872_2332530948148559872_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

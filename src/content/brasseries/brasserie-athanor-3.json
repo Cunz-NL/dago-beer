@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-athanor-3",
+  "nom": "Brasserie Athanor",
+  "cp": "35370",
+  "ville": "ARGENTRÉ-DU-PLESSIS",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca14dd41772d9cc9ef1e0f_96735672_3104528259568045_5829942466756739072_n.jpeg",
+  "website": "https://www.brasserie-athanor.fr",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

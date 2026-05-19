@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-garatelle",
+  "nom": "Brasserie Garatelle",
+  "cp": "85150",
+  "ville": "LANDERONDE",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05d1cc1e807da92ba73d_35301205_213103682748607_8043982757631623168_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

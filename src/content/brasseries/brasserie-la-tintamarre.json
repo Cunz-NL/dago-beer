@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-tintamarre",
+  "nom": "Brasserie La Tintamarre",
+  "cp": "68380",
+  "ville": "BREITENBACH",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092ceabe39d4475e2a7ab9e_20543724_1903435693313932_8651094980191883676_o.jpeg",
+  "website": "http://la-tintamarre.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-michard-le-brasseur",
+  "nom": "Brasserie Michard (Le Brasseur)",
+  "cp": "87100",
+  "ville": "LIMOGES",
+  "region": "limousin",
+  "departement": "haute-vienne-87",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891a4e39c9cb47391c0ac8_michard-1-small.jpeg",
+  "website": "https://www.brasserieplormel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

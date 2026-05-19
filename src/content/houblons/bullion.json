@@ -1,0 +1,19 @@
+{
+  "slug": "bullion",
+  "nom": "Bullion",
+  "description": "Sélection sœur de la Brewer's Gold, la Bullion a été élevée pour la première fois en 1919 au Wye College, en Angleterre, et est issue d'une bouture de houblon sauvage provenant du Manitoba, au Canada. Elle a été officiellement commercialisée en 1938. La Bullion présente de nombreuses caractéristiques de brassage similaires à celles de sa sœur, avec des saveurs de fruits noirs et des éléments d'épices provenant de son utilisation en tant qu'ajout intermédiaire ou tardif. Son amertume est considérée par certains comme étant légèrement grossière. Bien qu'elle ait été autrefois populaire dans les cercles de brasseurs professionnels, sa capacité de production, comme celle de sa sœur, a été réduite au profit de variétés super-alpha dotées d'un plus grand potentiel d'amertume et d'une stabilité de stockage considérablement accrue. Elle se caractérise par des acides alpha élevés et un rendement incroyablement élevé, mais elle est sensible à de nombreux virus, sinon à la plupart.",
+  "aaMin": 6.5,
+  "aaMax": 9,
+  "baMin": 5,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "stabilite": "Mauvaise",
+  "cohumulone": "38 - 40",
+  "myrcene": "45 - 55",
+  "caryophyllene": "9 - 11",
+  "humulene": "23 - 23",
+  "aromes": [
+    "epice",
+    "baies-noires"
+  ]
+}

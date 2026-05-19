@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-voas",
+  "nom": "Brasserie de Voas",
+  "cp": "2670",
+  "ville": "FOLEMBRAY",
+  "region": "picardie",
+  "departement": "aisne-02",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3695860989caae56dc306_61267376_1315861125221177_4500938465633894400_n.png",
+  "website": "http://www.voas.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

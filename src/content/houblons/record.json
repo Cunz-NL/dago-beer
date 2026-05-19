@@ -1,0 +1,11 @@
+{
+  "slug": "record",
+  "nom": "Record",
+  "description": "Originaire de Belgique avant 1970, le houblon Record présente un agréable arôme européen. Issus d'une pollinisation ouverte de Saaz et de Northern Brewer, leurs caractéristiques aromatiques sont réputées ressembler de près à celles du dernier parent, Northern Brewer. En ce qui concerne la saveur, elle a été décrite comme douce et quelque peu fruitée. La Record a été cultivée à des fins commerciales en Allemagne et en Belgique.",
+  "aaMin": 4.6,
+  "aaMax": 4.7,
+  "usage": "Aromatique",
+  "aromes": [
+    "fruite"
+  ]
+}

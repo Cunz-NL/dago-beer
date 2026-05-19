@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-clandestine",
+  "nom": "Brasserie La Clandestine",
+  "cp": "88270",
+  "ville": "VILLE-SUR-ILLON",
+  "region": "lorraine",
+  "departement": "vosges-88",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a1437b2cfda2df869a0226_69326811_2392071104221760_95839927467507712_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

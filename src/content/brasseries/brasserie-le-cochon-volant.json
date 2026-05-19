@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-cochon-volant",
+  "nom": "Brasserie Le Cochon Volant",
+  "cp": "11500",
+  "ville": "QUILLAN",
+  "region": "languedoc-roussillon",
+  "departement": "aude-11",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b9679708c359bc7ab9e1_Screen_Shot_2019_10_10_at_11.40.52_AM.0.jpeg",
+  "website": "http://www.lecochonvolant.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

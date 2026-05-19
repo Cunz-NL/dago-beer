@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-nouge",
+  "nom": "Brasserie La Nouge",
+  "cp": "16190",
+  "ville": "BORS DE     MONTMOREAU",
+  "region": "poitou-charentes",
+  "departement": "charente-16",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67cbf5853e71748f7ae85_0e6eae11abb9de9aad9232b2e2f939e5.jpeg",
+  "website": "http://lanouge.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

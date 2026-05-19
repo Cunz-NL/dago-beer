@@ -1,0 +1,14 @@
+{
+  "slug": "amallia",
+  "nom": "Amallia",
+  "description": "Originaire du Nouveau-Mexique, l'Amallia est une variété neomexicaine à l'arôme profondément terreux et aux saveurs prononcées d'agrumes d'orange. Audacieuse et unique, elle est considérée comme bien adaptée aux ales brunes ou foncées, tant pour son amertume que pour son arôme. Cette variété a été testée dans le Michigan par des chercheurs de l'université d'État du Michigan en 2014.",
+  "aaMin": 5,
+  "aaMax": 9,
+  "baMin": 4,
+  "baMax": 8.5,
+  "usage": "Double usage",
+  "aromes": [
+    "agrumes",
+    "terreux"
+  ]
+}

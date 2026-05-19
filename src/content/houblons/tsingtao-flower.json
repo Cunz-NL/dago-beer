@@ -1,0 +1,13 @@
+{
+  "slug": "tsingtao-flower",
+  "nom": "Tsingtao Flower",
+  "description": "Le Hallertau (US) est assurément un houblon tenace, de style bavarois. Il a longtemps dominé sa région d'origine et est toujours demandé par les brasseurs artisanaux pour les ales de style bavarois. En tant que houblon américain, il est surpassé par le Mt. Hood et le Liberty, mais il tient toujours son rang. Son faible taux d'acides alpha et son taux élevé d'humulène contribuent à un profil d'arôme et de saveur doux, fleuri et délicatement épicé. Le Hallertau original cultivé en Allemagne a longtemps été la base des lagers allemandes et européennes.",
+  "aaMin": 7,
+  "aaMax": 7,
+  "usage": "Double usage",
+  "aromes": [
+    "melon",
+    "tabac",
+    "cassis"
+  ]
+}

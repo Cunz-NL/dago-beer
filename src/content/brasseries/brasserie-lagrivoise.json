@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lagrivoise",
+  "nom": "Brasserie L'Agrivoise",
+  "cp": "7320",
+  "ville": "SAINT AGREVE",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b407c7a39a0e30f3cca0_12605539_1695947793997326_4014823640584638021_o.jpeg",
+  "website": "http://www.lagrivoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

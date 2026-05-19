@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-voie-lactee",
+  "nom": "Brasserie La Voie Lactée",
+  "cp": "14440",
+  "ville": "Douvres-la-Délivrande",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6051ea65bef5701e33dce96a_brasserie-la-voie-lactee.jpg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

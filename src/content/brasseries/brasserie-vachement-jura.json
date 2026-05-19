@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-vachement-jura",
+  "nom": "Brasserie Vachement Jura",
+  "cp": "39110",
+  "ville": "IVREY",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca163f98fdc6e0d713c8fe_46105.png",
+  "website": "http://www.vachement-jura.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

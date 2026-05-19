@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-gillet",
+  "nom": "Brasserie Gillet",
+  "cp": "8350",
+  "ville": "DONCHERY",
+  "region": "champagne-ardenne",
+  "departement": "ardennes-08",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8ecce956b12e035d954_Michael-Gillet-FM-696x381.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

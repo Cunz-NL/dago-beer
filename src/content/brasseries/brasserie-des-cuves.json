@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-cuves",
+  "nom": "Brasserie des Cuves",
+  "cp": "38360",
+  "ville": "SASSENAGE",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dede432352303c68bcb46_Mus%25C3%25A9e_de_la_brasserie%252C_cuves_1.jpeg",
+  "website": "http://www.brasseriedescuves.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

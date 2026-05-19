@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-brasseurs-savoyards",
+  "nom": "Brasserie Brasseurs Savoyards",
+  "cp": "74540",
+  "ville": "ALBY-SUR-CHÉRAN",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c5c50ed946cd4bc3a13_front_fr.5.full.jpeg",
+  "website": "http://www.bs.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

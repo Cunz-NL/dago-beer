@@ -1,0 +1,23 @@
+{
+  "slug": "willamette",
+  "nom": "Willamette",
+  "description": "Considérée comme un pilier de l'industrie américaine du houblon, Willamette est l'une des variétés les plus cultivées aux États-Unis. Sélectionnée pour la première fois en Oregon en 1967, elle a reçu l'agrément de l'USDA en 1971 et a été commercialisée la même année. Willamette est un houblon aromatique triploïde dont l'héritage est principalement dérivé des variétés anglaises Fuggle et Fuggle Tetraploid. Elle partage ce même pedigree avec sa sélection sœur, Columbia. Lorsqu'elle est brassée, la Willamette présente un piquant complexe caractérisé par des notes à la fois herbacées, florales et fruitées. Sélectionnée à l'origine pour remplacer la Fuggle, elle a gagné en popularité ces derniers temps, notamment auprès des brasseurs artisanaux, et représente aujourd'hui environ 20 % de tous les houblons cultivés commercialement aux États-Unis.",
+  "aaMin": 4.5,
+  "aaMax": 7,
+  "baMin": 3,
+  "baMax": 4.5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "cohumulone": "30 - 35",
+  "myrcene": "30 - 55",
+  "caryophyllene": "6.5 - 8.2",
+  "humulene": "20 - 20",
+  "aromes": [
+    "floral",
+    "epice",
+    "herbeux",
+    "fruite",
+    "encens",
+    "baie-de-sureau"
+  ]
+}

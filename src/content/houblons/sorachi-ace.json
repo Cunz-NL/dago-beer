@@ -1,0 +1,17 @@
+{
+  "slug": "sorachi-ace",
+  "nom": "Sorachi Ace",
+  "description": "Si vous avez déjà apprécié Sapporo, alors vous savez ce que Sorachi Ace peut faire. Produite à l'origine par la brasserie Sapporo à Hokkaido, au Japon, au milieu des années 1980, elle a été ressuscitée aux États-Unis en 2006. C'est un croisement entre la Saaz, la Brewer's Gold et la BeiKei No. 2. La Sorachi Ace est considérée comme excellente dans plusieurs styles de bière, en particulier ceux qui recherchent une saveur distincte de citron et d'agrumes. Certains brasseurs ont même signalé des saveurs d'orange, de coriandre, d'aneth et de chêne.",
+  "aaMin": 10,
+  "aaMax": 14.5,
+  "baMin": 6,
+  "baMax": 8,
+  "usage": "Double usage",
+  "aromes": [
+    "citron",
+    "litchi",
+    "noix-de-coco",
+    "aneth",
+    "citron-vert"
+  ]
+}

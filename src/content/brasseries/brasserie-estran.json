@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-estran",
+  "nom": "Brasserie de l'Estran",
+  "cp": "56550",
+  "ville": "Locoal-Mendon",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "description": "Brasserie de l'Estran, brasserie artisanale située au bord de la rivière d'Etel, à Locoal-Mendon",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6052089812bf9a8932c8d175_logo-brasserie-estran-200x200.jpg",
+  "website": "https://www.facebook.com/Brasserie-de-lEstran-1375458109338459",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

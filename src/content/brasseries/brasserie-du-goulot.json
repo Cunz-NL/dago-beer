@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-du-goulot",
+  "nom": "Brasserie du Goulot",
+  "cp": "59100",
+  "ville": "roubaix",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "description": "Créée en 2020",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60895fdfc322041c3170ef62_logotype%20goulot-positif.png",
+  "website": "http://www.labrasseriedugoulot.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

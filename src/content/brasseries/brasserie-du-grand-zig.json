@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-grand-zig",
+  "nom": "Brasserie du Grand Zig",
+  "cp": "85500",
+  "ville": "CHANVERRIE",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05f7955261381b226ffd_67966123_2290259964568853_9102004103680098304_n.jpeg",
+  "website": "http://www.bieres-zig.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

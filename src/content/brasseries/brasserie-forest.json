@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-forest",
+  "nom": "Brasserie Forest",
+  "cp": "59620",
+  "ville": "MONCEAU       ST-WAAST",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf3fd83015c15dd87d4cd_the-brasserie-restaurant.jpeg",
+  "website": "http://www.brasserie-forest.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

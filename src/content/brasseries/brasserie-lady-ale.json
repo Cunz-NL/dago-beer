@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lady-ale",
+  "nom": "Brasserie Lady Ale",
+  "cp": "3500",
+  "ville": "SAINT-POURÇAIN-SUR-SIOULE",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3d55631cdf70f1878ea_61439656_450813355493966_3499597025601650688_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

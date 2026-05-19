@@ -1,0 +1,21 @@
+{
+  "slug": "green-bullet",
+  "nom": "Green Bullet",
+  "description": "Green Bullet est une variété de houblon néo-zélandaise, l'une des premières générations de nouveaux croisements tentés lorsque la pourriture noire s'est abattue sur le houblon néo-zélandais en 1949. Cultivé à partir de Fuggle et d'un parent autochtone non spécifié, il possède un zeste spécial qui est devenu la marque de fabrique de la Nouvelle-Zélande. C'est un houblon à double usage avec des acides alpha élevés, mais il a un goût doux et un arôme de raisins secs et de fruits, probablement en raison de sa teneur élevée en myrcène.",
+  "aaMin": 11,
+  "aaMax": 14,
+  "baMin": 5,
+  "baMax": 7,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 60",
+  "myrcene": "52 - 53",
+  "caryophyllene": "6 - 7",
+  "humulene": "19 - 19",
+  "aromes": [
+    "epice",
+    "floral",
+    "resineux",
+    "fruits-blancs",
+    "raisin"
+  ]
+}

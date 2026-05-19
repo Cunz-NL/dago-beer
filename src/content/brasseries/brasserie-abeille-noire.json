@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-abeille-noire",
+  "nom": "Brasserie Abeille Noire",
+  "cp": "54800",
+  "ville": "JARNY",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05df555db3ea25a3528ea_33875396_431769257264723_1932682858829185024_n.jpeg",
+  "website": "https://www.brasserie-abeillenoire.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

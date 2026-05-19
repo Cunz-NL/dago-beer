@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-barbue",
+  "nom": "Brasserie La Barbue",
+  "cp": "73490",
+  "ville": "LA RAVOIRE",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b74f2da2ea5b17a8c6a8_54727574_423305095140607_2943187482738425856_n.png",
+  "website": "https://brasserielabarbue.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

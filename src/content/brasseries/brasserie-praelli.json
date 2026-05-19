@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-praelli",
+  "nom": "Brasserie Praelli",
+  "cp": "61340",
+  "ville": "PERCHE EN NOCÉ",
+  "region": "normandie",
+  "departement": "orne-61",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60740983c9dca6613d64a178_247494814.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bieres-de-la-colline",
+  "nom": "Brasserie Bières de la Colline",
+  "cp": "89450",
+  "ville": "VEZELAY",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a5acbdbb514bd3806b6f_84511820_1576158072531695_9178692230808862720_n.png",
+  "website": "http://www.bieresdelacolline.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-germanoise",
+  "nom": "Brasserie La Germanoise",
+  "cp": "42260",
+  "ville": "SAINT-GERMAIN-LAVAL",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696d0633c0c477c6f1fca_599831_251553821666931_2003360428_n.jpeg",
+  "website": "http://www.brasserie-lagermanoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

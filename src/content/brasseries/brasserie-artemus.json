@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-artemus",
+  "nom": "Brasserie Artemus",
+  "cp": "94450",
+  "ville": "LIMEIL-BRÉVANNES",
+  "region": "ile-de-france",
+  "departement": "val-de-marne-94",
+  "website": "http://www.brasserie-artemus.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

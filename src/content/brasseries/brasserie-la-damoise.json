@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-damoise",
+  "nom": "Brasserie La Damoise",
+  "cp": "95290",
+  "ville": "L'ISLE-ADAM",
+  "region": "ile-de-france",
+  "departement": "val-doise-95",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368c00d6b271c614dbe95_10628532_799260790096193_3573595038029852988_n.jpeg",
+  "website": "http://www.brasserieladamoise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

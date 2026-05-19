@@ -1,0 +1,10 @@
+{
+  "slug": "bretagne",
+  "nom": "Bretagne",
+  "departements": [
+    "cotes-d-armor",
+    "finistere-29",
+    "ille-et-vilaine",
+    "morbihan"
+  ]
+}

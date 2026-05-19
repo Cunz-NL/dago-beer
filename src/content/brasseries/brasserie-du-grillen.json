@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-du-grillen",
+  "nom": "Brasserie du Grillen",
+  "cp": "68000",
+  "ville": "COLMAR",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "description": "La Brasserie du Grillen est une fabrique de bière et un brewpub se situant dans le quartier du Grillenbreit à Colmar, en Alsace.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bb3d517e89e61a78ab855_BDG_RVB_rouge_sheds.png",
+  "website": "http://brasseriedugrillen.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

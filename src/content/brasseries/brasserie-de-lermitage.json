@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-lermitage",
+  "nom": "Brasserie de l'Ermitage",
+  "cp": "67500",
+  "ville": "#N/A",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092ceae9bd47544349ae7ef_Ermitage.jpeg",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

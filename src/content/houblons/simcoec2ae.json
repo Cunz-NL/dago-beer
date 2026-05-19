@@ -1,0 +1,22 @@
+{
+  "slug": "simcoeC2AE",
+  "nom": "Simcoe®",
+  "description": "Lancée dans le monde en 2000 par Yakima Chief Ranches, la variété américaine Simcoe® est devenue très populaire auprès des brasseurs artisanaux. Avec un pourcentage alpha élevé et une faible teneur en cohumulone, elle constitue un très bon houblon amer de base. Il est également réputé pour ses qualités aromatiques favorables. Il a un arôme agréablement fruité, mais aussi terreux, herbacé et piquant. Flying Fish l'a utilisé pour créer son vin d'orge du 10e anniversaire - 5 ajouts de ce houblon aux côtés du Magnum. Sierra Nevada l'utilise également dans l'une de ses bières de haute altitude Hoptimum®. Elle a été qualifiée de \"Cascade sur stéroïdes\".",
+  "aaMin": 11.5,
+  "aaMax": 15,
+  "baMin": 3,
+  "baMax": 4.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 75",
+  "cohumulone": "15 - 20",
+  "myrcene": "60 - 65",
+  "caryophyllene": "5 - 8",
+  "humulene": "10 - 10",
+  "aromes": [
+    "agrumes",
+    "pin",
+    "resineux",
+    "fruit-de-la-passion",
+    "terreux"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-carteron",
+  "nom": "Brasserie Carteron",
+  "cp": "83400",
+  "ville": "HYÈRES",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "var-83",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f60c60d89de1ef25b6e7_logo-brasserie-carteron-hyeres-brasserie-texte.png",
+  "website": "https://www.brasseriecarteron.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

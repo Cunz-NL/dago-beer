@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-coldie-brewery",
+  "nom": "Brasserie Coldie Brewery",
+  "cp": "69007",
+  "ville": "LYON",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec6096ff7b94e69ac736_49822948_2268269643458573_67934073246449664_n.png",
+  "website": "http://coldie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "alliance",
+  "nom": "Alliance",
+  "description": "Alliance est une fille de Whitbread Golding et a été développée au Wye College aux côtés de Progress au début des années 1960. On ne sait pas si elle a été cultivée commercialement à cette époque. Elle a bénéficié d'un rendement élevé en Angleterre, mais celui-ci était beaucoup plus irrégulier dans les parcelles américaines. À l'origine, elle a été sélectionnée pour remplacer Fuggle, mais comme elle n'a apporté qu'une amélioration marginale, elle a été considérée comme un échec.",
+  "aaMin": 4.5,
+  "aaMax": 7.5,
+  "baMin": 2,
+  "baMax": 5,
+  "usage": "Double usage",
+  "stabilite": "Très bonne : 75 @ 20°C à 6 mois",
+  "aromes": []
+}

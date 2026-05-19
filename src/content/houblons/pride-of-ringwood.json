@@ -1,0 +1,23 @@
+{
+  "slug": "pride-of-ringwood",
+  "nom": "Pride of Ringwood",
+  "description": "Lorsque le houblon australien Pride of Ringwood a été commercialisé en 1958, il avait la particularité d'être le houblon ayant la plus forte teneur en acide alpha au monde. Bien que ce titre ait été dépassé depuis longtemps, il reste un houblon amérisant incroyablement populaire. Utilisé de préférence frais, Pride of Ringwood est avant tout un houblon amérisant, mais il présente également des arômes épicés et fruités lorsqu'il est utilisé comme ajout tardif. La variété a été développée par Bill Nash à la Ringwood Hop Research Station à Ringwood, Victoria. À cette époque, Bill travaillait également pour la brasserie Carlton et United. Elle a été obtenue à partir de la variété anglaise Pride of Kent par pollinisation ouverte. La Pride of Ringwood représentait autrefois la grande majorité du houblon cultivé en Australie et, à son apogée, elle représentait 90% de la superficie totale des cultures. Ailleurs, la variété Pride of Ringwood est considérée comme une récolte trop tardive pour les États-Unis, mais elle a aussi été cultivée à un moment donné au Cachemire, en Inde. Bien que la culture australienne de Pride of Ringwood soit largement exempte de maladies, elle peut être sensible au mildiou lorsqu'elle est cultivée dans d'autres endroits. Bien qu'elle soit principalement utilisée dans les lagers australiennes, il existe de nombreux exemples de son utilisation aux États-Unis. La brasserie Buffalo Bill l'utilise dans sa bière Tasmanian Devil. Les Australiens connaissent surtout son utilisation dans les bières des brasseries Carlton et United, Fosters et Coopers.",
+  "aaMin": 8,
+  "aaMax": 10.5,
+  "baMin": 4,
+  "baMax": 7,
+  "usage": "Amérisant",
+  "stabilite": "Moyenne : 50",
+  "cohumulone": "32 - 32",
+  "myrcene": "25 - 50",
+  "caryophyllene": "5 - 10",
+  "humulene": "2 - 2",
+  "aromes": [
+    "boise",
+    "epice",
+    "herbeux",
+    "fruite",
+    "cedre",
+    "chene"
+  ]
+}

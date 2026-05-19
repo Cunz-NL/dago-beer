@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-labo",
+  "nom": "Brasserie Labo",
+  "cp": "38110",
+  "ville": "LA BÂTIE-MONTGASCON",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedc3b2ecfa96deb16278_47580239_2331174253578185_5572363914986913792_n.png",
+  "website": "http://www.brasserielabo.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-rauch",
+  "nom": "Brasserie Rauch",
+  "cp": "39270",
+  "ville": "ORGELET",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca161e8d122b63e6f401aa_rauch-pu-pu-rauchbier-brasserie-dunham_1615831618.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

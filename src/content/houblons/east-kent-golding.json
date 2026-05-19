@@ -1,0 +1,21 @@
+{
+  "slug": "east-kent-golding",
+  "nom": "East Kent Golding",
+  "description": "Le East Kent Golding est souvent considéré comme le houblon anglais par excellence. Cultivé exclusivement dans le Kent, en Angleterre, et descendant du Canterbury Whitebine, c'est une variété vieille de plusieurs siècles. Malgré les affirmations contraires, il est identique au Canterbury Golding. Les deux noms sont utilisés de manière interchangeable depuis un certain temps. Canterbury est une ville de l'est du Kent et le houblon y a été commercialisé pour la première fois en 1790. Certains, cependant, affirment encore aujourd'hui que l'East Kent Golding et le Cantebury Golding sont deux variétés distinctes, bien qu'il n'y ait pas de preuves claires à l'appui. La variété a commencé à être connue principalement sous le nom de East Kent Golding en 1838. Elle a un bon rendement en Angleterre, mais s'est révélée avoir un rendement encore meilleur dans l'Oregon après y avoir été introduite en 1994. Elle a un profil aromatique étonnant avec de la lavande, des épices, du miel et des notes de thym. En termes de saveur, elle est terreuse et légèrement amère, avec un caractère doux, soyeux et mielleux. L'East Kent Golding est considéré comme la quintessence du houblon anglais. Il a longtemps été considéré comme l'un des houblons préférés de l'île pour les ales et les pale ales.",
+  "aaMin": 4.5,
+  "aaMax": 6.5,
+  "baMin": 1.9,
+  "baMax": 2.8,
+  "usage": "Aromatique",
+  "stabilite": "Très bonne : 75",
+  "cohumulone": "28 - 32",
+  "myrcene": "20 - 26",
+  "caryophyllene": "12 - 16",
+  "humulene": "38 - 38",
+  "aromes": [
+    "epice",
+    "thym",
+    "lavande",
+    "terreux"
+  ]
+}

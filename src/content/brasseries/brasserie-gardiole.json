@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-gardiole",
+  "nom": "Brasserie Gardiole",
+  "cp": "11200",
+  "ville": "BIZANET",
+  "region": "languedoc-roussillon",
+  "departement": "aude-11",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b968847730848211ced5_vic-cafe.jpeg",
+  "website": "http://www.gardiole.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

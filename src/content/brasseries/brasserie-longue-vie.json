@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-longue-vie",
+  "nom": "Brasserie Longue Vie",
+  "cp": "7410",
+  "ville": "SAINT-VICTOR",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b4140156ae65421ba699_18a3e9e8b0c995337239e7281c355750.jpeg",
+  "website": "https://longue-vie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

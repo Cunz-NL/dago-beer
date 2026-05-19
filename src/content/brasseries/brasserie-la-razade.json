@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-razade",
+  "nom": "Brasserie La Razade",
+  "cp": "70000",
+  "ville": "RAZE",
+  "region": "franche-comte",
+  "departement": "haute-saone-70",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d020147797613d7eb417_razade-6-1.jpeg",
+  "website": "http://www.larazade.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

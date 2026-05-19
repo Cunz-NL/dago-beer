@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-globulles",
+  "nom": "Brasserie Globulles",
+  "cp": "30320",
+  "ville": "MARGUERITTES",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad3573dc9381235fccba06_o.jpeg",
+  "website": "http://globulles.wix.com/brasserie",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

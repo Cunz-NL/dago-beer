@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-rainette",
+  "nom": "Brasserie Rainette",
+  "cp": "16380",
+  "ville": "CHAZELLES",
+  "region": "poitou-charentes",
+  "departement": "charente-16",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a76c54322173066837e294_61326816_816639882069343_971603979827937280_n.jpeg",
+  "website": "https://www.brasserie-larainette.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

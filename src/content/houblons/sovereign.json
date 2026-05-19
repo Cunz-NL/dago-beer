@@ -1,0 +1,16 @@
+{
+  "slug": "sovereign",
+  "nom": "Sovereign",
+  "description": "Petite-fille de Pioneer, Sovereign est une variété anglaise élevée au Wye College au milieu des années 1990. Commercialisée en 2006, Sovereign gagne en respect pour son profil aromatique complexe et délicat. Floral, herbeux et mentholé au nez, ses qualités d'amertume sont classiques et bien équilibrées. Il a également été rapporté qu'elle confère à une bière des aspects subtils de thé vert et de vanille. Fonctionne bien en conjonction avec les Goldings.",
+  "aaMin": 4.5,
+  "aaMax": 6.5,
+  "baMin": 2.1,
+  "baMax": 3.1,
+  "usage": "Amérisant",
+  "aromes": [
+    "herbeux",
+    "floral",
+    "fruite",
+    "menthole"
+  ]
+}

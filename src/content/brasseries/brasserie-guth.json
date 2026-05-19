@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-guth",
+  "nom": "Brasserie Guth",
+  "cp": "67220",
+  "ville": "Saint-Maurice",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "description": "Créée en 2018 à Saint-Maurice",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608961e01d15a2f1498b48e0_Brasserie%20Guth.JPG",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

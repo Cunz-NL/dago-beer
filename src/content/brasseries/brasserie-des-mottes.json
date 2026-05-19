@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-mottes",
+  "nom": "Brasserie des Mottes",
+  "cp": "59274",
+  "ville": "MARQUILLIES",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05fe461563be1848af50_Brasserie_Malterie_Motte_Cordonnier.jpeg",
+  "website": "http://www.fermedesmottes.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

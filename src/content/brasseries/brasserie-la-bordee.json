@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-bordee",
+  "nom": "Brasserie La BorDée",
+  "cp": "56100",
+  "ville": "LORIENT",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6070745b7ebf2276134641e4_l-entree-du-chateau.jpeg",
+  "website": "http://www.labordee.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

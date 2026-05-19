@@ -1,0 +1,14 @@
+{
+  "slug": "jesterC2AE",
+  "nom": "Jester®",
+  "description": "Développé par Charles Faram & Co Ltd au Royaume-Uni, le houblon propriétaire Jester® apporte des saveurs et des arômes distincts, très différents de ceux des variétés de houblon anglaises traditionnelles. Ces caractéristiques uniques comprennent des notes prononcées et robustes de fruits tropicaux, de pamplemousse et de cassis et même des notes de litchi. Il est considéré comme le plus utile en tant qu'ajout intermédiaire ou tardif, mais il est également fantastique pour le houblonnage à sec. Bien qu'il ne soit pas considéré comme un houblon amérisant particulièrement utile, lorsqu'il est utilisé à cet égard, il confère une résonance douce et herbacée.  Considéré comme un style \"Nouveau Monde\", Jester® a été comparé à des variétés américaines centrées sur les fruits sauvages et a été initialement sélectionné pour imiter les houblons américains Cascade, Centennial et Columbus. Jester® est tellement unique en tant que houblon anglais que l'on dit que son nom est né de l'incrédulité générale quant au fait que la variété était réellement anglaise - les gens suggérant qu'il s'agissait d'une blague.",
+  "aaMin": 7,
+  "aaMax": 9,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Aromatique",
+  "aromes": [
+    "fruits-tropicaux",
+    "pamplemousse"
+  ]
+}

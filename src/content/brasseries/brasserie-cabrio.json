@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cabrio",
+  "nom": "Brasserie Cabrio",
+  "cp": "68470",
+  "ville": "FELLERING",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cfac47ca437d0bacb31c_logo-brasserie-cabrio-300x300.png",
+  "website": "http://www.brasseriecabrio.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-barallel",
+  "nom": "Brasserie Barallel",
+  "cp": "31000",
+  "ville": "toulouse-31000",
+  "region": "midi-pyrenees",
+  "departement": "haute-garonne-31",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe4df8e30a88538f80168_logo2.png",
+  "website": "http://www.barallel.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

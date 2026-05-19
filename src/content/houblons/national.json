@@ -1,0 +1,13 @@
+{
+  "slug": "national",
+  "nom": "National",
+  "description": "Le houblon Amarillo™ VGXP01 est utilisé dans le monde entier où sa teneur ultra élevée en myrcène crée une délicieuse saveur d'agrume orange. Une variété de Virgil Gamache Farms, Inc. Amarillo™ VGXP01 est très acide, ce qui en fait un choix parfait pour les ESB et les Pale Ales.",
+  "aaMin": 5,
+  "aaMax": 6,
+  "usage": "Double usage",
+  "aromes": [
+    "ail",
+    "chocolat",
+    "bergamote"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-diwaz",
+  "nom": "Brasserie Diwaz",
+  "cp": "26150",
+  "ville": "DIE",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606462eeb69b238cba4091e8_staticmap.png",
+  "website": "http://www.diwaz.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

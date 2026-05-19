@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-alaryk",
+  "nom": "Brasserie Alaryk",
+  "cp": "34500",
+  "ville": "BÉZIERS",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "website": "http://www.alaryk.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

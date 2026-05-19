@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-aleric",
+  "nom": "Brasserie Aleric",
+  "cp": "77230",
+  "ville": "DAMMARTIN-EN-GOËLE",
+  "region": "ile-de-france",
+  "departement": "seine-et-marne-77",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609399aeaa1fb20c61142ce1_18157277_1472566732805924_1763418096009098071_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

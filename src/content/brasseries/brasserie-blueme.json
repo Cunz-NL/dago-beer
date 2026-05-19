@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-blueme",
+  "nom": "Brasserie Blüeme",
+  "cp": "67270",
+  "ville": "ALTECKENDORF",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090ef2a59547b25ff9c5f68_51050366_344245336429484_3424278103982080000_n.png",
+  "website": "https://brasserie.blueme.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

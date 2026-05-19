@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-kan-mem",
+  "nom": "Brasserie Kan Mêm",
+  "cp": "7270",
+  "ville": "COLOMBIER-LE-JEUNE",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b8970f61b34cec73ec4e_17855263_1155109074601159_5214161546115842038_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

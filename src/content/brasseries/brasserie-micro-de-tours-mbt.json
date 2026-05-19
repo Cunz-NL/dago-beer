@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-micro-de-tours-mbt",
+  "nom": "Brasserie Micro de Tours (MBT)",
+  "cp": "37520",
+  "ville": "LA RICHE",
+  "region": "centre",
+  "departement": "indre-et-loire-37",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca154f58743401b8a5ae80_logo-mbt.png",
+  "website": "https://www.mbt37.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

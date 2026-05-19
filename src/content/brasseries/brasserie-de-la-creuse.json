@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-creuse",
+  "nom": "Brasserie de la Creuse",
+  "cp": "23500",
+  "ville": "FELLETIN",
+  "region": "limousin",
+  "departement": "creuse-23",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891ad0ddbd39cf0be340b6_brasserie-cafe-de-la.jpeg",
+  "website": "http://www.brasseriedelacreuse.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

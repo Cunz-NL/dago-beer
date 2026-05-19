@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-kiltin",
+  "nom": "Brasserie Kiltin'",
+  "cp": "38000",
+  "ville": "grenoble",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedad000597228d5e87a6_12069007_1659971187617308_8296271605399107056_o.jpeg",
+  "website": "http://kiltinbrewpub.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

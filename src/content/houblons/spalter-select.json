@@ -1,0 +1,18 @@
+{
+  "slug": "spalter-select",
+  "nom": "Spalter Select",
+  "description": "Lancé en 1993, le Spalter Select a été sélectionné à Hüll, en Allemagne, dans le but d'augmenter le potentiel de rendement et la résistance aux maladies et de servir de remplacement commercial au Spalt. Ces efforts ont été couronnés de succès. Résultat d'un croisement entre Spalt et Hallertau Mittelfrüher, Spalter Select conserve certaines des caractéristiques les plus fines de ces deux variétés et est considérée comme une version légèrement plus épicée de Spalt. Le géant de la brasserie Anheuser-Busch a remplacé la Spalt et la Tettnanger par la Spalter Select.",
+  "aaMin": 3,
+  "aaMax": 6.5,
+  "baMin": 2.4,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "myrcene": "40 - 50",
+  "caryophyllene": "6 - 8",
+  "humulene": "15 - 15",
+  "aromes": [
+    "herbeux",
+    "epice"
+  ]
+}

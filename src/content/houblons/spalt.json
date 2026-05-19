@@ -1,0 +1,22 @@
+{
+  "slug": "spalt",
+  "nom": "Spalt",
+  "description": "Certainement l'une des plus anciennes variétés de houblon au monde, le houblon Splat remonte au 8e siècle et, au 16e siècle, il a été la première variété à recevoir le sceau allemand du houblon - un système de certification historiquement important, antérieur à l'actuelle loi allemande sur la provenance du houblon. Cultivé principalement dans la région de Spalt en Allemagne, il s'agit de l'une des premières variétés de houblon. À ne pas confondre avec son descendant, le Spalter Select, le Spalt présente des notes de terre et d'épices ainsi que des qualités aromatiques nobles et a été comparé au Tettnanger et au Saaz.  Elle n'est pas cultivée commercialement aux États-Unis en raison de son faible rendement, ce qui pose problème même dans son pays d'origine, l'Allemagne. Malgré cela, la variété est très demandée par les brasseurs et dépasse souvent l'offre.",
+  "aaMin": 2.5,
+  "aaMax": 5.5,
+  "baMin": 3,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "myrcene": "15 - 25",
+  "caryophyllene": "10 - 15",
+  "humulene": "18 - 18",
+  "aromes": [
+    "floral",
+    "epice",
+    "herbeux",
+    "resineux",
+    "pin",
+    "terreux",
+    "gingembre"
+  ]
+}

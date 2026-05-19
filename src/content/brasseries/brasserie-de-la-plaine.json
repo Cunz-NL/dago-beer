@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-plaine",
+  "nom": "Brasserie de la Plaine",
+  "cp": "68127",
+  "ville": "SAINTE-CROIX-EN-PLAINE",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cf7f79870f59ed0dba05_1519898477575.png",
+  "website": "http://lorhinoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

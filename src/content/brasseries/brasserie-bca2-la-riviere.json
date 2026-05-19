@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bca2---la-riviere",
+  "nom": "Brasserie BCA2 - La Rivière",
+  "cp": "62173",
+  "ville": "RIVIÈRE",
+  "region": "nord-pas-de-calais",
+  "departement": "pas-de-calais-62",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04b2fc7e9306ca344bd0_cropped-Capture-d%25E2%2580%2599%25C3%25A9cran-2018-09-04-%25C3%25A0-21.22.04.png",
+  "website": "http://www.bca2.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

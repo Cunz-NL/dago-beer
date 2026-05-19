@@ -1,0 +1,20 @@
+{
+  "slug": "progress",
+  "nom": "Progress",
+  "description": "Progress a été cultivé dans les années 1950 au Wye College en Angleterre et commercialisé en 1964 comme une alternative bon marché au houblon Fuggle. Légèrement doux et subtilement amer, il présente des arômes floraux d'herbe, de menthe et de terre agréables et semblables à ceux du Fuggle. Il s'agit de la descendance de Whitbread Golding et d'une variété mâle américaine sans nom, et il n'est cultivé commercialement en Angleterre qu'en quantités limitées pour quelques brasseries spécifiques. Progress peut également présenter un potentiel de sélection en raison de sa maturité saisonnière exceptionnellement précoce.",
+  "aaMin": 6,
+  "aaMax": 7.5,
+  "baMin": 2,
+  "baMax": 2.7,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 70",
+  "aromes": [
+    "epice",
+    "herbeux",
+    "fruite",
+    "resineux",
+    "cassis",
+    "amertume-b",
+    "terreux"
+  ]
+}

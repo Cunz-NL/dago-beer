@@ -1,0 +1,23 @@
+{
+  "slug": "talusE284A2",
+  "nom": "Talus™",
+  "description": "Le houblon Talus™ est le dernier né de la famille Yakima (aussi connu sous le nom de BRand HBC-692) ; il apporte des notes rares de pamplemousse rose, citron et roses séchées. Il a pour parent le Sabro™",
+  "aaMin": 8,
+  "aaMax": 9.5,
+  "baMin": 8.3,
+  "baMax": 10.2,
+  "usage": "Double usage",
+  "cohumulone": "34 - 39",
+  "myrcene": "40 - 50",
+  "caryophyllene": "9 - 13",
+  "humulene": "16 - 21",
+  "aromes": [
+    "citron",
+    "pamplemousse",
+    "fruits-tropicaux",
+    "pin",
+    "raisin",
+    "rose",
+    "sauge"
+  ]
+}

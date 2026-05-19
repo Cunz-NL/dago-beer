@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-lagame-barbu",
+  "nom": "Brasserie L'Agame Barbu",
+  "cp": "51100",
+  "ville": "REIMS",
+  "region": "champagne-ardenne",
+  "departement": "marne-51",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cc4d7ba7b2088907036589_34319666_213427209440090_1666081276555165696_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

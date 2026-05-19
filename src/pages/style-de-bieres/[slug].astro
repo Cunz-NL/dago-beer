@@ -1,0 +1,48 @@
+---
+import Base from '@/layouts/Base.astro';
+import BreweryCard from '@/components/BreweryCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const styles = await getCollection('bieresStyles');
+  return styles.map((s) => ({
+    params: { slug: s.data.slug },
+    props: { style: s },
+  }));
+}
+
+const { style } = Astro.props;
+const { nom, description } = style.data;
+---
+
+<Base
+  title={`Bière ${nom} — Style artisanal — Dago Beer`}
+  description={description ?? `Tout savoir sur le style de bière ${nom} : caractéristiques, arômes, exemples et brasseries artisanales françaises qui le produisent.`}
+  canonical={`https://www.dago.beer/style-de-bieres/${style.data.slug}`}
+>
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb
+      items={[
+        { label: 'Styles de bière', href: '/style-de-bieres' },
+        { label: nom },
+      ]}
+    />
+
+    <header class="mb-8">
+      <h1 class="font-heading text-4xl font-bold text-white mb-4">{nom}</h1>
+      {description && (
+        <div class="font-body text-muted/80 leading-relaxed text-lg">{description}</div>
+      )}
+    </header>
+
+    <CrossSellBanner />
+
+    <div class="mt-8">
+      <a href="/style-de-bieres" class="font-body text-sm text-muted/50 hover:text-amber-brand transition-colors">
+        ← Tous les styles
+      </a>
+    </div>
+  </div>
+</Base>

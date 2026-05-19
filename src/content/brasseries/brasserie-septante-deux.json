@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-septante-deux",
+  "nom": "Brasserie Septante-Deux",
+  "cp": "72000",
+  "ville": "LE MANS",
+  "region": "pays-de-la-loire",
+  "departement": "sarthe-72",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d05ad10a2639b8db6c58_logoorange2.png",
+  "website": "http://www.brasserieseptantedeux.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

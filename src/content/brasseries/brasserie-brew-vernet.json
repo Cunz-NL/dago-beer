@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-brew-vernet",
+  "nom": "Brasserie Brew Vernet",
+  "cp": "3110",
+  "ville": "BROÛT-VERNET",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3bd384461f37beb6ec3_56697007_2712671782081012_5786207794034114560_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

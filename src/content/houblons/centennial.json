@@ -1,0 +1,24 @@
+{
+  "slug": "centennial",
+  "nom": "Centennial",
+  "description": "La Centennial doit son existence à un mélange de houblons Brewer's Gold, Fuggle, East Kent Golding et Bavarian. Développée en 1974 et commercialisée en 1990, la Centennial a été mise au point par Charles (Chuck) Zimmerman et S.T. Kenny à l'université de l'État de Washington. Elle est parfois appelée super Cascade en raison de sa caractéristique citrique similaire. Le Centennial est un houblon très apprécié pour sa polyvalence, sa profondeur d'amertume et son arôme prononcé - deux caractéristiques qui s'équilibrent parfaitement. Il est bien adapté aux Pale Ales et aux IPAs avec sa teneur élevée en alpha et est floral à la fois dans sa saveur et son arôme. La Centennial a connu des hauts et des bas dans l'industrie brassicole commerciale, mais elle connaît actuellement un regain de popularité, notamment auprès des grandes brasseries artisanales.",
+  "aaMin": 7,
+  "aaMax": 11.5,
+  "baMin": 3.2,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 60",
+  "cohumulone": "28 - 30",
+  "myrcene": "45 - 55",
+  "caryophyllene": "5 - 8",
+  "humulene": "10 - 10",
+  "aromes": [
+    "floral",
+    "citron",
+    "terreux",
+    "the",
+    "estragon",
+    "camomille",
+    "badiane"
+  ]
+}

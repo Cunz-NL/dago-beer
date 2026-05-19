@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-coup-de-mousse",
+  "nom": "Brasserie Coup de Mousse",
+  "cp": "73000",
+  "ville": "CHAMBÉRY",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087b72b4a1e7cb20fd9bfd3_65214166_473376910083891_1646984778215325696_n.png",
+  "website": "https://www.coup-de-mousse.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

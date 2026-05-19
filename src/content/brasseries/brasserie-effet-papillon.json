@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-effet-papillon",
+  "nom": "Brasserie L'Effet Papillon",
+  "cp": "33700",
+  "ville": "MÉRIGNAC",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608b2c155af92a34038df6e1_Logo%20vert%20Brasserie%20Effet%20Papillon.vec.png",
+  "website": "http://www.brasserieffetpapillon.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

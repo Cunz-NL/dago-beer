@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-de-lestran",
+  "nom": "Brasserie de l'Estran",
+  "cp": "56550",
+  "ville": "LOCOAL-MENDON",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607074fa101a574e6bc5a807_12195796_1653429184874682_2811616134610162243_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

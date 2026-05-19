@@ -1,0 +1,19 @@
+{
+  "slug": "hallertauer-aroma",
+  "nom": "Hallertauer Aroma",
+  "description": "Hallertau, Hallertauer et Hallertauer Mittelfrüher sont tous des noms de la variété allemande originale Hallertau. Datant de plus de 100 ans, elle est issue d'une ancienne variété allemande et est l'un des quatre houblons \"nobles\" originaux. Il présente un arôme légèrement fleuri et épicé. Bien que sa popularité n'ait cessé de décliner au cours des 50 dernières années - principalement en raison de sa grande sensibilité au flétrissement verticillien et de ses faibles rendements - il a été utilisé pour créer une multitude de descendants, dont la plupart sont tolérants au flétrissement.",
+  "aaMin": 7,
+  "aaMax": 11,
+  "baMin": 6,
+  "baMax": 6.5,
+  "usage": "Double usage",
+  "cohumulone": "35 - 35",
+  "myrcene": "45 - 48",
+  "caryophyllene": "6",
+  "humulene": "10 - 12",
+  "aromes": [
+    "agrumes",
+    "floral",
+    "boise"
+  ]
+}

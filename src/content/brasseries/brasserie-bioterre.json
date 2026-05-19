@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bioterre",
+  "nom": "Brasserie Bioterre",
+  "cp": "61250",
+  "ville": "VALFRAMBERT",
+  "region": "normandie",
+  "departement": "orne-61",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60740978cd48bd4e9e49dc95_avatars-000799390741-ypkdbw-t500x500.jpeg",
+  "website": "http://www.bioterre.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

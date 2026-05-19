@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-farlodoise",
+  "nom": "Brasserie La Farlodoise",
+  "cp": "42140",
+  "ville": "CHAZELLES-SUR-LYON",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696ab84946fd29b509847_46989253_1964183596992337_4357109343854788608_n.jpeg",
+  "website": "http://www.lafarlodoise.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-walbrew-4",
+  "nom": "Brasserie Walbrew",
+  "cp": "65000",
+  "ville": "TARBES",
+  "region": "midi-pyrenees",
+  "departement": "hautes-pyrenees-65",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc378a0029281c3edf623_81294298_1943084925835110_254815474754256896_n.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

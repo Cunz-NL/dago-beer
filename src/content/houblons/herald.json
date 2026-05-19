@@ -1,0 +1,21 @@
+{
+  "slug": "herald",
+  "nom": "Herald",
+  "description": "Le houblon Herald fait partie de la première vague de houblons nains introduits dans l'industrie. Il a été lancé en 1996 aux côtés de ses sœurs Pilgrim et Pioneer. Au départ, certains brasseurs étaient réticents à utiliser le Herald malgré son amertume franche et son joli nez d'orange et de pamplemousse. Aujourd'hui, l'Herald est utilisée par une multitude de brasseries artisanales, notamment au Royaume-Uni.",
+  "aaMin": 9,
+  "aaMax": 12.7,
+  "baMin": 4.8,
+  "baMax": 5.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 60",
+  "cohumulone": "35 - 37",
+  "myrcene": "40",
+  "caryophyllene": "7.00",
+  "humulene": "15.00",
+  "aromes": [
+    "agrumes",
+    "orange-6",
+    "amertume-b",
+    "pamplemousse"
+  ]
+}

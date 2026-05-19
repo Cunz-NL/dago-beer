@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-riviere-dain",
+  "nom": "Brasserie Rivière d'Ain",
+  "cp": "1640",
+  "ville": "JUJURIEUX",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a3692c43b2e120547b77b3_couleurs-bi%25C3%25A8res.jpeg",
+  "website": "http://rivieredain.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

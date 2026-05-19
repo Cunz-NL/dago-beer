@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tina",
+  "nom": "Brasserie TINA",
+  "cp": "49400",
+  "ville": "SAUMUR",
+  "region": "pays-de-la-loire",
+  "departement": "maine-et-loire-49",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608b237d2ea60cb980a79afe_logo%20tina.png",
+  "website": "http://www.biere-tina.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

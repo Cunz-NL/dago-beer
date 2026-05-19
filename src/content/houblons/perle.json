@@ -1,0 +1,20 @@
+{
+  "slug": "perle",
+  "nom": "Perle",
+  "description": "La Perle originale a été créée en Allemagne dans les années 1960 ou au début des années 1970 à partir de la Northern Brewer et d'un mâle allemand. Elle a été mise sur le marché en 1978. Certaines brasseries européennes ont affirmé que la Perle ressemblait beaucoup à la Hallertau Mittelfrüher et la remplaçait avantageusement. D'autres, aux États-Unis et au Japon, n'ont cependant pas été d'accord avec cette évaluation. On dit que la Perle a un arôme agréable, des éléments de menthe et de pin avec un soupçon d'épices.",
+  "aaMin": 4,
+  "aaMax": 9,
+  "baMin": 2.5,
+  "baMax": 4.5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 70",
+  "myrcene": "10 - 23",
+  "caryophyllene": "8 - 10",
+  "humulene": "30 - 30",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral",
+    "menthole"
+  ]
+}

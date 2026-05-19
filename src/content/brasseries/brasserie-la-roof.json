@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-roof",
+  "nom": "Brasserie La Roof",
+  "cp": "10260",
+  "ville": "FOUCHÈRES",
+  "region": "champagne-ardenne",
+  "departement": "aube-10",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b933eb25c39f396d3f94_16804324_112417419283058_6508759870368911641_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

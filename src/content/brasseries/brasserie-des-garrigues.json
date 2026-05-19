@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-garrigues",
+  "nom": "Brasserie des Garrigues",
+  "cp": "30250",
+  "ville": "SOMMIÈRES",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad35a8cdc19093f96d71ac_142602134_3886735144720773_4522428128880342782_n.png",
+  "website": "http://www.brasseriedesgarrigues.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-une-petite-mousse",
+  "nom": "Brasserie Une Petite Mousse",
+  "cp": "38130",
+  "ville": "ECHIROLLES",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dedcc3a05ce95b3545ffc_121672808_126393119218387_7570318786172300655_n.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

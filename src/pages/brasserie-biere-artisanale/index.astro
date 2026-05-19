@@ -1,0 +1,66 @@
+---
+import Base from '@/layouts/Base.astro';
+import BreweryCard from '@/components/BreweryCard.astro';
+import RegionGrid from '@/components/RegionGrid.astro';
+import CrossSellBanner from '@/components/CrossSellBanner.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const brasseries = (await getCollection('brasseries'))
+  .filter((b) => b.data.statut === 'actif')
+  .sort((a, b) => a.data.nom.localeCompare(b.data.nom, 'fr'));
+
+const regions = await getCollection('regions');
+
+const brasseriesParRegion = brasseries.reduce<Record<string, number>>((acc, b) => {
+  const r = b.data.region;
+  acc[r] = (acc[r] ?? 0) + 1;
+  return acc;
+}, {});
+---
+
+<Base
+  title="Annuaire brasseries artisanales françaises — Dago Beer"
+  description={`Trouvez parmi ${brasseries.length}+ brasseries artisanales françaises référencées par région et département. L'annuaire craft beer le plus complet de France.`}
+  canonical="https://www.dago.beer/brasserie-biere-artisanale"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Brasseries artisanales' }]} />
+
+    <header class="mb-10">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-3">
+        Brasseries artisanales <span class="text-amber-brand">françaises</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70 max-w-2xl">
+        L'annuaire le plus complet de France : {brasseries.length}+ microbrasseries et brasseries craft référencées par région.
+      </p>
+    </header>
+
+    <CrossSellBanner />
+
+    <!-- Grille régions -->
+    <section class="mb-16">
+      <h2 class="font-heading text-2xl font-semibold text-white mb-6">Chercher par région</h2>
+      <RegionGrid regions={regions} brasseriesParRegion={brasseriesParRegion} />
+    </section>
+
+    <!-- Liste complète -->
+    <section>
+      <h2 class="font-heading text-2xl font-semibold text-white mb-6">
+        Toutes les brasseries <span class="text-muted/40 font-body text-base font-normal">({brasseries.length})</span>
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {brasseries.map((b) => (
+          <BreweryCard
+            slug={b.data.slug}
+            nom={b.data.nom}
+            cp={b.data.cp}
+            ville={b.data.ville}
+            region={b.data.region}
+            aBiereSansAlcool={b.data.aBiereSansAlcool}
+          />
+        ))}
+      </div>
+    </section>
+  </div>
+</Base>

@@ -1,0 +1,20 @@
+{
+  "slug": "whitbread-golding",
+  "nom": "Whitbread Golding",
+  "description": "La Whitbread Golding présente une saveur et un houblonnage robustes, notamment par rapport aux autres variétés de Golding. Avec ses arômes agréables, fruités, de style européen, elle a traditionnellement été très populaire en Angleterre et est actuellement cultivée de manière extensive pour la brasserie commerciale, artisanale et domestique. Lorsqu'elle est utilisée en tant que premier ajout, la Whitbread Golding présente une amertume forte et prononcée. Au milieu de l'ébullition, son profil de saveur tend vers un fruité doux et, en tant qu'ajout d'arôme, des arômes d'herbes et de bois se manifestent. Sélectionné pour la première fois en 1911 par le producteur de houblon Edward Albert White, il est le résultat d'une pollinisation ouverte du Bate's Brewer. Son nom actuel n'a toutefois été inventé qu'après l'acquisition par la Whitbread Brewing Company de la ferme sur laquelle il était cultivé quelques années plus tard. Ce n'est également qu'en 1953 que la variété a été officiellement mise en production. Saluée comme une variété salvatrice par les producteurs du Kent dans les années 1950, la résistance de la Whitbread Golding au Verticillium Wilt a contribué à en faire la favorite de l'industrie après que cette maladie ait dévasté les cultures de Golding et de Fuggle dans la région à cette époque.",
+  "aaMin": 5.4,
+  "aaMax": 8,
+  "baMin": 2,
+  "baMax": 3.3,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "myrcene": "21 - 27",
+  "caryophyllene": "12 - 14",
+  "humulene": "39 - 39",
+  "aromes": [
+    "floral",
+    "melon",
+    "fruite",
+    "terreux"
+  ]
+}

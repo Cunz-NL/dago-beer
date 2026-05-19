@@ -1,0 +1,18 @@
+{
+  "slug": "ekuanot",
+  "nom": "Ekuanot",
+  "aaMin": 13,
+  "aaMax": 15.5,
+  "baMin": 4,
+  "baMax": 5,
+  "usage": "Double usage",
+  "cohumulone": "32 - 38",
+  "aromes": [
+    "agrumes",
+    "herbeux",
+    "fruite",
+    "fruits-tropicaux",
+    "papaye",
+    "melon"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-blaireau-qui-brasse",
+  "nom": "Brasserie Le Blaireau Qui Brasse",
+  "cp": "74700",
+  "ville": "SALLANCHES",
+  "region": "rhone-alpes",
+  "departement": "haute-savoie-74",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60759c6c92f7cd58f7481380_logo_home.png",
+  "website": "http://www.blaireau-brasserie.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-elaphe",
+  "nom": "Brasserie Elaphe",
+  "cp": "85260",
+  "ville": "MONTRÉVERD",
+  "region": "pays-de-la-loire",
+  "departement": "vendee-85",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607b05dfc1eb4b80442142d3_45421001_2712299145661127_6322183609079824384_n.png",
+  "website": "https://www.elaphebrasserie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

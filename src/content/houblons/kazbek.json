@@ -1,0 +1,15 @@
+{
+  "slug": "kazbek",
+  "nom": "Kazbek",
+  "aaMin": 5,
+  "aaMax": 8,
+  "baMin": 4,
+  "baMax": 6,
+  "usage": "Aromatique",
+  "aromes": [
+    "menthole",
+    "mandarine",
+    "papaye",
+    "melisse"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-chez-le-brasseur-2",
+  "nom": "Brasserie Chez le Brasseur",
+  "cp": "83160",
+  "ville": "LA VALETTE-DU-VAR",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "var-83",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f61bf93589f5035daabb_les-trois-brasseurs.jpeg",
+  "website": "http://chezlebrasseur.com",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

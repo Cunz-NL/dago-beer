@@ -1,0 +1,19 @@
+{
+  "slug": "summerE284A2",
+  "nom": "Summer™",
+  "description": "Il n'est pas difficile de comprendre comment la variété de houblon australien, Summer, a obtenu son nom après avoir expérimenté ses sublimes et délicates notes d'abricot et de melon. D'autres ont même noté des éléments d'herbe, de pêche, de fruit de la passion et d'agrumes. Descendant du Saaz, Summer a été créé par Hop Products Australia en 1997. C'est un houblon aromatique à faible alpha qui peut être bien utilisé en fin d'ébullition. Il est cependant encore mieux adapté au houblonnage à sec et c'est dans cette capacité que son bouquet d'abricot et de melon brille vraiment. En tout cas, elle n'est pas aussi épicée que sa parente tchèque. La brasserie Malt Shovel a sorti son brassin Mad Brewers Garden di Paradisi en février 2014 avec un mélange de houblons doux et fruités qui comprenait la Summer.",
+  "aaMin": 5.6,
+  "aaMax": 6.4,
+  "baMin": 4.8,
+  "baMax": 6.1,
+  "usage": "Aromatique",
+  "cohumulone": "23 - 25",
+  "aromes": [
+    "abricot",
+    "peche",
+    "fruite",
+    "fruits-tropicaux",
+    "melon",
+    "fruit-a-noyau"
+  ]
+}

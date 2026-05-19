@@ -1,0 +1,22 @@
+{
+  "slug": "lubelski",
+  "nom": "Lubelski",
+  "description": "Souvent considéré comme un houblon polonais, le Lubelska est en fait originaire de Zatec, en République tchèque. Parfois commercialisée sous le nom de Lublin ou Lubelski, la teneur élevée en humulène de la Lubelska n'est surpassée que par ses niveaux élevés et rares de farnésène. Ce profil d'huile donne lieu à des arômes intéressants de magnolia et de lavande. Elle est considérée comme ayant un caractère très noble. Considérée comme un cultivar de Saaz, elle est désormais un pilier des brasseries polonaises.",
+  "aaMin": 3,
+  "aaMax": 4.5,
+  "baMin": 2.5,
+  "baMax": 3.5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 70",
+  "myrcene": "22 - 35",
+  "caryophyllene": "6 - 11",
+  "humulene": "30 - 30",
+  "aromes": [
+    "floral",
+    "epice",
+    "herbeux",
+    "citron",
+    "resineux",
+    "the"
+  ]
+}

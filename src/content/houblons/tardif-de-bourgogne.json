@@ -1,0 +1,17 @@
+{
+  "slug": "tardif-de-bourgogne",
+  "nom": "Tardif de Bourgogne",
+  "description": "Traduit en anglais, Tardif de Bourgogne signifie Late Burgundy. Semblable à Precoce de Bourgogne (Early Burgundy), c'est un houblon aromatique cultivé en petites quantités dans la région alsacienne de la France. Il est réputé pour son arôme doux de style européen et on pense qu'il est né de la sélection clonale d'une ancienne variété française. Malheureusement, la Tardif de Bourgogne est assez difficile à trouver sur le marché libre.",
+  "aaMin": 3,
+  "aaMax": 5,
+  "baMin": 2.5,
+  "baMax": 5,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 60",
+  "myrcene": "0.00",
+  "caryophyllene": "0.00",
+  "humulene": "0.00",
+  "aromes": [
+    "vanille"
+  ]
+}

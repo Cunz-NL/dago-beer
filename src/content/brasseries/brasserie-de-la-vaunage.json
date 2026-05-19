@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-vaunage",
+  "nom": "Brasserie de la Vaunage",
+  "cp": "30114",
+  "ville": "BOISSIERES",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6287302f4a012d07387d9c84_Logo_brasserie%20de%20la%20Vaunage.png",
+  "website": "http://www.brasseriedelavaunage.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

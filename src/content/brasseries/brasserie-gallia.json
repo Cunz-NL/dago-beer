@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-gallia",
+  "nom": "Brasserie Gallia",
+  "cp": "93500",
+  "ville": "PANTIN",
+  "region": "ile-de-france",
+  "departement": "seine-saint-denis-93",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368afba0fe992b4888f6f_93871730_3398431503504347_1933471187191463936_n.png",
+  "website": "http://www.galliaparis.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

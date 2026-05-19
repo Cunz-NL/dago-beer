@@ -1,0 +1,17 @@
+{
+  "slug": "recette-biere-gose",
+  "nom": "Recette Gose",
+  "description": "La recette parfaite pour cette ancienne bière allemande qui est à la fois acide et salée. Elle saura vous régaler !",
+  "style": "gose",
+  "ibu": 4,
+  "og": 1.038,
+  "fg": 1.009,
+  "abv": 3.8,
+  "batchSize": "20",
+  "boilTime": "60'",
+  "intro": "C'est une ancienne bière allemande qui est à la fois acide et salée. Elle contient généralement de la coriandre. Cette recette est notre révision de cette recette historique, le but étant d'avoir le goût d'une Margarita ! La principale différence entre cette recette et une recette de gose traditionnelle est que j'ajoute du zeste de citron vert et du Triple Sec. Allez c'est parti !",
+  "introHtml": "<p>C'est une ancienne bière allemande qui est à la fois acide et salée. Elle contient généralement de la coriandre.</p><p>Cette recette est notre révision de cette recette historique, le but étant d'avoir le goût d'une Margarita !</p><p>La principale différence entre cette recette et une recette de gose traditionnelle est que j'ajoute du zeste de citron vert et du Triple Sec.</p><p>Allez c'est parti !</p>",
+  "maltComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>EBC</td>\n<td>QUANTITE</td>\n<td>%</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Pilsner</td>\n<td>3</td>\n<td>1.6kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Malt de Blé</td>\n<td>4</td>\n<td>1.6kg</td>\n<td></td>\n</tr>\n<tr>\n<td>Malt acidulé</td>\n<td>5</td>\n<td>275g</td>\n<td></td>\n</tr>\n</tbody>\n</table></div>",
+  "houblonComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>TEMPS</td>\n<td>TECHNIQUE</td>\n<td>FORME</td>\n<td>ACIDE ALPHA</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Spalt Select</td>\n<td>8g</td>\n<td>60 min</td>\n<td>Ebullition</td>\n<td>Pellet</td>\n<td>3.8%</td>\n</tr>\n</tbody>\n</table></div><p>‍</p>",
+  "levureComposition": "<div data-rt-embed-type='true'><table>\n<thead>\n<tr>\n<td>NOM</td>\n<td>QUANTITE</td>\n<td>COMMENTAIRE</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Fermentis US-05</td>\n<td>1 paquet (11g)</td>\n<td></td>\n</tr>\n<tr>\n<td>Grain de coriandre</td>\n<td>10g</td>\n<td>A écraser juste avant.<br>Puis mettre 10 minutes avant la fin d'ébullition.</td>\n</tr>\n<tr>\n<td>Zest de citron vert</td>\n<td>15g</td>\n<td>Mettre 10 minutes avant la fin d'ébullition.</td>\n</tr>\n<tr>\n<td>Sel de table</td>\n<td>40g</td>\n<td>Mettre 10 minutes avant la fin d'ébullition.</td>\n</tr>\n</tbody>\n</table></div>"
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-coincoin",
+  "nom": "Brasserie Coincoin",
+  "cp": "54200",
+  "ville": "CHAUDENAY-SUR-MOSELLE",
+  "region": "lorraine",
+  "departement": "meurthe-et-moselle-54",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05dd4e48eb09e58a3c664_49941340767_df1a5ee495_b.jpeg",
+  "website": "http://www.brasseriecoincoin.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

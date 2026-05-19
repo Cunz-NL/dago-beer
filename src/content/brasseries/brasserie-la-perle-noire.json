@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-la-perle-noire",
+  "nom": "Brasserie La Perle Noire",
+  "cp": "39160",
+  "ville": "BALANOD",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca161534adcacb60206392_la-perle-noire.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "pays-de-la-loire",
+  "nom": "Pays de la Loire",
+  "departements": [
+    "loire-atlantique-44",
+    "maine-et-loire-49",
+    "mayenne-53",
+    "sarthe-72",
+    "vendee-85"
+  ]
+}

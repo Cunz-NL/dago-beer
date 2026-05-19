@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-saint-rieul",
+  "nom": "Brasserie Saint Rieul",
+  "cp": "60800",
+  "ville": "TRUMILLY",
+  "region": "picardie",
+  "departement": "oise-60",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608d04425b0d1627080a730e_64392549_2316226278636052_371498491962195968_n.jpeg",
+  "website": "http://www.st-rieul.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

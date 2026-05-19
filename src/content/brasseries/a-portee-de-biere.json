@@ -1,0 +1,13 @@
+{
+  "slug": "a-portee-de-biere",
+  "nom": "A Portée de Bière",
+  "cp": "79310",
+  "ville": "Vouhé",
+  "region": "poitou-charentes",
+  "departement": "deux-sevres-79",
+  "description": "Créée en 2021",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/627e5bffd61c6b3ff0901881_logo%20WEB.jpg",
+  "website": "https://www.aporteedebiere.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

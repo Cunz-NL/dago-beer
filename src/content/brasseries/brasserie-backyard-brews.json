@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-backyard-brews",
+  "nom": "Brasserie Backyard Brews",
+  "cp": "6560",
+  "ville": "VALBONNE",
+  "region": "provence-alpes-cote-dazur-paca",
+  "departement": "alpes-maritimes-06",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b880a1134f3c3e07e15e_45374095_781270488879795_4627486412835389440_n.png",
+  "website": "http://www.backyardbrews.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

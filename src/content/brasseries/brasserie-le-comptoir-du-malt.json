@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-le-comptoir-du-malt",
+  "nom": "Brasserie Le Comptoir du Malt",
+  "cp": "80090",
+  "ville": "AMIENS",
+  "region": "picardie",
+  "departement": "somme-80",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f51ec412cf246870ec1b_15589982_1235341109865739_5859546180686117557_n.png",
+  "website": "http://www.lecomptoirdumalt.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-du-castel",
+  "nom": "Brasserie du Castel",
+  "cp": "81320",
+  "ville": "NAGES",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f577139bc779d094c5b1_front_fr.3.full.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

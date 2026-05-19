@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-malting-pot",
+  "nom": "Brasserie Malting Pot",
+  "cp": "69007",
+  "ville": "LYON",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec64c70bc36516521e1a_12729263_438223129704886_2742528132072521362_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

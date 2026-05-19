@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-rieux",
+  "nom": "Brasserie des Rieux",
+  "cp": "7170",
+  "ville": "LUSSAS",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b4009d1302cd532ff81b_8323840-scaled.jpeg",
+  "website": "http://www.brasseriedesrieux.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

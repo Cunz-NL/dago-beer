@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-ekino",
+  "nom": "Brasserie Ekino",
+  "cp": "76620",
+  "ville": "LE HAVRE",
+  "region": "normandie",
+  "departement": "seine-maritime-76",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60741132ada7a9a7a6afc812_80a2ec4f443e493c38b033c2adfada32.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

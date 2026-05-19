@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-o-neil-sarl-du-puits",
+  "nom": "Brasserie O' Neil (SARL du Puits)",
+  "cp": "75006",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d113ceaf0dc361de9356_page_1.jpeg",
+  "website": "https://www.brasserieoneil.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

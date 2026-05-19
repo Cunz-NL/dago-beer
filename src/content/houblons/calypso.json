@@ -1,0 +1,22 @@
+{
+  "slug": "calypso",
+  "nom": "Calypso",
+  "description": "Calypso est un houblon diploïde à double usage, élevé dans la vallée de Yakima, avec une lignée Hopsteiner des deux côtés. Malgré ses origines axées sur les arômes, il présente un pourcentage élevé d'acide alpha. En outre, la Calypso présente des arômes et des saveurs croquants et fruités, avec des éléments de pomme, de poire et de fruits à noyau, agrémentés de notes de citron vert. Elle est merveilleusement complexe avec une note terreuse presque discrète, semblable au thé.",
+  "aaMin": 12,
+  "aaMax": 14,
+  "baMin": 5,
+  "baMax": 6,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 65",
+  "cohumulone": "40 - 42",
+  "aromes": [
+    "citron",
+    "fruits-tropicaux",
+    "menthole",
+    "poire",
+    "pomme",
+    "terreux",
+    "fruit-a-noyau",
+    "the"
+  ]
+}

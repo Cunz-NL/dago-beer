@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-gaillarde",
+  "nom": "Brasserie Gaillarde",
+  "cp": "19100",
+  "ville": "BRIVE-LA-GAILLARDE",
+  "region": "limousin",
+  "departement": "correze-19",
+  "description": "Créée en 2010 à BRIVE-LA-GAILLARDE",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bce567ec61053c226d89f_new_LOGO_noir_blanc_brasseriegaillarde-01.jpg",
+  "website": "http://www.labrasseriegaillarde.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

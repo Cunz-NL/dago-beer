@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-baleine",
+  "nom": "Brasserie La Baleine",
+  "cp": "75020",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093998aecb2b3b6733a7af2_Logo-Fond-Noir.jpeg",
+  "website": "http://www.brasserie-la-baleine.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

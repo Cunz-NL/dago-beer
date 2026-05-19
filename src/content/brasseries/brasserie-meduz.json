@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-meduz",
+  "nom": "Brasserie Meduz",
+  "cp": "30700",
+  "ville": "SANILHAC-SAGRIÈS",
+  "region": "languedoc-roussillon",
+  "departement": "gard-30",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad357b0eae9b116b8a7bca_125930292_3535761069864907_1097993654164785251_n.jpeg",
+  "website": "http://www.meduz.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

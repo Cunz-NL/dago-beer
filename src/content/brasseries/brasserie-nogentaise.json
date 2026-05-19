@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-nogentaise",
+  "nom": "Brasserie Nogentaise",
+  "cp": "28400",
+  "ville": "ARCISSES",
+  "region": "centre",
+  "departement": "eure-et-loir-28",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60abe4c6337b3e3fb5396c26_maxresdefault.jpeg",
+  "website": "http://www.brasserie-nogentaise.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

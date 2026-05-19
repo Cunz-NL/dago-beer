@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-sainte-crucienne",
+  "nom": "Brasserie Sainte Crucienne",
+  "cp": "68000",
+  "ville": "COLMAR",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092ceb2ad8ea43da2cb215b_165925_489221174447818_1295302428_n.png",
+  "website": "http://www.sainte-cru.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

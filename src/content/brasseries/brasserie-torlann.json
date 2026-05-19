@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-torlann",
+  "nom": "Brasserie de Torlann",
+  "cp": "56300",
+  "ville": "Malguénac",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "description": "Brasserie de Torlann à Malguénac, Morbihan.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60520872b5d5fa76e96dad86_brasserie-de-torlann.jpg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

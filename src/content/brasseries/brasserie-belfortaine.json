@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-belfortaine",
+  "nom": "Brasserie Belfortaine",
+  "cp": "90300",
+  "ville": "VALDOIE",
+  "region": "franche-comte",
+  "departement": "territoire-de-belfort-90",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a5b176a11dcc077aff8b_13131547_1890970094463127_3844900714054684979_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

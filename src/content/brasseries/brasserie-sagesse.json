@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-sagesse",
+  "nom": "Brasserie Sagesse",
+  "cp": "14130",
+  "ville": "LE BREUIL-EN-AUGE",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c67a6a8c41c3cb7e940_54517852_2279042592308739_2288917999094071296_n.jpeg",
+  "website": "http://www.biere-sagesse.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

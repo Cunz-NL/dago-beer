@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bellenaert",
+  "nom": "Brasserie Bellenaert",
+  "cp": "59270",
+  "ville": "BAILLEUL",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608af9bdff581166a92871cf_17492288_401144510246976_8823785380954237227_o.jpeg",
+  "website": "http://www.bellenaert.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

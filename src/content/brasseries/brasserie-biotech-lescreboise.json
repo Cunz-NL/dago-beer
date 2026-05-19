@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-biotech-lescreboise",
+  "nom": "Brasserie BioTech' (L'Escreboise)",
+  "cp": "59500",
+  "ville": "DOUAI",
+  "region": "nord-pas-de-calais",
+  "departement": "nord-59",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608bf3da34bb6f7e684c60a4_10917122_818153221609113_7878233695224001738_o.jpeg",
+  "website": "https://wagnonville.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

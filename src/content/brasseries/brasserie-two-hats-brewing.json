@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-two-hats-brewing",
+  "nom": "Brasserie Two Hats Brewing",
+  "cp": "1300",
+  "ville": "PEYRIEU",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368fb0d6b27ef5f4de7f9_DSC07544.jpeg",
+  "website": "https://www.twohatsbrewing.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

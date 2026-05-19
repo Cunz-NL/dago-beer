@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-sancerroise",
+  "nom": "Brasserie Sancerroise",
+  "cp": "18300",
+  "ville": "SANCERRE",
+  "region": "centre",
+  "departement": "cher-18",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60814e38049f29a2a6247894_front_fr.5.full.jpeg",
+  "website": "http://www.brasserie-sancerroise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

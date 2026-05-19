@@ -1,0 +1,10 @@
+{
+  "slug": "brasserie-margot",
+  "nom": "Brasserie Margot",
+  "cp": "81000",
+  "ville": "ALBI",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-du-sol-de-loste",
+  "nom": "Brasserie du Sol de l'Oste",
+  "cp": "32310",
+  "ville": "Valence-Sur-Baise",
+  "region": "midi-pyrenees",
+  "departement": "gers-32",
+  "description": "Microbrasserie créée en 2021 à Valence-Sur-Baise (32)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/61ea9d8eac3fe14003b972f6_LogoBrasseriedusoldeloste.png",
+  "website": "https://www.brasseriedusoldeloste.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

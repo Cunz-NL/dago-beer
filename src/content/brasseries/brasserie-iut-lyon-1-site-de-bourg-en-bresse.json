@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-iut-lyon-1---site-de-bourg-en-bresse",
+  "nom": "Brasserie IUT Lyon 1 - Site de Bourg-en-Bresse",
+  "cp": "1000",
+  "ville": "BOURG-EN-BRESSE",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a369208cc1bb7d89050a4f_f98f304384a307cbe1c3da3d56b0463c2a2b791c.png",
+  "website": "http://iut.univ-lyon1.fr",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

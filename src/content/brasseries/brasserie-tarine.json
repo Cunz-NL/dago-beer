@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-tarine",
+  "nom": "Brasserie Tarine",
+  "cp": "73700",
+  "ville": "BOURG-SAINT-MAURICE",
+  "region": "rhone-alpes",
+  "departement": "savoie-73",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6087f6aa0eaf4203de65bb61_chalet-la-tarine.jpeg",
+  "website": "https://www.labrasserietarine.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

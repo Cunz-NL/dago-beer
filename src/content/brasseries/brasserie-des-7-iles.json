@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-des-7-iles",
+  "nom": "Brasserie des 7 îles",
+  "cp": "22730",
+  "ville": "TREGASTEL",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6085e35ddb9558d6eafde0fd_bd7i_logo.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-my-little-beer",
+  "nom": "Brasserie My Little Beer",
+  "cp": "33700",
+  "ville": "MÉRIGNAC",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60afab39f1c7d81fdd9269bb_40808577_1659654000813721_6147315115134812160_n.jpeg",
+  "website": "http://www.mylittlebeer.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

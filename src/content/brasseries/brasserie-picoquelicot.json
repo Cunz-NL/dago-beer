@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-picoquelicot",
+  "nom": "Brasserie Picoquelicot",
+  "cp": "80600",
+  "ville": "RAINCHEVAL",
+  "region": "picardie",
+  "departement": "somme-80",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f599e42817513e054963_89464764_3098366023530195_9102790168594612224_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

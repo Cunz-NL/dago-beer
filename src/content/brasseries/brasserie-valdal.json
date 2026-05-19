@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-valdal",
+  "nom": "Brasserie Valdal",
+  "cp": "14410",
+  "ville": "VALDALLIÈRE",
+  "region": "normandie",
+  "departement": "calvados",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a67c5e1eb2625a30f44e1e_20901658_372656503152476_8437049360590992369_o.png",
+  "website": "http://www.valdal.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

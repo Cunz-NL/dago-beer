@@ -1,0 +1,20 @@
+{
+  "slug": "southern-passion",
+  "nom": "Southern Passion",
+  "description": "Southern Cross a été créé par le programme d'élevage HortResearch de Nouvelle-Zélande comme un croisement entre Smooth Cone et le résultat d'un Fuggle californien et anglais. Elle a été commercialisée en 1994. En brasserie, agrumes, épices et tout ce qui est agréable, voilà comment on pourrait décrire la variété Southern Cross de Nouvelle-Zélande. Une amertume douce en fait un bon ajout précoce à l'ébullition. Plus tard, elle présente un zeste de citron capiteux et une essence d'aiguille de pin, ce qui en fait une star dans son genre. Il ne semble pas y avoir de substitut qui puisse s'approcher des caractéristiques de la Southern Cross. La brasserie Sierra Nevada a sorti sa Southern Hemisphere Harvest fresh hops ale en avril 2014 en utilisant Southern Cross, ainsi que Pacifica et Motueka comme houblon de finition.",
+  "aaMin": 5,
+  "aaMax": 12,
+  "baMin": 7,
+  "baMax": 8,
+  "usage": "Double usage",
+  "cohumulone": "16 - 20",
+  "aromes": [
+    "epice",
+    "fruit-de-la-passion",
+    "pamplemousse",
+    "goyave",
+    "terreux",
+    "melon",
+    "baies-rouges"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "helga",
+  "nom": "Helga",
+  "description": "Helga est un cultivar australien, anciennement connu sous le nom de Southern Hallertau. Helga a été sélectionnée par Hop Products Australia à partir de la Hallertau Mittelfrüher dans le but de disséquer et de conserver l'arôme noble caractéristique de la Hallertau. Helga est facile à travailler - peu importe à quel moment elle est ajoutée dans le brassage, même lors d'un houblonnage à sec, les résultats sont réputés être toujours agréables. Elle est légèrement florale et épicée. Helga a fait des débuts discrets, créée en 1996, il lui a fallu près de 10 ans pour connaître un succès commercial. Actuellement, la production est augmentée à mesure que les brasseurs artisanaux s'y intéressent.",
+  "aaMin": 5.4,
+  "aaMax": 7.3,
+  "baMin": 5,
+  "baMax": 7,
+  "usage": "Double usage",
+  "aromes": [
+    "herbeux",
+    "epice",
+    "floral",
+    "terreux"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ma-biere",
+  "nom": "Brasserie Ma Bière",
+  "cp": "75013",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d0c9d12a12808f46c27a_Grande_Brasserie_La_Nouvelle_Gallia%252C_Mus%25C3%25A9e_Europ%25C3%25A9en_de_la_Bi%25C3%25A8re.jpeg",
+  "website": "http://www.mabiere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "summitE284A2",
+  "nom": "Summit™",
+  "description": "Développée en 1998 par l'American Dwarf Hop Association, une entreprise conjointe de sélection de houblon entre les propriétaires de Roy Farms, Wyckoff Farms et Green Acres Farms, Summit™ a été mise en circulation pour des essais de brassage en 2000. Elle a la particularité d'être la première variété semi-naine à être sélectionnée aux États-Unis et est actuellement la seule variété à faible treillis cultivée dans le pays. Son pedigree est résolument complexe, provenant d'une combinaison de houblons Nugget, Zeus et Lexus. Summit présente des arômes citriques de mandarine, de pamplemousse et d'orange, ainsi qu'une teneur impressionnante en alpha, ce qui lui confère un large éventail d'utilisations potentielles. Il est intéressant de noter qu'en dépit de la nature exclusive de la variété, l'ADHA n'impose aucune restriction quant à l'endroit où les producteurs qui détiennent une licence pour cette variété peuvent la vendre.",
+  "aaMin": 13,
+  "aaMax": 18,
+  "baMin": 3.5,
+  "baMax": 6.5,
+  "usage": "Amérisant",
+  "stabilite": "Excellente : 85",
+  "myrcene": "30 - 50",
+  "caryophyllene": "10 - 15",
+  "humulene": "15 - 15",
+  "aromes": [
+    "agrumes",
+    "epice",
+    "terreux"
+  ]
+}

@@ -1,0 +1,87 @@
+---
+import Base from '@/layouts/Base.astro';
+import BeerCard from '@/components/BeerCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const bieres = (await getCollection('bieresSansAlcool')).sort((a, b) => b.data.note - a.data.note);
+
+const zeroAlcool = bieres.filter((b) => b.data.abv === 0);
+const lowAbv = bieres.filter((b) => b.data.abv > 0);
+---
+
+<Base
+  title="Bière sans alcool — Guide & sélection expert — Dago Beer"
+  description="La sélection la plus complète de bières sans alcool (0.0%) et low-ABV en France. Avis de zythologue, notes, comparatifs et liens d'achat."
+  canonical="https://www.dago.beer/biere-sans-alcool"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Bière sans alcool' }]} />
+
+    <header class="mb-12 max-w-3xl">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-4">
+        Bière sans alcool : <span class="text-amber-brand">la sélection expert</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        {bieres.length} bières sans alcool et low-ABV testées et notées par notre zythologue.
+        Du 0.0% au 3.5%, trouvez la bière qui vous correspond sans sacrifier le plaisir.
+      </p>
+    </header>
+
+    <!-- Bières 0.0% -->
+    {zeroAlcool.length > 0 && (
+      <section class="mb-14">
+        <div class="flex items-center gap-3 mb-6">
+          <h2 class="font-heading text-2xl font-bold text-white">Bières 0.0% sans alcool</h2>
+          <span class="text-xs font-body px-2 py-1 rounded-full bg-green-600/20 text-green-400 border border-green-600/30">
+            {zeroAlcool.length} référence{zeroAlcool.length !== 1 ? 's' : ''}
+          </span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {zeroAlcool.map((b) => (
+            <BeerCard
+              slug={b.data.slug}
+              nom={b.data.nom}
+              marque={b.data.marque}
+              style={b.data.style}
+              abv={b.data.abv}
+              note={b.data.note}
+              description={b.data.description}
+              urlSaveurBiere={b.data.urlSaveurBiere}
+              urlUnePetiteMousse={b.data.urlUnePetiteMousse}
+              urlBeerWulf={b.data.urlBeerWulf}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Bières low-ABV -->
+    {lowAbv.length > 0 && (
+      <section>
+        <div class="flex items-center gap-3 mb-6">
+          <h2 class="font-heading text-2xl font-bold text-white">Bières low-ABV (0.5% – 3.5%)</h2>
+          <span class="text-xs font-body px-2 py-1 rounded-full bg-orange-600/20 text-orange-400 border border-orange-600/30">
+            {lowAbv.length} référence{lowAbv.length !== 1 ? 's' : ''}
+          </span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {lowAbv.map((b) => (
+            <BeerCard
+              slug={b.data.slug}
+              nom={b.data.nom}
+              marque={b.data.marque}
+              style={b.data.style}
+              abv={b.data.abv}
+              note={b.data.note}
+              description={b.data.description}
+              urlSaveurBiere={b.data.urlSaveurBiere}
+              urlUnePetiteMousse={b.data.urlUnePetiteMousse}
+              urlBeerWulf={b.data.urlBeerWulf}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

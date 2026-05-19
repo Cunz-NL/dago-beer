@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cerva-doc",
+  "nom": "Brasserie Cerva d'Oc",
+  "cp": "87230",
+  "ville": "Flavignac",
+  "region": "limousin",
+  "departement": "haute-vienne-87",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891a59c74544071551693a_bieremagazine.jpeg",
+  "website": "http://www.cervadoc.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

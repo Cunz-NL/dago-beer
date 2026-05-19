@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-lolanier",
+  "nom": "Brasserie de l'Olanier",
+  "cp": "7260",
+  "ville": "ROSIÈRES",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b410a8e52c695d8fa1cc_6022935966_435e21bf97_b.jpeg",
+  "website": "http://www.cevenale.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

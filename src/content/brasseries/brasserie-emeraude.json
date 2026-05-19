@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-emeraude",
+  "nom": "Brasserie d'Emeraude",
+  "cp": "35780",
+  "ville": "La Richardais",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "description": "Brasserie d'Emeraude à Dinard, Ille-et-Vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/5faaa7dcc62055ec92fbe9cd_36246647_2200624973287940_3327396359182483456_n.jpg",
+  "website": "https://brasserie-emeraude.business.site/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

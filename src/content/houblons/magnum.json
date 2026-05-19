@@ -1,0 +1,19 @@
+{
+  "slug": "magnum",
+  "nom": "Magnum",
+  "description": "La Magnum est cultivée sur une superficie limitée aux États-Unis, mais ce qui est produit présente un excellent profil d'amertume et un bel arôme floral houblonné et des caractères subtils d'agrumes. Bien qu'il ne soit pas génétiquement différent du Magnum allemand original, certaines subtilités existent sans aucun doute en raison des conditions de culture variées entre les deux pays. Les deux houblons sont toutefois considérés comme totalement interchangeables. Le Magnum original cultivé en Allemagne a été mis sur le marché en 1980 et provient de l'Institut allemand du houblon à Hull. Il est considéré comme particulièrement bon pour les ales fortes comme les IPA et les bières impériales, mais aussi pour les lagers et les pilsners.",
+  "aaMin": 11,
+  "aaMax": 16,
+  "baMin": 5,
+  "baMax": 7,
+  "usage": "Amérisant",
+  "stabilite": "Excellente : 85",
+  "myrcene": "30 - 35",
+  "caryophyllene": "8 - 12",
+  "humulene": "34 - 34",
+  "aromes": [
+    "poivre",
+    "pomme",
+    "fruite"
+  ]
+}

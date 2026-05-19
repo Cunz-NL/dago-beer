@@ -1,0 +1,24 @@
+{
+  "slug": "african-queen",
+  "nom": "African Queen",
+  "description": "Doux, agréable et légèrement épicé, l'Outeniqua est un excellent houblon à haut degré d'amertume provenant du pays du lait et du miel, surnom de la région d'Afrique du Sud où il est cultivé. Utilisé principalement au niveau local, l'Outeniqua présente un profil d'huile bien équilibré et un arôme houblonné puissant et percutant. L'Outeniqua est également la mère de la variété à haute teneur en alpha, Southern Star.",
+  "aaMin": 12,
+  "aaMax": 17,
+  "baMin": 3.9,
+  "baMax": 5.6,
+  "usage": "Double usage",
+  "cohumulone": "26 - 30",
+  "myrcene": "28.4",
+  "caryophyllene": "12.8",
+  "humulene": "21.4",
+  "aromes": [
+    "piment",
+    "agrumes",
+    "cassis",
+    "fruit-a-noyau",
+    "myrtille",
+    "bubble-gum",
+    "groseille",
+    "citronnelle"
+  ]
+}

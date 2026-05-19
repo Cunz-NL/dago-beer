@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-fous",
+  "nom": "Brasserie Les Fous",
+  "cp": "22160",
+  "ville": "CARNOËT",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606f3961929873d45bb9be9b_cantillon-fou-foune-750ml-bottle_1600x.jpeg",
+  "website": "http://www.orsonale.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

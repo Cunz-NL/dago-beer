@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-redoutey",
+  "nom": "Brasserie Redoutey",
+  "cp": "70120",
+  "ville": "LAVIGNEY",
+  "region": "franche-comte",
+  "departement": "haute-saone-70",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d04b44d4a13d1307e6ed_BRlogo_RVB.jpeg",
+  "website": "http://www.brasserieredoutey.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

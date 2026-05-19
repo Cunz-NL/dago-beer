@@ -1,0 +1,15 @@
+{
+  "slug": "minstrel-C2AE",
+  "nom": "Minstrel ®",
+  "aaMin": 5,
+  "aaMax": 7,
+  "baMin": 3,
+  "baMax": 3.5,
+  "usage": "Aromatique",
+  "aromes": [
+    "orange-6",
+    "epice",
+    "baies-noires",
+    "amertume-b"
+  ]
+}

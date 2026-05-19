@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-les-deux-branches",
+  "nom": "Brasserie Les Deux Branches",
+  "cp": "42750",
+  "ville": "MAIZILLY",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696e3633c0c03306f3225_52871872_2122696357776638_3716132796876455936_n.png",
+  "website": "http://lesdeuxbranches.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

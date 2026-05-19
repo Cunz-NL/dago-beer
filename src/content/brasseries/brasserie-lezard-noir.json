@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lezard-noir",
+  "nom": "Brasserie Lézard Noir",
+  "cp": "81190",
+  "ville": "PAMPELONNE",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5b930c213bb1df7ceaa_100660112_595452597738608_8028137137217994752_n.png",
+  "website": "https://www.bierelezardnoir.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

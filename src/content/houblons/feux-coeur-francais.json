@@ -1,0 +1,11 @@
+{
+  "slug": "feux-coeur-francais",
+  "nom": "Feux-Coeur Français",
+  "description": "Le Feux-Coeur (alias Feux-Coeur Français) est un houblon amérisant australien dont les racines génétiques remontent à la France bourguignonne. Récolté pour la première fois en 2010, il est considéré comme rare et sélectionné spécifiquement pour être cultivé dans l'État de Victoria, plus frais et plus au sud. Malheureusement, peu de choses ont été écrites sur sa meilleure utilisation ou son profil de saveur à ce stade.",
+  "aaMin": 12,
+  "aaMax": 16,
+  "baMin": 3,
+  "baMax": 6,
+  "usage": "Amérisant",
+  "aromes": []
+}

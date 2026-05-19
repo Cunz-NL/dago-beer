@@ -1,0 +1,14 @@
+{
+  "slug": "gargoyle-C2AE",
+  "nom": "Gargoyle ®",
+  "description": "Gargoyle, tout comme Ivanhoe, est une nouvelle génération de California Cluster et la première à être cultivée commercialement depuis plus d'un demi-siècle. Ressuscité par la ferme de houblon biologique Hops-Mesiter, LLC près de Clearlake, en Californie, il est similaire à Ivanhoe mais tend davantage vers un bouquet d'agrumes et de mangue.",
+  "aaMin": 4,
+  "aaMax": 6,
+  "usage": "Aromatique",
+  "aromes": [
+    "agrumes",
+    "floral",
+    "fruits-tropicaux",
+    "mangue"
+  ]
+}

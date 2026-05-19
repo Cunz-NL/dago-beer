@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-aerofab",
+  "nom": "Brasserie Aerofab",
+  "cp": "44880",
+  "ville": "SAUTRON",
+  "region": "pays-de-la-loire",
+  "departement": "loire-atlantique-44",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607d3d0bf40677668b712807_53400574_458699341335742_2038638958992162816_n.png",
+  "website": "http://aerofab.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "epic",
+  "nom": "Epic",
+  "aaMin": 3,
+  "aaMax": 5,
+  "baMin": 1.7,
+  "baMax": 2.5,
+  "usage": "Aromatique",
+  "aromes": [
+    "herbeux",
+    "baies-noires",
+    "citronnelle"
+  ]
+}

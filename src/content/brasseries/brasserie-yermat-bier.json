@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-yermat-bier",
+  "nom": "Yermat Bier",
+  "cp": "56570",
+  "ville": "Locmiquélic",
+  "region": "bretagne",
+  "departement": "morbihan",
+  "description": "Yermat Bier brasse 8 bieres artisanales.",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6052083f33a0fdecb6dab68e_logo-brasserie-yermat-bier-200x200.jpg",
+  "website": "https://yermatbier.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

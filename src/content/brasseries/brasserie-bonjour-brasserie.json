@@ -1,0 +1,10 @@
+{
+  "slug": "brasserie-bonjour-brasserie",
+  "nom": "Brasserie Bonjour Brasserie",
+  "cp": "75014",
+  "ville": "PARIS",
+  "region": "ile-de-france",
+  "departement": "paris-75",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

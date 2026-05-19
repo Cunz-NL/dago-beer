@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-au-brasseur-almibra",
+  "nom": "Brasserie Au Brasseur (Almibra)",
+  "cp": "67000",
+  "ville": "STRASBOURG",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090ef1c70629a25a92f4b2d_14937311_1202815039762056_7038831156866746952_n.jpeg",
+  "website": "http://www.aubrasseur.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-demi-lune",
+  "nom": "Brasserie Demi-Lune",
+  "cp": "69160",
+  "ville": "TASSIN-LA-DEMI-LUNE",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec6d67d6791fe68ee842_14566255_1120244658057367_1364434779883333974_o.jpeg",
+  "website": "http://demilune-brasserie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-ccb",
+  "nom": "Brasserie CCB",
+  "cp": "26600",
+  "ville": "CHANOS-CURSON",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606464c5d935811c4f6622db_77165cff3666b6f9b53b40da41a52cf8.jpeg",
+  "website": "http://ccb-brasserie.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

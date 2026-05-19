@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-cabule",
+  "nom": "Brasserie Cabule",
+  "cp": "26530",
+  "ville": "LE GRAND-SERRE",
+  "region": "rhone-alpes",
+  "departement": "drome-26",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606464c3580ee42ccd5f9701_56345911_1150962875083176_2927061955011149824_n.png",
+  "website": "http://www.cabule.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

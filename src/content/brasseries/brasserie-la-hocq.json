@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-hocq",
+  "nom": "Brasserie La Hocq",
+  "cp": "12330",
+  "ville": "SAINT-CHRISTOPHE-VALLON",
+  "region": "midi-pyrenees",
+  "departement": "aveyron-12",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a4b9af847730ce4911f7ac_Hocq-logo-RVB2-test.jpeg",
+  "website": "http://www.lahocq.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

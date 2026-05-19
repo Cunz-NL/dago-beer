@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-zoobrew",
+  "nom": "Brasserie Zoobrew",
+  "cp": "34170",
+  "ville": "CASTELNAU-LE-LEZ",
+  "region": "languedoc-roussillon",
+  "departement": "herault-34",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca1397f7f3f81dd7879fb5_Logo_ZooBrew-1.jpeg",
+  "website": "https://www.zoobrew.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-insulaire",
+  "nom": "Brasserie Insulaire",
+  "cp": "27380",
+  "ville": "CHARLEVAL",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6074102ab273b933621ec123_Brasserie-insulaire-Salle02-Brasserie-Insulaire-2.jpeg",
+  "website": "https://brasserie-insulaire.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

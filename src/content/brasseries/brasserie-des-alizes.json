@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-alizes",
+  "nom": "Brasserie des Alizés",
+  "cp": "22100",
+  "ville": "DINAN",
+  "region": "bretagne",
+  "departement": "cotes-d-armor",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606e254866890d9b290dcf7c_getlstd-property-photo.jpeg",
+  "website": "https://www.labrasseriededinan.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

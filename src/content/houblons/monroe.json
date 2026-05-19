@@ -1,0 +1,14 @@
+{
+  "slug": "monroe",
+  "nom": "Monroe",
+  "description": "Nommé en mémoire de Marylin Monroe « dans sa robe rouge », extravagante comme le serait ce houblon",
+  "aaMin": 2.5,
+  "aaMax": 2.5,
+  "usage": "Aromatique",
+  "aromes": [
+    "orange-6",
+    "framboise",
+    "sucre",
+    "cerise"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-iron",
+  "nom": "Brasserie Iron",
+  "cp": "82000",
+  "ville": "MONTAUBAN",
+  "region": "midi-pyrenees",
+  "departement": "tarn-et-garonne-82",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5d860d89d74c125760f_68801567_2393629360906741_6003897150574952448_n.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

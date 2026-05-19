@@ -1,0 +1,21 @@
+{
+  "slug": "palisadeC2AE",
+  "nom": "Palisade®",
+  "description": "Pour les brasseurs, le houblon Palisade®, sélectionné par le Yakima Chief Ranch, présente des arômes complexes de fleurs, d'herbes et de graminées, ainsi que des saveurs de nectar et d'agrumes. Pour les cultivateurs, il présente un potentiel de rendement incroyable, du moins dans sa vallée natale de Yakima, dans l'État de Washington. Palisade est un croisement à pollinisation ouverte de Swiss Tettnanger.",
+  "aaMin": 6.5,
+  "aaMax": 10,
+  "baMin": 5.5,
+  "baMax": 8,
+  "usage": "Aromatique",
+  "stabilite": "Bonne : 65",
+  "myrcene": "9 - 10",
+  "caryophyllene": "16 - 18",
+  "humulene": "19 - 19",
+  "aromes": [
+    "herbeux",
+    "floral",
+    "abricot",
+    "fruite",
+    "terreux"
+  ]
+}

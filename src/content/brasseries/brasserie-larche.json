@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-larche",
+  "nom": "Brasserie Larché",
+  "cp": "89100",
+  "ville": "MALAY-LE-GRAND",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d0a5a12a46f82f9192f09c_37720944_1844793622249969_6322652035392995328_n.png",
+  "website": "http://www.brasserie-larche.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

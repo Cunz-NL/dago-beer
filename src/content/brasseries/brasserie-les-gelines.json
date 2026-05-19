@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-les-gelines",
+  "nom": "Brasserie Les Gélines",
+  "cp": "81000",
+  "ville": "ALBI",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5ab30c2135b6ff7c07d_21273311_859637774212145_3029487186335062321_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

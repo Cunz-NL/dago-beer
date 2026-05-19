@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bendorf",
+  "nom": "Brasserie Bendorf",
+  "cp": "67100",
+  "ville": "STRASBOURG",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090eef06bc1077aa93c95f9_Logo_Brasserie_Bendorf.png",
+  "website": "http://www.brasserie-bendorf.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

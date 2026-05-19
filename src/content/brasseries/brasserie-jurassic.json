@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-jurassic",
+  "nom": "Brasserie Jurassic",
+  "cp": "39220",
+  "ville": "LES ROUSSES",
+  "region": "franche-comte",
+  "departement": "jura-39",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca15d7bdf0ea8e37982590_1276502_519913854862908_1583712672826919823_o.jpeg",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-merchien",
+  "nom": "Brasserie Merchien",
+  "cp": "46230",
+  "ville": "FONTANES",
+  "region": "midi-pyrenees",
+  "departement": "lot-46",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60cafb2476c19ca96964a303_56580482_1151822208358423_600996654924955648_n.jpeg",
+  "website": "http://www.merchien.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

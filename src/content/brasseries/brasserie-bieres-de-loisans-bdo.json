@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bieres-de-loisans-bdo",
+  "nom": "Brasserie Bières de l'Oisans (BDO)",
+  "cp": "38520",
+  "ville": "LE BOURG-D'OISANS",
+  "region": "rhone-alpes",
+  "departement": "isere",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dee01ab50b17cfad5856c_23551144_2004310856447146_8724270162955220805_o.jpeg",
+  "website": "http://www.bieresdeloisans.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

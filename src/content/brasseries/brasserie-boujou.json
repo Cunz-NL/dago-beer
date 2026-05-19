@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-boujou",
+  "nom": "Brasserie Boujou",
+  "cp": "27820",
+  "ville": "CHENNEBRUN",
+  "region": "normandie",
+  "departement": "eure-27",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/607410cedff99a8e37344814_24909913_1546634335428207_3847511261748974278_n.jpeg",
+  "website": "https://www.brasserie-boujou.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

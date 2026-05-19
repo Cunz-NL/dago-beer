@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-la-motte-juillet",
+  "nom": "Brasserie de la Motte-Juillet",
+  "cp": "3240",
+  "ville": "TREBAN",
+  "region": "auvergne",
+  "departement": "allier-03",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6082d3c35cd9bd94a9dced72_42402.jpeg",
+  "website": "http://www.lamottejuillet.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

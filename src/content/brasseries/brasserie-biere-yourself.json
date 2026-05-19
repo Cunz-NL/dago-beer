@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-biere-yourself",
+  "nom": "Brasserie Bière Yourself",
+  "cp": "1210",
+  "ville": "FERNEY-VOLTAIRE",
+  "region": "rhone-alpes",
+  "departement": "ain-01",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60a368f84de4bb1b78cc42cd_107521188_882694292141488_6567726678735213261_n.jpeg",
+  "website": "https://www.biereyourself.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

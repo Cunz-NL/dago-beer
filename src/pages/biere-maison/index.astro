@@ -1,0 +1,68 @@
+---
+import Base from '@/layouts/Base.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import Breadcrumb from '@/components/Breadcrumb.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles'))
+  .filter((a) => a.data.tags.some((t) => ['brassage-amateur', 'recette-biere', 'kit-brassage', 'debutant'].includes(t)))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+  .slice(0, 6);
+
+const recettes = (await getCollection('recettes')).slice(0, 3);
+---
+
+<Base
+  title="Bière maison — Brasser sa bière à la maison — Dago Beer"
+  description="Tout pour brasser votre bière maison : kits de brassage, recettes détaillées, guides techniques et conseils de zythologues. Commencez à brasser dès aujourd'hui."
+  canonical="https://www.dago.beer/biere-maison"
+>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <Breadcrumb items={[{ label: 'Bière maison' }]} />
+
+    <header class="mb-12 max-w-3xl">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-4">
+        Brasser sa <span class="text-amber-brand">bière maison</span>
+      </h1>
+      <p class="font-body text-lg text-muted/70">
+        Guides pratiques, recettes clé en main et conseils d'experts pour brasser votre bière artisanale à la maison — du débutant au brasseur confirmé.
+      </p>
+    </header>
+
+    <!-- CTA -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-16">
+      <a href="/recette-biere" class="bg-surface border border-white/10 rounded-xl p-6 hover:border-amber-brand/50 transition-colors group">
+        <div class="text-4xl mb-3">📋</div>
+        <h3 class="font-heading text-xl font-semibold text-white group-hover:text-amber-brand transition-colors mb-2">
+          {recettes.length}+ recettes de bière
+        </h3>
+        <p class="font-body text-sm text-muted/60">IPA, Stout, Blonde, Ambrée — fiches techniques complètes avec IBU, ABV, compositions.</p>
+      </a>
+      <a href="/brassage-amateur" class="bg-surface border border-white/10 rounded-xl p-6 hover:border-amber-brand/50 transition-colors group">
+        <div class="text-4xl mb-3">🍺</div>
+        <h3 class="font-heading text-xl font-semibold text-white group-hover:text-amber-brand transition-colors mb-2">
+          Guides brassage amateur
+        </h3>
+        <p class="font-body text-sm text-muted/60">Empâtage, houblonnage, fermentation, filtration — maîtrisez chaque étape du brassage.</p>
+      </a>
+    </div>
+
+    {articles.length > 0 && (
+      <section>
+        <h2 class="font-heading text-2xl font-bold text-white mb-6">Articles brassage maison</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {articles.map((article) => (
+            <ArticleCard
+              slug={article.id.replace(/\.mdx?$/, '')}
+              titre={article.data.titre}
+              date={article.data.date}
+              excerpt={article.data.excerpt}
+              image={article.data.image}
+              tags={article.data.tags}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-barge",
+  "nom": "Brasserie Barge",
+  "cp": "78120",
+  "ville": "RAMBOUILLET",
+  "region": "ile-de-france",
+  "departement": "yvelines-78",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/609399f41e490959e0eed0ca_1521803156917.png",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

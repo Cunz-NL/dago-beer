@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-pompe-a-biere-chalon-biere-nouvelle",
+  "nom": "Brasserie La Pompe à Bière (Chalon Bière Nouvelle)",
+  "cp": "71100",
+  "ville": "CHALON-SUR-SAÔNE",
+  "region": "bourgogne",
+  "departement": "saone-et-loire-71",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092d04eedb943c65e23f770_pascal-renaud-responsable-de-la-pompe-a-biere-photo-g-dufour-1572341314.jpeg",
+  "website": "http://www.murphys-chalon-71.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

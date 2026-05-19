@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-stephanoise",
+  "nom": "Brasserie Stéphanoise",
+  "cp": "42100",
+  "ville": "SAINT-ÉTIENNE",
+  "region": "rhone-alpes",
+  "departement": "loire-42",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608696b433402d5aad67d810_33487126_180336589468289_7304632286840881152_n.jpeg",
+  "website": "http://www.labrasseriestephanoise.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-vezelay",
+  "nom": "Brasserie de Vezelay",
+  "cp": "89450",
+  "ville": "Saint-Père",
+  "region": "bourgogne",
+  "departement": "yonne-89",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60897ce2fc1899887e3c3b7a_VEZELAY-logo-RVB.jpg",
+  "website": "http://brasseriedevezelay.fr/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

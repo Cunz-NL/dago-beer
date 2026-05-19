@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-lours-brasseur",
+  "nom": "Brasserie L'Ours Brasseur",
+  "cp": "70170",
+  "ville": "GRATTERY",
+  "region": "franche-comte",
+  "departement": "haute-saone-70",
+  "description": "Créée en 2016",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608c0ee742c6637d68afa701_capsules.png",
+  "website": "http://www.loursbrasseur.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

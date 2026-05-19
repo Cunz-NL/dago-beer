@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-du-causse",
+  "nom": "Brasserie du Causse",
+  "cp": "19600",
+  "ville": "LARCHE",
+  "region": "limousin",
+  "departement": "correze-19",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60891b179ef11173abb971f0_88248339_1563707180448173_1362184362946199552_n.jpeg",
+  "website": "http://www.brasserieducausse.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

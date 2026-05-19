@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-lobsann",
+  "nom": "Brasserie Lobsann",
+  "cp": "67250",
+  "ville": "LOBSANN",
+  "region": "alsace",
+  "departement": "bas-rhin-67",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6090ef14dc74637d1e912dd8_219005868-brewery-lobsann-1-1600x900.jpeg",
+  "website": "http://brasserie-lobsann.com/",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

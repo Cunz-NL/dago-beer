@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-garland",
+  "nom": "Brasserie Garland",
+  "cp": "81470",
+  "ville": "ALGANS",
+  "region": "midi-pyrenees",
+  "departement": "tarn-81",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6093f5a799573542245c8ae6_20374597_827505697404025_6590825411428657380_n.jpeg",
+  "website": "http://www.brasseriegarland.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

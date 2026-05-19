@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-larrec",
+  "nom": "Brasserie de l'Arrec",
+  "cp": "64290",
+  "ville": "ESTIALESCQ",
+  "region": "aquitaine",
+  "departement": "pyrenees-atlantiques-64",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608fc36f3d1ee7dd70c0152a_52822951_2294478837544503_625964072910716928_n.jpeg",
+  "website": "https://www.brasseriedelarrec.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-la-passerelle",
+  "nom": "Brasserie La Passerelle",
+  "cp": "68190",
+  "ville": "ENSISHEIM",
+  "region": "alsace",
+  "departement": "haut-rhin-68",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6092cf7e5debb4099cb7177e_1658218_663795220332665_1864323372_o.jpeg",
+  "website": "http://brasseries-ensisheim.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

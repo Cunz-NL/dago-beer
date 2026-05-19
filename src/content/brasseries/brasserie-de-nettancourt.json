@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-de-nettancourt",
+  "nom": "Brasserie de Nettancourt",
+  "cp": "55800",
+  "ville": "REVIGNY-SUR-ORNAIN",
+  "region": "lorraine",
+  "departement": "meuse-55",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60d05e1f70b55e3226bd588d_Logo-Nattancourt.png",
+  "website": "http://brasseriedenettancourt.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

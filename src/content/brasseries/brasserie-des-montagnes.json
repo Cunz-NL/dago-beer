@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-des-montagnes",
+  "nom": "Brasserie des Montagnes",
+  "cp": "63740",
+  "ville": "GELLES",
+  "region": "auvergne",
+  "departement": "puy-de-dome-63",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608337844b77a4390a14dd9a_99e18d6ee0b6c8f372d00aa596978ca4.jpeg",
+  "website": "http://www.brasseriedesmontagnes.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

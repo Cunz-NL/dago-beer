@@ -1,0 +1,13 @@
+{
+  "slug": "brasserie-belenium",
+  "nom": "Brasserie Belenium",
+  "cp": "21200",
+  "ville": "BEAUNE",
+  "region": "bourgogne",
+  "departement": "cote-dor-21",
+  "description": "Créée en 2014 à BEAUNE (21)",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/608c0be14d68ca0cb9e8a38d_LogoBelenium.png",
+  "website": "http://www.belenium.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

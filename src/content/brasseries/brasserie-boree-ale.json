@@ -1,0 +1,11 @@
+{
+  "slug": "brasserie-boree-ale",
+  "nom": "Brasserie Borée Ale",
+  "cp": "7310",
+  "ville": "#N/A",
+  "region": "rhone-alpes",
+  "departement": "ardeche-07",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/6086b4124b02a3a951e51509_boree-pale-ale-boreale-american-pale-ale-apa-microbrasserie-de-tadoussac_1591211356.png",
+  "statut": "ferme",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "northern-brewer",
+  "nom": "Northern Brewer",
+  "description": "La Northern Brewer a été développée à l'origine en Angleterre en 1934, mais elle est maintenant largement cultivée en Allemagne. La Northern Brewer cultivée en Allemagne est considérée comme identique à la variété originale produite au Royaume-Uni, bien que des différences subtiles attribuables à la région de culture différente puissent être évidentes. La Northern Brewer est également cultivée en quantité notable aux États-Unis, bien que cette variété soit désormais génétiquement distincte de la variété originale. En brasserie, il est utile comme houblon amérisant et aromatique, mais il est surtout utilisé comme ajout précoce par les brasseurs commerciaux en Allemagne.",
+  "aaMin": 6,
+  "aaMax": 10,
+  "baMin": 3,
+  "baMax": 5,
+  "usage": "Double usage",
+  "stabilite": "Bonne : 75",
+  "myrcene": "30 - 35",
+  "caryophyllene": "8 - 10",
+  "humulene": "25 - 25",
+  "aromes": [
+    "herbeux",
+    "pin",
+    "resineux",
+    "menthole",
+    "cedre"
+  ]
+}

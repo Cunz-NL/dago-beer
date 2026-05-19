@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-louarn",
+  "nom": "Brasserie Louarn",
+  "cp": "35000",
+  "ville": "RENNES",
+  "region": "bretagne",
+  "departement": "ille-et-vilaine",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ca14d4a99a9460d116efd2_47469486_1923408691099321_8954542350101643264_n.jpeg",
+  "website": "https://www.brasserielouarn.com",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

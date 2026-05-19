@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-bordeaux-beer-factory",
+  "nom": "Brasserie Bordeaux Beer Factory",
+  "cp": "33300",
+  "ville": "bordeaux-33000",
+  "region": "aquitaine",
+  "departement": "gironde-33",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/60ad355694d68fd44cb11b1d_hqdefault.jpeg",
+  "website": "http://www.bordeaux.beer",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

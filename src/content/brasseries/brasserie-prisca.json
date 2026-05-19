@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-prisca",
+  "nom": "Brasserie Prisca",
+  "cp": "69210",
+  "ville": "L'ARBRESLE",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606dec81c67c162e34611611_1504189_344534842351414_361566515_o.jpeg",
+  "website": "http://brasserie-prisca.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "brasserie-autour-de-la-biere",
+  "nom": "Brasserie Autour de la Bière",
+  "cp": "69440",
+  "ville": "CHAUSSAN",
+  "region": "rhone-alpes",
+  "departement": "rhone-69",
+  "image": "https://uploads-ssl.webflow.com/5f844be21799777e06b3683f/606decbacb5a70f630c75a97_Brasserie-Bourganel-Biere-Aux-Marrons-bottle.jpeg",
+  "website": "https://www.autourdelabiere.fr",
+  "statut": "actif",
+  "aBiereSansAlcool": false
+}
