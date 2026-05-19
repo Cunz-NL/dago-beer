@@ -5,7 +5,7 @@
 @layer base {
   :root {
     --color-bg: #FFFFFF;
-    --color-navy: #0F2044;
+    --color-navy: #344f8e;
     --color-surface: #EEF2F8;
   }
 
@@ -19,7 +19,7 @@
   }
 
   ::selection {
-    background-color: #0F2044;
+    background-color: #344f8e;
     color: #ffffff;
   }
 }
