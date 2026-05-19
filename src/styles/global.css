@@ -4,9 +4,9 @@
 
 @layer base {
   :root {
-    --color-bg: #1a1a1a;
-    --color-amber: #D4860B;
-    --color-surface: #242424;
+    --color-bg: #FFFFFF;
+    --color-navy: #0F2044;
+    --color-surface: #EEF2F8;
   }
 
   html {
@@ -15,12 +15,12 @@
 
   body {
     background-color: var(--color-bg);
-    color: #ffffff;
+    color: #1E293B;
   }
 
   ::selection {
-    background-color: #D4860B;
-    color: #1a1a1a;
+    background-color: #0F2044;
+    color: #ffffff;
   }
 }
 

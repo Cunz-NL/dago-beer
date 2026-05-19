@@ -17,9 +17,9 @@ const regionsTriees = [...regions].sort((a, b) => a.data.nom.localeCompare(b.dat
     return (
       <a
         href={`/brasseries-bieres-artisanales-france-region/${region.data.slug}`}
-        class="bg-surface border border-white/10 rounded-lg p-4 hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group text-center"
+        class="bg-surface border border-gray-200 rounded-lg p-4 hover:border-amber-brand/50 hover:bg-amber-brand/5 transition-all group text-center"
       >
-        <p class="font-heading text-sm font-medium text-white group-hover:text-amber-brand transition-colors line-clamp-2">
+        <p class="font-heading text-sm font-medium text-amber-brand group-hover:opacity-70 transition-opacity line-clamp-2">
           {region.data.nom}
         </p>
         <p class="font-body text-xs text-muted/50 mt-1">

@@ -4,12 +4,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        bg: '#1a1a1a',
+        bg: '#FFFFFF',
         amber: {
-          brand: '#D4860B',
+          brand: '#0F2044',
         },
-        surface: '#242424',
-        muted: '#F5F5F5',
+        surface: '#EEF2F8',
+        muted: '#1E293B',
       },
       fontFamily: {
         heading: ['Oswald', 'sans-serif'],

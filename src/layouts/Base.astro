@@ -60,10 +60,10 @@ const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
     />
 
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7YE8JGR1BX"></script>
-    <script>
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-7YE8JGR1BX"></script>
+    <script is:inline>
       window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
+      function gtag(){ dataLayer.push(arguments); }
       gtag('js', new Date());
       gtag('config', 'G-7YE8JGR1BX');
     </script>
@@ -78,17 +78,12 @@ const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   </head>
 
-  <body class="bg-bg text-white font-body min-h-screen flex flex-col">
-    <!-- Bandeau légal alcool -->
-    <div class="bg-amber-brand text-bg text-center text-xs py-1.5 px-4 font-body font-medium">
-      L'abus d'alcool est dangereux pour la santé. À consommer avec modération.
-    </div>
-
+  <body class="bg-bg text-muted font-body min-h-screen flex flex-col">
     <!-- Navbar -->
-    <header class="bg-surface border-b border-white/10 sticky top-0 z-50">
+    <header class="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-50">
       <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
         <a href="/" class="font-heading text-2xl font-bold text-amber-brand tracking-wide hover:opacity-90 transition-opacity">
-          dago<span class="text-white">.beer</span>
+          dago.<span class="text-muted/50 inline-block" style="transform:rotate(180deg);vertical-align:-0.17em;">beer</span>
         </a>
         <ul class="hidden md:flex items-center gap-6 text-sm font-body">
           <li>
@@ -97,24 +92,60 @@ const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
             </a>
           </li>
           <li>
-            <a href="/brasserie-biere-artisanale" class="text-muted hover:text-white transition-colors">
+            <a href="/brasserie-biere-artisanale" class="text-muted/70 hover:text-amber-brand transition-colors">
               Brasseries Artisanales
             </a>
           </li>
           <li>
-            <a href="/brassage-amateur" class="text-muted hover:text-white transition-colors">
+            <a href="/brassage-amateur" class="text-muted/70 hover:text-amber-brand transition-colors">
               Brassage Amateur
             </a>
           </li>
         </ul>
-        <!-- Mobile menu button placeholder -->
-        <button class="md:hidden text-muted hover:text-white" aria-label="Menu">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <button id="menu-btn" class="md:hidden text-muted/70 hover:text-amber-brand transition-colors" aria-label="Menu" aria-expanded="false">
+          <svg id="icon-open" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg id="icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
           </svg>
         </button>
       </nav>
+      <!-- Mobile menu panel -->
+      <div id="mobile-menu" class="hidden md:hidden border-t border-gray-200 bg-white">
+        <ul class="flex flex-col font-body text-base">
+          <li>
+            <a href="/biere-sans-alcool" class="flex items-center px-6 py-4 text-amber-brand font-semibold border-b border-gray-100 hover:bg-surface transition-colors">
+              Bière Sans Alcool
+            </a>
+          </li>
+          <li>
+            <a href="/brasserie-biere-artisanale" class="flex items-center px-6 py-4 text-muted/80 border-b border-gray-100 hover:bg-surface hover:text-amber-brand transition-colors">
+              Brasseries Artisanales
+            </a>
+          </li>
+          <li>
+            <a href="/brassage-amateur" class="flex items-center px-6 py-4 text-muted/80 hover:bg-surface hover:text-amber-brand transition-colors">
+              Brassage Amateur
+            </a>
+          </li>
+        </ul>
+      </div>
     </header>
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById('menu-btn');
+        var menu = document.getElementById('mobile-menu');
+        var iconOpen = document.getElementById('icon-open');
+        var iconClose = document.getElementById('icon-close');
+        btn.addEventListener('click', function () {
+          var open = menu.classList.toggle('hidden');
+          btn.setAttribute('aria-expanded', String(!open));
+          iconOpen.classList.toggle('hidden', !open);
+          iconClose.classList.toggle('hidden', open);
+        });
+      })();
+    </script>
 
     <!-- Main content -->
     <main class="flex-1">
@@ -122,42 +153,41 @@ const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
     </main>
 
     <!-- Footer -->
-    <footer class="bg-surface border-t border-white/10 mt-16">
+    <footer class="bg-amber-brand border-t border-white/10 mt-16">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div class="md:col-span-1">
-            <a href="/" class="font-heading text-xl font-bold text-amber-brand">dago.beer</a>
-            <p class="mt-2 text-sm text-muted/70 font-body">
+            <a href="/" class="font-heading text-xl font-bold text-white">dago.beer</a>
+            <p class="mt-2 text-sm text-white/70 font-body">
               Le média de référence sur la bière sans alcool et la bière artisanale française.
             </p>
           </div>
           <div>
             <h3 class="font-heading text-sm font-semibold text-white uppercase tracking-wider mb-4">Bière sans alcool</h3>
-            <ul class="space-y-2 text-sm font-body text-muted/70">
-              <li><a href="/biere-sans-alcool" class="hover:text-amber-brand transition-colors">Guide complet</a></li>
-              <li><a href="/biere-sans-alcool" class="hover:text-amber-brand transition-colors">Meilleures bières 0.0</a></li>
-              <li><a href="/biere-sans-alcool" class="hover:text-amber-brand transition-colors">Bières low-ABV</a></li>
+            <ul class="space-y-2 text-sm font-body text-white/70">
+              <li><a href="/biere-sans-alcool" class="hover:text-white transition-colors">Guide complet</a></li>
+              <li><a href="/biere-sans-alcool" class="hover:text-white transition-colors">Meilleures bières 0.0</a></li>
+              <li><a href="/biere-sans-alcool" class="hover:text-white transition-colors">Bières low-ABV</a></li>
             </ul>
           </div>
           <div>
             <h3 class="font-heading text-sm font-semibold text-white uppercase tracking-wider mb-4">Brasseries</h3>
-            <ul class="space-y-2 text-sm font-body text-muted/70">
-              <li><a href="/brasserie-biere-artisanale" class="hover:text-amber-brand transition-colors">Annuaire brasseries</a></li>
-              <li><a href="/brasserie-biere-artisanale" class="hover:text-amber-brand transition-colors">Brasseries par région</a></li>
-              <li><a href="/brassage-amateur" class="hover:text-amber-brand transition-colors">Brassage amateur</a></li>
+            <ul class="space-y-2 text-sm font-body text-white/70">
+              <li><a href="/brasserie-biere-artisanale" class="hover:text-white transition-colors">Annuaire brasseries</a></li>
+              <li><a href="/brasserie-biere-artisanale" class="hover:text-white transition-colors">Brasseries par région</a></li>
+              <li><a href="/brassage-amateur" class="hover:text-white transition-colors">Brassage amateur</a></li>
             </ul>
           </div>
           <div>
             <h3 class="font-heading text-sm font-semibold text-white uppercase tracking-wider mb-4">Ressources</h3>
-            <ul class="space-y-2 text-sm font-body text-muted/70">
-              <li><a href="/articles" class="hover:text-amber-brand transition-colors">Articles</a></li>
-              <li><a href="/brassage-amateur" class="hover:text-amber-brand transition-colors">Recettes bière maison</a></li>
+            <ul class="space-y-2 text-sm font-body text-white/70">
+              <li><a href="/articles" class="hover:text-white transition-colors">Articles</a></li>
+              <li><a href="/brassage-amateur" class="hover:text-white transition-colors">Recettes bière maison</a></li>
             </ul>
           </div>
         </div>
         <div class="mt-8 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p class="text-xs text-muted/50 font-body">© {new Date().getFullYear()} dago.beer — Tous droits réservés</p>
-          <p class="text-xs text-muted/50 font-body">L'abus d'alcool est dangereux pour la santé. À consommer avec modération.</p>
+          <p class="text-xs text-white/50 font-body">© {new Date().getFullYear()} dago.beer — Tous droits réservés</p>
         </div>
       </div>
     </footer>

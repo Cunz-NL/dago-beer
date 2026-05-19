@@ -17,7 +17,7 @@ const dateFormatee = date.toLocaleDateString('fr-FR', {
 });
 ---
 
-<article class="bg-surface rounded-lg border border-white/10 hover:border-amber-brand/50 transition-colors group overflow-hidden">
+<article class="bg-surface rounded-lg border border-gray-200 hover:border-amber-brand/40 transition-colors group overflow-hidden">
   {image && (
     <div class="aspect-video overflow-hidden">
       <img
@@ -32,14 +32,14 @@ const dateFormatee = date.toLocaleDateString('fr-FR', {
     {tags.length > 0 && (
       <div class="flex flex-wrap gap-1.5 mb-3">
         {tags.slice(0, 3).map((tag) => (
-          <span class="text-xs font-body px-2 py-0.5 rounded-full bg-white/5 text-muted/60 border border-white/10">
+          <span class="text-xs font-body px-2 py-0.5 rounded-full bg-amber-brand/5 text-muted/60 border border-gray-200">
             {tag}
           </span>
         ))}
       </div>
     )}
     <a href={`/articles/${slug}`}>
-      <h3 class="font-heading text-xl font-semibold text-white group-hover:text-amber-brand transition-colors line-clamp-2 mb-2">
+      <h3 class="font-heading text-xl font-semibold text-amber-brand group-hover:opacity-70 transition-opacity line-clamp-2 mb-2">
         {titre}
       </h3>
     </a>
