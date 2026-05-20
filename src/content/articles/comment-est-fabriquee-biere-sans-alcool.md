@@ -5,8 +5,6 @@ title: "Fabrication bière sans alcool : 3 méthodes expliquées"
 description: "Osmose inverse, fermentation arrêtée, distillation : comment fabriquer une bière sans alcool sans sacrifier le goût. Notre guide complet à lire."
 excerpt: "Osmose inverse, fermentation arrêtée, distillation sous vide : on décrypte les 3 grandes méthodes utilisées par les brasseurs pour fabriquer une bière sans alcool, leurs forces, leurs limites, et ce que ça change dans le verre."
 date: 2026-05-19
-image: "/images/articles/comment-est-fabriquee-biere-sans-alcool/cover.jpg"
-imageAlt: "Cuves de brassage et colonne de désalcoolisation utilisées pour fabriquer une bière sans alcool"
 tags: ["sans-alcool", "fabrication", "guide"]
 auteur: "Dago"
 sponsorise: false
