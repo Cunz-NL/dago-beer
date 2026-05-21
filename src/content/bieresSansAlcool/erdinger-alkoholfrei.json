@@ -1,0 +1,18 @@
+{
+  "slug": "erdinger-alkoholfrei",
+  "nom": "Erdinger Alkoholfrei",
+  "marque": "Erdinger",
+  "brasserie": "Erdinger Weissbräu",
+  "style": "Weissbier (bière de blé) sans alcool",
+  "categorieSeo": "weissbier",
+  "abv": 0.5,
+  "description": "Pionnière du segment sans alcool depuis 2001, l'Erdinger Alkoholfrei est une weissbier bavaroise de blé non filtrée. Très distribuée en France et positionnée 'récup sportive' (riche en vitamines B et électrolytes).",
+  "profilAromatique": "Banane, clou de girofle, blé, finale rafraîchissante",
+  "prixMoyen": 2.20,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.erdinger.de",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "Allemagne"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "goxoa-white-lemon",
+  "nom": "Goxoa White Lemon",
+  "marque": "Goxoa",
+  "brasserie": "Goxoa",
+  "style": "Witbier citronnée",
+  "categorieSeo": "blanche",
+  "abv": 0.3,
+  "description": "Witbier sans alcool aux notes de citron, source de vitamine C. Profil rafraîchissant orienté été et hydratation.",
+  "profilAromatique": "Citron frais, blé, coriandre, finale acidulée",
+  "prixMoyen": 2.30,
+  "note": null,
+  "siteOfficielBrasserie": "https://goxoa.co",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "Belgique"
+}

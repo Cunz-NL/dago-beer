@@ -1,13 +1,19 @@
 {
   "slug": "leffe-00",
   "nom": "Leffe 0.0",
-  "marque": "Leffe (AB InBev)",
-  "style": "Blonde d'Abbaye",
+  "marque": "Leffe",
+  "brasserie": "Leffe (AB InBev)",
+  "style": "Blonde d'Abbaye 0.0%",
+  "categorieSeo": "abbaye",
   "abv": 0.0,
   "description": "Leffe tente avec cette 0.0 de reproduire les arômes complexes de sa blonde d'abbaye emblématique. Le résultat est honnête, avec une belle rondeur maltée.",
   "profilAromatique": "Caramel, épices douces, vanille, malt torréfié léger",
   "prixMoyen": 2.20,
   "note": 3,
+  "siteOfficielBrasserie": "https://www.leffe.com",
   "urlUnePetiteMousse": "https://www.unepetitemousse.fr/biere/leffe-0-0",
-  "avisZythologue": "Leffe 0.0 réussit là où beaucoup échouent : conserver la complexité aromatique d'une bière d'abbaye. Ce n'est pas parfait, mais c'est une des meilleures tentatives du grand brassage industriel dans le segment sans alcool."
+  "avisZythologue": "Leffe 0.0 réussit là où beaucoup échouent : conserver la complexité aromatique d'une bière d'abbaye. Ce n'est pas parfait, mais c'est une des meilleures tentatives du grand brassage industriel dans le segment sans alcool.",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "Belgique"
 }

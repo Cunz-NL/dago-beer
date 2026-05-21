@@ -1,0 +1,19 @@
+{
+  "slug": "brasserie-parallele-ipa-sans-alcool",
+  "nom": "IPA sans alcool",
+  "marque": "Brasserie Parallèle",
+  "brasserie": "Brasserie Parallèle",
+  "style": "IPA 0.0% (houblonnage à cru)",
+  "categorieSeo": "ipa",
+  "abv": 0.0,
+  "description": "IPA 0.0% bordelaise houblonnée à cru. Profil fruité tropical avec une touche épicée poivrée signature.",
+  "profilAromatique": "Fruits tropicaux, poivre noir, houblon expressif",
+  "prixMoyen": 2.60,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.brasserie-parallele.com",
+  "urlUnePetiteMousse": "https://unepetitemousse.fr/produit/la-brasserie-parallele-biere-ipa-sans-alcool",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

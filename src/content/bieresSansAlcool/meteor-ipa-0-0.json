@@ -1,0 +1,18 @@
+{
+  "slug": "meteor-ipa-0-0",
+  "nom": "Meteor IPA 0.0",
+  "marque": "Meteor",
+  "brasserie": "Brasserie Meteor",
+  "style": "IPA 0.0%",
+  "categorieSeo": "ipa",
+  "abv": 0.0,
+  "description": "IPA sans alcool de la brasserie alsacienne Meteor. Brassée à Hochfelden, désalcoolisée chez Champigneulles, puis houblonnage à cru au retour à Hochfelden.",
+  "profilAromatique": "Houblons aromatiques, agrumes, légère amertume",
+  "prixMoyen": 1.50,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.brasserie-meteor.fr",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

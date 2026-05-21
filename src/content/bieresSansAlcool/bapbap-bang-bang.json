@@ -1,0 +1,19 @@
+{
+  "slug": "bapbap-bang-bang",
+  "nom": "Bang Bang",
+  "marque": "BAPBAP",
+  "brasserie": "BAPBAP",
+  "style": "Pale Ale single-hop Citra, bio",
+  "categorieSeo": "pale-ale",
+  "abv": 0.3,
+  "description": "Première recette sans alcool de la brasserie parisienne BAPBAP. Pale Ale 100% bio brassée en single-hop Citra, avec un profil agrumes prononcé. 12 kcal pour 100 ml.",
+  "profilAromatique": "Citra single-hop : pamplemousse, fruits jaunes, finale rafraîchissante",
+  "prixMoyen": 2.50,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.bapbap.paris",
+  "urlUnePetiteMousse": "https://unepetitemousse.fr/produit/brasserie-bapbap-biere-bang-bang",
+  "avisZythologue": "",
+  "bio": true,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

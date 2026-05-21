@@ -1,0 +1,18 @@
+{
+  "slug": "guinness-0-0",
+  "nom": "Guinness 0.0",
+  "marque": "Guinness",
+  "brasserie": "Guinness — St. James's Gate, Dublin",
+  "style": "Stout 0.0%",
+  "categorieSeo": "stout",
+  "abv": 0.0,
+  "description": "Version sans alcool de la stout irlandaise emblématique. Reprend le profil dense et crémeux du Guinness Draught en supprimant l'alcool. Largement distribuée en France.",
+  "profilAromatique": "Café, cacao, malt torréfié, finale crémeuse veloutée",
+  "prixMoyen": 2.50,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.guinness.com",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "Irlande"
+}

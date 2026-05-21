@@ -1,0 +1,18 @@
+{
+  "slug": "kronenbourg-pure-malt",
+  "nom": "Kro Pure Malt",
+  "marque": "Kronenbourg",
+  "brasserie": "Brasseries Kronenbourg",
+  "style": "Lager pur malt sans alcool",
+  "categorieSeo": "lager",
+  "abv": 0.0,
+  "description": "Lager 100% pur malt sans alcool de Kronenbourg. Positionnement classique 'goût bière sans alcool' en grande distribution.",
+  "profilAromatique": "Malt dominant, légèrement biscuité, finale propre",
+  "prixMoyen": 1.10,
+  "note": null,
+  "siteOfficielBrasserie": "https://kronenbourg.com",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

@@ -4,10 +4,33 @@ import BeerCard from '@/components/BeerCard.astro';
 import Breadcrumb from '@/components/Breadcrumb.astro';
 import { getCollection } from 'astro:content';
 
-const bieres = (await getCollection('bieresSansAlcool')).sort((a, b) => b.data.note - a.data.note);
+const allBieres = await getCollection('bieresSansAlcool');
+
+// Sort: noted first (by note desc), then unrated alphabetically
+const bieres = allBieres.sort((a, b) => {
+  const na = a.data.note ?? 0;
+  const nb = b.data.note ?? 0;
+  if (nb !== na) return nb - na;
+  return a.data.nom.localeCompare(b.data.nom, 'fr');
+});
 
 const zeroAlcool = bieres.filter((b) => b.data.abv === 0);
-const lowAbv = bieres.filter((b) => b.data.abv > 0);
+const lowAbv = bieres.filter((b) => b.data.abv > 0 && b.data.abv <= 3.5);
+
+// Catégories pour navigation rapide
+const categories = [
+  { slug: 'blonde', label: 'Blonde' },
+  { slug: 'ipa', label: 'IPA' },
+  { slug: 'pale-ale', label: 'Pale Ale' },
+  { slug: 'blanche', label: 'Blanche' },
+  { slug: 'stout', label: 'Stout' },
+  { slug: 'brune', label: 'Brune' },
+  { slug: 'lager', label: 'Lager' },
+  { slug: 'weissbier', label: 'Weissbier' },
+  { slug: 'sour', label: 'Sour' },
+  { slug: 'abbaye', label: 'Abbaye' },
+  { slug: 'aromatisee', label: 'Aromatisée' },
+];
 ---
 
 <Base
@@ -18,9 +41,9 @@ const lowAbv = bieres.filter((b) => b.data.abv > 0);
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <Breadcrumb items={[{ label: 'Bière sans alcool' }]} />
 
-    <header class="mb-12 max-w-3xl">
-      <h1 class="font-heading text-4xl md:text-5xl font-bold text-white mb-4">
-        Bière sans alcool : <span class="text-amber-brand">la sélection expert</span>
+    <header class="mb-10 max-w-3xl">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-amber-brand mb-4">
+        Bière sans alcool : <span class="text-amber-brand/70">la sélection expert</span>
       </h1>
       <p class="font-body text-lg text-muted/70">
         {bieres.length} bières sans alcool et low-ABV testées et notées par notre zythologue.
@@ -28,12 +51,32 @@ const lowAbv = bieres.filter((b) => b.data.abv > 0);
       </p>
     </header>
 
+    <!-- Navigation rapide par style -->
+    <nav class="mb-10" aria-label="Filtrer par style">
+      <p class="font-body text-xs text-muted/50 uppercase tracking-wider mb-3">Explorer par style</p>
+      <div class="flex flex-wrap gap-2">
+        {categories.map((cat) => {
+          const count = bieres.filter((b) => b.data.categorieSeo === cat.slug).length;
+          if (count === 0) return null;
+          return (
+            <a
+              href={`#style-${cat.slug}`}
+              class="font-body text-sm px-3 py-1.5 rounded-full border border-gray-200 text-muted/70 hover:border-amber-brand/50 hover:text-amber-brand transition-colors"
+            >
+              {cat.label}
+              <span class="ml-1 text-xs text-muted/40">({count})</span>
+            </a>
+          );
+        })}
+      </div>
+    </nav>
+
     <!-- Bières 0.0% -->
     {zeroAlcool.length > 0 && (
       <section class="mb-14">
         <div class="flex items-center gap-3 mb-6">
-          <h2 class="font-heading text-2xl font-bold text-white">Bières 0.0% sans alcool</h2>
-          <span class="text-xs font-body px-2 py-1 rounded-full bg-green-600/20 text-green-400 border border-green-600/30">
+          <h2 class="font-heading text-2xl font-bold text-amber-brand">Bières 0.0% sans alcool</h2>
+          <span class="text-xs font-body px-2 py-1 rounded-full bg-green-600/10 text-green-700 border border-green-600/20">
             {zeroAlcool.length} référence{zeroAlcool.length !== 1 ? 's' : ''}
           </span>
         </div>
@@ -58,10 +101,10 @@ const lowAbv = bieres.filter((b) => b.data.abv > 0);
 
     <!-- Bières low-ABV -->
     {lowAbv.length > 0 && (
-      <section>
+      <section class="mb-14">
         <div class="flex items-center gap-3 mb-6">
-          <h2 class="font-heading text-2xl font-bold text-white">Bières low-ABV (0.5% – 3.5%)</h2>
-          <span class="text-xs font-body px-2 py-1 rounded-full bg-orange-600/20 text-orange-400 border border-orange-600/30">
+          <h2 class="font-heading text-2xl font-bold text-amber-brand">Bières low-ABV (≤ 3.5%)</h2>
+          <span class="text-xs font-body px-2 py-1 rounded-full bg-orange-600/10 text-orange-700 border border-orange-600/20">
             {lowAbv.length} référence{lowAbv.length !== 1 ? 's' : ''}
           </span>
         </div>
@@ -83,5 +126,39 @@ const lowAbv = bieres.filter((b) => b.data.abv > 0);
         </div>
       </section>
     )}
+
+    <!-- Par style -->
+    {categories.map((cat) => {
+      const bieresCat = bieres.filter((b) => b.data.categorieSeo === cat.slug);
+      if (bieresCat.length === 0) return null;
+      return (
+        <section class="mb-14" id={`style-${cat.slug}`}>
+          <div class="flex items-center gap-3 mb-6">
+            <h2 class="font-heading text-xl font-bold text-amber-brand">
+              Bière sans alcool — {cat.label}
+            </h2>
+            <span class="text-xs font-body px-2 py-1 rounded-full bg-surface text-muted/60 border border-gray-200">
+              {bieresCat.length}
+            </span>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {bieresCat.map((b) => (
+              <BeerCard
+                slug={b.data.slug}
+                nom={b.data.nom}
+                marque={b.data.marque}
+                style={b.data.style}
+                abv={b.data.abv}
+                note={b.data.note}
+                description={b.data.description}
+                urlSaveurBiere={b.data.urlSaveurBiere}
+                urlUnePetiteMousse={b.data.urlUnePetiteMousse}
+                urlBeerWulf={b.data.urlBeerWulf}
+              />
+            ))}
+          </div>
+        </section>
+      );
+    })}
   </div>
 </Base>

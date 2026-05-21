@@ -1,0 +1,19 @@
+{
+  "slug": "brasserie-parallele-blanche-sans-alcool",
+  "nom": "Blanche sans alcool",
+  "marque": "Brasserie Parallèle",
+  "brasserie": "Brasserie Parallèle",
+  "style": "Witbier 0.0%",
+  "categorieSeo": "blanche",
+  "abv": 0.0,
+  "description": "Blanche 0.0% bordelaise. Style frais et désaltérant en version sans alcool.",
+  "profilAromatique": "Blé, agrumes, coriandre, finale légère",
+  "prixMoyen": 2.40,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.brasserie-parallele.com",
+  "urlUnePetiteMousse": "https://unepetitemousse.fr/produit/la-brasserie-parallele-biere-blanche-sans-alcool",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

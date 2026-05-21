@@ -1,0 +1,18 @@
+{
+  "slug": "l-eurelienne-ipa-sans-alcool",
+  "nom": "L'Eurélienne IPA sans alcool",
+  "marque": "L'Eurélienne",
+  "brasserie": "Brasserie de Chandres / L'Eurélienne",
+  "style": "IPA low-ABV (ingrédients locaux)",
+  "categorieSeo": "ipa",
+  "abv": 0.7,
+  "description": "IPA low-ABV lancée en avril 2024 par la brasserie d'Eure-et-Loir. Ingrédients d'une ferme locale près de Chartres. Médaille de bronze World Beer Awards et médaille d'or France Beer Challenge.",
+  "profilAromatique": "Houblonnage à cru : agrumes, fruits tropicaux",
+  "prixMoyen": 3.00,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.eurelienne.fr",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

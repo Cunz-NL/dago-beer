@@ -2,12 +2,18 @@
   "slug": "mont-blanc-naturally-low",
   "nom": "Naturally Low",
   "marque": "Brasserie du Mont-Blanc",
-  "style": "Pale Ale",
+  "brasserie": "Brasserie du Mont-Blanc",
+  "style": "Pale Ale low-ABV",
+  "categorieSeo": "pale-ale",
   "abv": 0.9,
   "description": "Brassée naturellement à faible teneur en alcool, cette pale ale artisanale française démontre qu'il est possible de brasser avec caractère sans dépasser 1% d'alcool.",
   "profilAromatique": "Houblon aromatique, agrumes, légère note résineuse, malt biscuité",
   "prixMoyen": 2.90,
   "note": 4,
+  "siteOfficielBrasserie": "https://www.brasserie-montblanc.com",
   "urlSaveurBiere": "https://www.saveur-biere.com/fr/bouteille/mont-blanc-naturally-low.html",
-  "avisZythologue": "Une des meilleures bières low-ABV françaises. Le profil houblonné est généreux et la bouche est surprenamment ronde pour un titre aussi bas. Une révélation pour les sceptiques du sans-alcool."
+  "avisZythologue": "Une des meilleures bières low-ABV françaises. Le profil houblonné est généreux et la bouche est surprenamment ronde pour un titre aussi bas. Une révélation pour les sceptiques du sans-alcool.",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
 }

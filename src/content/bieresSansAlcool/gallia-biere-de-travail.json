@@ -1,0 +1,18 @@
+{
+  "slug": "gallia-biere-de-travail",
+  "nom": "Bière de Travail",
+  "marque": "Gallia",
+  "brasserie": "Gallia Paris",
+  "style": "IPA low-ABV",
+  "categorieSeo": "ipa",
+  "abv": 0.3,
+  "description": "IPA quasi sans alcool de la brasserie parisienne Gallia (Pantin), conçue comme une alternative pour journées de travail ou activités sportives. Houblonnage marqué Sorachi Ace et Sabro.",
+  "profilAromatique": "Sorachi Ace + Sabro : noix de coco, aneth, fruits tropicaux",
+  "prixMoyen": 2.80,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.galliaparis.com",
+  "avisZythologue": "",
+  "bio": false,
+  "sansGluten": false,
+  "paysProduction": "France"
+}

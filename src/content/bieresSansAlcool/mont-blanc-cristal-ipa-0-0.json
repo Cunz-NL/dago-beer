@@ -1,0 +1,18 @@
+{
+  "slug": "mont-blanc-cristal-ipa-0-0",
+  "nom": "Cristal IPA 0.0%",
+  "marque": "Brasserie du Mont-Blanc",
+  "brasserie": "Brasserie du Mont-Blanc",
+  "style": "IPA 0.0% bio sans gluten",
+  "categorieSeo": "ipa",
+  "abv": 0.0,
+  "description": "IPA sans alcool, bio et sans gluten lancée en 2021, brassée avec l'eau pure du Mont-Blanc. Profil aromatique houblonné distinctif malgré l'absence d'alcool.",
+  "profilAromatique": "Agrumes délicats, équilibre houblon/malt, finale sèche",
+  "prixMoyen": 3.20,
+  "note": null,
+  "siteOfficielBrasserie": "https://www.brasserie-montblanc.com",
+  "avisZythologue": "",
+  "bio": true,
+  "sansGluten": true,
+  "paysProduction": "France"
+}
