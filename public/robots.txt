@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dago.beer/sitemap-index.xml
+Sitemap: https://dago.beer/sitemap-index.xml

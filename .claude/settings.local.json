@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(node -e ' *)",
+      "PowerShell($env:GITHUB_TOKEN; $env:GH_TOKEN)",
+      "PowerShell($env:GITHUB_TOKEN)",
+      "PowerShell($env:GH_TOKEN)",
+      "Bash(git credential *)",
+      "Bash(git push *)",
+      "Bash(git checkout *)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh pr create --title 'Article: Comment est fabriquée une bière sans alcool ? Les 3 méthodes expliquées' --body ' *)",
+      "Bash(git merge *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

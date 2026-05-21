@@ -5,20 +5,6 @@
 [build.environment]
   NODE_VERSION = "22"
 
-# Forcer www (canonical authority)
-[[redirects]]
-  from = "https://dago.beer/*"
-  to = "https://www.dago.beer/:splat"
-  status = 301
-  force = true
-
-# Bloquer l'indexation de l'URL Netlify
-[[redirects]]
-  from = "https://*.netlify.app/*"
-  to = "https://www.dago.beer/:splat"
-  status = 301
-  force = true
-
 [[headers]]
   for = "/*"
   [headers.values]

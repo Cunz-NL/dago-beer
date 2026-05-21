@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://www.dago.beer',
+  site: 'https://dago.beer',
   integrations: [
     tailwind(),
     sitemap({

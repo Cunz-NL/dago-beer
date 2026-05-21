@@ -20,7 +20,7 @@ const { nom, description, aaMin, aaMax, baMin, baMax, usage, stabilite, cohumulo
   description={description
     ? description.slice(0, 200)
     : `Fiche complète du houblon ${nom} : alpha-acides ${aaMin ?? '?'}–${aaMax ?? '?'}%, usage ${usage ?? 'non précisé'}, arômes et utilisation en brassage.`}
-  canonical={`https://www.dago.beer/houblons/${houblon.data.slug}`}
+  canonical={`https://dago.beer/houblons/${houblon.data.slug}`}
 >
   <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
     <Breadcrumb

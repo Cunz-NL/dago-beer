@@ -1,0 +1,171 @@
+From b82c1690fbd198a49445a61d4553b323162a3b3f Mon Sep 17 00:00:00 2001
+From: "Cunz (via Dago editorial)" <fabien.coeuruni@gmail.com>
+Date: Wed, 20 May 2026 18:12:26 +0000
+Subject: [PATCH] =?UTF-8?q?Article:=20Bi=C3=A8re=20sans=20alcool=20vs=20bi?=
+ =?UTF-8?q?=C3=A8re=20classique=20:=20le=20match=20nutritionnel?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ ...iere-sans-alcool-vs-classique-nutrition.md | 148 ++++++++++++++++++
+ 1 file changed, 148 insertions(+)
+ create mode 100755 src/content/articles/biere-sans-alcool-vs-classique-nutrition.md
+
+diff --git a/src/content/articles/biere-sans-alcool-vs-classique-nutrition.md b/src/content/articles/biere-sans-alcool-vs-classique-nutrition.md
+new file mode 100755
+index 0000000..f4ebf35
+--- /dev/null
++++ b/src/content/articles/biere-sans-alcool-vs-classique-nutrition.md
+@@ -0,0 +1,148 @@
++---
++slug: biere-sans-alcool-vs-classique-nutrition
++titre: "Bière sans alcool vs bière classique : le match nutritionnel"
++title: "Bière sans alcool vs classique : le match nutrition"
++description: "Calories, sucre, protéines, polyphénols : on compare en chiffres la bière sans alcool et la bière classique. Notre verdict honnête, à lire avant d'acheter."
++excerpt: "Calories, glucides, sucre résiduel, protéines, polyphénols : on met sur la table les étiquettes nutritionnelles d'une bière sans alcool et d'une bière classique pour voir, chiffres à l'appui, où se situent les vrais écarts."
++date: 2026-05-20
++tags: ["sans-alcool", "nutrition", "guide"]
++auteur: "Dago"
++sponsorise: false
++motCleSEO: "bière sans alcool vs bière classique"
++---
++
++# Bière sans alcool vs bière classique : le match nutritionnel
++
++**Bière sans alcool vs bière classique** : sur le papier, la réponse paraît évidente — moins d'alcool, donc moins de calories, donc « plus saine ». La réalité est plus nuancée, et c'est ce que les étiquettes nutritionnelles racontent quand on prend le temps de les lire vraiment. Oui, une 0,0 % contient en moyenne deux fois moins de calories qu'une blonde à 5 %. Mais dans la même bouteille, vous trouverez souvent **plus de sucre résiduel**, parfois jusqu'à trois fois plus si on parle des versions aromatisées. Dans ce comparatif chiffré, on met côte à côte les étiquettes d'une dizaine de références — Heineken 0.0, Tourtel Twist, Erdinger Alkoholfrei, BrewDog Punk AF, et leurs équivalents alcoolisés — pour voir round par round (calories, glucides, sucre, protéines, polyphénols) où se situent les vrais écarts. Pas de plaidoirie pro-sans-alcool : on dit honnêtement où la classique reste meilleure et où la 0,0 % gagne.
++
++## Sommaire
++
++- [La méthode du comparatif](#methode)
++- [Round 1 — Les calories](#round-calories)
++- [Round 2 — Les glucides et le sucre résiduel](#round-glucides)
++- [Round 3 — Protéines, lipides, minéraux](#round-proteines)
++- [Round 4 — Vitamines et polyphénols](#round-polyphenols)
++- [Le verdict — Quelle est la « moins pire » pour qui ?](#verdict)
++- [FAQ — Bière sans alcool vs classique](#faq)
++
++<h2 id="methode">La méthode du comparatif</h2>
++
++Pour rester honnête et factuel, on compare des choses comparables. Toutes les valeurs ci-dessous sont **pour 100 ml de produit fini**, soit le standard international des étiquettes nutritionnelles européennes. Trois sources nourrissent ce travail :
++
++- **La table Ciqual de l'ANSES** ([ciqual.anses.fr](https://ciqual.anses.fr)) pour les valeurs de référence d'une bière blonde et d'une bière brune « moyennes » du marché français.
++- **Les étiquettes nutritionnelles officielles** déclarées par les fabricants sur Open Food Facts et leurs sites respectifs, pour les références sans alcool.
++- **L'étude clinique de l'université de Munich (2011/2012)** sur 277 marathoniens, qui a établi le profil polyphénolique de la bière sans alcool de blé.
++
++On compare une bière classique à 5 % vol. — référence Ciqual « bière blonde, 5 % vol » — à plusieurs sans alcool représentatives : une 0,0 % industrielle (Heineken 0.0), une 0,5 % craft (BrewDog Punk AF), une bière de blé sans alcool (Erdinger Alkoholfrei) et une aromatisée (Tourtel Twist citron). Pour comprendre pourquoi ces profils diffèrent autant, voir notre article sur [comment est fabriquée une bière sans alcool](/articles/comment-est-fabriquee-biere-sans-alcool/).
++
++<h2 id="round-calories">Round 1 — Les calories</h2>
++
++C'est le point où la bière sans alcool gagne sans débat, et pour une raison simple : l'éthanol fournit **7 kcal par gramme**, soit presque autant que le gras (9 kcal/g) et plus que les glucides ou les protéines (4 kcal/g chacun). Retirer l'alcool d'une bière, c'est mécaniquement retirer la principale source calorique.
++
++| Référence | Calories (kcal / 100 ml) |
++|---|---|
++| Bière blonde 5 % (Ciqual ANSES) | **42-45** |
++| Bière brune classique 5-6 % | 45-50 |
++| Heineken 0.0 | **21** |
++| BrewDog Punk AF (0,5 %) | 24 |
++| Erdinger Alkoholfrei | 25 |
++| Tourtel Twist citron | 28-30 |
++| Bière sans alcool moyenne marché | 18-30 |
++
++**Verdict :** une bière sans alcool contient en moyenne **deux fois moins de calories** que sa cousine alcoolisée. Une canette 33 cl de Heineken 0.0 [AFFILIE:UPM:heineken-00] représente environ **69 kcal**, contre 140-150 kcal pour la même canette en version classique. À l'échelle d'une soirée de 3 bières, l'écart fait 240 kcal — soit l'équivalent d'un croissant.
++
++À nuancer toutefois : les bières sans alcool **aromatisées** (citron, agrumes, fruits rouges) sont nettement plus caloriques que les versions « nature » à cause des sucres ajoutés. Une [Tourtel Twist citron](https://informationsnutritionnelles.fr/tourtel-twist-tourtel-twist) tape les 28-30 kcal/100 ml, parfois davantage selon la déclinaison, parce qu'on a remis du sucre pour donner du corps. Si l'objectif est calorique, restez sur les versions nature 0,0 %.
++
++<h2 id="round-glucides">Round 2 — Les glucides et le sucre résiduel</h2>
++
++C'est ici que le match se complique, et c'est sans doute la partie la plus mal connue du grand public. La bière sans alcool a souvent **plus de glucides** — et surtout plus de **sucres simples** — que la bière classique. Pourquoi ? Parce que dans une fermentation normale, les sucres du moût sont convertis en éthanol. Si on interrompt la fermentation pour bloquer la formation d'alcool (méthode 1 de fabrication), tous les sucres non consommés restent dans le verre.
++
++| Référence | Glucides totaux (g / 100 ml) | dont sucres (g / 100 ml) |
++|---|---|---|
++| Bière blonde 5 % (Ciqual) | 3,5 | 0,3 |
++| Bière brune classique | 4,5 | 0,5 |
++| Heineken 0.0 | **4,8** | 1,3 |
++| BrewDog Punk AF | 3,5 | 1,2 |
++| Erdinger Alkoholfrei | 5,2 | 2,8 |
++| Tourtel Twist citron | **7,5-8** | **6,5-7** |
++| Sans alcool moyenne marché | 4-8 | 1,5-3,5 |
++
++**Verdict :** sur la quantité de glucides totaux, le match est serré — une Heineken 0.0 (4,8 g/100 ml) en a un peu plus qu'une blonde à 5 % (3,5 g/100 ml), mais une BrewDog Punk AF reste très propre. **Sur le sucre simple en revanche, l'écart est net** : la moyenne des bières sans alcool nature contient 1-3 g de sucre / 100 ml, contre **0,3 g** pour une blonde classique — soit jusqu'à dix fois plus.
++
++Et c'est avant de parler des aromatisées. La Tourtel Twist citron grimpe à **6,5-7 g de sucre / 100 ml**, soit le niveau d'un Schweppes. C'est un point régulièrement [épinglé par la presse santé](https://www.rts.ch/info/sante/2025/article/bieres-sans-alcool-moins-de-calories-plus-de-sucre-que-les-classiques-28942377.html) et c'est pour ça que l'argument « sans alcool = healthy » mérite d'être pris avec des pincettes, surtout pour les profils diabétiques ou en restriction glucidique.
++
++> **À retenir :** moins de calories ne veut pas dire moins de sucre. Une 0,0 % aromatisée peut contenir plus de glucides simples qu'un Coca-Cola Zero. Lisez l'étiquette.
++
++Cette différence vient directement du mode de fabrication. Pour comprendre pourquoi une bière issue de fermentation arrêtée laisse plus de sucre qu'une bière issue de distillation sous vide, voir notre [guide sur les 3 méthodes de fabrication](/articles/comment-est-fabriquee-biere-sans-alcool/).
++
++<h2 id="round-proteines">Round 3 — Protéines, lipides, minéraux</h2>
++
++Sur les autres macros, le match est très serré et plutôt anecdotique — la bière n'est de toute façon pas une source nutritionnelle significative de protéines ou de lipides. Mais il y a quelques surprises côté minéraux.
++
++| Nutriment | Bière classique 5 % | Bière sans alcool |
++|---|---|---|
++| Protéines (g / 100 ml) | 0,4-0,5 | 0,3-0,5 |
++| Lipides (g / 100 ml) | < 0,05 | < 0,05 |
++| Sodium (mg / 100 ml) | 3-7 | 2-8 |
++| Potassium (mg / 100 ml) | 30-45 | 30-50 |
++| Magnésium (mg / 100 ml) | 7-10 | 6-9 |
++
++**Verdict :** match nul. Les **protéines** sont identiques à la marge près (0,3-0,5 g/100 ml), et c'est de toute façon des quantités dérisoires dans le cadre des besoins quotidiens. Les **lipides** sont quasi nuls dans les deux cas. Le **sodium** varie surtout selon les eaux de brassage utilisées par chaque brasserie, pas selon la présence ou non d'alcool. Le **magnésium** et le **potassium** sont assez proches.
++
++Petit point pour les sportifs : certaines bières sans alcool comme l'Erdinger Alkoholfrei sont **proches d'un profil isotonique** (ratio glucides/électrolytes adapté à la récupération), parce que les sucres résiduels et la légère minéralisation du blé créent un mélange qui ressemble par hasard à une boisson de l'effort. C'est la base scientifique [reprise par les centres de médecine du sport allemands](https://www.sciencedaily.com/releases/2011/06/110609112901.htm) — on en parlera plus en détail dans notre futur article sur bière sans alcool et sport.
++
++<h2 id="round-polyphenols">Round 4 — Vitamines et polyphénols</h2>
++
++C'est le round où la bière, classique comme sans alcool, gagne contre les sodas et les jus de fruits — parce que les deux contiennent des polyphénols et des vitamines du groupe B issus du malt et du houblon.
++
++**Les polyphénols du houblon** (notamment le **xanthohumol**, exclusif au houblon) sont des composés antioxydants étudiés pour leur effet anti-inflammatoire. La bière sans alcool en contient **autant que la classique** pour une raison simple : ces molécules viennent du malt et du houblon, pas de la fermentation. Que vous fermentiez ou non l'éthanol n'affecte pas leur concentration finale.
++
++L'**étude la plus citée** sur le sujet est celle conduite à l'université technique de Munich en 2009-2011 sur 277 marathoniens du marathon de Munich. Les participants ont bu jusqu'à 1,5 litre par jour de bière de blé sans alcool (Erdinger Alkoholfrei) pendant trois semaines avant et deux semaines après la course. Résultats : **inflammation systémique réduite de 20 %** (mesurée via les marqueurs leucocytaires) et **taux d'infections respiratoires inférieur** de moitié versus le groupe placebo (boisson identique mais débarrassée des polyphénols).
++
++**Côté vitamines B**, les bières non filtrées (versions « hefe » trouble, type Erdinger) gardent des traces de **B6, B9 (folates) et B12** issues des levures résiduelles. Une bière classique filtrée à froid perd ces apports. Sur ce point précis, **une sans alcool de blé non filtrée est mieux dotée qu'une lager classique filtrée**.
++
++**Verdict :** sur les micronutriments et antioxydants, **match nul à léger avantage sans alcool de blé** non filtrée. Ce qui est intéressant, c'est qu'on peut bénéficier des polyphénols du houblon sans la charge calorique ou éthanolique de la bière classique. Une [Erdinger Alkoholfrei](https://www.erdinger-alkoholfrei.de/) ou une [Brasserie du Mont Blanc Naturally Low](/biere-sans-alcool/brasserie-du-mont-blanc-naturally-low/) [AFFILIE:UPM:mont-blanc-naturally-low] cochent ces cases.
++
++<h2 id="verdict">Le verdict — Quelle est la « moins pire » pour qui ?</h2>
++
++Maintenant que les chiffres sont posés, le vrai verdict dépend de **votre objectif** :
++
++**Si vous voulez réduire vos calories**, la bière sans alcool gagne sans débat, à condition de prendre une **version nature, pas aromatisée**. Heineken 0.0 [AFFILIE:UPM:heineken-00], BrewDog Punk AF [AFFILIE:SaveurBiere:brewdog-punk-af] et Erdinger Alkoholfrei sont les meilleures candidates avec 21-25 kcal/100 ml. Économie d'environ **70 kcal par bouteille 33 cl** versus une blonde classique.
++
++**Si vous surveillez votre glycémie ou vous êtes en restriction glucidique**, la situation se renverse : **la bière classique est souvent plus propre** que la sans alcool sur le sucre simple. Une blonde à 5 % titre 0,3 g de sucre / 100 ml, contre 1-3 g pour la moyenne des sans alcool nature et jusqu'à 7 g pour les aromatisées. Choisissez impérativement les versions « 0,0 % » brassées par distillation sous vide ou osmose inverse (Heineken 0.0, gamme Athletic Brewing), pas les fermentations arrêtées.
++
++**Si vous cherchez les polyphénols** (sportifs en récupération, profils inflammatoires), **les bières de blé non filtrées sans alcool** sont les championnes : autant de xanthohumol et de polyphénols que la classique, zéro éthanol, et un profil quasi isotonique. Erdinger Alkoholfrei est la référence historique, mais [la Brasserie du Mont Blanc Naturally Low](/biere-sans-alcool/brasserie-du-mont-blanc-naturally-low/) est une excellente alternative française.
++
++**Si vous êtes simplement en démarche de réduction** (Dry January, soirée alternée, conduite, grossesse), **n'importe quelle 0,0 % nature** est meilleure que n'importe quelle bière à 5 % sur tous les axes pertinents — calories, alcool évidemment, rappel de la convivialité sans la gueule de bois. Reste à choisir celle qui vous plaît au palais, ce qui est une autre histoire — on en parle dans nos comparatifs par style : [IPA sans alcool](/articles/les-5-meilleures-bieres-ipa-sans-alcool-2024/) et [brunes sans alcool](/articles/les-3-meilleures-bieres-brunes-sans-alcool/).
++
++Rappel réglementaire qu'on répète à chaque article : en France, la mention « sans alcool » est légale jusqu'à **1,2 % vol.** La plupart des bières craft « sans alcool » titrent en réalité 0,3-0,5 %. Pour un vrai 0 %, cherchez la mention « 0,0 % » sur l'étiquette.
++
++<h2 id="faq">FAQ — Bière sans alcool vs classique</h2>
++
++### Quelle bière a le moins de calories ?
++
++Les bières sans alcool nature 0,0 % type Heineken 0.0 sont les championnes avec environ 21 kcal/100 ml, soit deux fois moins qu'une blonde classique à 5 % (42-45 kcal). Attention aux sans alcool aromatisées (citron, agrumes) qui remontent à 28-30 kcal/100 ml à cause des sucres ajoutés.
++
++### La bière sans alcool fait-elle grossir ?
++
++Beaucoup moins qu'une bière classique, mais ce n'est pas un produit « zéro » non plus. Trois canettes 33 cl d'une 0,0 % apportent environ 210 kcal — c'est moins qu'une bière classique (450 kcal) mais comparable à un soda sucré. Les versions aromatisées sont plus caloriques que les versions nature à cause du sucre.
++
++### Pourquoi y a-t-il du sucre dans une bière sans alcool ?
++
++Dans une fermentation normale, les sucres du moût sont transformés en alcool. Si on interrompt la fermentation pour bloquer la formation d'éthanol (méthode dite de fermentation arrêtée), les sucres non consommés restent dans la bière. Les méthodes de désalcoolisation par distillation ou osmose inverse, qui retirent l'alcool après une fermentation complète, laissent en théorie moins de sucre — c'est pour ça qu'une Heineken 0.0 est mieux dotée sur ce critère qu'une BrewDog Punk AF.
++
++### Une bière sans alcool peut-elle remplacer une boisson de l'effort ?
++
++Pour la récupération post-effort modéré, oui — particulièrement les bières de blé sans alcool non filtrées comme l'Erdinger Alkoholfrei, dont le profil glucides/électrolytes/polyphénols se rapproche d'une boisson isotonique. C'est la base scientifique de l'étude marathon de Munich sur 277 sujets. Pour un effort intense ou de longue durée, ça reste insuffisant en sodium — une vraie boisson de l'effort fait mieux le job.
++
++### Une bière sans alcool est-elle plus saine qu'un soda ?
++
++Sur les critères nutritionnels classiques, **oui** : moins de sucre que la plupart des sodas (1-3 g/100 ml pour une 0,0 % nature contre 10 g/100 ml pour un Coca classique), apport en polyphénols antioxydants absent des sodas, traces de vitamines B sur les non filtrées. Mais une 0,0 % aromatisée comme la Tourtel Twist (7 g de sucre/100 ml) se rapproche d'un soda — choisissez les versions nature pour bénéficier du meilleur profil.
++
++## En conclusion
++
++Le verdict « sans alcool vs classique » n'est pas binaire : la sans alcool écrase la classique sur les calories (-50 %) et sur l'absence d'éthanol, mais se fait régulièrement battre sur le **sucre résiduel**, surtout dans les versions aromatisées. Le bon réflexe : choisir les **0,0 % nature** issues de distillation sous vide ou d'osmose inverse, qui offrent le meilleur des deux mondes. Et toujours lire l'étiquette, parce que les écarts entre marques sont énormes — bien plus que l'écart « sans alcool / classique » lui-même.
++
++Pour aller plus loin : nos [comparatifs honnêtes par style](/biere-sans-alcool/), notre [guide sur la fabrication](/articles/comment-est-fabriquee-biere-sans-alcool/), et la fiche [Heineken 0.0](/biere-sans-alcool/heineken-00/) qui sert de référence dans cet article.
++
++**👉 Pour recevoir nos prochains comparatifs nutritionnels testés en aveugle, [inscrivez-vous à la newsletter Dago](/liste-d-attente/).** Une sélection toutes les deux semaines, zéro blabla marketing.
+-- 
+2.34.1
+
