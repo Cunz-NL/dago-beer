@@ -18,7 +18,11 @@ const {
 } = Astro.props;
 
 const siteUrl = 'https://www.dago.beer';
-const canonicalUrl = canonical ? canonical : new URL(Astro.url.pathname, siteUrl).href;
+const rawCanonical = canonical ?? new URL(Astro.url.pathname, siteUrl).href;
+// Toujours terminer par / sauf pour les fichiers (ex: sitemap.xml)
+const canonicalUrl = rawCanonical.match(/\.[a-z]{2,4}$/)
+  ? rawCanonical
+  : rawCanonical.endsWith('/') ? rawCanonical : rawCanonical + '/';
 const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
 ---
 
